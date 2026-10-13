@@ -1,0 +1,5512 @@
+﻿
+================================================================================
+ SESSION START  2026/10/13 10:38:45
+================================================================================
+
+
+--- WINDOW  2026/10/13 10:38:45  [powershell.exe] C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 10:41:33  [brave.exe] YouTube - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  dex[ENTER]
+
+--- WINDOW  2026/10/13 10:41:36  [brave.exe] DEX - YouTube - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [Ctrl]
+  [Clipboard]
+  DEX
+  c
+  [LMB]
+
+--- WINDOW  2026/10/13 10:41:41  [brave.exe] PROPFIRM - Google 搜尋 - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 10:41:44  [brave.exe] Google 翻譯 - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  ai[ENTER]
+  [ENTER]
+
+--- WINDOW  2026/10/13 10:41:48  [brave.exe] google.com/search?q=AI&oq=AI&sourceid=chrome&ie=UTF-8 - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 10:41:49  [brave.exe] AI - Google 搜尋 - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 10:41:51  [brave.exe] gemini.google.com/?hl=zh-TW - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 10:41:52  [brave.exe] ‎Google Gemini - Brave
+----------------------------------------------------------------------------
+  [Ctrl]v[ENTER]
+
+--- WINDOW  2026/10/13 10:42:02  [brave.exe] DEX 的多重含義與解釋 - Google Gemini - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 10:43:02  [brave.exe] 【問題】LOL沒有回應 @英雄聯盟 League of Legends 哈啦板 - 巴哈姆特 - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 10:43:03  [brave.exe] YouTube - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/13 10:45:16  [brave.exe] THE WEEKND ~ Greatest Hits 2026 Collection ~ Top 15 Hits Playlist Of All Time - YouTube - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 10:45:19  [brave.exe] YouTube - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 10:45:24  [brave.exe] OKX官網登錄 | OKX - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/13 10:45:25  [brave.exe] PROPFIRM - Google 搜尋 - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 10:45:26  [brave.exe] Facebook - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/13 10:45:32  [brave.exe] 朋友 | Facebook - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 10:45:34  [brave.exe] Facebook - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/13 10:45:43  [brave.exe] Messenger | Facebook - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 10:45:45  [brave.exe] Facebook - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 10:45:54  [explorer.exe] (untitled)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 10:45:55  [SearchApp.exe] 搜尋
+----------------------------------------------------------------------------
+  line
+
+--- WINDOW  2026/10/13 10:45:59  [explorer.exe] (untitled)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 10:45:59  [LineLauncher.exe] Banner
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 10:46:05  [dwm.exe] Banner (沒有回應)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 10:46:05  [brave.exe] Facebook - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 10:46:06  [LINE.exe] LINE
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 10:46:17  [brave.exe] Facebook - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 10:46:18  [LINE.exe] LINE
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  vu;4y94y94[<-][<-][v][v][ENTER]
+  [<-][Bk][Bk][Bk][->][Bk][Bk]vu04y94u06ru.45j j;3hk4xm,45j/ [ENTER]
+  [ENTER]
+
+--- WINDOW  2026/10/13 10:46:51  [brave.exe] Facebook - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 10:46:54  [brave.exe] 未命名 - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 10:46:54  [brave.exe] l.facebook.com/l.php?u=http%3A%2F%2Faxhuang.com%2F%3Ffbclid%3DIwZXh0bgNhZW0CMTAAcGRvZgVicmlkETFkN3lDUXhoaG04SGFTVXBMc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHtD5wlRizSHpqUa47qM9HPcK7RTL0q_hnZvOHQ5rB-eoh4MDnjWStfoWOqJv_aem_NK0c8OONzCunoeYxcuC0Dw&h=AUCAIv5VL5pDDEXIkdBNTHIaTrgckbe_s_U9sjP_zjsOT5NveT_AK0Wacy5MOFjfv2NqbrIBeYD_y_l5vx0VRTcCS21JJJX9EH6O30S9H_dPUS2N0PrCIH3gpMp1l9SBH4Up - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 10:46:57  [brave.exe] axhuang.com - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 10:46:58  [brave.exe] 程式交易Alex Huang - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 10:47:01  [brave.exe] axhuang.com/coins/user.html - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 10:47:02  [brave.exe] 新OKX無敵蛛網 - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [Ctrl]
+  [Clipboard]
+  https://axhuang.com/coins/user.html
+  c
+
+--- WINDOW  2026/10/13 10:47:06  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 10:47:06  [LINE.exe] LINE
+----------------------------------------------------------------------------
+  [LMB]
+  [Ctrl]v[ENTER]
+  s
+
+--- WINDOW  2026/10/13 10:47:22  [ScreenClippingHost.exe] 螢幕剪取
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 10:47:24  [LINE.exe] LINE
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 10:47:25  [ShellExperienceHost.exe] 新通知
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 10:47:26  [ApplicationFrameHost.exe] 剪取與繪圖
+----------------------------------------------------------------------------
+  [Ctrl]c
+  [LMB]
+
+--- WINDOW  2026/10/13 10:47:28  [LINE.exe] LINE
+----------------------------------------------------------------------------
+  [LMB]
+  [Ctrl]v[ENTER]
+  y94a86z06d04u vu84[ENTER]
+  [ENTER]
+  1j6w94bj/6u4[ENTER]
+  [ENTER]
+  [LMB]
+
+--- WINDOW  2026/10/13 10:48:14  [LINE.exe] 笨錢社群—課程總社群
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/13 10:48:19  [LINE.exe] LINE
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 10:48:20  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 10:48:20  [brave.exe] 新OKX無敵蛛網 - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 10:48:21  [brave.exe] 收件匣 (24,835) - south830325@gmail.com - Gmail - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 10:48:22  [brave.exe] DEX - YouTube - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 10:48:24  [brave.exe] OKX官網登錄 | OKX - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 10:48:26  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 10:48:26  [chrome.exe] NATGASUSD 3.087 ▼ −0.58% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/13 10:48:36  [chrome.exe] BTCUSDT.P - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 10:48:36  [chrome.exe] BTCUSDT.P 82,807.7 ▲ +1.22% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 10:48:37  [chrome.exe] BTCUSDT.P 82,804.5 ▲ +1.22% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 10:48:38  [chrome.exe] BTCUSDT.P 82,804.4 ▲ +1.22% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 10:48:39  [chrome.exe] BTCUSDT.P 82,801.5 ▲ +1.21% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 10:48:40  [chrome.exe] BTCUSDT.P 82,800.0 ▲ +1.21% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 10:48:43  [chrome.exe] BTCUSDT.P 82,799.9 ▲ +1.21% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 10:48:45  [chrome.exe] BTCUSDT.P 82,794.4 ▲ +1.21% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 10:48:46  [chrome.exe] BTCUSDT.P 82,794.3 ▲ +1.21% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 10:48:49  [chrome.exe] BTCUSDT.P 82,801.5 ▲ +1.21% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 10:48:50  [chrome.exe] BTCUSDT.P 82,804.5 ▲ +1.22% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 10:48:50  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 10:48:50  [LeagueClientUx.exe] League of Legends
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 10:48:53  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 10:48:53  [LINE.exe] LINE
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 10:49:56  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 10:49:56  [brave.exe] OKX官網登錄 | OKX - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 10:49:57  [brave.exe] YouTube - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 10:49:58  [brave.exe] VEST资本 | Vest Markets - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 10:49:59  [brave.exe] DEX - YouTube - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 10:49:59  [brave.exe] 收件匣 (24,835) - south830325@gmail.com - Gmail - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/13 10:50:01  [brave.exe] 新OKX無敵蛛網 - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/13 10:50:04  [brave.exe] 收件匣 (24,835) - south830325@gmail.com - Gmail - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 10:50:04  [brave.exe] Facebook - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/13 10:51:02  [brave.exe] 收件匣 (24,835) - south830325@gmail.com - Gmail - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/13 10:51:05  [brave.exe] DEX - YouTube - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 10:51:15  [brave.exe] VEST资本 | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 10:51:17  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 10:51:17  [chrome.exe] BTCUSDT.P 82,786.7 ▲ +1.2% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 10:51:17  [chrome.exe] BTCUSDT.P 82,786.8 ▲ +1.2% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 10:51:19  [chrome.exe] BTCUSDT.P 82,786.7 ▲ +1.2% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 10:51:20  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 10:51:20  [Telegram.exe] Telegram (33043)
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 10:51:23  [Telegram.exe] ‎Сергей Тангян – (33043)
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 10:51:27  [chrome.exe] BTCUSDT.P 82,791.2 ▲ +1.2% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 10:51:28  [chrome.exe] BTCUSDT.P 82,791.3 ▲ +1.2% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 10:51:29  (no active window)
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 10:51:29  [LeagueClientUx.exe] League of Legends
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/13 10:51:35  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 10:51:35  [Mobalytics.exe] 時不我與#tw2 [TW] - Champion Stats - League of Legends [S26]
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 10:51:36  [LeagueClientUx.exe] League of Legends
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 10:51:38  [chrome.exe] BTCUSDT.P 82,799.7 ▲ +1.21% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 10:51:38  [LeagueClientUx.exe] League of Legends
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 10:51:49  [Mobalytics.exe] 時不我與#tw2 [TW] - Champion Stats - League of Legends [S26]
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 10:51:49  [LeagueClientUx.exe] League of Legends
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 10:51:50  [brave.exe] YouTube - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  j6vu04ai6ej [ENTER]
+  [<-][<-][<-][<-] [ENTER]
+
+--- WINDOW  2026/10/13 10:51:58  [brave.exe] 無限蘑菇 - YouTube - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 10:52:04  [brave.exe] THE WEEKND ~ Greatest Hits 2026 Collection ~ Top 15 Hits Playlist Of All Time - YouTube - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 10:52:06  [brave.exe] 【海克斯大乱斗3.0】无限蘑菇 偷钱提莫 - YouTube - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 10:52:09  [brave.exe] Facebook - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/13 10:52:13  [brave.exe] 【海克斯大乱斗3.0】无限蘑菇 偷钱提莫 - YouTube - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 10:52:18  [LeagueClientUx.exe] League of Legends
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 10:52:20  [brave.exe] 【海克斯大乱斗3.0】无限蘑菇 偷钱提莫 - YouTube - Brave
+----------------------------------------------------------------------------
+  [->][->][->][->][->]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/13 10:52:33  [Mobalytics.exe] 時不我與#tw2 [TW] - Champion Stats - League of Legends [S26]
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 10:52:36  [brave.exe] 【海克斯大乱斗3.0】无限蘑菇 偷钱提莫 - YouTube - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/13 10:52:39  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 10:52:39  [League of Legends.exe] League of Legends (TM) Client
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 10:52:40  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 10:52:40  [brave.exe] 【海克斯大乱斗3.0】无限蘑菇 偷钱提莫 - YouTube - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 10:52:42  [brave.exe] DEX - YouTube - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 10:52:43  [brave.exe] YouTube - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 10:52:46  [brave.exe] 【Asmongold翻譯】打破白人虧欠黑人的迷思，但其實是完全相反過來耶!亞洲人才是頂梁柱耶!!! - YouTube - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 10:52:46  [Mobalytics.exe] 時不我與#tw2 [TW] - Champion Stats - League of Legends [S26]
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 10:52:47  [brave.exe] 【海克斯大乱斗3.0】无限蘑菇 偷钱提莫 - YouTube - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/13 10:52:59  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 10:52:59  [League of Legends.exe] League of Legends (TM) Client
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 10:53:03  [brave.exe] 【海克斯大乱斗3.0】无限蘑菇 偷钱提莫 - YouTube - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/13 10:53:25  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 10:53:25  [League of Legends.exe] League of Legends (TM) Client
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  q
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  q
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  q
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  q
+  [LMB]
+  qq
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  q
+  [LMB]
+  [RMB]
+  q
+  [RMB]
+  q
+  [LMB]
+  q
+  [RMB]
+  [RMB]
+  q
+  [RMB]
+  q
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  q
+  [LMB]
+  q
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  q
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  q
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  q
+  [LMB]
+  q
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  q
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [Tab]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  q
+  [RMB]
+  q
+  [RMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  qq
+  [LMB]
+  q
+  [RMB]
+  [RMB]
+  [LMB]
+  q
+  [RMB]
+  [RMB]
+  q
+  [RMB]
+  f
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  q
+  [LMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  q
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  r
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc]
+  [LMB]
+  [LMB]
+  [Esc]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  w
+  [RMB]
+  [RMB]
+  w
+  [RMB]
+  w
+  [RMB]
+  w
+  [RMB]
+  w
+  [LMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  q
+  [RMB]
+  [RMB]
+  w
+  [RMB]
+  [RMB]
+  w
+  [RMB]
+  w
+  [RMB]
+  [RMB]
+  [LMB]
+  r
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  rr
+  [LMB]
+  rrrrr
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  q
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  q
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  q
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  q
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  r
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  w
+  [RMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  wq
+  [RMB]
+  q
+  [RMB]
+  [RMB]
+  w
+  [RMB]
+  q
+  [RMB]
+  w
+  [RMB]
+  q
+  [RMB]
+  [RMB]
+  qq
+  [RMB]
+  qq
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  q
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  q
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  q
+  [LMB]
+  w
+  [RMB]
+  [LMB]
+  [RMB]
+  wwq
+  [RMB]
+  q
+  [RMB]
+  q
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  q
+  [RMB]
+  w
+  [LMB]
+  rq
+  [RMB]
+  [LMB]
+  qq
+  [RMB]
+  [RMB]
+  q
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  w
+  [LMB]
+  r
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  w
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  ww
+  [LMB]
+  [RMB]
+  q
+  [LMB]
+  [RMB]
+  [RMB]
+  wq
+  [RMB]
+  q
+  [RMB]
+  q
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc]
+  [LMB]
+  [Tab]
+  [RMB]
+  [RMB]
+  [Tab]
+  [RMB]
+  [Tab]
+  [RMB]
+  [RMB]
+  [Tab][Tab][Tab][Tab]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  r
+  [LMB]
+  [RMB]
+  [RMB]
+  q
+  [RMB]
+  [RMB]
+  q
+  [RMB]
+  [RMB]
+  qq
+  [RMB]
+  q
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  q
+  [RMB]
+  [RMB]
+  [RMB]
+  q
+  [LMB]
+  q
+  [LMB]
+  f
+  [RMB]
+  [RMB]
+  ww
+  [RMB]
+  e
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  w
+  [RMB]
+  q
+  [LMB]
+  qq
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  r
+  [LMB]
+  rr
+  [RMB]
+  www
+  [RMB]
+  wq
+  [RMB]
+  q
+  [RMB]
+  q
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc]
+  [RMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [Esc]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  w
+  [RMB]
+  w
+  [RMB]
+  [RMB]
+  wq
+  [LMB]
+  [RMB]
+  w
+  [LMB]
+  [RMB]
+  [RMB]
+  qq
+  [RMB]
+  [RMB]
+  [RMB]
+  r
+  [LMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  q
+  [LMB]
+  [RMB]
+  [RMB]
+  w
+  [RMB]
+  [RMB]
+  [RMB]
+  q
+  [LMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  ww
+  [RMB]
+  [RMB]
+  ww
+  [RMB]
+  [RMB]
+  q
+  [RMB]
+  ww
+  [RMB]
+  q
+  [RMB]
+  [RMB]
+  w
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  w
+  [RMB]
+  w
+  [RMB]
+  [RMB]
+  w
+  [RMB]
+  w
+  [RMB]
+  w
+  [RMB]
+  [RMB]
+  q
+  [LMB]
+  q
+  [RMB]
+  [RMB]
+  w
+  [LMB]
+  q
+  [LMB]
+  q
+  [RMB]
+  q
+  [LMB]
+  [RMB]
+  w
+  [RMB]
+  q
+  [RMB]
+  wq
+  [RMB]
+  [RMB]
+  [RMB]
+  q
+  [RMB]
+  q
+  [RMB]
+  [RMB]
+  [RMB]
+  w
+  [RMB]
+  w
+  [RMB]
+  [RMB]
+  ww
+  [RMB]
+  w
+  [RMB]
+  w
+  [RMB]
+  [RMB]
+  [LMB]
+  q
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  wwww
+  [LMB]
+  r
+  [RMB]
+  [RMB]
+  [RMB]
+  q
+  [RMB]
+  q
+  [RMB]
+  [RMB]
+  q
+  [RMB]
+  [RMB]
+  w
+  [RMB]
+  w
+  [RMB]
+  w
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  w
+  [RMB]
+  [RMB]
+  w
+  [RMB]
+  [RMB]
+  w
+  [RMB]
+  q
+  [LMB]
+  q
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  w
+  [RMB]
+  [RMB]
+  [RMB]
+  w
+  [RMB]
+  [RMB]
+  www
+  [RMB]
+  w
+  [RMB]
+  [RMB]
+  wq
+  [LMB]
+  [RMB]
+  q
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc][Tab]
+
+--- WINDOW  2026/10/13 11:02:11  [brave.exe] 【海克斯大乱斗3.0】无限蘑菇 偷钱提莫 - YouTube - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:02:13  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:02:13  [LINE.exe] LINE
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:02:14  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:02:14  [brave.exe] 【海克斯大乱斗3.0】无限蘑菇 偷钱提莫 - YouTube - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:02:16  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:02:16  [League of Legends.exe] League of Legends (TM) Client
+----------------------------------------------------------------------------
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  r
+  [LMB]
+  rqr
+  [RMB]
+  [LMB]
+  w
+  [RMB]
+  r
+  [RMB]
+  [RMB]
+  [RMB]
+  ww
+  [RMB]
+  w
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  qw
+  [RMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  rr
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  w
+  [RMB]
+  w
+  [RMB]
+  w
+  [RMB]
+  [RMB]
+  w
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  w
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  q
+  [RMB]
+  ww
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  r
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  w
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  www
+  [RMB]
+  [RMB]
+  q
+  [LMB]
+  [RMB]
+  [RMB]
+  f
+  [RMB]
+  f
+  [LMB]
+  [RMB]
+  q
+  [RMB]
+  q
+  [RMB]
+  [RMB]
+  [RMB]
+  q
+  [RMB]
+  [RMB]
+  w
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  ww
+  [RMB]
+  w
+  [RMB]
+  ww
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  q
+  [LMB]
+  [RMB]
+  r
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  r
+  [LMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  q
+  [RMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  w
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  w
+  [RMB]
+  ww
+  [RMB]
+  [RMB]
+  ww
+  [LMB]
+  rw
+  [RMB]
+  w
+  [LMB]
+  rrrw
+  [LMB]
+  [RMB]
+  w
+  [RMB]
+  w
+  [LMB]
+  r
+  [LMB]
+  q
+  [RMB]
+  [RMB]
+  wq
+  [RMB]
+  [RMB]
+  w
+  [RMB]
+  [RMB]
+  [RMB]
+  w
+  [RMB]
+  q
+  [RMB]
+  qww
+  [RMB]
+  [LMB]
+  [RMB]
+  w
+  [RMB]
+  w
+  [LMB]
+  [RMB]
+  w
+  [RMB]
+  [RMB]
+  w
+  [RMB]
+  qq
+  [RMB]
+  qw
+  [LMB]
+  q
+  [RMB]
+  q
+  [RMB]
+  q
+  [LMB]
+  [RMB]
+  [RMB]
+  wq
+  [RMB]
+  q
+  [RMB]
+  [RMB]
+  [RMB]
+  w
+  [RMB]
+  w
+  [RMB]
+  w
+  [RMB]
+  [RMB]
+  w
+  [RMB]
+  w
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  w
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  r
+  [LMB]
+  wq
+  [LMB]
+  q
+  [RMB]
+  qw
+  [RMB]
+  q
+  [LMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  q
+  [RMB]
+  [RMB]
+  w
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  w
+  [RMB]
+  qq
+  [LMB]
+  q
+  [RMB]
+  qq
+  [RMB]
+  qq
+  [RMB]
+  q
+  [RMB]
+  w
+  [LMB]
+  q
+  [RMB]
+  [RMB]
+  w
+  [RMB]
+  [RMB]
+  [RMB]
+  wr
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  www
+  [RMB]
+  [RMB]
+  w
+  [RMB]
+  w
+  [RMB]
+  w
+  [RMB]
+  [RMB]
+  w
+  [RMB]
+  w
+  [RMB]
+  [RMB]
+  [RMB]
+  ww
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  ww
+  [RMB]
+  [RMB]
+  [RMB]
+  w
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  www
+  [RMB]
+  w
+  [LMB]
+  [LMB]
+  [RMB]
+  rr
+  [LMB]
+  rwrwr
+  [LMB]
+  rrr
+  [LMB]
+  rr
+  [RMB]
+  [RMB]
+  w
+  [RMB]
+  qq
+  [RMB]
+  q
+  [RMB]
+  q
+  [RMB]
+  w
+  [RMB]
+  [LMB]
+  qq
+  [RMB]
+  [LMB]
+  qw
+  [RMB]
+  q
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [Tab]
+  [RMB]
+  [RMB]
+  ww
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  r
+  [RMB]
+  w
+  [RMB]
+  [LMB]
+  q
+  [LMB]
+  q
+  [LMB]
+  [RMB]
+  qq
+  [RMB]
+  [RMB]
+  q
+  [RMB]
+  ww
+  [LMB]
+  r
+  [RMB]
+  [RMB]
+  q
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  qq
+  [RMB]
+  [RMB]
+  w
+  [RMB]
+  [RMB]
+  q
+  [RMB]
+  [RMB]
+  [RMB]
+  r
+  [LMB]
+  [RMB]
+  w
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  ww
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  w
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  w
+  [RMB]
+  [RMB]
+  [RMB]
+  r
+  [LMB]
+  [RMB]
+  w
+  [RMB]
+  [RMB]
+  w
+  [RMB]
+  wq
+  [LMB]
+  qq
+  [RMB]
+  ww
+  [LMB]
+  q
+  [LMB]
+  qq
+  [RMB]
+  w
+  [RMB]
+  ww
+  [RMB]
+  w
+  [RMB]
+  f
+  [RMB]
+  f
+  [RMB]
+  [LMB]
+  [LMB]
+  q
+  [RMB]
+  qwq
+  [RMB]
+  [RMB]
+  [RMB]
+  w
+  [RMB]
+  [RMB]
+  ww
+  [RMB]
+  w
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc][Tab][Tab]
+  [RMB]
+  w
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  w
+  [RMB]
+  w
+  [RMB]
+  [RMB]
+  w
+  [RMB]
+  [RMB]
+  [RMB]
+  w
+  [LMB]
+  q
+  [LMB]
+  [RMB]
+  w
+  [RMB]
+  w
+  [RMB]
+  w
+  [RMB]
+  [LMB]
+  r
+  [RMB]
+  [RMB]
+  w
+  [LMB]
+  r
+  [RMB]
+  [RMB]
+  r
+  [LMB]
+  w
+  [RMB]
+  w
+  [RMB]
+  [RMB]
+  [RMB]
+  r
+  [LMB]
+  w
+  [RMB]
+  [RMB]
+  [RMB]
+  w
+  [RMB]
+  w
+  [RMB]
+  [LMB]
+  [RMB]
+  w
+  [LMB]
+  [LMB]
+  qq
+  [RMB]
+  [RMB]
+  [RMB]
+  q
+  [RMB]
+  q
+  [RMB]
+  qq
+  [RMB]
+  ww
+  [RMB]
+  w
+  [RMB]
+  [RMB]
+  ww
+  [LMB]
+  q
+  [LMB]
+  q
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  wq
+  [RMB]
+  w
+  [RMB]
+  [LMB]
+  w
+  [LMB]
+  q
+  [RMB]
+  w
+  [RMB]
+  r
+  [LMB]
+  q
+  [LMB]
+  [RMB]
+  qq
+  [RMB]
+  ww
+  [RMB]
+  [LMB]
+  q
+  [RMB]
+  wwwq
+  [LMB]
+  qqqq
+  [RMB]
+  wwqq
+  [LMB]
+  [RMB]
+  q
+  [RMB]
+  [RMB]
+  [RMB]
+  q
+  [LMB]
+  q
+  [LMB]
+  qq
+  [RMB]
+  www
+  [RMB]
+  wq
+  [RMB]
+  q
+  [RMB]
+  q
+  [RMB]
+  [LMB]
+  qwq
+  [RMB]
+  wqw
+  [LMB]
+  q
+  [RMB]
+  q
+  [LMB]
+  [LMB]
+  q
+  [RMB]
+  wq
+  [RMB]
+  w
+  [RMB]
+  w
+  [RMB]
+  [RMB]
+  [RMB]
+  w
+  [RMB]
+  w
+  [LMB]
+  q
+  [LMB]
+  [RMB]
+  qw
+  [RMB]
+  [LMB]
+  w
+  [LMB]
+  [RMB]
+  r
+  [LMB]
+  rww
+  [LMB]
+  [RMB]
+  w
+  [LMB]
+  [RMB]
+  wq
+  [LMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  w
+  [RMB]
+  [RMB]
+  [RMB]
+  wq
+  [LMB]
+  [RMB]
+  [LMB]
+  ww
+  [RMB]
+  [RMB]
+  q
+  [RMB]
+  q
+  [RMB]
+  r
+  [LMB]
+  [RMB]
+  [RMB]
+  qq
+  [RMB]
+  [RMB]
+  [RMB]
+  w
+  [RMB]
+  q
+  [RMB]
+  w
+  [RMB]
+  q
+  [RMB]
+  q
+  [RMB]
+  q
+  [RMB]
+  w
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  w
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  q
+  [LMB]
+  [LMB]
+  rw
+  [LMB]
+  [RMB]
+  qq
+  [RMB]
+  www
+  [RMB]
+  qwqq
+  [RMB]
+  q
+  [RMB]
+  wq
+  [RMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc]
+  [LMB]
+  [Tab]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  w
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  rr
+  [LMB]
+  rrr
+  [LMB]
+  rrr
+  [LMB]
+  rrrr
+  [LMB]
+  rr
+  [LMB]
+  [RMB]
+  wrwq
+  [LMB]
+  [RMB]
+  [RMB]
+  wqq
+  [LMB]
+  q
+  [RMB]
+  wqq
+  [RMB]
+  qq
+  [RMB]
+  [LMB]
+  ww
+  [RMB]
+  [LMB]
+  qw
+  [RMB]
+  [LMB]
+  qq
+  [LMB]
+  w
+  [RMB]
+  [RMB]
+  w
+  [RMB]
+  w
+  [LMB]
+  r
+  [RMB]
+  [RMB]
+  [RMB]
+  w
+  [RMB]
+  [RMB]
+  w
+  [LMB]
+  [Esc]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  ww
+  [RMB]
+  [RMB]
+  [RMB]
+  w
+  [RMB]
+  [RMB]
+  w
+  [RMB]
+  r
+  [LMB]
+  [RMB]
+  wr
+  [LMB]
+  w
+  [RMB]
+  r
+  [LMB]
+  [LMB]
+  rr
+  [LMB]
+  r
+  [RMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  q
+  [RMB]
+  q
+  [RMB]
+  fd
+  [RMB]
+  qw
+  [RMB]
+  [LMB]
+  qq
+  [LMB]
+  [RMB]
+  [RMB]
+  w
+  [RMB]
+  w
+  [RMB]
+  r
+  [LMB]
+  [RMB]
+  [RMB]
+  w
+  [LMB]
+  [LMB]
+  wqw
+  [LMB]
+  q
+  [LMB]
+  q
+  [RMB]
+  w
+  [RMB]
+  w
+  [RMB]
+  [RMB]
+  q
+  [RMB]
+  q
+  [LMB]
+  [LMB]
+  [RMB]
+  q
+  [RMB]
+  w
+  [RMB]
+  q
+  [RMB]
+  r
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  w
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  r
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  w
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  r
+  [LMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  q
+  [LMB]
+  qq
+  [RMB]
+  [RMB]
+  w
+  [RMB]
+  qw
+  [RMB]
+  wwqq
+  [LMB]
+  q
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  w
+  [RMB]
+  wwrr
+  [LMB]
+  rrr
+  [LMB]
+  rrrr
+  [LMB]
+  rrqrw
+  [LMB]
+  rrr
+  [LMB]
+  rrrr
+  [LMB]
+  qrr
+  [LMB]
+  rrrrw
+  [LMB]
+  rrwq
+  [LMB]
+  ww
+  [RMB]
+  wwq
+  [LMB]
+  w
+  [RMB]
+  w
+  [RMB]
+  qw
+  [RMB]
+  [RMB]
+  q
+  [LMB]
+  q
+  [RMB]
+  [LMB]
+  q
+  [RMB]
+  [LMB]
+  [RMB]
+  q
+  [RMB]
+  w
+  [RMB]
+  [RMB]
+  w
+  [RMB]
+  [LMB]
+  r
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  w
+  [RMB]
+  w
+  [RMB]
+  w
+  [LMB]
+  rr
+  [LMB]
+  qq
+  [LMB]
+  qqw
+  [RMB]
+  w
+  [RMB]
+  w
+  [RMB]
+  [RMB]
+  q
+  [RMB]
+  q
+  [LMB]
+  qw
+  [LMB]
+  q
+  [LMB]
+  [RMB]
+  [RMB]
+  qwww
+  [LMB]
+  qqq
+  [RMB]
+  [LMB]
+  [Esc]
+  [LMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  rrr
+  [LMB]
+  rrr
+  [LMB]
+  rrr
+  [LMB]
+  rrrr
+  [LMB]
+  rr
+  [RMB]
+  rw
+  [LMB]
+  rrrr
+  [LMB]
+  rrrqr
+  [LMB]
+  qrr
+  [LMB]
+  r
+  [RMB]
+  rrr
+  [LMB]
+  r
+  [RMB]
+  rw
+  [LMB]
+  [RMB]
+  [LMB]
+  r
+  [RMB]
+  rr
+  [LMB]
+  qr
+  [RMB]
+  wrrr
+  [LMB]
+  [RMB]
+  qeq
+  [LMB]
+  wqwr
+  [LMB]
+  qrrq
+  [LMB]
+  [RMB]
+  r
+  [LMB]
+  wwq
+  [RMB]
+  [LMB]
+  w
+  [LMB]
+  www
+  [LMB]
+  w
+  [LMB]
+  r
+  [LMB]
+  rrqr
+  [RMB]
+  q
+  [RMB]
+  e
+  [LMB]
+  ew
+  [LMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  r
+  [LMB]
+  rrr
+  [LMB]
+  rr
+  [LMB]
+  qr
+  [RMB]
+  qw
+  [LMB]
+  e
+  [RMB]
+  w
+  [LMB]
+  qwq
+  [RMB]
+  [RMB]
+  q
+  [RMB]
+  d
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  w
+  [RMB]
+  [RMB]
+  wq
+  [LMB]
+  qq
+  [LMB]
+  q
+  [LMB]
+  rrr
+  [LMB]
+  rr
+  [RMB]
+  rqr
+  [RMB]
+  q
+  [LMB]
+  qqq
+  [RMB]
+  [LMB]
+  qrqr
+  [LMB]
+  rrr
+  [RMB]
+  [RMB]
+  [LMB]
+  q
+  [LMB]
+  ww
+  [LMB]
+  w
+  [RMB]
+  w
+  [RMB]
+  [LMB]
+  rrr
+  [RMB]
+  qw
+  [LMB]
+  r
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  q
+  [LMB]
+  q
+  [LMB]
+  [RMB]
+  [RMB]
+  w
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  r
+  [LMB]
+  r
+  [LMB]
+  qrr
+  [LMB]
+  [LMB]
+  r
+  [RMB]
+  rr
+  [RMB]
+  [LMB]
+  rrr
+  [LMB]
+  r
+  [LMB]
+  rr
+  [LMB]
+  [RMB]
+  [RMB]
+  wq
+  [RMB]
+  w
+  [RMB]
+  q
+  [RMB]
+  qqw
+  [RMB]
+  www
+  [RMB]
+  ww
+  [RMB]
+  [RMB]
+  [RMB]
+  ww
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  r
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  w
+  [RMB]
+  [RMB]
+  r
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  w
+  [RMB]
+  [RMB]
+  [RMB]
+  r
+  [RMB]
+  [LMB]
+  r
+  [RMB]
+  r
+  [LMB]
+  [RMB]
+  [RMB]
+  www
+  [RMB]
+  [RMB]
+  [RMB]
+  w
+  [RMB]
+  [RMB]
+  w
+  [RMB]
+  w
+  [RMB]
+  [RMB]
+  w
+  [RMB]
+  w
+  [LMB]
+  r
+  [RMB]
+  [RMB]
+  w
+  [RMB]
+  ww
+  [RMB]
+  [RMB]
+  w
+  [RMB]
+  [RMB]
+  [LMB]
+  q
+  [RMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  f
+  [LMB]
+  qqq
+  [LMB]
+  [RMB]
+  ww
+  [LMB]
+  r
+  [RMB]
+  w
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Tab]
+
+--- WINDOW  2026/10/13 11:14:36  [brave.exe] 【海克斯大乱斗3.0】无限蘑菇 偷钱提莫 - YouTube - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:14:38  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:14:38  [LINE.exe] LINE
+----------------------------------------------------------------------------
+  [LMB]
+  p [ENTER]
+  [ENTER]
+
+--- WINDOW  2026/10/13 11:14:43  [explorer.exe] (untitled)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:14:43  [explorer.exe] 工作切換
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:14:43  [brave.exe] 【海克斯大乱斗3.0】无限蘑菇 偷钱提莫 - YouTube - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:14:44  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:14:44  [League of Legends.exe] League of Legends (TM) Client
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [Esc]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  w
+  [RMB]
+  [RMB]
+  w
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  w
+  [RMB]
+  w
+  [RMB]
+  wrw
+  [LMB]
+  rr
+  [LMB]
+  rrr
+  [LMB]
+  rrr
+  [LMB]
+  rrr
+  [RMB]
+  r
+  [LMB]
+  rrr
+  [LMB]
+  rr
+  [LMB]
+  r
+  [RMB]
+  [LMB]
+  w
+  [LMB]
+  [RMB]
+  w
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  wq
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  r
+  [LMB]
+  r
+  [RMB]
+  [RMB]
+  r
+  [LMB]
+  r
+  [RMB]
+  w
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  q
+  [LMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  r
+  [LMB]
+  rrr
+  [LMB]
+  r
+  [RMB]
+  w
+  [LMB]
+  [RMB]
+  [RMB]
+  wq
+  [LMB]
+  rr
+  [LMB]
+  r
+  [RMB]
+  qw
+  [RMB]
+  [Tab]
+
+--- WINDOW  2026/10/13 11:15:22  [brave.exe] 【海克斯大乱斗3.0】无限蘑菇 偷钱提莫 - YouTube - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:15:22  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:15:22  [LINE.exe] LINE
+----------------------------------------------------------------------------
+  [LMB]
+  u.39[Bk]8 [ENTER]
+  [ENTER]
+
+--- WINDOW  2026/10/13 11:15:28  [explorer.exe] (untitled)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:15:28  [brave.exe] 【海克斯大乱斗3.0】无限蘑菇 偷钱提莫 - YouTube - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:15:30  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:15:30  [League of Legends.exe] League of Legends (TM) Client
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  ww
+  [RMB]
+  [RMB]
+  [RMB]
+  w
+  [RMB]
+  [RMB]
+  w
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  rrr
+  [LMB]
+  rrrr
+  [LMB]
+  rr
+  [LMB]
+  rrrr
+  [LMB]
+  rrr
+  [LMB]
+  r
+  [RMB]
+  [RMB]
+  w
+  [RMB]
+  [LMB]
+  q
+  [LMB]
+  qq
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  rrqr
+  [LMB]
+  r
+  [LMB]
+  [RMB]
+  q
+  [RMB]
+  w
+  [LMB]
+  q
+  [LMB]
+  [RMB]
+  w
+  [LMB]
+  [RMB]
+  [LMB]
+  w
+  [LMB]
+  q
+  [LMB]
+  rr
+  [LMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  ww
+  [RMB]
+  [RMB]
+  w
+  [RMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  q
+  [RMB]
+  [LMB]
+  q
+  [LMB]
+  [RMB]
+  r
+  [LMB]
+  [RMB]
+  w
+  [RMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  r
+  [LMB]
+  [RMB]
+  q
+  [RMB]
+  [LMB]
+  q
+  [LMB]
+  q
+  [LMB]
+  [RMB]
+  q
+  [RMB]
+  [RMB]
+  [RMB]
+  w
+  [LMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  rwr
+  [RMB]
+  w
+  [RMB]
+  [RMB]
+  wq
+  [LMB]
+  q
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  w
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  r
+  [RMB]
+  [LMB]
+  rr
+  [LMB]
+  rrrr
+  [LMB]
+  rrr
+  [LMB]
+  rrrr
+  [LMB]
+  q
+  [LMB]
+  [RMB]
+  [LMB]
+  r
+  [RMB]
+  wrwr
+  [LMB]
+  rr
+  [RMB]
+  q
+  [LMB]
+  [RMB]
+  qffw
+  [RMB]
+  fff
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Tab]
+
+--- WINDOW  2026/10/13 11:17:49  [brave.exe] 【海克斯大乱斗3.0】无限蘑菇 偷钱提莫 - YouTube - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:17:51  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:17:51  [LINE.exe] LINE
+----------------------------------------------------------------------------
+  [LMB]
+  su3yp3ai7yji4cjo
+
+--- WINDOW  2026/10/13 11:18:00  [LeagueClientUx.exe] League of Legends
+----------------------------------------------------------------------------
+  hk4//
+
+--- WINDOW  2026/10/13 11:18:03  [LINE.exe] LINE
+----------------------------------------------------------------------------
+  [<-][Bk][->][->]hk4//[ENTER]
+  [ENTER]
+
+--- WINDOW  2026/10/13 11:18:12  [LeagueClientUx.exe] League of Legends
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:18:14  [Mobalytics.exe] 時不我與#tw2 [TW] - Champion Stats - League of Legends [S26]
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:18:14  [LeagueClientUx.exe] League of Legends
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/13 11:18:38  [LINE.exe] LINE
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  [Clipboard]
+  從 alpaca 拉取過往股票歷史
+
+--- WINDOW  2026/10/13 11:19:08  [brave.exe] PROPFIRM - Google 搜尋 - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [Ctrl]v[ENTER]
+
+--- WINDOW  2026/10/13 11:19:10  [brave.exe] google.com/search?q=從+alpaca+拉取過往股票歷史&oq=從+alpaca+拉取過往股票歷史&sourceid=chrome&ie=UTF-8 - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:19:11  [brave.exe] 從 alpaca 拉取過往股票歷史 - Google 搜尋 - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 11:19:30  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:19:30  [LINE.exe] LINE
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:19:31  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:19:31  [brave.exe] tickerscribe.com/zh-Hant/alpaca-trading-journal - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:19:32  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:19:32  [LINE.exe] LINE
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:19:33  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:19:33  [brave.exe] Alpaca 交易日誌 — 免費匯入 | TickerScribe - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:19:55  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:19:55  [LINE.exe] LINE
+----------------------------------------------------------------------------
+  [LMB]
+  ji3aj4fu06g4m/4[<-][<-][v][v][v][v][ENTER]
+  [ENTER]
+  1u4dj/ [ENTER]
+  [<-][->][Bk][Bk]ej32ji 1u4dj/ [<-][<-][v][v][v][v][v][v][v][->][v][v][ENTER]
+  [ENTER]
+  u,3u.3104z83//[ENTER]
+  [ENTER]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/13 11:21:19  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:21:19  [Mobalytics.exe] 時不我與#tw2 [TW] - Champion Stats - League of Legends [S26]
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:21:19  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:21:20  [LINE.exe] LINE
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:21:22  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:21:22  [brave.exe] Alpaca 交易日誌 — 免費匯入 | TickerScribe - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:21:23  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:21:23  [chrome.exe] BTCUSDT.P 82,750.9 ▲ +1.15% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:21:28  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:21:28  [LeagueClientUx.exe] League of Legends
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:21:29  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:21:29  [chrome.exe] BTCUSDT.P 82,750.9 ▲ +1.15% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:21:31  [chrome.exe] BTCUSDT.P 82,751.0 ▲ +1.15% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:21:31  [chrome.exe] BTCUSDT.P 82,750.9 ▲ +1.15% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:21:32  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:21:32  [LINE.exe] LINE
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:21:35  [chrome.exe] BTCUSDT.P 82,750.9 ▲ +1.15% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:21:35  [LINE.exe] LINE
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:21:37  [brave.exe] Alpaca 交易日誌 — 免費匯入 | TickerScribe - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 11:21:40  [brave.exe] tickerscribe.com/signup - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:21:40  [brave.exe] Create Your Free Options & Stock Trading Journal | TickerScribe - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 11:21:43  [brave.exe] accounts.google.com/v3/signin/accountchooser?client_id=901079847740-gtq0m05m2dg1tnkmp6nbq9912j63j195.apps.googleusercontent.com&redirect_to=https%3A%2F%2Ftickerscribe.com%2Fauth%2Fcallback&redirect_uri=https%3A%2F%2Ftnzmlungliqmpkixxgrf.supabase.co%2Fauth%2Fv1%2Fcallback&response_type=code&scope=email+profile&state=7a115d06-9114-488e-9a7c-7732792f9883&dsh=S959684930%3A1791861702904446&o2v=2&service=lso&flowName=GeneralOAuthFlow&opparams=%253Fredirect_to%253Dhttps%25253A%25252F%25252Ftickerscribe.com%25252F
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:21:44  [brave.exe] 登入 - Google 帳戶 - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 11:21:47  [brave.exe] accounts.google.com/signin/oauth/id?authuser=0&part=AJi8hAMx440AK3ARa6-B6zAJSyXG0qN8rKmOHyIjEAHzdcToOx8lPCbAKaP3Lri_2wnRpchEvawrluSqTuR7L1jZuoVp7xcznrNdi35C5NhEDaxleydTmUHpNOR0uzFoR1-XaO7kvuQoVKpXs0FBW9j8ZXj4MUebXy40kIkUcBwgmvJkaV5Lftkr1s9JR58ttkD3f1PQuq5iNyIZ9KtpP1UPPQfrHEH5mwSuAA-EDD18PeHh-iZ6j1hn3oyQJ0tUHbpbgJYtSGN5ur5jzOTHL1WXjw45k5AilKmQwn5liNSwe0eiU7nIfSniEyF8CZEgsOwmGhLX3uYDJw2lNBT9Kdyzgdsb7otmadMDDfxwJu-ynGBmUuoc2bIdJt6D4H89bX_i4bw-r_bgfT1C5K6qdtdsHE7tWxu286hnAnghq5xJB1GkdCN2jyiSODhIPx549LaaErGWvXQ
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:21:47  [brave.exe] 登入 - Google 帳戶 - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 11:21:54  [brave.exe] app.tickerscribe.com - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:21:55  [brave.exe] Dashboard - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/13 11:22:11  [brave.exe] 儀表板 - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [Ctrl]
+  [Clipboard]
+  https://app.tickerscribe.com/
+  c
+
+--- WINDOW  2026/10/13 11:22:25  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:22:25  [LINE.exe] LINE
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:22:27  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:22:27  [Telegram.exe] ‎Сергей Тангян – (33044)
+----------------------------------------------------------------------------
+  [Ctrl]v[ENTER]
+
+--- WINDOW  2026/10/13 11:22:38  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:22:38  [chrome.exe] BTCUSDT.P 82,829.4 ▲ +1.25% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:22:39  [chrome.exe] BTCUSDT.P 82,829.5 ▲ +1.25% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:22:40  [chrome.exe] BTCUSDT.P 82,829.4 ▲ +1.25% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 11:22:41  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:22:41  [brave.exe] 儀表板 - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 11:22:44  [brave.exe] VEST资本 | Vest Markets - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 11:22:47  [brave.exe] 新分頁 - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 11:22:49  [brave.exe] translate.google.com - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:22:50  [brave.exe] Google 翻譯 - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:22:53  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:22:53  [LINE.exe] LINE
+----------------------------------------------------------------------------
+  [LMB]
+  [RMB]
+  [LMB]
+  vu,32k7[ENTER]
+  //[<-][<-][<-][->][<-][->][<-][->][Bk]s831j4zp4[ENTER]
+  [->][->][ENTER]
+
+--- WINDOW  2026/10/13 11:23:27  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:23:27  [chrome.exe] BTCUSDT.P 82,847.9 ▲ +1.27% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:23:28  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:23:28  [LINE.exe] LINE
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:23:30  [brave.exe] OKX官網登錄 | OKX - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 11:23:50  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:23:50  [LINE.exe] LINE
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 11:24:12  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:24:12  [chrome.exe] BTCUSDT.P 82,870.9 ▲ +1.3% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:24:12  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:24:13  [LINE.exe] LINE
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:24:16  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:24:16  [brave.exe] OKX官網登錄 | OKX - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 11:24:44  [brave.exe] 儀表板 - Brave
+----------------------------------------------------------------------------
+  [Ctrl]c
+
+--- WINDOW  2026/10/13 11:24:48  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:24:48  [LINE.exe] LINE
+----------------------------------------------------------------------------
+  [Ctrl]v[ENTER]
+  s[Bk]2/3vu84d04d04[ENTER]
+  [ENTER]
+
+--- WINDOW  2026/10/13 11:25:00  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:25:01  [explorer.exe] (untitled)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:25:01  [explorer.exe] 檔案總管
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:25:03  [brave.exe] 儀表板 - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 11:25:05  [brave.exe] OKX官網登錄 | OKX - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 11:25:17  [brave.exe] okx.com/zh-hant/balance/overview - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:25:18  [brave.exe] OKX全球領先的比特幣交易平臺 | 比特幣行情價格 | OKX - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:25:19  [brave.exe] 資產總覽 - 全球領先的比特幣交易平臺|okx.com - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/13 11:25:46  [brave.exe] okx.com/zh-hant/balance/overview - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:25:46  [brave.exe] OKX全球領先的比特幣交易平臺 | 比特幣行情價格 | OKX - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:25:47  [brave.exe] 資產總覽 - 全球領先的比特幣交易平臺|okx.com - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/13 11:25:52  [brave.exe] okx.com/zh-hant/balance/overview - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:25:53  [brave.exe] OKX全球領先的比特幣交易平臺 | 比特幣行情價格 | OKX - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:25:53  [brave.exe] 資產總覽 - 全球領先的比特幣交易平臺|okx.com - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 11:26:01  [brave.exe] 交易賬戶 - 全球領先的比特幣交易平臺|okx.com - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 11:26:05  [brave.exe] okx.com/zh-hant/trade-swap - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:26:06  [brave.exe] 加密貨幣永續合約交易 | 比特幣和以太坊 | OKX - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:26:06  [brave.exe] 永續合約 | OKX - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:26:07  [brave.exe] 106.86 SOL USDT 永續合約 | OKX - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:26:09  [brave.exe] 106.87 SOL USDT 永續合約 | OKX - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:26:13  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:26:13  [LINE.exe] LINE
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/13 11:26:18  [LineMediaPlayer.exe] LineMediaPlayer
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:26:18  [LineMediaPlayer.exe] kang
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:26:20  [brave.exe] m.o.v.e / come together - YouTube - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 11:26:22  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:26:22  [explorer.exe] (untitled)
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 11:26:23  [LineMediaPlayer.exe] kang
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/13 11:26:31  [brave.exe] m.o.v.e / come together - YouTube - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:26:35  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:26:35  [chrome.exe] BTCUSDT.P 82,899.9 ▲ +1.33% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:26:35  [chrome.exe] BTCUSDT.P 82,910.0 ▲ +1.35% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:26:36  [chrome.exe] BTCUSDT.P 82,909.9 ▲ +1.35% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:26:37  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:26:37  [brave.exe] m.o.v.e / come together - YouTube - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:26:38  [brave.exe] 儀表板 - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 11:26:40  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:26:40  [explorer.exe] 檔案總管
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:26:43  [brave.exe] 儀表板 - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:26:43  [brave.exe] 106.91 SOL USDT 永續合約 | OKX - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:26:45  [brave.exe] 106.90 SOL USDT 永續合約 | OKX - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:26:46  [brave.exe] 106.92 SOL USDT 永續合約 | OKX - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:26:47  [brave.exe] 106.93 SOL USDT 永續合約 | OKX - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:26:48  [brave.exe] 106.94 SOL USDT 永續合約 | OKX - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:26:49  [brave.exe] 106.95 SOL USDT 永續合約 | OKX - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:26:49  [brave.exe] 106.94 SOL USDT 永續合約 | OKX - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:26:50  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:26:50  [LINE.exe] LINE
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 11:26:56  [brave.exe] 106.92 SOL USDT 永續合約 | OKX - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:26:56  [brave.exe] 106.91 SOL USDT 永續合約 | OKX - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:26:58  [brave.exe] 106.90 SOL USDT 永續合約 | OKX - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:26:59  [brave.exe] 106.91 SOL USDT 永續合約 | OKX - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:27:00  [brave.exe] 106.90 SOL USDT 永續合約 | OKX - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:27:01  [brave.exe] 106.92 SOL USDT 永續合約 | OKX - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:27:03  [brave.exe] 106.91 SOL USDT 永續合約 | OKX - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:27:04  [brave.exe] 106.92 SOL USDT 永續合約 | OKX - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 11:27:04  [brave.exe] okx.com/zh-hant/balance/report-center - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:27:05  [brave.exe] OKX全球領先的比特幣交易平臺 | 比特幣行情價格 | OKX - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:27:05  [brave.exe] 訂單中心 - 全球領先的比特幣交易平臺|okx.com - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 11:27:26  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:27:26  [LINE.exe] LINE
+----------------------------------------------------------------------------
+  [LMB]
+  ji3vu0 dl uvu84ru4xj4[ENTER]
+  [<-][<-][<-][Bk][->]y93[ENTER]
+  [->][<-]rul u4[ENTER]
+  [ENTER]
+
+--- WINDOW  2026/10/13 11:27:50  [brave.exe] 訂單中心 - 全球領先的比特幣交易平臺|okx.com - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/13 11:28:56  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:28:56  [LINE.exe] LINE
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:29:00  [brave.exe] 訂單中心 - 全球領先的比特幣交易平臺|okx.com - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 11:29:00  [brave.exe] 收件匣 (24,837) - south830325@gmail.com - Gmail - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/13 11:29:04  [brave.exe] 【海克斯大乱斗3.0】无限蘑菇 偷钱提莫 - YouTube - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 11:29:06  [brave.exe] 訂單中心 - 全球領先的比特幣交易平臺|okx.com - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 11:29:06  [brave.exe] 儀表板 - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 11:30:14  [brave.exe] 匯入資料 | TickerScribe - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 11:30:16  [brave.exe] 訂單中心 - 全球領先的比特幣交易平臺|okx.com - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 11:30:18  [brave.exe] 匯入資料 | TickerScribe - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  5j j;3 1u42ji  [Bk][Bk][Bk]ej32ji 1u4dj/ [ENTER]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/13 11:31:11  [brave.exe] 訂單中心 - 全球領先的比特幣交易平臺|okx.com - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 11:31:12  [brave.exe] 匯入資料 | TickerScribe - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:31:15  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:31:15  [LINE.exe] LINE
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:31:20  [brave.exe] m.o.v.e / come together - YouTube - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 11:31:23  [brave.exe] YouTube - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:31:25  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:31:25  [LINE.exe] LINE
+----------------------------------------------------------------------------
+  [LMB]
+  2[Bk][Bk]q./6u.32ji 5p cl3[ENTER]
+  [ENTER]
+  g/3g4[v][v][v][ENTER]
+  [ENTER]
+  [ENTER]
+
+--- WINDOW  2026/10/13 11:31:49  [brave.exe] YouTube - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:31:49  [brave.exe] 匯入資料 | TickerScribe - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:31:52  [brave.exe] 訂單中心 - 全球領先的比特幣交易平臺|okx.com - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/13 11:31:55  [brave.exe] OKX全球領先的比特幣交易平臺 | 比特幣行情價格 | OKX - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:31:56  [brave.exe] 訂單中心 - 全球領先的比特幣交易平臺|okx.com - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 11:32:04  [brave.exe] 匯入資料 | TickerScribe - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 11:32:06  [brave.exe] VEST资本 | Vest Markets - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 11:32:06  [brave.exe] 訂單中心 - 全球領先的比特幣交易平臺|okx.com - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:32:17  [brave.exe] 匯入資料 | TickerScribe - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 11:32:35  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:32:35  [chrome.exe] BTCUSDT.P 83,062.7 ▲ +1.53% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:32:35  [chrome.exe] BTCUSDT.P 83,068.9 ▲ +1.54% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:32:37  [chrome.exe] BTCUSDT.P 83,070.7 ▲ +1.54% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:32:37  [chrome.exe] BTCUSDT.P 83,088.8 ▲ +1.57% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:32:38  [chrome.exe] BTCUSDT.P 83,226.8 ▲ +1.73% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:32:39  [chrome.exe] BTCUSDT.P 83,239.4 ▲ +1.75% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:32:40  [chrome.exe] BTCUSDT.P 83,253.8 ▲ +1.77% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:32:41  [chrome.exe] BTCUSDT.P 83,275.0 ▲ +1.79% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:32:42  [chrome.exe] BTCUSDT.P 83,279.2 ▲ +1.8% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:32:42  [chrome.exe] BTCUSDT.P 83,245.4 ▲ +1.76% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:32:43  [chrome.exe] BTCUSDT.P 83,236.9 ▲ +1.75% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:32:44  [chrome.exe] BTCUSDT.P 83,267.9 ▲ +1.78% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:32:45  [chrome.exe] BTCUSDT.P 83,291.9 ▲ +1.81% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:32:46  [chrome.exe] BTCUSDT.P 83,311.3 ▲ +1.84% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:32:47  [chrome.exe] BTCUSDT.P 83,305.2 ▲ +1.83% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:32:48  [chrome.exe] BTCUSDT.P 83,321.3 ▲ +1.85% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:32:48  [chrome.exe] BTCUSDT.P 83,332.9 ▲ +1.86% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:32:49  [chrome.exe] BTCUSDT.P 83,358.9 ▲ +1.9% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:32:50  [chrome.exe] BTCUSDT.P 83,364.9 ▲ +1.9% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:32:51  [chrome.exe] BTCUSDT.P 83,349.1 ▲ +1.88% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:32:52  [chrome.exe] BTCUSDT.P 83,336.8 ▲ +1.87% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:32:53  [chrome.exe] BTCUSDT.P 83,363.5 ▲ +1.9% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:32:53  [chrome.exe] BTCUSDT.P 83,359.9 ▲ +1.9% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:32:54  [chrome.exe] BTCUSDT.P 83,355.4 ▲ +1.89% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:32:55  [chrome.exe] BTCUSDT.P 83,342.9 ▲ +1.88% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:32:56  [chrome.exe] BTCUSDT.P 83,347.1 ▲ +1.88% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:32:57  [chrome.exe] BTCUSDT.P 83,327.4 ▲ +1.86% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:32:58  [chrome.exe] BTCUSDT.P 83,287.5 ▲ +1.81% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:32:59  [chrome.exe] BTCUSDT.P 83,285.8 ▲ +1.81% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:33:00  [chrome.exe] BTCUSDT.P 83,273.8 ▲ +1.79% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 11:33:01  [chrome.exe] BTCUSDT.P 83,279.8 ▲ +1.8% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 11:33:01  [chrome.exe] BTCUSDT.P 83,316.0 ▲ +1.84% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:33:02  [chrome.exe] BTCUSDT.P 83,304.1 ▲ +1.83% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:33:03  [chrome.exe] BTCUSDT.P 83,280.8 ▲ +1.8% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:33:04  [chrome.exe] BTCUSDT.P 83,327.4 ▲ +1.86% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:33:05  [chrome.exe] BTCUSDT.P 83,300.2 ▲ +1.82% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:33:06  [chrome.exe] BTCUSDT.P 83,304.8 ▲ +1.83% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:33:07  [chrome.exe] BTCUSDT.P 83,283.8 ▲ +1.8% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:33:07  [chrome.exe] BTCUSDT.P 83,277.4 ▲ +1.8% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 11:33:08  [brave.exe] 匯入資料 | TickerScribe - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 11:33:10  [brave.exe] YouTube - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 11:33:13  [brave.exe] 匯入資料 | TickerScribe - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 11:33:15  [brave.exe] 訂單中心 - 全球領先的比特幣交易平臺|okx.com - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/13 11:33:29  [brave.exe] YouTube - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:33:55  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:33:55  [Telegram.exe] ‎Сергей Тангян – (33045)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:33:58  [explorer.exe] (untitled)
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 11:33:59  [LINE.exe] LINE
+----------------------------------------------------------------------------
+  [LMB]
+  d3u3[ENTER]
+  g6ru0 2u42u03//[ENTER]
+  [ENTER]
+  wj[Bk][Bk][Bk]dl4c93g0 ru,6mp4504[ENTER]
+  [ENTER]
+  [LMB]
+
+--- WINDOW  2026/10/13 11:35:50  [ShellExperienceHost.exe] Windows 殼層體驗主機
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:35:50  [ShellExperienceHost.exe] 控制中心
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:35:51  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:35:51  [ShellExperienceHost.exe] 控制中心
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:35:51  [Telegram.exe] ‎Сергей Тангян – (33045)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:35:53  [explorer.exe] (untitled)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:35:53  [ShellExperienceHost.exe] 日期和時間資訊
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:35:57  [explorer.exe] (untitled)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:35:57  [LINE.exe] LINE
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  5. n4dk3u3[ENTER]
+  [ENTER]
+
+--- WINDOW  2026/10/13 11:36:14  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:36:14  [Telegram.exe] ‎Сергей Тангян – (33045)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:36:15  [Telegram.exe] ‎Сергей Тангян – (33046)
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 11:36:17  [LINE.exe] LINE
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:36:19  [brave.exe] YouTube - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:36:19  [brave.exe] VEST资本 | Vest Markets - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 11:36:19  [brave.exe] 訂單中心 - 全球領先的比特幣交易平臺|okx.com - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:36:23  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:36:23  [LINE.exe] LINE
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:36:50  [brave.exe] 匯入資料 | TickerScribe - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 11:36:51  [brave.exe] YouTube - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 11:37:00  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:37:01  [Telegram.exe] ‎Сергей Тангян – (33045)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:37:03  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:37:04  [LINE.exe] LINE
+----------------------------------------------------------------------------
+  [LMB]
+  ru32u03//[ENTER]
+  [ENTER]
+  vu0 2u/45k4u;4[ENTER]
+  [ENTER]
+  u.31u042j/4y94xu06vu4[ENTER]
+  [ENTER]
+
+--- WINDOW  2026/10/13 11:38:00  [Telegram.exe] ‎Сергей Тангян – (33045)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:38:00  [LINE.exe] LINE
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 11:38:05  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:38:05  [chrome.exe] BTCUSDT.P 83,260.7 ▲ +1.78% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:38:05  [chrome.exe] BTCUSDT.P 83,259.6 ▲ +1.77% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:38:06  [chrome.exe] BTCUSDT.P 83,247.6 ▲ +1.76% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:38:07  [chrome.exe] BTCUSDT.P 83,247.7 ▲ +1.76% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:38:08  [chrome.exe] BTCUSDT.P 83,247.6 ▲ +1.76% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:38:09  [chrome.exe] BTCUSDT.P 83,259.5 ▲ +1.77% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 11:38:10  [chrome.exe] BTCUSDT.P 83,259.6 ▲ +1.77% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:38:11  [chrome.exe] BTCUSDT.P 83,275.6 ▲ +1.79% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:38:12  [chrome.exe] BTCUSDT.P 83,275.7 ▲ +1.79% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:38:12  [chrome.exe] BTCUSDT.P 83,275.6 ▲ +1.79% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 11:38:13  [chrome.exe] BTCUSDT.P 83,275.7 ▲ +1.79% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:38:14  [chrome.exe] BTCUSDT.P 83,275.6 ▲ +1.79% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:38:16  [chrome.exe] BTCUSDT.P 83,269.4 ▲ +1.79% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:38:16  [chrome.exe] BTCUSDT.P 83,269.5 ▲ +1.79% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:38:17  [chrome.exe] BTCUSDT.P 83,266.3 ▲ +1.78% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:38:18  [chrome.exe] BTCUSDT.P 83,264.5 ▲ +1.78% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:38:19  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:38:19  [brave.exe] YouTube - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:38:22  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:38:22  [LeagueClientUx.exe] League of Legends
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:38:23  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:38:24  [Telegram.exe] ‎Сергей Тангян – (33045)
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 11:38:27  [LeagueClientUx.exe] League of Legends
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:38:28  [brave.exe] YouTube - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:38:28  [brave.exe] 匯入資料 | TickerScribe - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:38:28  [brave.exe] 訂單中心 - 全球領先的比特幣交易平臺|okx.com - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/13 11:38:29  [brave.exe] 匯入資料 | TickerScribe - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:38:32  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:38:32  [chrome.exe] BTCUSDT.P 83,258.7 ▲ +1.77% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:38:33  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:38:33  [brave.exe] 匯入資料 | TickerScribe - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:38:34  [brave.exe] Google 翻譯 - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 11:38:34  [brave.exe] 【問題】LOL沒有回應 @英雄聯盟 League of Legends 哈啦板 - 巴哈姆特 - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 11:38:35  [brave.exe] YouTube - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 11:38:36  [brave.exe] 【海克斯大乱斗3.0】无限蘑菇 偷钱提莫 - YouTube - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:38:37  [brave.exe] DEX - YouTube - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/13 11:38:37  [brave.exe] 收件匣 (24,837) - south830325@gmail.com - Gmail - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 11:38:39  [brave.exe] 匯入資料 | TickerScribe - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:38:41  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:38:42  [chrome.exe] BTCUSDT.P 83,241.6 ▲ +1.75% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:38:42  [chrome.exe] BTCUSDT.P 83,237.9 ▲ +1.75% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 11:38:42  [chrome.exe] 新分頁 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:38:45  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:38:45  [brave.exe] 匯入資料 | TickerScribe - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 11:38:46  [brave.exe] YouTube - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 11:38:46  [brave.exe] 【問題】LOL沒有回應 @英雄聯盟 League of Legends 哈啦板 - 巴哈姆特 - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 11:38:48  [brave.exe] 【海克斯大乱斗3.0】无限蘑菇 偷钱提莫 - YouTube - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 11:38:48  [brave.exe] VEST资本 | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:38:52  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:38:52  [LINE.exe] LINE
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:38:53  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:38:54  [LeagueClientUx.exe] League of Legends
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:38:55  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:38:55  [chrome.exe] 新分頁 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:38:56  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:38:56  [brave.exe] VEST资本 | Vest Markets - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 11:38:58  [brave.exe] Facebook - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 11:39:05  [brave.exe] 匯入資料 | TickerScribe - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 11:39:05  [brave.exe] 訂單中心 - 全球領先的比特幣交易平臺|okx.com - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 11:39:09  [brave.exe] OKX全球領先的比特幣交易平臺 | 比特幣行情價格 | OKX - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:39:10  [brave.exe] 訂單中心 - 全球領先的比特幣交易平臺|okx.com - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/13 11:39:22  [brave.exe] YouTube - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/13 11:39:32  [brave.exe] m.o.v.e / come together - YouTube - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 11:39:33  [brave.exe] 法連鎖超市冷鏈遭駭 冷凍櫃變烤箱! 多處火災｜消失的國界 - YouTube - Brave
+----------------------------------------------------------------------------
+  [->][->][->]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/13 11:39:49  [chrome.exe] 新分頁 - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 11:39:50  [LeagueClientUx.exe] League of Legends
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 12:19:04  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 12:19:04  [brave.exe] 法連鎖超市冷鏈遭駭 冷凍櫃變烤箱! 多處火災｜消失的國界 - YouTube - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 12:19:06  [brave.exe] 訂單中心 - 全球領先的比特幣交易平臺|okx.com - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 12:19:10  [brave.exe] OKX全球領先的比特幣交易平臺 | 比特幣行情價格 | OKX - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 12:19:11  [brave.exe] 訂單中心 - 全球領先的比特幣交易平臺|okx.com - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/13 12:19:21  [brave.exe] (1) Facebook - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/13 12:19:36  [brave.exe] 收件匣 (24,837) - south830325@gmail.com - Gmail - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 12:19:36  [brave.exe] (1) Facebook - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/13 12:19:37  [brave.exe] 收件匣 (24,837) - south830325@gmail.com - Gmail - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 12:20:08  [brave.exe] 法連鎖超市冷鏈遭駭 冷凍櫃變烤箱! 多處火災｜消失的國界 - YouTube - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 12:20:11  [brave.exe] YouTube - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 12:20:30  [brave.exe] 上看千萬的收藏就這樣求助無門變成了羅生門⋯希望拉西哥可以趕快拿到他的卡片😔 - YouTube - Brave
+----------------------------------------------------------------------------
+  [->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->]
+
+--- WINDOW  2026/10/13 12:21:27  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 12:21:27  [LINE.exe] LINE
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/13 12:21:34  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 12:21:34  [brave.exe] 上看千萬的收藏就這樣求助無門變成了羅生門⋯希望拉西哥可以趕快拿到他的卡片😔 - YouTube - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 12:21:37  [brave.exe] YouTube - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 12:21:48  [brave.exe] 法連鎖超市冷鏈遭駭 冷凍櫃變烤箱! 多處火災｜消失的國界 - YouTube - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 12:21:50  [brave.exe] 【回卡展示】全世界只有這一套？2000年明治金卡未裁切16連號送鑑成果！#onlyone #pokemon #明治金卡 #寶可夢 - YouTube - Brave
+----------------------------------------------------------------------------
+  [->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->]
+  [LMB]
+  [->][->][->][->][->][->][->][->][->][->][->][->][->]
+
+--- WINDOW  2026/10/13 12:24:36  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 12:24:37  [LINE.exe] LINE
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 12:24:41  [brave.exe] 【回卡展示】全世界只有這一套？2000年明治金卡未裁切16連號送鑑成果！#onlyone #pokemon #明治金卡 #寶可夢 - YouTube - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/13 12:24:48  [brave.exe] (1) Facebook - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 12:24:55  [brave.exe] 匯入資料 | TickerScribe - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 12:24:56  [brave.exe] 訂單中心 - 全球領先的比特幣交易平臺|okx.com - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 12:24:59  [brave.exe] OKX全球領先的比特幣交易平臺 | 比特幣行情價格 | OKX - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 12:25:00  [brave.exe] 訂單中心 - 全球領先的比特幣交易平臺|okx.com - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/13 12:25:10  [brave.exe] YouTube - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 12:25:22  [brave.exe] 他拿出一張千萬美元的卡牌，攤主當場看傻... #gba寶可夢 #youtubeshorts #funny #pokemon - YouTube - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/13 12:26:13  [brave.exe] YouTube - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 12:26:49  [brave.exe] 【回卡展示】全世界只有這一套？2000年明治金卡未裁切16連號送鑑成果！#onlyone #pokemon #明治金卡 #寶可夢 - YouTube - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 12:26:51  [brave.exe] 在中亚最大城市，花100元能买多少东西？当地人真实生活到底怎么样？ - YouTube - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 12:27:03  [brave.exe] 匯入資料 | TickerScribe - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 12:27:03  [brave.exe] 在中亚最大城市，花100元能买多少东西？当地人真实生活到底怎么样？ - YouTube - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 12:27:10  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 12:27:10  [Telegram.exe] ‎Сергей Тангян – (33045)
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 12:27:14  [brave.exe] 在中亚最大城市，花100元能买多少东西？当地人真实生活到底怎么样？ - YouTube - Brave
+----------------------------------------------------------------------------
+  [->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->]
+
+--- WINDOW  2026/10/13 12:28:22  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 12:28:22  [Telegram.exe] (1) ‎Сергей Тангян – (33046)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 12:28:22  [Telegram.exe] ‎Сергей Тангян – (33045)
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/13 12:28:37  [brave.exe] 在中亚最大城市，花100元能买多少东西？当地人真实生活到底怎么样？ - YouTube - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 12:28:44  [brave.exe] Google 翻譯 - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  vu84j3[Bk][Bk][Bk]
+
+--- WINDOW  2026/10/13 12:28:52  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 12:28:52  [LINE.exe] LINE
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 12:28:55  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 12:28:55  [Telegram.exe] ‎Сергей Тангян – (33045)
+----------------------------------------------------------------------------
+  [LMB]
+  [Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl]c
+  [Clipboard]
+  good morning
+  [LMB]
+  [Ctrl]v[ENTER]
+  [LMB]
+
+--- WINDOW  2026/10/13 12:29:02  [LINE.exe] LINE
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 12:29:04  [brave.exe] 訂單中心 - 全球領先的比特幣交易平臺|okx.com - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 12:29:06  [brave.exe] DEX - YouTube - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 12:29:06  [brave.exe] 【海克斯大乱斗3.0】无限蘑菇 偷钱提莫 - YouTube - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/13 12:29:07  [brave.exe] VEST资本 | Vest Markets - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 12:29:07  [brave.exe] 訂單中心 - 全球領先的比特幣交易平臺|okx.com - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 12:29:08  [brave.exe] 在中亚最大城市，花100元能买多少东西？当地人真实生活到底怎么样？ - YouTube - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/13 12:56:06  [brave.exe] Google 翻譯 - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 12:56:08  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 12:56:08  [Telegram.exe] ‎Сергей Тангян – (33045)
+----------------------------------------------------------------------------
+  cam use cvs[ENTER]
+
+--- WINDOW  2026/10/13 12:56:25  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 12:56:25  [brave.exe] Google 翻譯 - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 12:56:27  [brave.exe] 訂單中心 - 全球領先的比特幣交易平臺|okx.com - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 12:56:31  [brave.exe] okg-pri-hk.oss-cn-hongkong.aliyuncs.com 要求儲存
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 12:56:37  [brave.exe] 訂單中心 - 全球領先的比特幣交易平臺|okx.com - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/13 12:56:42  [brave.exe] 近期下載記錄
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 12:56:44  [explorer.exe] 檔案總管
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 12:56:44  [explorer.exe] 下載
+----------------------------------------------------------------------------
+  [RMB]
+  [LMB]
+
+--- WINDOW  2026/10/13 12:56:49  [ApplicationFrameHost.exe] Windows 安全性
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 12:56:51  [explorer.exe] 下載
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 12:56:55  [explorer.exe] MTA0NTg3MDYw_OKX Position History__2026-04-11~2026-10-11~8~4009fb33c2755760cae230de1c769246.zip
+----------------------------------------------------------------------------
+  [LMB]
+  [RMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/13 12:57:02  [explorer.exe] 下載
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 12:57:05  [brave.exe] 訂單中心 - 全球領先的比特幣交易平臺|okx.com - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 12:57:05  [explorer.exe] 下載
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 12:57:06  [Telegram.exe] ‎Сергей Тангян – (33045)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 12:57:06  [explorer.exe] 下載
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/13 12:57:08  [LINE.exe] LINE
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 12:57:08  [explorer.exe] 檔案總管
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 12:57:08  [LINE.exe] LINE
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 12:57:09  [explorer.exe] (untitled)
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 12:57:12  [explorer.exe] 進度
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 12:57:13  [explorer.exe] 93% 已完成
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 12:57:13  [explorer.exe] (untitled)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 12:57:13  [LeagueClientUx.exe] League of Legends
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 12:57:14  [LINE.exe] LINE
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 12:57:14  [explorer.exe] (untitled)
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 12:57:15  [explorer.exe] 檔案總管
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 12:57:15  [explorer.exe] MTA0NTg3MDYw~2026-04-11~2026-10-11~8~4009fb33c2755760cae230de1c769246_PositionHistory
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 12:57:15  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 12:57:16  [explorer.exe] (untitled)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 12:57:20  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 12:57:20  [brave.exe] 訂單中心 - 全球領先的比特幣交易平臺|okx.com - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 12:57:21  [brave.exe] 匯入資料 | TickerScribe - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 12:57:24  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 12:57:24  [Mobalytics.exe] 時不我與#tw2 [TW] - Champion Stats - League of Legends [S26]
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 12:57:24  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 12:57:24  [Mobalytics.exe] 時不我與#tw2 [TW] - Champion Stats - League of Legends [S26]
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 12:57:25  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 12:57:25  [brave.exe] 匯入資料 | TickerScribe - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 12:57:26  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 12:57:26  [explorer.exe] (untitled)
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 12:57:27  [explorer.exe] MTA0NTg3MDYw~2026-04-11~2026-10-11~8~4009fb33c2755760cae230de1c769246_PositionHistory
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/13 12:57:30  [brave.exe] 匯入資料 | TickerScribe - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [RMB]
+  [LMB]
+
+--- WINDOW  2026/10/13 12:57:37  [brave.exe] 已翻譯
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 12:57:42  [brave.exe] 匯入資料 | TickerScribe - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 12:57:45  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 12:57:45  [explorer.exe] (untitled)
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 12:57:46  [explorer.exe] MTA0NTg3MDYw~2026-04-11~2026-10-11~8~4009fb33c2755760cae230de1c769246_PositionHistory
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 12:57:49  [brave.exe] 匯入資料 | TickerScribe - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 12:57:50  [brave.exe] app.tickerscribe.com 要求開啟
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/13 12:58:03  [brave.exe] 匯入資料 | TickerScribe - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 12:58:05  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 12:58:05  [Telegram.exe] ‎Сергей Тангян – (33046)
+----------------------------------------------------------------------------
+  [RMB]
+
+--- WINDOW  2026/10/13 12:58:06  [Telegram.exe] TelegramDesktop
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 12:58:07  [Telegram.exe] ‎Сергей Тангян – (33046)
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/13 12:58:20  [explorer.exe] (untitled)
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 12:58:20  [brave.exe] 匯入資料 | TickerScribe - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 12:58:22  [brave.exe] Google 翻譯 - Brave
+----------------------------------------------------------------------------
+  ji35/4y94g4[v][v][v][v][v][^][ENTER]
+  [ENTER]
+   ji3q/6u.3rup wu0 h96z8 eo3ji32k6[Bk]2k7j;3504[ENTER]
+  [LMB]
+  [Ctrl]
+  [Clipboard]
+  I'm currently using the website my friend just sent me today.
+  c
+
+--- WINDOW  2026/10/13 12:58:47  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 12:58:48  [LINE.exe] LINE
+----------------------------------------------------------------------------
+  [Ctrl]v[ENTER]
+  [RMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/13 12:58:57  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 12:58:57  [Telegram.exe] ‎Сергей Тангян – (33046)
+----------------------------------------------------------------------------
+  [LMB]
+  [Ctrl]v[ENTER]
+  [LMB]
+
+--- WINDOW  2026/10/13 12:59:04  [LINE.exe] LINE
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 12:59:07  [brave.exe] Google 翻譯 - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 12:59:08  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 12:59:08  [chrome.exe] 新分頁 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 12:59:09  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 12:59:09  [brave.exe] Google 翻譯 - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 12:59:11  [brave.exe] 匯入資料 | TickerScribe - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 12:59:12  [brave.exe] app.tickerscribe.com 要求開啟
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 12:59:14  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 12:59:15  [explorer.exe] (untitled)
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 12:59:16  [explorer.exe] MTA0NTg3MDYw~2026-04-11~2026-10-11~8~4009fb33c2755760cae230de1c769246_PositionHistory
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 12:59:18  [explorer.exe] 桌面
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 12:59:21  [brave.exe] app.tickerscribe.com 要求開啟
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/13 12:59:41  [brave.exe] 匯入資料 | TickerScribe - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/13 12:59:51  [Telegram.exe] (1) ‎Сергей Тангян – (33046)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 12:59:51  [Telegram.exe] ‎Сергей Тангян – (33045)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 13:00:15  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 13:00:15  [brave.exe] 匯入資料 | TickerScribe - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/13 13:00:19  [brave.exe] 儀表板 - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 13:00:29  [brave.exe] 期權交易 | TickerScribe - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/13 13:00:35  [brave.exe] 股票交易 | TickerScribe - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/13 13:00:44  [brave.exe] 車輪策略分析 | TickerScribe - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/13 13:00:49  [brave.exe] 風險歷史 | TickerScribe - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 13:00:53  [brave.exe] 代號報告 | TickerScribe - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 13:00:55  [brave.exe] 風險歷史 | TickerScribe - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 13:01:00  [Telegram.exe] ‎Сергей Тангян – (33045)
+----------------------------------------------------------------------------
+  [LMB]
+  [RMB]
+
+--- WINDOW  2026/10/13 13:01:18  [Telegram.exe] TelegramDesktop
+----------------------------------------------------------------------------
+  [LMB]
+  [Clipboard]
+  i see. is it useful for analyzing trade?
+
+--- WINDOW  2026/10/13 13:01:20  [Telegram.exe] ‎Сергей Тангян – (33045)
+----------------------------------------------------------------------------
+  [LMB]
+  [RMB]
+
+--- WINDOW  2026/10/13 13:01:24  [Telegram.exe] TelegramDesktop
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 13:01:25  [Telegram.exe] ‎Сергей Тангян – (33045)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 13:01:28  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 13:01:28  [brave.exe] 風險歷史 | TickerScribe - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 13:01:30  [brave.exe] Google 翻譯 - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  v[Bk][Bk][Bk]1j4j06fm06204dk3u3xul3ru,3u vu, y vmp4[ENTER]
+  [LMB]
+  [Ctrl]
+  [Clipboard]
+  It's not complete, but you can learn some information.
+  c
+
+--- WINDOW  2026/10/13 13:01:53  [explorer.exe] (untitled)
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 13:01:53  [LINE.exe] LINE
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 13:01:56  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 13:01:56  [Telegram.exe] ‎Сергей Тангян – (33045)
+----------------------------------------------------------------------------
+  [Ctrl]v[ENTER]
+  [RMB]
+
+--- WINDOW  2026/10/13 13:02:00  [Telegram.exe] TelegramDesktop
+----------------------------------------------------------------------------
+  [LMB]
+  [Clipboard]
+  btw, what platforms do you usually use for trading?
+
+--- WINDOW  2026/10/13 13:02:02  [Telegram.exe] ‎Сергей Тангян – (33045)
+----------------------------------------------------------------------------
+  okx or mt5[ENTER]
+  [LMB]
+
+--- WINDOW  2026/10/13 13:02:37  [LINE.exe] LINE
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 13:02:42  [brave.exe] 在中亚最大城市，花100元能买多少东西？当地人真实生活到底怎么样？ - YouTube - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 13:02:42  [brave.exe] 風險歷史 | TickerScribe - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/13 13:02:43  [brave.exe] 訂單中心 - 全球領先的比特幣交易平臺|okx.com - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 13:02:43  [brave.exe] 風險歷史 | TickerScribe - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/13 13:02:48  [brave.exe] 儀表板 - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/13 13:03:26  [brave.exe] 匯入資料 | TickerScribe - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 13:03:28  [brave.exe] app.tickerscribe.com 要求開啟
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 13:03:29  [brave.exe] 匯入資料 | TickerScribe - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  [LMB]
+
+--- WINDOW  2026/10/13 13:03:41  [brave.exe] 未命名 - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 13:03:41  [brave.exe] translate.google.com/?source=gtx_c#auto/zh-TW/This file has a text cell containing a double quote that the export didn't escape%2C so the rest of the table can't be read (from row 1). That's a fault in the file itself rather than anything you did. If your broker offers another export — a transactions%2C activity or trade history CSV — download that one and upload it instead. - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 13:03:42  [brave.exe] Google 翻譯 - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/13 13:04:11  [brave.exe] 新分頁 - Brave
+----------------------------------------------------------------------------
+  google ai[ENTER]
+
+--- WINDOW  2026/10/13 13:04:14  [brave.exe] google.com/search?q=GOOGLE+AI&oq=GOOGLE+AI&sourceid=chrome&ie=UTF-8 - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 13:04:15  [brave.exe] GOOGLE AI - Google 搜尋 - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 13:04:17  [brave.exe] gemini.google.com - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 13:04:17  [brave.exe] Google 翻譯 - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 13:04:19  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 13:04:19  [Telegram.exe] (2) ‎Сергей Тангян – (33047)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 13:04:19  [Telegram.exe] ‎Сергей Тангян – (33045)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 13:05:14  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 13:05:14  [chrome.exe] 新分頁 - Google Chrome
+----------------------------------------------------------------------------
+  mql5[ENTER]
+
+--- WINDOW  2026/10/13 13:05:18  [chrome.exe] mql5.com - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 13:05:19  [chrome.exe] MQL5: 自动外汇交易，策略测试器和MetaTrader自定义指标 - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 13:05:23  [chrome.exe] 算法交易系统和策略测试论坛 – MQL5 community外汇论坛 - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [RMB]
+  [LMB]
+  [Clipboard]
+  https://www.mql5.com/zh/forum
+
+--- WINDOW  2026/10/13 13:05:43  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 13:05:43  [LINE.exe] LINE
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 13:05:46  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 13:05:46  [Telegram.exe] ‎Сергей Тангян – (33045)
+----------------------------------------------------------------------------
+  [LMB]
+  [RMB]
+
+--- WINDOW  2026/10/13 13:05:48  [Telegram.exe] TelegramDesktop
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 13:05:49  [Telegram.exe] ‎Сергей Тангян – (33045)
+----------------------------------------------------------------------------
+  [ENTER]
+
+--- WINDOW  2026/10/13 13:05:56  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 13:05:56  [brave.exe] Google 翻譯 - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  dk3u3tj/6
+  [LMB]
+  [LMB]
+  [Bk]w[Bk][Bk]xu3au04u.3cp32ji t[Bk]y vmp 204ul4vul cj84v [Bk]vm ul4u vu, g6ru0 [ENTER]
+  [LMB]
+  [Ctrl]c
+  [Clipboard]
+  There are many honorary titles and awards inside, but it will take some time to digest them.
+
+--- WINDOW  2026/10/13 13:06:34  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 13:06:34  [LINE.exe] LINE
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 13:06:36  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 13:06:36  [Telegram.exe] ‎Сергей Тангян – (33045)
+----------------------------------------------------------------------------
+  [LMB]
+  [Ctrl]v[ENTER]
+
+--- WINDOW  2026/10/13 13:06:45  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 13:06:45  [brave.exe] Google 翻譯 - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 13:06:46  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 13:06:46  [chrome.exe] 算法交易系统和策略测试论坛 – MQL5 community外汇论坛 - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 13:07:03  [chrome.exe] 交易系统 - MQL5 算法交易论坛 - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 13:07:07  [chrome.exe] 交易系统 - MQL5 算法交易论坛 - 第2页 - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 13:07:12  [chrome.exe] 交易系统 - MQL5 算法交易论坛 - 第4页 - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 13:07:13  [chrome.exe] 交易系统 - MQL5 算法交易论坛 - 第5页 - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 13:07:16  [chrome.exe] 交易系统 - MQL5 算法交易论坛 - 第10页 - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/13 13:07:20  [chrome.exe] 交易系统 - MQL5 算法交易论坛 - 第15页 - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 13:07:23  [brave.exe] Google 翻譯 - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [Bk]vmp4[ENTER]
+
+--- WINDOW  2026/10/13 13:07:34  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 13:07:34  [Telegram.exe] ‎Сергей Тангян – (33045)
+----------------------------------------------------------------------------
+  [RMB]
+
+--- WINDOW  2026/10/13 13:07:46  [Telegram.exe] TelegramDesktop
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 13:07:47  [Telegram.exe] ‎Сергей Тангян – (33045)
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 13:07:50  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 13:07:50  [chrome.exe] 交易系统 - MQL5 算法交易论坛 - 第15页 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 13:07:51  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 13:07:51  [brave.exe] Google 翻譯 - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Clipboard]
+  It contains a lot of information, but it will take some time to digest.
+
+--- WINDOW  2026/10/13 13:07:59  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 13:07:59  [LINE.exe] LINE
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 13:08:00  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 13:08:00  [Telegram.exe] ‎Сергей Тангян – (33045)
+----------------------------------------------------------------------------
+  [Ctrl]v[ENTER]
+  [LMB]
+
+--- WINDOW  2026/10/13 13:08:04  [LINE.exe] LINE
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 13:08:05  [brave.exe] Google 翻譯 - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 13:08:09  [brave.exe] Google Gemini - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 13:08:11  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 13:08:11  [explorer.exe] (untitled)
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 13:08:12  [explorer.exe] 桌面
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 13:08:13  [explorer.exe] MTA0NTg3MDYw~2026-04-11~2026-10-11~8~4009fb33c2755760cae230de1c769246_PositionHistory
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/13 13:08:15  [brave.exe] Google Gemini - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 13:08:16  [brave.exe] Google 翻譯 - Brave
+----------------------------------------------------------------------------
+  [Ctrl]
+  [Clipboard]
+  This file has a text cell containing a double quote that the export didn't escape, so the rest of the table can't be read (from row 1). That's a fault in the file itself rather than anything you did. If your broker offers another export — a transactions, activity or trade history CSV — download that one and upload it instead.
+  
+  c
+  [LMB]
+
+--- WINDOW  2026/10/13 13:08:19  [brave.exe] Google Gemini - Brave
+----------------------------------------------------------------------------
+  [Ctrl]v
+  [LMB]
+  [Ctrl]v
+  [LMB]
+
+--- WINDOW  2026/10/13 13:08:22  [brave.exe] Google 翻譯 - Brave
+----------------------------------------------------------------------------
+  [Ctrl][Ctrl][Ctrl][Ctrl][Ctrl]
+  [LMB]
+  [LMB]
+  [Ctrl]
+  [Clipboard]
+  This file has a text cell containing a double quote that the export didn't escape, so the rest of the table can't be read (from row 1). That's a fault in the file itself rather than anything you did. If your broker offers another export — a transactions, activity or trade history CSV — download that one and upload it instead.
+  c
+  [LMB]
+
+--- WINDOW  2026/10/13 13:08:27  [brave.exe] Google Gemini - Brave
+----------------------------------------------------------------------------
+  [Ctrl]v
+  [LMB]
+
+--- WINDOW  2026/10/13 13:08:41  [brave.exe] OKX Position History CSV Analysis - Google Gemini - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [<-] [<-]fu/3vu. e932;304[ENTER]
+  ;[ENTER]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  fu/3e93ji3vu84y93jo454[ENTER]
+  [ENTER]
+  [LMB]
+  [<-][<-][<-][<-][<-][<-][->][Bk]eo3[ENTER]
+  [ENTER]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/13 13:10:10  [brave.exe] 未命名 - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 13:10:10  [brave.exe] google.com/search?q=%5BOKX_Position_History_Fixed.csv%5D(file-tag%3A+code-generated-file-e4a54451-076e-4635-9350-df96ec5a9741)&sourceid=chrome&ie=UTF-8&source=chrome.ctxt - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 13:10:11  [brave.exe] [OKX_Position_History_Fixed.csv](file-tag: code-generated-file-e4a54451-076e-4635-9350-df96ec5a9741) - Google 搜尋 - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 13:10:14  [brave.exe] OKX Position History CSV Analysis - Google Gemini - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 13:10:15  [Telegram.exe] ‎Сергей Тангян – (33045)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 13:10:19  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 13:10:19  [brave.exe] OKX Position History CSV Analysis - Google Gemini - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Bk][Bk]2k72;304[ENTER]
+  [ENTER]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/13 13:10:46  [brave.exe] 新分頁 - Brave
+----------------------------------------------------------------------------
+  claude[ENTER]
+
+--- WINDOW  2026/10/13 13:10:50  [brave.exe] claude.ai/chat/b6d1bfe8-665c-46ad-ba64-28944d6de222 - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 13:10:51  [brave.exe] Claude - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 13:10:51  [brave.exe] OKX Position History CSV Analysis - Google Gemini - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 13:10:54  [brave.exe] Interest earnings from product sales analysis - Claude - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 13:10:57  [brave.exe] New chat - Claude - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 13:10:57  [brave.exe] 新增對話 - Claude - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 13:10:59  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 13:10:59  [explorer.exe] (untitled)
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 13:11:00  [explorer.exe] MTA0NTg3MDYw~2026-04-11~2026-10-11~8~4009fb33c2755760cae230de1c769246_PositionHistory
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 13:11:02  [brave.exe] 新增對話 - Claude - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 13:11:03  [brave.exe] OKX Position History CSV Analysis - Google Gemini - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [Ctrl]
+  [Clipboard]
+  請修改檔案: This file has a text cell containing a double quote that the export didn't escape, so the rest of the table can't be read (from row 1). That's a fault in the file itself rather than anything you did. If your broker offers another export — a transactions, activity or trade history CSV — download that one and upload it instead. 
+  c
+  [LMB]
+
+--- WINDOW  2026/10/13 13:11:09  [brave.exe] 新增對話 - Claude - Brave
+----------------------------------------------------------------------------
+  [Ctrl]v[ENTER]
+
+--- WINDOW  2026/10/13 13:11:11  [brave.exe] Claude - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 13:11:30  [brave.exe] 修改檔案中的雙引號問題 - Claude - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 13:11:35  [brave.exe] claude.ai 要求儲存
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/13 13:11:51  [brave.exe] 修改檔案中的雙引號問題 - Claude - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/13 13:11:55  [brave.exe] 匯入資料 | TickerScribe - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 13:11:57  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 13:11:57  [explorer.exe] (untitled)
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 13:11:58  [explorer.exe] MTA0NTg3MDYw~2026-04-11~2026-10-11~8~4009fb33c2755760cae230de1c769246_PositionHistory
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 13:11:59  [explorer.exe] 桌面
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 13:12:00  [explorer.exe] MTA0NTg3MDYw~2026-04-11~2026-10-11~8~4009fb33c2755760cae230de1c769246_PositionHistory
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 13:12:01  [explorer.exe] 桌面
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 13:12:15  [explorer.exe] EXCEL區
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/13 13:12:19  [brave.exe] 匯入資料 | TickerScribe - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/13 13:13:15  [brave.exe] 儀表板 - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 13:13:17  [brave.exe] 股票交易 | TickerScribe - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 13:13:19  [brave.exe] 期權交易 | TickerScribe - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 13:13:20  [brave.exe] 股票交易 | TickerScribe - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 13:13:23  [brave.exe] P&L 日曆 | TickerScribe - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 13:13:24  [brave.exe] 交易日誌 | TickerScribe - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 13:13:28  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 13:13:28  [LINE.exe] LINE
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 13:13:31  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 13:13:31  [Riot Client.exe] Riot Client
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 13:13:31  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 13:13:31  [Telegram.exe] ‎Сергей Тангян – (33045)
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 13:13:34  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 13:13:34  [brave.exe] 交易日誌 | TickerScribe - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 13:13:35  [brave.exe] Google 翻譯 - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  ji3j032u03cjo6x96[ENTER]
+  [LMB]
+  [LMB]
+  [LMB]
+   284e94[ENTER]
+  2hc.4[ENTER]
+  [LMB]
+  [Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl]c
+  [Clipboard]
+  I'll be back later—in about two hours.
+
+--- WINDOW  2026/10/13 13:14:01  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 13:14:01  [Telegram.exe] ‎Сергей Тангян – (33045)
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [Ctrl][Ctrl]v[ENTER]
+  [LMB]
+
+--- WINDOW  2026/10/13 13:14:07  [brave.exe] Google 翻譯 - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 13:14:08  [brave.exe] 在中亚最大城市，花100元能买多少东西？当地人真实生活到底怎么样？ - YouTube - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/13 13:14:11  [brave.exe] YouTube - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/13 13:27:48  [powershell.exe] C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+----------------------------------------------------------------------------
