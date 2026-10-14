@@ -1,0 +1,528 @@
+﻿  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/14 05:20:34  [explorer.exe] (untitled)
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/14 05:20:35  [ShellExperienceHost.exe] Windows Shell Experience Host
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/14 05:20:35  [ShellExperienceHost.exe] Network Connections
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/14 05:22:35  [chrome.exe] Upwork - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/14 05:24:17  [chrome.exe] Adebisi S. - Forex Trading | Prop Firm Trader | MT5 EA Developer & FTMO Challenge | Upwork - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/14 05:25:01  [chrome.exe] Project List | Upwork - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/14 05:25:03  [chrome.exe] Telegram Web - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/14 05:51:24  [chrome.exe] New Tab - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/14 05:51:27  [chrome.exe] Project List | Upwork - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/14 05:51:36  [chrome.exe] New Tab - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/14 05:51:44  [chrome.exe] telegram - Google Search - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/14 05:51:49  [chrome.exe] Project List | Upwork - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/14 05:51:51  [chrome.exe] New Tab - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  tele
+  [LMB]
+
+--- WINDOW  2026/10/14 05:51:57  [chrome.exe] telegram web - Google Search - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/14 05:52:04  [chrome.exe] Telegram Web - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/14 05:53:36  [chrome.exe] chromewebstore.google.com/?hl=en&pli=1 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/14 05:53:37  [chrome.exe] Chrome Web Store - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  led[Bk]d[Bk]g
+
+--- WINDOW  2026/10/14 05:55:20  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/14 05:55:21  [chrome.exe] New Tab - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/14 05:55:24  [chrome.exe] Telegram Web - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/14 05:55:28  [chrome.exe] Extensions
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/14 05:55:33  [explorer.exe] (untitled)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/14 05:55:34  [chrome.exe] Chrome Web Store - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [Bk]p
+
+--- WINDOW  2026/10/14 05:55:47  [explorer.exe] (untitled)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/14 05:55:47  [chrome.exe] Telegram Web - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/14 05:55:50  [chrome.exe] Extensions
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/14 05:55:55  [explorer.exe] (untitled)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/14 05:55:55  [chrome.exe] Chrome Web Store - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  l
+  [LMB]
+
+--- WINDOW  2026/10/14 05:56:01  [chrome.exe] Chrome Web Store - Search Results - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/14 05:56:04  [chrome.exe] TelePlus - Multi-Accounts Sender - Chrome Web Store - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/14 05:56:07  [chrome.exe] (untitled)
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/14 05:56:10  [chrome.exe] TelePlus - Multi-Accounts Sender - Chrome Web Store - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/14 05:56:30  [chrome.exe] TelePlus - Multi-Accounts Sender has been added to Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/14 05:56:30  [chrome.exe] Untitled - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/14 05:56:31  [chrome.exe] tg-multi-sender - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/14 05:56:43  [chrome.exe] (untitled)
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/14 05:56:45  [chrome.exe] Extensions
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/14 05:56:49  [chrome.exe] tg-multi-sender - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/14 05:56:51  [chrome.exe] Telegram Web - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/14 05:56:55  [chrome.exe] (untitled)
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  9031286089
+  [LMB]
+
+--- WINDOW  2026/10/14 05:58:37  [ShellExperienceHost.exe] New notification
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/14 05:58:40  [chrome.exe] (untitled)
+----------------------------------------------------------------------------
+  [LMB]
+  46266
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Bk][Bk][Bk][Bk][Bk][Bk][Bk][Bk][Bk][Bk][Bk][Bk][Bk][Bk][Bk][Bk][Bk][Bk][Bk][Bk][Bk][Bk][Bk][Bk][Bk][Bk][Bk]
+
+--- WINDOW  2026/10/14 05:59:18  [chrome.exe] 21 notifications - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/14 05:59:18  [chrome.exe] Telegram Web - Google Chrome
+----------------------------------------------------------------------------
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl]c
+  [Clipboard]
+  https://t.me/forexleakk
+  [LMB]
+
+--- WINDOW  2026/10/14 05:59:43  [chrome.exe] (untitled)
+----------------------------------------------------------------------------
+  [LMB]
+  [Bk][Bk][Bk][Bk][Bk][Bk][Bk][Bk][Bk][Bk][Bk][Bk][Bk][Bk][Bk][Bk][Bk][Bk][Bk][Bk][Bk][Bk][Bk][Bk][Bk][Bk][Bk]
+  [LMB]
+  [Ctrl]v
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Bk][Bk][Bk]100
+  [LMB]
+  [LMB]
+  [Clipboard]
+  @Amobixea01
+  @tel_gard
+  @rashedsw
+  @Mhujeeb
+  @mmber1417
+  @Dndncnsnf
+  @Jonsna
+  @motekhales
+  [LMB]
+
+--- WINDOW  2026/10/14 06:01:31  [chrome.exe] Telegram Web - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl]v
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/14 06:02:37  [chrome.exe] (untitled)
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/14 06:02:46  [chrome.exe] 7 notifications - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/14 06:02:47  [chrome.exe] Telegram Web - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl]
+  [Clipboard]
+  https://t.me/EAFXPRO_chat
+  
+  [Ctrl]c
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/14 06:04:34  [chrome.exe] (untitled)
+----------------------------------------------------------------------------
+  [LMB]
+  [Bk][Bk][Bk][Bk][Bk][Bk][Bk][Bk][Bk][Bk][Bk][Bk][Bk][Bk][Bk][Bk][Bk][Bk][Bk][Bk][Bk][Bk][Ctrl]v
+  [LMB]
+  [LMB]
+  [Clipboard]
+  @Konstantin_Forex_Solutions
+  [LMB]
+
+--- WINDOW  2026/10/14 06:05:22  [chrome.exe] Telegram Web - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [Ctrl][Ctrl]v
+  [LMB]
+  [LMB]
+  [LMB]
+  [Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl]
+  [Clipboard]
+  https://t.me/mqlfree
+  
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/14 06:05:58  [chrome.exe] (untitled)
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [Bk][Bk][Bk][Bk][Bk][Bk][Bk][Bk][Bk][Bk][Bk][Bk][Bk][Bk][Bk][Bk][Bk][Bk][Bk][Bk][Bk][Bk][Bk][Bk][Bk][Bk][Bk][Bk][Bk][Ctrl]v
+  [LMB]
+  [Bk][Bk][Bk]150
+  [LMB]
+  [LMB]
+  [Clipboard]
+  @arash_mehr4
+  @BotMT5123
+  @D3M0L
+  @Mohammadhossein110313
+  @davidsmithforex
+  @Dongthangfx
+  @amrmontasar24
+  @money_invester45
+  @tuananhngo09
+  @Matteoanderson56
+  @Vestidos12
+  @Kenopey
+  @Brice_DeDieu
+  @iraqjy
+  @Tiloney
+  @Tradewithabdultoheeb
+  @VINI_TRADER_01
+  @Musliuuk
+  @Hollysaint0
+  @mr_trillion
+  @SCALPERTAKE0
+  @Mateo6774
+  @AgezD
+  @Jul73
+  @vahid000198700
+  @Sekvek2425
+  @ITrad_Society
+  @KING_PIN000
+  @Owodee
+  @EA_Bottle
+  @NguyenVuTrung
+  @gamingoxe_xyz
+  @vdsx1972
+  @Idris618
+  @Ap7977
+  @nguyenhaiii29
+  @Minanto
+  @xloaderon
+  @SEREKBOL0615
+  @rcsfx
+  @MISHUK2000
+  @schlingerbrasil
+  @M92walker
+  @shahram_nooraninia
+  @wellingtonmarques07
+  @phrayca
+  @Sergio2457
+  @Yordanlechev
+  @ashok3646
+  @dsmnjtk
+  @Abdulqum
+  @MeriteWhamson
+  @chanphuongg
+  @ricameo
+  @Trademindz93
+  @Carlos_Supportt
+  @sophieaugusteen
+  @Mamad_trayd
+  @ANJ1239879
+  @mr_Dh1o
+  @Virendraarni22
+  @Amir_special_boy
+  @ItsRyanJ
+  @Steph_18xo
+  @SAMSON_EA
+  @Bulang_FX
+  @m_r010
+  @kitgain_2022
+  @Minprojum
+  @dtrade007
+  @devdanilo
+  @Scimamon
+  @Oluseun09
+  @Ch_Investmentbank
+  @Walagaaa
+  @IGedeAnomSudanam
+  @Sulaimanisiak1
+  @tehran000222111
+  @Netarammali
+  @code2profit2
+  @PabloAH2026
+  @A20mq
+  @Dark_horse_77
+  @aialertscams
+  @Professional_Alpha_Simple
+  @Majekfx
+  @EnjoFX
+  @EXPERTpro004
+  @Hong_fun1
+  @liamkim1
+  @hzn_za
+  @Maduabuha
+  @essandro_66
+  @Khimpoy1515
+  @suppot738
+  @Balanknairr
+  @Hunter_mr
+  @GiorgioGz
+  @operator_1c
+  @Foorexgold1
+  @chris057572
+  @MIKE9CENT
+  @no_eldeen
+  @teklacha
+  @YusufHaid0
+  @TheAibotceo
+  @Virtubot01
+  @Bcbrendo96
+  @MasterGG93
+  @Ibrahimfx03
+  @JGV2030
+  @arch_moein
+  @xx95fx
+  @Fiormai
+  @Softwareprovider
+  @Vaperesoo
+  @IchsanFx
+  @Kmlkey
+  @dev_pro_3689
+  @olatfxpips
+  @raymondcastrocom
+  @madonna3000
+  @Mabe11111111
+  @IB1940
+  @SAVANA_FZ
+  @gisemi8944
+  @arafatrahman1997
+  @aranvelu
+  @Babatunfx
+  @xP_OxO
+  @ali527moh
+  @xyz_853
+  @ReWijaya
+  @Jw4catss
+  @Colourclashsupport
+  @helmialauliya
+  @Alireza9746
+  @thuanphong998
+  @jannes001
+  @Mohyieddin
+  @Hakere12
+  @MBMi00
+  @Pramz22
+  @shanel0808
+  @Hiz_ManFX
+  @Washington2807
+  @bjay099
+  @Omkar_2609
+  @n8l93zi
+  @Biyela_k
+  [LMB]
+
+--- WINDOW  2026/10/14 06:06:35  [chrome.exe] Telegram Web - Google Chrome
+----------------------------------------------------------------------------
+  [Ctrl][Ctrl][Ctrl][Ctrl][Ctrl] v
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Ctrl]
+  [Clipboard]
+  #ForexTrading #Acc
+  [LMB]
