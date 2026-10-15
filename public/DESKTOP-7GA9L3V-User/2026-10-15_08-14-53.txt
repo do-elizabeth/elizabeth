@@ -1,0 +1,58 @@
+﻿  account manag[Bk]
+  [LMB]
+  [Bk]trading
+  [LMB]
+  [Bk]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/15 08:12:30  [chrome.exe] Upwork - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/15 08:12:53  [chrome.exe] Adebisi S. - Forex Trading | Prop Firm Trader | MT5 EA Developer & FTMO Challenge | Upwork - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/15 08:13:03  [chrome.exe] Upwork - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/15 08:13:56  [explorer.exe] (untitled)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/15 08:13:57  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/15 08:13:57  [ShellExperienceHost.exe] Network Connections
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/15 08:14:07  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/15 08:14:08  [chrome.exe] www.upwork.com - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/15 08:14:52  [chrome.exe] upwork.com/nx/find-work/best-matches/categories?pageTitle=Edit Categories&_modalInfo=%5B%7B"navType"%3A"modal","title"%3A"Edit Categories","modalId"%3A"1792077190354"%7D%5D - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/15 08:14:52  [chrome.exe] Upwork - Google Chrome
+----------------------------------------------------------------------------
