@@ -1,0 +1,32 @@
+﻿  [Bk][Bk][Bk]9[Bk]8103204060[ENTER]
+  400975
+  [LMB]
+
+--- WINDOW  2026/10/17 06:01:16  [chrome.exe] gds.google.com/web/landing?ep=p&gdsid=1026141221&tda=CAA&gm3e=false&authuser=0&hl=en&continue=https://accounts.google.com/ServiceLogin?continue%3Dhttps://mail.google.com/mail/u/0/%26service%3Dmail%26hl%3Den%26authuser%3D0%26passive%3Dtrue%26sarp%3D1%26aodrpl%3D1%26checkedDomains%3Dyoutube%26checkConnection%3Dyoutube:750%26pstMsg%3D1%26osid%3D1&service=mail&rapt=AEjHL4Ms3GolYIKCNsZnNL3-2_w2vriG8XGx9vxAP-aLqbF_KKLrBVB1iOd_rCWVm_CvwwSbR4ftksTylUaKs50Zdz96TaHPPQ&pli=1 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/17 06:01:18  [chrome.exe] Google Account - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/17 06:01:19  [chrome.exe] Account Recovery Options - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/17 06:01:23  [chrome.exe] Set a home address - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/17 06:01:28  [chrome.exe] Gmail - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/17 06:01:32  [chrome.exe] Inbox (1,208) - ayinlaahmed45@gmail.com - Gmail - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/17 06:02:48  [chrome.exe] Adebisi S. - Forex Trading | Prop Firm Trader | MT5 EA Developer & FTMO Challenge | Upwork - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/17 06:03:00  [chrome.exe] Project Catalog | Upwork - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
