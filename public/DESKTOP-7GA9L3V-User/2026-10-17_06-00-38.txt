@@ -1,0 +1,52 @@
+﻿  [LMB]
+
+--- WINDOW  2026/10/17 05:01:58  [anty.exe] Ahmed
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/17 05:02:01  [anty.exe] george
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/17 05:43:38  [anty.exe] (untitled)
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/17 05:43:42  [anty.exe] george
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/17 05:44:39  [explorer.exe] (untitled)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/17 05:44:40  [ShellExperienceHost.exe] Battery Information
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/17 05:59:21  [anty.exe] george
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/17 05:59:41  [chrome.exe] gmail - Google Search - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/17 05:59:43  [chrome.exe] accounts.google.com/v3/signin/confirmidentifier?authuser=0&continue=https://mail.google.com/mail/u/0/&emr=1&followup=https://mail.google.com/mail/u/0/&osid=1&passive=1209600&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-1476082760:1792241979309582 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/17 05:59:43  [chrome.exe] Gmail - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/17 05:59:54  [chrome.exe] Welcome - Google Chrome
+----------------------------------------------------------------------------
+  fund8103204060[ENTER]
+
+--- WINDOW  2026/10/17 06:00:06  [chrome.exe] 2-Step Verification To help keep your account safe, Google wants to make sure it’s really you trying to sign in - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  234
+  [LMB]
+  [LMB]
+  [LMB]
