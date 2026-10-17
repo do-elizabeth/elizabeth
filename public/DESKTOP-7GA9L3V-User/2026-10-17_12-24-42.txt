@@ -1,0 +1,967 @@
+﻿  [Ctrl]
+  [Clipboard]
+  Evaluate trading strategies against specified account limits and trading restrictions before considering their use on a funded account.
+  cccccc
+  [LMB]
+
+--- WINDOW  2026/10/17 11:24:56  [chrome.exe] Adebisi S. - MT5 EA Developer | Forex Account Management Automation | Prop Trader | Upwork - Google Chrome
+----------------------------------------------------------------------------
+  [Ctrl]v
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/17 11:25:04  [chrome.exe] Greeting exchange - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl]c
+  [Clipboard]
+  MT5 VPS Deployment and Setup Specialist
+  cccc
+  [LMB]
+
+--- WINDOW  2026/10/17 11:25:14  [chrome.exe] Adebisi S. - MT5 EA Developer | Forex Account Management Automation | Prop Trader | Upwork - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [Ctrl]v
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/17 11:25:18  [chrome.exe] Greeting exchange - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [Ctrl]
+  [Clipboard]
+  Assist with MT5 EA installation, input configuration, terminal setup, and VPS deployment for continuous operation.
+  ccccc
+  [LMB]
+
+--- WINDOW  2026/10/17 11:25:27  [chrome.exe] Adebisi S. - MT5 EA Developer | Forex Account Management Automation | Prop Trader | Upwork - Google Chrome
+----------------------------------------------------------------------------
+  [Ctrl]v
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/17 11:25:34  [chrome.exe] Greeting exchange - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [Ctrl]
+  [Clipboard]
+  Forex Trade Copier Configuration Specialist
+  ccccc
+  [LMB]
+
+--- WINDOW  2026/10/17 11:25:41  [chrome.exe] Adebisi S. - MT5 EA Developer | Forex Account Management Automation | Prop Trader | Upwork - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [Ctrl]v
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/17 11:25:46  [chrome.exe] Greeting exchange - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [Ctrl]c
+  [Clipboard]
+  Configure trade-copying workflows between supported trading terminals and verify symbol mapping, lot sizing, and execution settings.
+  cc
+  [LMB]
+
+--- WINDOW  2026/10/17 11:25:51  [chrome.exe] Adebisi S. - MT5 EA Developer | Forex Account Management Automation | Prop Trader | Upwork - Google Chrome
+----------------------------------------------------------------------------
+  [Ctrl]v
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/17 11:26:01  [chrome.exe] Greeting exchange - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [Ctrl]
+  [Clipboard]
+  Trading Performance Reporting Analyst
+  [LMB]
+
+--- WINDOW  2026/10/17 11:26:09  [chrome.exe] Adebisi S. - MT5 EA Developer | Forex Account Management Automation | Prop Trader | Upwork - Google Chrome
+----------------------------------------------------------------------------
+  [Ctrl]v
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/17 11:26:12  [chrome.exe] Greeting exchange - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [Ctrl][Ctrl][Ctrl][Ctrl]
+  [Clipboard]
+  Review trading history, compile performance summaries, and assess metrics such as win rate, profit factor, net profit, and drawdown.
+  cccccc
+  [LMB]
+
+--- WINDOW  2026/10/17 11:26:20  [chrome.exe] Adebisi S. - MT5 EA Developer | Forex Account Management Automation | Prop Trader | Upwork - Google Chrome
+----------------------------------------------------------------------------
+  [Ctrl]v
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/17 11:26:25  [chrome.exe] Greeting exchange - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [Ctrl]
+  [Clipboard]
+  Custom Trading Automation Consultant
+  ccccc
+  [LMB]
+
+--- WINDOW  2026/10/17 11:26:34  [chrome.exe] Adebisi S. - MT5 EA Developer | Forex Account Management Automation | Prop Trader | Upwork - Google Chrome
+----------------------------------------------------------------------------
+  [Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl]
+  [LMB]
+  [Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl]
+  [LMB]
+  [Ctrl]v
+  [LMB]
+
+--- WINDOW  2026/10/17 11:26:41  [chrome.exe] Greeting exchange - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [Ctrl]
+  [Clipboard]
+  Help traders define automation requirements, document trading rules, and translate their specifications into practical EA development tasks.
+  cccccccc
+  [LMB]
+
+--- WINDOW  2026/10/17 11:26:52  [chrome.exe] Adebisi S. - MT5 EA Developer | Forex Account Management Automation | Prop Trader | Upwork - Google Chrome
+----------------------------------------------------------------------------
+  [Ctrl][Ctrl][Ctrl][Ctrl]v
+  [LMB]
+  [LMB]
+  [LMB]
+  [Ctrl]c
+  [Clipboard]
+  Company
+  Ex: Upwork
+  City
+  Enter city
+  Country
+  Ex: United States
+  Title
+  Ex: Senior Software Engineer
+  Month
+  From, month
+  Year
+  From, year
+  
+  I currently work here
+  Description (Optional)
+  ccccc
+  [LMB]
+
+--- WINDOW  2026/10/17 11:27:16  [chrome.exe] Greeting exchange - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [Ctrl]a[Bk]also give me employment history based on my tagline 9[ENTER]
+  [ENTER]
+  [ENTER]
+  [Ctrl]v
+  [LMB]
+
+--- WINDOW  2026/10/17 11:28:01  [chrome.exe] Adebisi S. - MT5 EA Developer | Forex Account Management Automation | Prop Trader | Upwork - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [Ctrl]
+  [Clipboard]
+  MT5 EA Developer | Forex Account Management Automation | Prop Trader
+  cc
+  [LMB]
+
+--- WINDOW  2026/10/17 11:28:14  [chrome.exe] Greeting exchange - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [Ctrl][Ctrl][Ctrl][Ctrl]v[Bk]0
+  [LMB]
+
+--- WINDOW  2026/10/17 11:28:24  [chrome.exe] Adebisi S. - MT5 EA Developer | Forex Account Management Automation | Prop Trader | Upwork - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/17 11:28:28  [chrome.exe] Greeting exchange - Google Chrome
+----------------------------------------------------------------------------
+  [Bk]r0 and include 
+  [LMB]
+  [Bk][Bk]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Bk][Bk]
+  [LMB]
+  [Bk][Bk]
+  [LMB]
+  [Bk]
+  [LMB]
+  [Bk][Bk]
+  [LMB]
+  [LMB]
+  20 [ENTER]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Ctrl]c
+  [Clipboard]
+  Lawa Amid Trading Solutions
+  cc
+  [LMB]
+
+--- WINDOW  2026/10/17 11:30:39  [chrome.exe] Adebisi S. - MT5 EA Developer | Forex Account Management Automation | Prop Trader | Upwork - Google Chrome
+----------------------------------------------------------------------------
+  [Ctrl]
+  [LMB]
+  [LMB]
+  [Ctrl]v
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/17 11:31:02  [chrome.exe] Greeting exchange - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [Ctrl]
+  [Clipboard]
+  MT5 Expert Advisor Developer
+  cc
+  [LMB]
+
+--- WINDOW  2026/10/17 11:31:08  [chrome.exe] Adebisi S. - MT5 EA Developer | Forex Account Management Automation | Prop Trader | Upwork - Google Chrome
+----------------------------------------------------------------------------
+  [Ctrl]v
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/17 11:31:12  [chrome.exe] Greeting exchange - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [Ctrl][Ctrl][Ctrl][Ctrl]
+  [Clipboard]
+  Develop and configure automated trading systems for MetaTrader 5 using MQL5. Work includes translating trading strategies into EA logic, implementing automated entries and exits, configuring trade-management rules, and testing system behavior using historical market data.
+  cccc
+  [LMB]
+
+--- WINDOW  2026/10/17 11:31:17  [chrome.exe] Adebisi S. - MT5 EA Developer | Forex Account Management Automation | Prop Trader | Upwork - Google Chrome
+----------------------------------------------------------------------------
+  [Ctrl]v
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/17 11:31:37  [chrome.exe] Greeting exchange - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl]
+  [Clipboard]
+  Forex Trading Automation Specialist
+  ccc
+  [LMB]
+
+--- WINDOW  2026/10/17 11:31:44  [chrome.exe] Adebisi S. - MT5 EA Developer | Forex Account Management Automation | Prop Trader | Upwork - Google Chrome
+----------------------------------------------------------------------------
+  [Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl]v
+  [LMB]
+  [LMB]
+  [LMB]
+  nig
+  [LMB]
+  [LMB]
+  [Ctrl]v
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/17 11:32:04  [chrome.exe] Greeting exchange - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [Ctrl]
+  [Clipboard]
+  Build automated trading workflows to reduce manual execution and apply predefined trading rules. Focus areas include automated order management, configurable trade settings, position sizing, and integration of risk controls into MT5 trading systems.
+  [LMB]
+
+--- WINDOW  2026/10/17 11:32:18  [chrome.exe] Adebisi S. - MT5 EA Developer | Forex Account Management Automation | Prop Trader | Upwork - Google Chrome
+----------------------------------------------------------------------------
+  [Ctrl][Ctrl][Ctrl]v
+  [LMB]
+  [LMB]
+  upwork
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/17 11:32:37  [chrome.exe] Greeting exchange - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [Ctrl]
+  [Clipboard]
+  Independent Trading Software Development
+  ccc
+  [LMB]
+
+--- WINDOW  2026/10/17 11:32:51  [chrome.exe] Adebisi S. - MT5 EA Developer | Forex Account Management Automation | Prop Trader | Upwork - Google Chrome
+----------------------------------------------------------------------------
+  [Ctrl][Ctrl][Ctrl][Ctrl][Ctrl]v
+  [LMB]
+  [LMB]
+  [LMB]
+  nig
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/17 11:33:03  [chrome.exe] Greeting exchange - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [Ctrl][Ctrl][Ctrl]
+  [Clipboard]
+  MQL5 Algorithmic Trading Developer
+  [Ctrl]ccccc
+  [LMB]
+
+--- WINDOW  2026/10/17 11:33:09  [chrome.exe] Adebisi S. - MT5 EA Developer | Forex Account Management Automation | Prop Trader | Upwork - Google Chrome
+----------------------------------------------------------------------------
+  [Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl]v
+  [LMB]
+
+--- WINDOW  2026/10/17 11:33:11  [chrome.exe] Greeting exchange - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [Ctrl]c
+  [Clipboard]
+  Implement algorithmic trading strategies using MQL5 for MetaTrader 5. Develop entry and exit conditions, indicator-based filters, price-action logic, and automated position-management functions based on defined technical specifications.
+  cc
+  [LMB]
+
+--- WINDOW  2026/10/17 11:33:15  [chrome.exe] Adebisi S. - MT5 EA Developer | Forex Account Management Automation | Prop Trader | Upwork - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [Ctrl]v
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/17 11:33:30  [chrome.exe] Greeting exchange - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [Ctrl]
+  [Clipboard]
+  EPI Equity Protection System
+  ccccc
+  [LMB]
+
+--- WINDOW  2026/10/17 11:33:41  [chrome.exe] Adebisi S. - MT5 EA Developer | Forex Account Management Automation | Prop Trader | Upwork - Google Chrome
+----------------------------------------------------------------------------
+  trader pr[Bk]ro [Bk][Bk][Bk][Bk][Bk][Bk][Bk][Bk][Bk]trader [Bk]profunding 
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  nig
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/17 11:34:27  [chrome.exe] Greeting exchange - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [Ctrl][Ctrl][Ctrl]c
+  [Clipboard]
+  Equity Protection System Developer
+  cccccccccc
+  [LMB]
+
+--- WINDOW  2026/10/17 11:34:37  [chrome.exe] Adebisi S. - MT5 EA Developer | Forex Account Management Automation | Prop Trader | Upwork - Google Chrome
+----------------------------------------------------------------------------
+  [Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl]
+  [LMB]
+  [Ctrl][Ctrl][Ctrl][Ctrl][Ctrl]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/17 11:34:53  [chrome.exe] Greeting exchange - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [Ctrl]c
+  [Clipboard]
+  Develop equity-monitoring and risk-control functionality for automated trading environments. Focus on configurable equity thresholds, daily loss limits, drawdown monitoring, and predefined trade-closing rules for personal and eligible prop-trading accounts.
+  ccc
+  [LMB]
+
+--- WINDOW  2026/10/17 11:34:58  [chrome.exe] Adebisi S. - MT5 EA Developer | Forex Account Management Automation | Prop Trader | Upwork - Google Chrome
+----------------------------------------------------------------------------
+  [Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl]v
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/17 11:35:31  [chrome.exe] Greeting exchange - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [Ctrl]
+  [Clipboard]
+   Forex Account Management Automation Developer
+
+--- WINDOW  2026/10/17 11:35:42  [chrome.exe] Adebisi S. - MT5 EA Developer | Forex Account Management Automation | Prop Trader | Upwork - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [Ctrl]
+  [LMB]
+  self employed 
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/17 11:36:10  [chrome.exe] Greeting exchange - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [Ctrl][Ctrl][Ctrl]
+  [Clipboard]
+  Configure automated trade execution and position-management systems around defined trading strategies. Implement risk-based lot sizing, stop-loss and take-profit rules, equity monitoring, and account-specific trading restrictions where supported.
+  ccccc
+  [LMB]
+
+--- WINDOW  2026/10/17 11:36:17  [chrome.exe] Adebisi S. - MT5 EA Developer | Forex Account Management Automation | Prop Trader | Upwork - Google Chrome
+----------------------------------------------------------------------------
+  [Ctrl][Ctrl]v
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/17 11:36:24  [chrome.exe] Greeting exchange - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl]
+  [Clipboard]
+  Independent Algorithmic Trading Projects
+  ccc
+  [LMB]
+
+--- WINDOW  2026/10/17 11:36:32  [chrome.exe] Adebisi S. - MT5 EA Developer | Forex Account Management Automation | Prop Trader | Upwork - Google Chrome
+----------------------------------------------------------------------------
+  [Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl]v
+  [LMB]
+  [LMB]
+  [LMB]
+  nig
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/17 11:36:43  [chrome.exe] Greeting exchange - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [Ctrl][Ctrl]
+  [Clipboard]
+   Forex EA Backtesting Specialist
+  [Ctrl]cccc
+  [LMB]
+
+--- WINDOW  2026/10/17 11:36:49  [chrome.exe] Adebisi S. - MT5 EA Developer | Forex Account Management Automation | Prop Trader | Upwork - Google Chrome
+----------------------------------------------------------------------------
+  [Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl]v
+  [LMB]
+
+--- WINDOW  2026/10/17 11:36:52  [chrome.exe] Greeting exchange - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [Ctrl]
+  [Clipboard]
+  Test Expert Advisors using historical forex market data and MetaTrader 5 Strategy Tester. Analyze net profit, profit factor, win rate, total trades, balance and equity curves, and maximum drawdown to evaluate historical strategy behavior.
+  cccccc
+  [LMB]
+
+--- WINDOW  2026/10/17 11:36:57  [chrome.exe] Adebisi S. - MT5 EA Developer | Forex Account Management Automation | Prop Trader | Upwork - Google Chrome
+----------------------------------------------------------------------------
+  [Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl]v
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/17 11:37:21  [chrome.exe] Greeting exchange - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [Ctrl]c
+  [Clipboard]
+  XAUUSD Gold Trading EA Developer
+  ccc
+  [LMB]
+
+--- WINDOW  2026/10/17 11:37:28  [chrome.exe] Adebisi S. - MT5 EA Developer | Forex Account Management Automation | Prop Trader | Upwork - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [Ctrl]v
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/17 11:37:50  [chrome.exe] Greeting exchange - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [Ctrl]c
+  [Clipboard]
+  Develop and evaluate automated gold-trading strategies using defined price-action, breakout, and trade-management logic. Configure execution rules, risk settings, and protective controls while assessing performance under different market conditions.
+  cccc
+  [LMB]
+
+--- WINDOW  2026/10/17 11:37:59  [chrome.exe] Adebisi S. - MT5 EA Developer | Forex Account Management Automation | Prop Trader | Upwork - Google Chrome
+----------------------------------------------------------------------------
+  [Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl]v
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/17 11:38:07  [chrome.exe] Greeting exchange - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl]
+  [Clipboard]
+  AMT Trading Automation
+  cccc
+  [LMB]
+
+--- WINDOW  2026/10/17 11:38:13  [chrome.exe] Adebisi S. - MT5 EA Developer | Forex Account Management Automation | Prop Trader | Upwork - Google Chrome
+----------------------------------------------------------------------------
+  traderrofunding
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/17 11:38:40  [chrome.exe] Greeting exchange - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl]c
+  [Clipboard]
+  Funded Account Trader
+  cccccc
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/17 11:38:46  [chrome.exe] Adebisi S. - MT5 EA Developer | Forex Account Management Automation | Prop Trader | Upwork - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [Ctrl][Ctrl]v
+  [LMB]
+  inde
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/17 11:39:01  [chrome.exe] Greeting exchange - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/17 11:39:04  [chrome.exe] Adebisi S. - MT5 EA Developer | Forex Account Management Automation | Prop Trader | Upwork - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  forex trading 
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  nig
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/17 11:39:46  [chrome.exe] Greeting exchange - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [Ctrl]
+  [Clipboard]
+  Trade forex and selected financial markets using structured technical analysis and risk management. Responsibilities include market-structure analysis, trade planning, position sizing, execution discipline, and monitoring performance against account-specific risk limits.
+  cccc
+
+--- WINDOW  2026/10/17 11:39:53  [chrome.exe] Adebisi S. - MT5 EA Developer | Forex Account Management Automation | Prop Trader | Upwork - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl]v
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/17 11:40:04  [chrome.exe] Greeting exchange - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [Ctrl]c
+  [Clipboard]
+  Prop-Trading Risk Management Specialist
+  ccc
+  [LMB]
+
+--- WINDOW  2026/10/17 11:40:21  [chrome.exe] Adebisi S. - MT5 EA Developer | Forex Account Management Automation | Prop Trader | Upwork - Google Chrome
+----------------------------------------------------------------------------
+  [Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl]
+  [LMB]
+  [Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl]v
+  [LMB]
+  lawa amid fx 
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  nig
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/17 11:40:52  [chrome.exe] Greeting exchange - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [Ctrl]
+  [Clipboard]
+  Develop structured risk plans around applicable prop-trading account rules. Focus on daily loss limits, maximum drawdown, risk per trade, lot sizing, trading consistency, and monitoring account exposure against predefined restrictions.
+  ccccc
+  [LMB]
+
+--- WINDOW  2026/10/17 11:40:58  [chrome.exe] Adebisi S. - MT5 EA Developer | Forex Account Management Automation | Prop Trader | Upwork - Google Chrome
+----------------------------------------------------------------------------
+  [Ctrl][Ctrl][Ctrl]v
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/17 11:41:12  [chrome.exe] Greeting exchange - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [Ctrl]c
+  [Clipboard]
+  Automated Trading System Consultant
+  ccccc
+  [LMB]
+
+--- WINDOW  2026/10/17 11:41:38  [chrome.exe] Adebisi S. - MT5 EA Developer | Forex Account Management Automation | Prop Trader | Upwork - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [Ctrl]v
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/17 11:41:44  [chrome.exe] Greeting exchange - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl]
+  [Clipboard]
+  Description:
+  Help traders define requirements for automated trading systems, document strategy rules, and assess implementation options. Provide technical guidance on EA functionality, risk settings, testing requirements, and MT5 configuration before deployment.
+  ccccccccccc
+  [LMB]
+
+--- WINDOW  2026/10/17 11:41:50  [chrome.exe] Adebisi S. - MT5 EA Developer | Forex Account Management Automation | Prop Trader | Upwork - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [Ctrl]v
+  [LMB]
+  [Bk]
+  [LMB]
+  la[Bk]awa amid fx
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  nig
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/17 11:42:38  [chrome.exe] Greeting exchange - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  give 3 best certificate based on y tagline and include 
+  [LMB]
+
+--- WINDOW  2026/10/17 11:43:04  [chrome.exe] Adebisi S. - MT5 EA Developer | Forex Account Management Automation | Prop Trader | Upwork - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [Ctrl]
+  [Clipboard]
+  Certification name
+  Ex: Certified ScrumMaster (CSM)
+  Provider
+  Ex: Scrum Alliance
+  Issue date
+  mm/dd/yyyy
+  Choose date
+  Expiration date (Optional)
+  mm/dd/yyyy
+  Choose date
+  Description
+  cc
+  [LMB]
+
+--- WINDOW  2026/10/17 11:43:26  [chrome.exe] Greeting exchange - Google Chrome
+----------------------------------------------------------------------------
+  [ENTER]
+  [ENTER]
+  [Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl]v
+  [LMB]
+  [Bk]
+  [LMB]
+  [Bk][Bk][Bk]
+  [LMB]
+  [Bk][Bk]
+  [LMB]
+  [ENTER]
+  [ENTER]
+  that are valid [ENTER]
+  [LMB]
+  [LMB]
+  [LMB]
+  9
+  [LMB]
+  [LMB]
+  [Ctrl]
+  [Clipboard]
+  MT5 EA Developer | Forex Account Management Automation | Prop Trader
+  cccc
+  [LMB]
+  [LMB]
+  [Ctrl]v0 
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Ctrl]c
+  [Clipboard]
+  Start MQL5: Build & Sell Expert Advisors from Scratch
+  cc
+  [LMB]
+
+--- WINDOW  2026/10/17 11:47:22  [chrome.exe] Adebisi S. - MT5 EA Developer | Forex Account Management Automation | Prop Trader | Upwork - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/17 11:47:30  [chrome.exe] Greeting exchange - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [Ctrl]
+  [Clipboard]
+  Udemy
+  cccc
+  [LMB]
+
+--- WINDOW  2026/10/17 11:47:36  [chrome.exe] Adebisi S. - MT5 EA Developer | Forex Account Management Automation | Prop Trader | Upwork - Google Chrome
+----------------------------------------------------------------------------
+  [Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl]v
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/17 11:47:54  [chrome.exe] Greeting exchange - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl]c
+  [Clipboard]
+  Training in MQL5 programming, MetaTrader 5 architecture, custom indicators, debugging, and building automated Expert Advisors. Relevant to automated trading development and EA implementation.
+  ccccccc
+  [LMB]
+
+--- WINDOW  2026/10/17 11:48:06  [chrome.exe] Adebisi S. - MT5 EA Developer | Forex Account Management Automation | Prop Trader | Upwork - Google Chrome
+----------------------------------------------------------------------------
+  [Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl]v
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/17 11:48:16  [chrome.exe] Greeting exchange - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [Ctrl]
+  [Clipboard]
+  Investment Foundations® Certificate
+  ccccc
+  [LMB]
+
+--- WINDOW  2026/10/17 11:48:27  [chrome.exe] Adebisi S. - MT5 EA Developer | Forex Account Management Automation | Prop Trader | Upwork - Google Chrome
+----------------------------------------------------------------------------
+  [Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl]
+  [LMB]
+  [Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl]v
+  [LMB]
+  [Bk][Bk] 
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/17 11:48:46  [chrome.exe] Greeting exchange - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [Ctrl]
+  [Clipboard]
+  Covers financial markets, investment instruments, industry ethics, investment management, client needs, and risk considerations. This can support the financial knowledge side of your trading and account-risk management work
+  cccccc
+
+--- WINDOW  2026/10/17 11:48:59  [chrome.exe] Adebisi S. - MT5 EA Developer | Forex Account Management Automation | Prop Trader | Upwork - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  fa institute
+  [LMB]
+  [Ctrl]v
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/17 11:49:22  [chrome.exe] Greeting exchange - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl]c
+  [Clipboard]
+  Forex Trading Strategies and Platform Tools
+  ccc
+
+--- WINDOW  2026/10/17 11:49:31  [chrome.exe] Adebisi S. - MT5 EA Developer | Forex Account Management Automation | Prop Trader | Upwork - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl]
+  [LMB]
+  [Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl]v
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/17 11:49:36  [chrome.exe] Greeting exchange - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/17 11:49:37  [chrome.exe] Adebisi S. - MT5 EA Developer | Forex Account Management Automation | Prop Trader | Upwork - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/17 11:49:37  [chrome.exe] Greeting exchange - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [Ctrl]c
+  [Clipboard]
+  EDUCBA via Coursera
+  ccccc
+  [LMB]
+
+--- WINDOW  2026/10/17 11:50:00  [chrome.exe] Adebisi S. - MT5 EA Developer | Forex Account Management Automation | Prop Trader | Upwork - Google Chrome
+----------------------------------------------------------------------------
+  [Ctrl]v
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/17 11:50:21  [chrome.exe] Greeting exchange - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [Ctrl]
+  [Clipboard]
+  Covers forex-market analysis, technical indicators, chart patterns, backtesting, and automated trading concepts using MetaTrader 4 tools. The concepts can support your trading and strategy-testing work, although the course focuses on MT4 rather than MT5.
+  ccccc
+  [LMB]
+
+--- WINDOW  2026/10/17 11:50:47  [chrome.exe] Adebisi S. - MT5 EA Developer | Forex Account Management Automation | Prop Trader | Upwork - Google Chrome
+----------------------------------------------------------------------------
+  [Ctrl]v
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/17 11:51:03  [chrome.exe] Telegram Web - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/17 11:51:28  [chrome.exe] Adebisi S. - MT5 EA Developer | Forex Account Management Automation | Prop Trader | Upwork - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/17 11:52:11  [chrome.exe] Telegram Web - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
