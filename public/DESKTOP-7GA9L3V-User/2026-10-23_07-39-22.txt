@@ -1,0 +1,472 @@
+﻿
+--- WINDOW  2026/10/23 06:39:25  [ShellExperienceHost.exe] New notification
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/23 06:39:27  [chrome.exe] (untitled)
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  33386
+  [LMB]
+  o
+  [LMB]
+  olamide
+  [LMB]
+
+--- WINDOW  2026/10/23 06:39:52  [ShellExperienceHost.exe] New notification
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/23 06:39:57  [chrome.exe] (untitled)
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/23 06:40:12  [chrome.exe] Telegram Web - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [Ctrl]
+  [Clipboard]
+  https://t.me/kalelinvestchat
+  ccc
+  [LMB]
+
+--- WINDOW  2026/10/23 06:40:19  [chrome.exe] (untitled)
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [Ctrl]v
+  [LMB]
+  [LMB]
+  [Clipboard]
+  @mathiassoldoutnow
+  @hacenC2I
+  @STRATOS33
+  @mevasyuk
+  @SHA19951A
+  @Royal_Supp
+  @vcherko
+  @win_4x
+  @KevGinvest
+  @Kalel_Invest
+  @Laurent65
+  [LMB]
+  [LMB]
+  [LMB]
+  100
+  [LMB]
+
+--- WINDOW  2026/10/23 06:41:06  [chrome.exe] Telegram Web - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl]v[ENTER]
+  [LMB]
+  [Ctrl][Ctrl]c
+  [Clipboard]
+  https://t.me/impulsxpassives
+  c
+  [LMB]
+
+--- WINDOW  2026/10/23 06:41:22  [chrome.exe] (untitled)
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl]v
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/23 06:41:36  [chrome.exe] Telegram Web - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/23 06:42:03  [explorer.exe] (untitled)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/23 06:42:05  [chrome.exe] Telegram Web - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/23 06:42:12  [chrome.exe] Download Incogniton for free - The top anti-detect browser - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/23 06:42:18  [chrome.exe] Extensions
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/23 06:42:19  [chrome.exe] Download Incogniton for free - The top anti-detect browser - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/23 06:42:29  [explorer.exe] (untitled)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/23 06:42:29  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/23 06:42:29  [SearchHost.exe] Search
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/23 06:42:30  [explorer.exe] Search
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/23 06:42:36  [explorer.exe] (untitled)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/23 06:42:36  [explorer.exe] File Explorer
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/23 06:42:42  [explorer.exe] Downloads
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/23 06:42:46  [explorer.exe] Window Dialog
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/23 06:42:50  [explorer.exe] Downloads
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/23 06:42:53  [installer (1).tmp.exe] Setup
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/23 06:42:53  [installer (1).tmp.exe] Select Setup Language
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/23 06:42:57  [installer (1).tmp.exe] Setup
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/23 06:42:57  [installer (1).tmp.exe] Setup - Incogniton version 5.0.1.4
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/23 06:43:33  [VC_redist.x64.exe] (untitled)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/23 06:46:20  [installer (1).tmp.exe] Setup
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/23 06:46:25  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/23 06:46:25  [explorer.exe] Downloads
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/23 06:46:25  [installer (1).tmp.exe] Setup
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/23 06:46:27  [chrome.exe] Download Incogniton for free - The top anti-detect browser - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/23 06:46:30  [chrome.exe] Telegram Web - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [Ctrl]
+  [Clipboard]
+  https://t.me/Nurtech_labs/157561
+  ccc
+  [LMB]
+
+--- WINDOW  2026/10/23 06:47:05  [chrome.exe] (untitled)
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [Ctrl]v
+  [LMB]
+  [LMB]
+  [Clipboard]
+  @Bill208
+  @Josetrdr0
+  @Tiphe_22
+  @jenevany
+  @Fredgold10
+  @J0hnTRADES
+  @PetrVojtacapital
+  @Lawaamid9396
+  @DavidEABOT1
+  @fundmakelifegood
+  @joycefx29
+  @royal6578
+  @Sevtaye
+  @Can8161
+  @jasonhyolo
+  @TradeVision_10
+  @talayehn1
+  @driverdyzio26
+  @Ak_cgcs
+  @lucas_1233
+  @Apexvx
+  @jmaney
+  @V0IDXl
+  @Gina22269
+  @UMly7974
+  @tempmarc
+  @phammartin
+  @Calverly
+  @walid1101
+  @JonathanSantaolalla
+  @Aremu146
+  @bkb234
+  @Oluwadantaa
+  @Grasbott
+  @Sergio2457
+  @lerioof
+  @muzdani525
+  @Dmitrii5443
+  @LinTao_65
+  @Taise84
+  @Yuzazifxe
+  @didikurnia
+  @yeatnuts
+  @bitsafesupport2
+  @diegorevautama
+  @Veme_8099
+  @BatmanCallMe
+  @BAAAS90
+  @King042019
+  @call_center71
+  @Shifaaax
+  @iram1794
+  @Meetya88
+  @Vikibacsi
+  @La_Fleur_FX
+  @bjay099
+  @Javiev7
+  @Milancapital1
+  @GeorgeElGreco
+  @Chamakam
+  @layanAIharbi
+  @No_Drama5
+  @Aliquoted
+  @mr_vanya01
+  @rkrkklu
+  @cafioficial1
+  @IB1940
+  @lucasmicheal222
+  @EZEDominionFX_Official
+  @Prashant050199
+  @ZoR00777
+  @Fixsanityy
+  @Luis3mart
+  @Hero4Hero1
+  @Joh_789
+  @oshioyi
+  @Juandv0
+  @AlbertoB33
+  @Ridohxf
+  @Majekfx
+  @grn_111
+  @WonderfulPrince
+  @Soboh1980
+  @Patrick870000
+  @one2Depart
+  @arhusent
+  @ashwaq786055
+  @uncleheard
+  @Immanueli112
+  @Johnnny_G
+  @Christoa
+  @Heydave66
+  @EmmanTai
+  @GaoLei54
+  @the_ea_trading_guy
+  @RicGer
+  @solprinzz
+  @el7awy_karamo
+  @lowlife_88
+  @Hharyoh
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/23 06:47:51  [chrome.exe] Telegram Web - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  joa
+  [LMB]
+  [Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl]v[ENTER]
+  [LMB]
+
+--- WINDOW  2026/10/23 06:48:12  [chrome.exe] Project Catalog | Upwork - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/23 06:48:15  [explorer.exe] (untitled)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/23 06:48:16  (no active window)
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/23 06:48:20  [chrome.exe] Project Catalog | Upwork - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/23 06:51:48  [ShellExperienceHost.exe] New notification
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/23 06:51:49  [chrome.exe] Telegram Web - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl]c
+  [Clipboard]
+  https://t.me/africaintraderforex
+  cccccc
+  [LMB]
+
+--- WINDOW  2026/10/23 06:52:02  [chrome.exe] (untitled)
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl]v
+  [LMB]
+
+--- WINDOW  2026/10/23 06:55:48  [powershell.exe] C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/23 06:58:36  [chrome.exe] (untitled)
+----------------------------------------------------------------------------
+  [Clipboard]
+  @kotegawachristian
+  @Lourenc
+  @Oranais910
+  @MOUHAFOREX
+  @Chasseur_De_Pips
+  @shahzodbek19995
+  @The_GodzillaTrader
+  @MarcTche
+  @Daren_Msk
+  @Henryelsid
+  @Merdy_Metela
+  @issoufouo
+  @akandefawazisola
+  @J_021019
+  @CarlStorm
+  @MatthieuBuild
+  @XAUUSDLIVETREND
+  @ProPhil3
+  @laforce_tranquille25
+  @Oskir207
+  @hendrifijoro
+  @Mont54
+  @akakpoyannick1
+  @Lord_tradi
+  @Mrsdeau
+  @rando610
+  @Hashimblack
+  @sidou_integral
+  @Jeleferai
+  @wixxtrading
+  @The_batman_who_laughs12
+  @Loouuga
+  @YoroJean96
+  @MrBouss
+  @ezattrading
+  @AbNass96
+  @DJMprod
+  @drbelucheelenga
+  @Donvadores24
+  @Bravo_Alph
+  @A3r2s1
+  @drek_douns
+  @MLexis86
+  @DiamantNwaarr
+  @ElSitiir
+  @Onlycandlesetup
+  @gillesbiz
+  @Wendsoservices
+  @rsafx
+  @OUED_ALAMINE
+  @Fx_Elites
+  @Youallneedsomethink
+  @jE93k
+  @Bilkratos
+  @LombreJaune
+  @Edmond08
+  @Dang_19
+  @Bitcoin_enthusiastic
+  @Leaderthebest
+  @DIEUdirigetjrs
+  @WePhish
+  @surajkelotra
+  @ayxvx9
+  @JacquesAt
+  @Tsipers
+  @Tontonlaforce
+  @GGAGXw
+  @Sylvain_akp
+  @faycobusiness
+  @WinnerLuyeye1
+  @graigdev
+  @Armandotrades
+  @SelfMaster735
+  @Norvix18
+  @badirus
+  @adam_malgoubri
+  @Ikahadj
+  @ODC_Donatien
+  @Cocojojo1
+  @MightyKing973
+  @mohsen_paydar
+  @Motchiva
+  @Lucas_UTMs
+  @Davstrategy
+  @Dacloudx
+  @AwonoKolo
+  @Lucienmarci
+  @Innocent1118
+  @OGJ21
+  @Ade1987
+  @shadowtrader13
+  @Gedger
+  @LdO9W0lH8ujD5s1
+  @IgnacioTradingFX
+  @LING_DOR
+  @wilsonyepmo
+  @LIVAILLEFX
+  @m627s
+  @AbLANKYemb
+  @Debrouillard27
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/23 06:58:39  [chrome.exe] 3 notifications - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/23 06:58:39  [chrome.exe] Telegram Web - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl]v[ENTER]
+
+--- WINDOW  2026/10/23 07:34:40  [copilotapphost.exe] Copilot Quick View
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/23 07:34:41  [chrome.exe] Telegram Web - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/23 07:34:48  [copilotapp.exe] Copilot
+----------------------------------------------------------------------------
