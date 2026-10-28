@@ -1,0 +1,605 @@
+﻿
+--- WINDOW  2026/10/28 04:34:49  [Dolphin Anty.exe] Dolphin{anty}
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/28 04:41:13  [anty.exe] george
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/28 04:44:16  [rundll32.exe] Windows Security Alert
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/28 04:44:16  [anty.exe] george
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/28 04:47:42  [Dolphin Anty.exe] Dolphin{anty}
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/28 04:47:49  [anty.exe] Ahmed
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/28 04:48:02  [anty.exe] george
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/28 04:48:10  [explorer.exe] (untitled)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/28 04:48:10  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/28 04:48:10  [anty.exe] Ahmed
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/28 04:48:21  [anty.exe] george
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/28 04:48:26  [Dolphin Anty.exe] Dolphin{anty}
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/28 04:48:39  [anty.exe] ola
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/28 04:55:48  [powershell.exe] C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/28 05:04:30  [anty.exe] ola
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/28 05:05:11  [Dolphin Anty.exe] Dolphin{anty}
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/28 05:09:54  [anty.exe] ola
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/28 05:09:56  [chrome.exe] Telegram Web - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/28 05:09:59  [chrome.exe] ChatGPT - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/28 05:11:28  [chrome.exe] Open
+----------------------------------------------------------------------------
+  [LMB]
+  [Ctrl]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/28 05:11:34  [chrome.exe] ChatGPT - Google Chrome
+----------------------------------------------------------------------------
+   title and descriptiont[Bk] in 600 chaacter and make it sound professional[ENTER]
+
+--- WINDOW  2026/10/28 05:12:11  [chrome.exe] Hello, i want to add this as an Upwork portfolio and i want you to help me with title and description in 600 character and make it sound professional - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/28 05:12:13  [chrome.exe] Hello, i want to add this as an Upwork portfolio and i want you to help me with title and description in 600 character and make it sound professional Please write in English language. - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/28 05:12:14  [chrome.exe] Portfolio Title Description - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/28 05:12:17  [chrome.exe] Upwork Portfolio Writing - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [Ctrl]c
+  [Clipboard]
+  $200K FTMO Trading Challenge Passed
+  [LMB]
+
+--- WINDOW  2026/10/28 05:12:53  [chrome.exe] Adebisi S. - MT5 EA Developer | Forex Account Management Automation | Prop Trader | Upwork - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [Ctrl]v
+  [LMB]
+
+--- WINDOW  2026/10/28 05:13:10  [chrome.exe] Upwork Portfolio Writing - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [Ctrl]c
+  [Clipboard]
+  Successfully achieved the $10,000 profit target on a $200,000 FTMO account, reaching a final balance of $210,175.40. The account generated $10,175.40 in profit, with an 83.80% win rate across 142 trades. Trading performance was supported by structured risk management, controlled position sizing, and systematic execution. The account remained within FTMO’s maximum daily loss and overall loss limits, demonstrating a disciplined approach to prop firm trading objectives and capital preservation.
+  cccccc
+
+--- WINDOW  2026/10/28 05:13:17  [chrome.exe] Adebisi S. - MT5 EA Developer | Forex Account Management Automation | Prop Trader | Upwork - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [Ctrl]v
+  [LMB]
+  forex tradin
+  [LMB]
+  risk mana
+  [LMB]
+  financial tr
+  [LMB]
+  trading stmeta[Bk][Bk][Bk][Bk]
+  [LMB]
+  metatrader 
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/28 05:14:04  [chrome.exe] Open
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/28 05:14:09  [chrome.exe] Adebisi S. - MT5 EA Developer | Forex Account Management Automation | Prop Trader | Upwork - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/28 05:14:14  [chrome.exe] Open
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/28 05:14:19  [chrome.exe] Adebisi S. - MT5 EA Developer | Forex Account Management Automation | Prop Trader | Upwork - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/28 05:14:24  [chrome.exe] Open
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/28 05:14:31  [chrome.exe] Adebisi S. - MT5 EA Developer | Forex Account Management Automation | Prop Trader | Upwork - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/28 05:14:36  [chrome.exe] Open
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/28 05:14:41  [chrome.exe] Adebisi S. - MT5 EA Developer | Forex Account Management Automation | Prop Trader | Upwork - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/28 05:14:47  [chrome.exe] Open
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/28 05:14:54  [chrome.exe] Adebisi S. - MT5 EA Developer | Forex Account Management Automation | Prop Trader | Upwork - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Ctrl]
+  [LMB]
+  [Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl]v
+  [LMB]
+  [Clipboard]
+  MQL4 | MQL5 Developer | MQL4 Programmer | MQL5 Programmer | MT4 | MT5 | MetaTrader | MetaTrader 4 | MetaTrader 5 | MetaTrader Developer | MT4 Developer | MT5 Developer | Forex Trading | Forex Bot | Forex Bots | Forex EA | Expert Advisor | EA Developer | Expert Advisor Developer | Trading Robot | Trading Automation | Algorithm Development | Algorithmic Trading | Trading Algorithms | Trading Strategy | Financial Trading | Foreign Exchange Market | Bot Development | Automation | Scripting | API Integration | API Development | REST API | Trading API | Python | Python Developer | C++ | C++ Developer | Pine Script | Pine Script Developer | TradingView | TradingView Strategy | TradingView Indicator | AI Trading | Machine Learning | MetaTrader Indicator | Custom Indicator | MT4 Indicator | MT5 Indicator | cTrader | NinjaTrader | Cryptocurrency Trading | Bitcoin | Ethereum | Stock Market | Gold Trading | XAUUSD | Gold EA | XAUUSD EA | Risk Management | Money Management | Stop Loss | Take Profit | Break Even | Trailing Stop | Backtesting | Strategy Optimization | Trade Copier | VPS | Telegram API | Prop Firm | Prop Firm Trader | Prop Firm Challenge | Prop Firm EA | Prop Firm Automation | Funded Trader | Funded Trading | Funded Account | Funded Forex Trader | Funded Trading Account | FTMO | 5ers | FundedNext | Instant Funding | Drawdown Protection | Daily Loss Limit | Low Drawdown | MQL4 | MQL5 Developer | MT4 | MT5 | Forex EA | Trading Bot | Trading Strategy | Price Action | Breakout Strategy | Scalping Strategy | Swing Trading | Trend Following | Trading Software | Financial Software Development | Trading Platform Development | Automated Forex Trading | Custom Expert Advisor | MT4 Expert Advisor | MT5 Expert Advisor | Forex Programmer | Trading Dashboard | Trade Management | Portfolio Management | Order Management | Financial Markets | Trading Signals | Signal Generator | Technical Analysis | Market Analysis | Forex Analysis | Prop Firm | Prop Firm Trader | Funded Trader | Funded Account | Prop Firm Challenge Passing | Challenge Passing EA | Equity Protection | Maximum Drawdown | Trading Performance | Forex Automation | Trading Technology | Trading Innovation | Professional Forex Developer | Professional MQL4 Developer | Professional MQL5 Developer | MetaTrader Solutions | Trading Solutions | Forex Robot Developer | Trading System Development | Smart Trading | Quantitative Trading | Financial Automation | Cryptocurrency | Crypto Bot | Bitcoin Trading | API Development | TradingView Automation | Pine Script Strategy | cAlgo | NinjaScript | Trading Algorithms | Expert Advisor Programming | Forex Software | Automated Investment | Trade Execution | Trading Dashboard | Gold Scalper | XAUUSD Scalper | London Session | New York Session | Asian Session | Smart Money Concepts | Liquidity Trading | Support and Resistance | Market Structure | Order Blocks | Fair Value Gap | Trading Analytics | MQL4 | MQL5 | MetaTrader 4 | MetaTrader 5 | MT4 | MT5 | Forex Trading | Forex EA | Trading Bot | Trading Robot | Trading Automation | Algorithm Development | Financial Trading | Foreign Exchange Market | Python | C++ | TradingView | Pine Script | API Integration | cTrader | NinjaTrader | Automation | Bot Development | Prop Firm | Prop Firm Trader | Funded Trader | Funded Account | FTMO EA | Funded Trading Solutions | Prop Firm Trading Solutions | Trading Bot Developer | MetaTrader Developer | Expert MQL Programming | Trading Strategy | Price Action Trading | Breakout Trading | Scalping EA | Swing Trading | Trend Trading | Gold Trading | XAUUSD Trading | Risk Management | Money Management | Low Drawdown EA | Secure Trading Systems | High Performance EA | Reliable Trading Bots | End-to-End Forex Development | Professional Trading Automation | Trading Software Development | Trading Infrastructure | Trading Optimization | Forex Account Management | Trading Technology | MQL4 Developer | MQL5 Developer | MetaTrader Developer | Trading Platform
+  [LMB]
+  [LMB]
+  [LMB]
+  [Ctrl]v
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Ctrl]v
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Ctrl][Ctrl][Ctrl]
+  [LMB]
+  [Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl]v
+  [LMB]
+  [LMB]
+  [LMB]
+  [Ctrl]v
+  [LMB]
+  [LMB]
+  [LMB]
+  [Ctrl]v
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Ctrl]v
+  [LMB]
+  [LMB]
+  [LMB]
+  [Ctrl]v
+  [LMB]
+  [LMB]
+  [LMB]
+  [Ctrl]v
+  [LMB]
+  [LMB]
+  [LMB]
+  [Ctrl]v
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Ctrl]v
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Ctrl]v
+  [LMB]
+  [LMB]
+  [LMB]
+  [Ctrl]v
+  [LMB]
+  [LMB]
+  [LMB]
+  [Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl]v
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Ctrl]v
+  [LMB]
+  [LMB]
+  [LMB]
+  [Ctrl]v
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Ctrl]v
+  [LMB]
+  [LMB]
+  [LMB]
+  [Ctrl]v
+  [LMB]
+  [LMB]
+  [LMB]
+  [Ctrl]v
+  [LMB]
+  [LMB]
+  [LMB]
+  [Ctrl]v
+  [LMB]
+  [LMB]
+  [LMB]
+  [Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl]v
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/28 05:17:18  [chrome.exe] 1 notification - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/28 05:17:18  [chrome.exe] Telegram Web - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/28 05:18:27  [chrome.exe] Upwork Portfolio Writing - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  write for forex automated accon[Bk]unt executionand make it professional [ENTER]
+  [LMB]
+  [Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl]
+  [Clipboard]
+  Automated Forex Account Execution & FTMO Risk Management
+  [Ctrl]cccccccccc
+  [LMB]
+  [LMB]
+  [LMB]
+  also 
+  [LMB]
+   another one based on 
+  [LMB]
+  [Bk][Bk][Bk][Bk][Bk][Bk] 
+  [LMB]
+  [LMB]
+  [Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl]c
+  [Clipboard]
+   Automated Forex Account Execution
+  cccccccccc
+  [LMB]
+
+--- WINDOW  2026/10/28 05:21:18  [chrome.exe] Adebisi S. - MT5 EA Developer | Forex Account Management Automation | Prop Trader | Upwork - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [Ctrl][Ctrl][Ctrl][Ctrl][Ctrl]v[Ctrl][Bk][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl]v
+  [LMB]
+
+--- WINDOW  2026/10/28 05:21:34  [chrome.exe] Upwork Portfolio Writing - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl]c
+  [Clipboard]
+   & Risk Management
+  cccc
+  [LMB]
+
+--- WINDOW  2026/10/28 05:21:57  [chrome.exe] Adebisi S. - MT5 EA Developer | Forex Account Management Automation | Prop Trader | Upwork - Google Chrome
+----------------------------------------------------------------------------
+   mt5 tradind [Ctrl]v
+  [LMB]
+  [Bk][Bk]g
+  [LMB]
+
+--- WINDOW  2026/10/28 05:22:21  [chrome.exe] Upwork Portfolio Writing - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [Ctrl][Ctrl][Ctrl]
+  [Clipboard]
+  Executed forex trades through an automated trading system designed to identify market opportunities and manage trade execution with consistency. The system uses predefined trading rules to execute positions, monitor active trades, and support disciplined risk management with minimal manual intervention. My approach focuses on execution accuracy, position sizing, drawdown control, and systematic trade management. This project demonstrates my experience in automated forex trading, MT5 Expert Advisors (EAs), and technology-driven account management for live and prop trading environments.
+  cccccc
+  [LMB]
+
+--- WINDOW  2026/10/28 05:22:33  [chrome.exe] Adebisi S. - MT5 EA Developer | Forex Account Management Automation | Prop Trader | Upwork - Google Chrome
+----------------------------------------------------------------------------
+  [Ctrl]v
+  [LMB]
+  fore
+  [LMB]
+  financial tr
+  [LMB]
+  trading s
+  [LMB]
+  risk an
+  [LMB]
+  t[Bk]account 
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/28 05:23:47  [chrome.exe] Open
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/28 05:23:52  [chrome.exe] Adebisi S. - MT5 EA Developer | Forex Account Management Automation | Prop Trader | Upwork - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/28 05:24:02  [chrome.exe] Open
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/28 05:24:13  [chrome.exe] Adebisi S. - MT5 EA Developer | Forex Account Management Automation | Prop Trader | Upwork - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  v
+  [Clipboard]
+  MQL4 | MQL5 Developer | MQL4 Programmer | MQL5 Programmer | MT4 | MT5 | MetaTrader | MetaTrader 4 | MetaTrader 5 | MetaTrader Developer | MT4 Developer | MT5 Developer | Forex Trading | Forex Bot | Forex Bots | Forex EA | Expert Advisor | EA Developer | Expert Advisor Developer | Trading Robot | Trading Automation | Algorithm Development | Algorithmic Trading | Trading Algorithms | Trading Strategy | Financial Trading | Foreign Exchange Market | Bot Development | Automation | Scripting | API Integration | API Development | REST API | Trading API | Python | Python Developer | C++ | C++ Developer | Pine Script | Pine Script Developer | TradingView | TradingView Strategy | TradingView Indicator | AI Trading | Machine Learning | MetaTrader Indicator | Custom Indicator | MT4 Indicator | MT5 Indicator | cTrader | NinjaTrader | Cryptocurrency Trading | Bitcoin | Ethereum | Stock Market | Gold Trading | XAUUSD | Gold EA | XAUUSD EA | Risk Management | Money Management | Stop Loss | Take Profit | Break Even | Trailing Stop | Backtesting | Strategy Optimization | Trade Copier | VPS | Telegram API | Prop Firm | Prop Firm Trader | Prop Firm Challenge | Prop Firm EA | Prop Firm Automation | Funded Trader | Funded Trading | Funded Account | Funded Forex Trader | Funded Trading Account | FTMO | 5ers | FundedNext | Instant Funding | Drawdown Protection | Daily Loss Limit | Low Drawdown | MQL4 | MQL5 Developer | MT4 | MT5 | Forex EA | Trading Bot | Trading Strategy | Price Action | Breakout Strategy | Scalping Strategy | Swing Trading | Trend Following | Trading Software | Financial Software Development | Trading Platform Development | Automated Forex Trading | Custom Expert Advisor | MT4 Expert Advisor | MT5 Expert Advisor | Forex Programmer | Trading Dashboard | Trade Management | Portfolio Management | Order Management | Financial Markets | Trading Signals | Signal Generator | Technical Analysis | Market Analysis | Forex Analysis | Prop Firm | Prop Firm Trader | Funded Trader | Funded Account | Prop Firm Challenge Passing | Challenge Passing EA | Equity Protection | Maximum Drawdown | Trading Performance | Forex Automation | Trading Technology | Trading Innovation | Professional Forex Developer | Professional MQL4 Developer | Professional MQL5 Developer | MetaTrader Solutions | Trading Solutions | Forex Robot Developer | Trading System Development | Smart Trading | Quantitative Trading | Financial Automation | Cryptocurrency | Crypto Bot | Bitcoin Trading | API Development | TradingView Automation | Pine Script Strategy | cAlgo | NinjaScript | Trading Algorithms | Expert Advisor Programming | Forex Software | Automated Investment | Trade Execution | Trading Dashboard | Gold Scalper | XAUUSD Scalper | London Session | New York Session | Asian Session | Smart Money Concepts | Liquidity Trading | Support and Resistance | Market Structure | Order Blocks | Fair Value Gap | Trading Analytics | MQL4 | MQL5 | MetaTrader 4 | MetaTrader 5 | MT4 | MT5 | Forex Trading | Forex EA | Trading Bot | Trading Robot | Trading Automation | Algorithm Development | Financial Trading | Foreign Exchange Market | Python | C++ | TradingView | Pine Script | API Integration | cTrader | NinjaTrader | Automation | Bot Development | Prop Firm | Prop Firm Trader | Funded Trader | Funded Account | FTMO EA | Funded Trading Solutions | Prop Firm Trading Solutions | Trading Bot Developer | MetaTrader Developer | Expert MQL Programming | Trading Strategy | Price Action Trading | Breakout Trading | Scalping EA | Swing Trading | Trend Trading | Gold Trading | XAUUSD Trading | Risk Management | Money Management | Low Drawdown EA | Secure Trading Systems | High Performance EA | Reliable Trading Bots | End-to-End Forex Development | Professional Trading Automation | Trading Software Development | Trading Infrastructure | Trading Optimization | Forex Account Management | Trading Technology | MQL4 Developer | MQL5 Developer | MetaTrader Developer | Trading Platform
+  [LMB]
+  [LMB]
+  [LMB]
+  [Ctrl]v
+  [LMB]
+  [LMB]
+  [LMB]
+  [Bk][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl]v
+  [LMB]
+  [LMB]
+  [LMB]
+  [Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl]v[Bk][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl]v
+  [LMB]
+  [LMB]
+  [LMB]
+  [Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl]v
+  [LMB]
+  [LMB]
+  [LMB]
+  [Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl]v[Ctrl][Bk][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl]v
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Ctrl][Ctrl][Ctrl][Ctrl][Ctrl]v
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl]v
+  [LMB]
+  [LMB]
+  [LMB]
+  [Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl]v
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl]v
+  [LMB]
+  [LMB]
+  [LMB]
+  [Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl]v
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl]v
+  [LMB]
+  [LMB]
+  [LMB]
+  [Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl]v
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl]v
+  [LMB]
+  [LMB]
+  [LMB]
+  [Ctrl][Ctrl][Ctrl][Ctrl]v
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl]v
+  [LMB]
+  [LMB]
+  [Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl]v
+  [LMB]
+  [LMB]
+  [LMB]
+  [Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl]v
+  [LMB]
+  [LMB]
+  [LMB]
+  [Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl]v
+  [LMB]
+  [LMB]
+  [LMB]
+  [Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl]v
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl]v
+  [LMB]
+  [LMB]
+  [LMB]
+  [Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl]v
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl]v
+  [LMB]
+  [LMB]
+  [Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl]v
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/28 05:28:19  [chrome.exe] Telegram Web - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/28 05:29:18  [chrome.exe] Upwork Portfolio Writing - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl]
+  [Clipboard]
+  Also Write another one based on forex automated account execution and make it professional
+  ccccccc
+  [LMB]
+  [Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl]v
+  [LMB]
+  [Bk][Bk]
+  [LMB]
+  manaement
+  [LMB]
+  [Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl]c
+  [Clipboard]
+  Professional Forex Account Management | Strategic Trading & Risk Control
+  ccccc
+  [LMB]
+
+--- WINDOW  2026/10/28 05:30:32  [chrome.exe] Adebisi S. - MT5 EA Developer | Forex Account Management Automation | Prop Trader | Upwork - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl]v
+  [LMB]
+  [Bk]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/28 05:31:01  [chrome.exe] Upwork Portfolio Writing - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl]c
+  [Clipboard]
+  Provided forex account management services focused on structured trade execution, market analysis, and disciplined risk management. My approach combines price action, market structure, liquidity analysis, and strategic position sizing to identify trading opportunities while controlling potential losses. I prioritize capital preservation, drawdown monitoring, and consistent execution based on each account’s objectives and risk parameters. With experience in both manual trading and automated systems, I help clients manage live and prop trading accounts using a systematic, transparent, and results-oriented approach.
+  ccccc
+  [LMB]
+
+--- WINDOW  2026/10/28 05:31:27  [chrome.exe] Adebisi S. - MT5 EA Developer | Forex Account Management Automation | Prop Trader | Upwork - Google Chrome
+----------------------------------------------------------------------------
+  [Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl]v
+  [LMB]
+
+--- WINDOW  2026/10/28 05:31:35  [chrome.exe] Upwork Portfolio Writing - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  make it in 600 character[ENTER]
+  [LMB]
+  [Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl]
+  [Clipboard]
+  I provide professional forex account management focused on market analysis, strategic trade execution, and disciplined risk management. My approach combines price action, market structure, and liquidity analysis to identify trading opportunities while controlling risk. I prioritize capital preservation, position sizing, and drawdown monitoring in line with each account’s objectives. With experience in manual trading and automated systems, I manage live and prop trading accounts using a structured, transparent, and professional approach.
+  ccc[Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl]ccccc
+  [LMB]
+
+--- WINDOW  2026/10/28 05:32:25  [chrome.exe] Adebisi S. - MT5 EA Developer | Forex Account Management Automation | Prop Trader | Upwork - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [Bk]
+  [LMB]
+  [LMB]
+  [Bk][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl]v
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/28 05:32:54  [chrome.exe] Open
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/28 05:32:59  [chrome.exe] Adebisi S. - MT5 EA Developer | Forex Account Management Automation | Prop Trader | Upwork - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/28 05:33:03  [chrome.exe] Open
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/28 05:33:06  [chrome.exe] Adebisi S. - MT5 EA Developer | Forex Account Management Automation | Prop Trader | Upwork - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/28 05:34:10  [chrome.exe] Project Catalog | Upwork - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/28 05:34:18  [chrome.exe] Adebisi S. - MT5 EA Developer | Forex Account Management Automation | Prop Trader | Upwork - Google Chrome
+----------------------------------------------------------------------------
