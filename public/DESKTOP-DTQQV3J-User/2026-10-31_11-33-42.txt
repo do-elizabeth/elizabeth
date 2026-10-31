@@ -1,0 +1,2930 @@
+﻿  [LMB]
+
+--- WINDOW  2026/10/31 10:33:58  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/31 10:33:58  [Riot Client.exe] Riot Client
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/31 10:34:00  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/31 10:34:00  [LeagueClientUx.exe] League of Legends
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/31 10:34:03  [Riot Client.exe] Riot Client
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/31 10:34:03  [LeagueClientUx.exe] League of Legends
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/31 10:34:23  [Mobalytics.exe] Mobalytics
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/31 10:34:26  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/31 10:34:26  [LeagueClientUx.exe] League of Legends
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/31 10:35:21  [brave.exe] YouTube - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/31 10:35:21  [brave.exe] $2,242.55 | ETH | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/31 10:35:22  [brave.exe] $2,242.62 | ETH | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/31 10:35:23  [brave.exe] $2,242.72 | ETH | Vest Markets - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/31 10:35:24  [brave.exe] www.okx.com 正要求您
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/31 10:35:26  [brave.exe] $2,242.66 | ETH | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/31 10:35:27  [brave.exe] $2,243.00 | ETH | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/31 10:35:28  [brave.exe] $2,243.14 | ETH | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/31 10:35:30  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/31 10:35:30  [LeagueClientUx.exe] League of Legends
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/31 10:35:31  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/31 10:35:31  [brave.exe] $2,243.10 | ETH | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/31 10:35:33  [brave.exe] $2,243.18 | ETH | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/31 10:35:34  [brave.exe] $2,243.33 | ETH | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/31 10:35:35  [brave.exe] $2,243.31 | ETH | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/31 10:35:36  [brave.exe] $2,243.10 | ETH | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/31 10:35:37  [brave.exe] $2,243.08 | ETH | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/31 10:35:38  [brave.exe] $2,243.02 | ETH | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/31 10:35:39  [brave.exe] $2,243.03 | ETH | Vest Markets - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/31 10:35:40  [brave.exe] $2,243.05 | ETH | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/31 10:35:41  [brave.exe] $2,243.30 | ETH | Vest Markets - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/31 10:35:43  [brave.exe] $2,243.35 | ETH | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/31 10:35:44  [brave.exe] $2,243.48 | ETH | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/31 10:35:45  [brave.exe] $2,243.58 | ETH | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/31 10:35:46  [brave.exe] $2,243.76 | ETH | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/31 10:35:47  [brave.exe] $2,243.79 | ETH | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/31 10:35:49  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/31 10:35:49  [LeagueClientUx.exe] League of Legends
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/31 10:35:51  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/31 10:35:51  [brave.exe] $2,243.79 | ETH | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/31 10:35:51  [brave.exe] $2,243.80 | ETH | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/31 10:35:52  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/31 10:35:52  [LeagueClientUx.exe] League of Legends
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/31 10:35:53  [brave.exe] YouTube - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/31 10:36:04  [LeagueClientUx.exe] League of Legends
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/31 10:36:04  [brave.exe] YouTube - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/31 10:36:14  [LeagueClientUx.exe] League of Legends
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/31 10:36:17  [explorer.exe] (untitled)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/31 10:36:17  [ShellExperienceHost.exe] 音量控制
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/31 10:36:20  [LeagueClientUx.exe] League of Legends
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/31 10:36:22  [Mobalytics.exe] 時不我與#tw2 [TW] - Champion Stats - League of Legends [S26]
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/31 10:36:22  [LeagueClientUx.exe] League of Legends
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/31 10:36:38  [brave.exe] YouTube - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/31 10:36:46  [brave.exe] 日本移動超市，專做深山老人生意，年收竟高達530萬？ - YouTube - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/31 10:36:47  [brave.exe] "Os Embalos de Sábado à Noite Hits" - John Travolta & Bee Gees - YouTube - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/31 10:36:48  [LeagueClientUx.exe] League of Legends
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/31 10:36:56  [Mobalytics.exe] 時不我與#tw2 [TW] - Champion Stats - League of Legends [S26]
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/31 10:36:58  [LeagueClientUx.exe] League of Legends
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/31 10:36:59  [Mobalytics.exe] 時不我與#tw2 [TW] - Champion Stats - League of Legends [S26]
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/31 10:37:01  [LeagueClientUx.exe] League of Legends
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/31 10:37:39  [brave.exe] "Os Embalos de Sábado à Noite Hits" - John Travolta & Bee Gees - YouTube - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/31 10:37:39  [LeagueClientUx.exe] League of Legends
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/31 10:37:42  [explorer.exe] (untitled)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/31 10:37:44  [League of Legends.exe] League of Legends (TM) Client
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/31 10:39:41  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/31 10:39:43  [explorer.exe] (untitled)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/31 10:39:43  [LeagueClientUx.exe] League of Legends
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/31 10:39:44  [explorer.exe] (untitled)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/31 10:39:45  [LeagueClientUx.exe] League of Legends
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/31 10:39:56  [explorer.exe] (untitled)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/31 10:39:58  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/31 10:39:58  [League of Legends.exe] League of Legends (TM) Client
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  d
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  qq
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  f
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  q
+  [RMB]
+  q
+  [RMB]
+  q
+  [RMB]
+  [RMB]
+  q
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  q
+  [RMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [Esc]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  q
+  [RMB]
+  [RMB]
+  q
+  [RMB]
+  f
+  [LMB]
+  d
+  [LMB]
+  d
+  [RMB]
+  dddd
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  q
+  [RMB]
+  [RMB]
+  q
+  [RMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  q
+  [LMB]
+  [LMB]
+  w
+  [LMB]
+  [LMB]
+  w
+  [LMB]
+  w
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  q
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  q
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  d
+  [LMB]
+  [RMB]
+  [RMB]
+  q
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  q
+  [RMB]
+  qq
+  [RMB]
+  [RMB]
+  [RMB]
+  qq
+  [RMB]
+  [RMB]
+  q
+  [RMB]
+  [RMB]
+  q
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc]
+  [LMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  q
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  d
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  d
+  [RMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  qrrrrr
+  [RMB]
+  r
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  qq
+  [RMB]
+  q
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [Esc]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  r
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  q
+  [RMB]
+  q
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  q
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  d
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  w
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  q
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  w
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  d
+  [RMB]
+  fff
+  [RMB]
+  q
+  [RMB]
+  qq
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  q
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  d
+  [RMB]
+  [RMB]
+  [RMB]
+  d
+  [RMB]
+  [RMB]
+  [LMB]
+  w
+  [LMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  q
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc]
+  [LMB]
+  [LMB]
+  [Esc]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [Tab][Tab]
+  [RMB]
+  [Tab]
+  [RMB]
+  [Tab][Tab][Tab]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [Tab]
+  [RMB]
+  [Tab]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  d
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  q
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  q
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  q
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  r
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  q
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  q
+  [RMB]
+  [RMB]
+  [RMB]
+  d
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  q
+  [RMB]
+  q
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  e
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [X1]
+  [RMB]
+  q
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  q
+  [RMB]
+  [RMB]
+  q
+  [RMB]
+  q
+  [RMB]
+  q
+  [RMB]
+  q
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  q
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  q
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  f
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  q
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  rrr
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  d
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  d
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  q
+  [RMB]
+  [RMB]
+  q
+  [RMB]
+  [RMB]
+  q
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  d
+  [LMB]
+  ddd
+  [RMB]
+  d
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  q
+  [LMB]
+  [RMB]
+  [LMB]
+  q
+  [RMB]
+  [RMB]
+  qqq
+  [RMB]
+  [RMB]
+  q
+  [RMB]
+  [RMB]
+  q
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc]
+  [LMB]
+  [LMB]
+  [Tab]
+
+--- WINDOW  2026/10/31 10:51:35  [steamwebhelper.exe] Steam
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/31 10:51:37  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/31 10:51:37  [brave.exe] "Os Embalos de Sábado à Noite Hits" - John Travolta & Bee Gees - YouTube - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/31 10:51:41  [brave.exe] 80s Classic Grooves 🎚️ Michael Jackson, Laura Branigan, Queen, Bee Gees, a-ha 🎬 Songs We Remember - YouTube - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/31 10:51:41  [steamwebhelper.exe] Steam
+----------------------------------------------------------------------------
+  r
+
+--- WINDOW  2026/10/31 10:51:42  [League of Legends.exe] League of Legends (TM) Client
+----------------------------------------------------------------------------
+  r
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  d
+  [LMB]
+  d
+  [RMB]
+  dd
+  [RMB]
+  dd
+  [LMB]
+  d
+  [RMB]
+  d
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  w
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  q
+  [RMB]
+  q
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  q
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  q
+  [RMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc]
+  [LMB]
+  [Esc]
+  [LMB]
+  [Tab][Tab][Tab]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  d
+  [LMB]
+  d
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  e
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  f
+  [RMB]
+  [RMB]
+  q
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  e
+  [RMB]
+  w
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  q
+  [RMB]
+  q
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc]
+  [LMB]
+  r
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  e
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  w
+  [LMB]
+  q
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  w
+  [RMB]
+  q
+  [RMB]
+  q
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  d
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  w
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  q
+  [RMB]
+  q
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  q
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  e
+  [RMB]
+  [X1]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  q
+  [LMB]
+  [LMB]
+  [RMB]
+  q
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  q
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc]
+  [LMB]
+  [RMB]
+  r
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  w
+  [LMB]
+  q
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  q
+  [RMB]
+  q
+  [RMB]
+  q
+  [RMB]
+  [RMB]
+  [RMB]
+  q
+  [RMB]
+  q
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [Esc]
+  [RMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  qq
+  [RMB]
+  qq
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  q
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  q
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  q
+  [RMB]
+  [RMB]
+  q
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  d
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  f
+  [RMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  q
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  r
+  [LMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  r
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  d
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  q
+  [RMB]
+  [RMB]
+  q
+  [RMB]
+  [RMB]
+  q
+  [RMB]
+  [RMB]
+  q
+  [LMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  d
+  [RMB]
+  ddd
+  [RMB]
+  ddd
+  [RMB]
+  [LMB]
+  [RMB]
+  q
+  [RMB]
+  q
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  q
+  [RMB]
+  q
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [Esc]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc][Esc]
+  [LMB]
+  [Esc]r
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc][Esc]
+  [LMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  r
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  r
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  d
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  f
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  q
+  [LMB]
+  [RMB]
+  qq
+  [LMB]
+  [RMB]
+  q
+  [LMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  q
+  [LMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  q
+  [RMB]
+  q
+  [LMB]
+  q
+  [RMB]
+  q
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [Esc][Esc][Esc][Esc]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc][Esc][Esc][Esc]
+  [LMB]
+
+--- WINDOW  2026/10/31 11:01:01  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/31 11:01:05  [Mobalytics.exe] 時不我與#tw2 [TW] - Champion Stats - League of Legends [S26]
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/31 11:01:05  [steamwebhelper.exe] Steam
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/31 11:01:08  [LeagueClientUx.exe] League of Legends
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/31 11:01:08  [Mobalytics.exe] 時不我與#tw2 [TW] - Champion Stats - League of Legends [S26]
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/31 11:01:10  [LeagueClientUx.exe] League of Legends
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/31 11:01:30  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/31 11:01:30  [brave.exe] 80s Classic Grooves 🎚️ Michael Jackson, Laura Branigan, Queen, Bee Gees, a-ha 🎬 Songs We Remember - YouTube - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/31 11:01:32  [brave.exe] $2,244.19 | ETH | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/31 11:01:33  [brave.exe] $2,244.57 | ETH | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/31 11:01:34  [brave.exe] $2,244.71 | ETH | Vest Markets - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/31 11:01:35  [brave.exe] $2,244.77 | ETH | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/31 11:01:36  [brave.exe] $2,244.93 | ETH | Vest Markets - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/31 11:01:37  [brave.exe] $2,245.06 | ETH | Vest Markets - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/31 11:01:40  [LeagueClientUx.exe] League of Legends
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/31 11:19:28  [Mobalytics.exe] 時不我與#tw2 [TW] - Champion Stats - League of Legends [S26]
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/31 11:19:30  [LeagueClientUx.exe] League of Legends
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/31 11:19:32  [steamwebhelper.exe] Steam
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/31 11:19:32  [LeagueClientUx.exe] League of Legends
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/31 11:19:33  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/31 11:19:33  [brave.exe] $2,242.10 | ETH | Vest Markets - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/31 11:19:37  [brave.exe] www.okx.com 正要求您
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/31 11:19:39  [brave.exe] 交易賬戶 - 全球領先的比特幣交易平臺|okx.com - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/31 11:19:40  [brave.exe] YouTube - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/31 11:19:52  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/31 11:19:52  [Mobalytics.exe] 時不我與#tw2 [TW] - Champion Stats - League of Legends [S26]
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/31 11:19:54  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/31 11:19:54  [LeagueClientUx.exe] League of Legends
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/31 11:19:55  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/31 11:19:55  [Mobalytics.exe] 時不我與#tw2 [TW] - Champion Stats - League of Legends [S26]
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/31 11:19:56  [LeagueClientUx.exe] League of Legends
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/31 11:19:57  [brave.exe] YouTube - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/31 11:20:05  [brave.exe] 幣安被盜 63 億美元全過程：3 分 24 秒掃空一個以太坊熱錢包，同一天紐約證交所母公司要把 Trade[XYZ] 在 Hyperliquid 上的永續合約帶進美國 - YouTube - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/31 11:20:07  [LeagueClientUx.exe] League of Legends
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/31 11:20:24  [Mobalytics.exe] 時不我與#tw2 [TW] - Champion Stats - League of Legends [S26]
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/31 11:20:25  [LeagueClientUx.exe] League of Legends
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/31 11:20:46  [explorer.exe] (untitled)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/31 11:20:49  [League of Legends.exe] League of Legends (TM) Client
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc]
+  [RMB]
+  [RMB]
+  [LMB]
+  [Tab][Tab][Tab]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  d
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [ENTER]
+  /dance[ENTER]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  q
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  f
+  [RMB]
+  [RMB]
+  [RMB]
+  ff
+  [RMB]
+  [RMB]
+  qq
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  q
+  [RMB]
+  q
+  [RMB]
+  [LMB]
+  qqq
+  [RMB]
+  q
+  [RMB]
+  [RMB]
+  [RMB]
+  q
+  [RMB]
+  q
+  [RMB]
+  [RMB]
+  [RMB]
+  q
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  d
+  [LMB]
+  [RMB]
+  d
+  [RMB]
+  f
+  [RMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  q
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  w
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  [Esc]
+  [RMB]
+  [RMB]
+  [LMB]
+  [Tab]
+
+--- WINDOW  2026/10/31 11:23:50  [Creative.App.exe] Creative
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/31 11:23:51  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/31 11:23:51  [brave.exe] 【4K画質】装甲騎兵ボトムズ / Armored Trooper Votoms - 炎のさだめ【MAD/AMV】 - YouTube - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/31 11:23:55  [Creative.App.exe] Creative
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/31 11:23:55  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/31 11:23:55  [League of Legends.exe] League of Legends (TM) Client
+----------------------------------------------------------------------------
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  d
+  [LMB]
+  [RMB]
+  [RMB]
+  d
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  q
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  q
+  [RMB]
+  [RMB]
+  q
+  [RMB]
+  q
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  dddd
+  [RMB]
+  d
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  q
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  w
+  [RMB]
+  [RMB]
+  q
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  q
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  q
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  q
+  [RMB]
+  q
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  r
+  [RMB]
+  [RMB]
+  d
+  [LMB]
+  d
+  [RMB]
+  ddd
+  [RMB]
+  dd
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  w
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  d
+  [LMB]
+  d
+  [RMB]
+  df
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  q
+  [RMB]
+  [RMB]
+  [RMB]
+  q
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  q
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  q
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  q
+  [RMB]
+  q
+  [RMB]
+  [RMB]
+  f
+  [RMB]
+  [RMB]
+  d
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  q
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [Tab]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  q
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  e
+  [RMB]
+  [RMB]
+  [RMB]
+  q
+  [RMB]
+  [LMB]
+  d
+  [RMB]
+  dqd
+  [RMB]
+  q
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  q
+  [RMB]
+  [RMB]
+  q
+  [RMB]
+  [LMB]
+  w
+  [RMB]
+  [RMB]
+  q
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  q
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  r
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  q
+  [RMB]
+  [RMB]
+  [RMB]
+  d
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  qq
+  [RMB]
+  [RMB]
+  q
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  q
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  q
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  q
+  [RMB]
+  q
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  f
+  [LMB]
+  d
+  [RMB]
+  [RMB]
+  [RMB]
+  q
+  [RMB]
+  [RMB]
+  q
+  [RMB]
+  q
+  [RMB]
+  [RMB]
+  qq
+  [RMB]
+  q
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  q
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  r
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  q
+  [RMB]
+  q
+  [RMB]
+  [RMB]
+  q
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  e
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  q
+  [RMB]
+  [RMB]
+  q
+  [RMB]
+  [RMB]
+  q
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  q
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  q
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  d
+  [RMB]
+  dddd
+  [RMB]
+  [LMB]
+  w
+  [RMB]
+  q
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  q
+  [RMB]
+  [RMB]
+  q
+  [RMB]
+  q
+  [RMB]
+  q
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc]
+  [RMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  d
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  q
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  q
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  q
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  r
+  [RMB]
+  qq
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  q
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc]
+  [LMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  d
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  d
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  q
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  f
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  q
+  [RMB]
+  q
+  [RMB]
+  r
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  q
+  [RMB]
+  q
+  [RMB]
+  [RMB]
+  q
+  [RMB]
+  [RMB]
+  [RMB]
+  f
+  [RMB]
+  [LMB]
+  dd
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  dd
+  [RMB]
+  qd
+  [RMB]
+  d
+  [RMB]
+  q
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  qq
+  [RMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
