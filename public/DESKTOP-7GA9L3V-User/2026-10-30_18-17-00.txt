@@ -1,0 +1,393 @@
+﻿  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/30 17:18:07  [anty.exe] Fiverr 3
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/30 17:18:26  [anty.exe] This page couldn't be translated
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/30 17:18:29  [anty.exe] Translated
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/30 17:18:32  [anty.exe] Fiverr 3
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/30 17:18:39  [Dolphin Anty.exe] Dolphin{anty}
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/30 17:18:50  [anty.exe] fiverr 5
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/30 17:19:56  [Dolphin Anty.exe] Dolphin{anty}
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/30 17:19:58  [anty.exe] fiverr 5
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/30 17:20:01  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/30 17:20:01  [explorer.exe] (untitled)
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/30 17:20:09  [chrome.exe] New Tab - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/30 17:20:14  [chrome.exe] (untitled)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/30 17:20:16  [(unknown)] (untitled)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/30 17:23:45  [chrome.exe] (untitled)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/30 17:25:50  [powershell.exe] C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/30 17:28:40  [chrome.exe] New Tab - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/30 17:28:41  [chrome.exe] (untitled)
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/30 17:29:53  [chrome.exe] New Tab - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/30 17:31:50  [chrome.exe] Project Catalog | Upwork - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/30 17:31:53  [chrome.exe] New Tab - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/30 17:31:57  [chrome.exe] Your Dashboard - Upwork - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/30 17:32:52  [chrome.exe] upwork.com/nx/find-work/?companyReference=2020837544958209779 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/30 17:32:53  [chrome.exe] Upwork - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/30 17:33:30  [chrome.exe] Project Catalog | Upwork - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/30 17:33:53  [chrome.exe] (2) Messaging | LinkedIn - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/30 17:33:58  [chrome.exe] LinkedIn - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/30 17:34:03  [chrome.exe] (2) LinkedIn - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/30 17:34:04  [chrome.exe] (2) Messaging | LinkedIn - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/30 17:35:28  [chrome.exe] Project Catalog | Upwork - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/30 17:35:34  [chrome.exe] (untitled)
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/30 17:35:50  [chrome.exe] New Tab - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/30 17:35:59  [chrome.exe] (untitled)
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/30 17:36:08  [csrss.exe] chrome.exe - Application Error
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/30 17:38:21  [chrome.exe] Hammed A. - Forex Trader | Account Manager | Prop Firm Trader | EA Bot Developer | Upwork - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/30 17:38:27  [explorer.exe] (untitled)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/30 17:39:10  [chrome.exe] Hammed A. - Forex Trader | Account Manager | Prop Firm Trader | EA Bot Developer | Upwork - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/30 17:39:49  [chrome.exe] Upwork - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/30 17:40:32  [chrome.exe] Project Catalog | Upwork - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/30 17:40:35  [chrome.exe] Hammed A. - Forex Trader | Account Manager | Prop Firm Trader | EA Bot Developer | Upwork - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/30 17:40:44  [chrome.exe] New Tab - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/30 17:40:47  [dwm.exe] New Tab - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/30 17:40:47  [dwm.exe] New Tab - Google Chrome (Not Responding)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/30 17:40:51  [chrome.exe] New Tab - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/30 17:40:51  [chrome.exe] Hammed A. - Forex Trader | Account Manager | Prop Firm Trader | EA Bot Developer | Upwork - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/30 17:40:54  [chrome.exe] New Tab - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/30 17:40:57  System.Diagnostics.Process (chrome) [(unknown)] New Tab - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/30 17:41:03  [chrome.exe] Untitled - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/30 17:41:09  [chrome.exe] Freelancer Profile - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/30 17:41:14  [chrome.exe] Untitled - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/30 17:41:17  [chrome.exe] Project Catalog | Upwork - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/30 17:41:38  [chrome.exe] Freelancer Profile - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/30 17:41:46  [chrome.exe] Surnell S. - Prop Firm Trader | Pass FTMO Challenge | Forex Account Manager | Upwork - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/30 17:42:27  [chrome.exe] (untitled)
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/30 17:42:30  [chrome.exe] New Tab - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/30 17:42:37  System.Diagnostics.Process (chrome) [(unknown)] New Tab - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/30 17:42:40  [chrome.exe] New Tab - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/30 17:43:08  [chrome.exe] Project Catalog | Upwork - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/30 17:43:30  [chrome.exe] mql5.com/en - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/30 17:43:36  [chrome.exe] Ayinla O. - Amazon KDP Publishing Expert | eBook, Hardcover & Kindle Formatting | Upwork - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/30 17:43:40  [chrome.exe] Freelancer Profile - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/30 17:43:45  [chrome.exe] Ayinla O. - Amazon KDP Publishing Expert | eBook, Hardcover & Kindle Formatting | Upwork - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/30 17:44:30  [chrome.exe] New Tab - Google Chrome
+----------------------------------------------------------------------------
+  5[ENTER]
+
+--- WINDOW  2026/10/30 17:44:33  [chrome.exe] mql5 - Google Search - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/30 17:44:35  [chrome.exe] MQL5: automated forex trading, strategy tester and custom indicators in MetaTrader - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/30 17:44:44  [chrome.exe] Hammed A. - Forex Trader | Account Manager | Prop Firm Trader | EA Bot Developer | Upwork - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/30 17:44:47  [chrome.exe] Project Catalog | Upwork - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/30 17:44:52  [chrome.exe] New Tab - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/30 17:45:04  [chrome.exe] MQL5: automated forex trading, strategy tester and custom indicators in MetaTrader - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/30 17:45:05  [chrome.exe] B2B Influencer Marketing Platform | Favikon - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/30 17:45:07  [chrome.exe] Project Catalog | Upwork - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/30 17:45:11  [chrome.exe] Your Dashboard - Upwork - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/30 17:45:20  [chrome.exe] Upwork - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/30 17:45:30  [chrome.exe] Project Catalog | Upwork - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/30 17:45:51  [chrome.exe] Freelancer Profile - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/30 17:45:54  [chrome.exe] Adebisi S. - MT5 EA Developer | Forex Account Management Automation | Prop Trader | Upwork - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/30 17:47:13  [chrome.exe] mql5 - Google Search - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/30 17:47:14  [chrome.exe] MQL5: automated forex trading, strategy tester and custom indicators in MetaTrader - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/30 17:47:18  [chrome.exe] Surnell S. - Prop Firm Trader | Pass FTMO Challenge | Forex Account Manager | Upwork - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/30 17:47:34  [chrome.exe] New Tab - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  mql5[ENTER]
+
+--- WINDOW  2026/10/30 17:47:41  [chrome.exe] mql5 - Google Search - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/30 17:47:44  [chrome.exe] MQL5: automated forex trading, strategy tester and custom indicators in MetaTrader - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/30 17:47:48  [chrome.exe] Create me a roblox full game development gig image for fiverr - Google Search - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/30 17:47:53  [chrome.exe] Project Catalog | Upwork - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/30 17:47:57  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/30 17:47:58  [anty.exe] Fiverr 3
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/30 17:48:02  [chrome.exe] (2) Messaging | LinkedIn - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/30 17:48:06  [chrome.exe] New Tab - Google Chrome
+----------------------------------------------------------------------------
+  m
+
+--- WINDOW  2026/10/30 17:48:18  [chrome.exe] mql5 - Google Search - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/30 17:48:26  [chrome.exe] MQL5: automated forex trading, strategy tester and custom indicators in MetaTrader - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/30 17:48:31  [chrome.exe] Upwork - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/30 17:48:38  [chrome.exe] (2) Messaging | LinkedIn - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/10/30 17:49:22  [chrome.exe] MQL5: automated forex trading, strategy tester and custom indicators in MetaTrader - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/30 17:49:34  [chrome.exe] (405) Discord | Friends - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/10/30 17:51:09  [chrome.exe] Discord - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/10/30 17:51:09  [chrome.exe] Project Catalog | Upwork - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
