@@ -1,0 +1,1055 @@
+﻿
+--- WINDOW  2026.11.01 22:25:19  (no active window)
+----------------------------------------------------------------------------
+   
+
+--- WINDOW  2026.11.01 22:45:51  [LockApp.exe] Не нравится.
+----------------------------------------------------------------------------
+
+--- WINDOW  2026.11.01 22:45:51  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026.11.01 22:45:52  [explorer.exe] UnlockingWindow
+----------------------------------------------------------------------------
+
+--- WINDOW  2026.11.01 22:45:52  [Taskmgr.exe] Диспетчер задач
+----------------------------------------------------------------------------
+
+--- WINDOW  2026.11.01 22:45:56  [ShellExperienceHost.exe] Новое уведомление
+----------------------------------------------------------------------------
+
+--- WINDOW  2026.11.01 22:45:58  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026.11.01 22:45:58  [ShellExperienceHost.exe] Новое уведомление
+----------------------------------------------------------------------------
+
+--- WINDOW  2026.11.01 22:45:58  [explorer.exe] (untitled)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026.11.01 22:46:01  [opera.exe] Загрузка… - Opera
+----------------------------------------------------------------------------
+
+--- WINDOW  2026.11.01 22:46:02  [opera.exe] Экспресс-панель - Opera
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026.11.01 22:46:10  [opera.exe] BTCUSDT.P 77,542.9 ▲ +0.3% Без названия - Opera
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026.11.01 22:46:13  [opera.exe] Live stock, index, futures, Forex and Bitcoin charts on TradingView - Opera
+----------------------------------------------------------------------------
+
+--- WINDOW  2026.11.01 22:46:18  [opera.exe] BTCUSDT.P - Opera
+----------------------------------------------------------------------------
+
+--- WINDOW  2026.11.01 22:46:19  [opera.exe] BTCUSDT.P 77,710.3 ▲ +0.24% Без названия - Opera
+----------------------------------------------------------------------------
+
+--- WINDOW  2026.11.01 22:46:19  [opera.exe] BTCUSDT.P 77,710.2 ▲ +0.24% Без названия - Opera
+----------------------------------------------------------------------------
+
+--- WINDOW  2026.11.01 22:46:21  [opera.exe] BTCUSDT.P 77,710.3 ▲ +0.24% Без названия - Opera
+----------------------------------------------------------------------------
+
+--- WINDOW  2026.11.01 22:46:22  [opera.exe] BTCUSDT.P 77,710.2 ▲ +0.24% Без названия - Opera
+----------------------------------------------------------------------------
+
+--- WINDOW  2026.11.01 22:46:25  [opera.exe] BTCUSDT.P 77,710.3 ▲ +0.24% Без названия - Opera
+----------------------------------------------------------------------------
+
+--- WINDOW  2026.11.01 22:46:27  [opera.exe] BTCUSDT.P 77,710.2 ▲ +0.24% Без названия - Opera
+----------------------------------------------------------------------------
+
+--- WINDOW  2026.11.01 22:46:28  [opera.exe] BTCUSDT.P 77,710.3 ▲ +0.24% Без названия - Opera
+----------------------------------------------------------------------------
+
+--- WINDOW  2026.11.01 22:46:29  [opera.exe] BTCUSDT.P 77,710.2 ▲ +0.24% Без названия - Opera
+----------------------------------------------------------------------------
+
+--- WINDOW  2026.11.01 22:46:30  [opera.exe] BTCUSDT.P 77,710.3 ▲ +0.24% Без названия - Opera
+----------------------------------------------------------------------------
+
+--- WINDOW  2026.11.01 22:46:32  [opera.exe] BTCUSDT.P 77,710.2 ▲ +0.24% Без названия - Opera
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026.11.01 22:46:35  [opera.exe] BTCUSDT.P 77,710.3 ▲ +0.24% Без названия - Opera
+----------------------------------------------------------------------------
+
+--- WINDOW  2026.11.01 22:46:39  [opera.exe] BTCUSDT.P 77,710.2 ▲ +0.24% Без названия - Opera
+----------------------------------------------------------------------------
+
+--- WINDOW  2026.11.01 22:46:40  [opera.exe] BTCUSDT.P 77,710.3 ▲ +0.24% Без названия - Opera
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026.11.01 22:46:44  [opera.exe] BTCUSDT.P 77,710.2 ▲ +0.24% Без названия - Opera
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026.11.01 22:46:45  [opera.exe] BTCUSDT.P 77,710.3 ▲ +0.24% Без названия - Opera
+----------------------------------------------------------------------------
+  [Bk]
+
+--- WINDOW  2026.11.01 22:46:47  [opera.exe] BTCUSDT.P 77,710.2 ▲ +0.24% Без названия - Opera
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026.11.01 22:46:48  [opera.exe] BTCUSD - Opera
+----------------------------------------------------------------------------
+
+--- WINDOW  2026.11.01 22:46:48  [opera.exe] BTCUSD 77,643 ▲ +0.27% Без названия - Opera
+----------------------------------------------------------------------------
+
+--- WINDOW  2026.11.01 22:46:48  [opera.exe] BTCUSD 77,630 ▲ +0.26% Без названия - Opera
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026.11.01 22:47:14  [mbamtray.exe] Malwarebytes Tray Application
+----------------------------------------------------------------------------
+
+--- WINDOW  2026.11.01 22:47:14  [explorer.exe] Program Manager
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026.11.01 22:47:18  [explorer.exe] Проводник
+----------------------------------------------------------------------------
+
+--- WINDOW  2026.11.01 22:47:18  [explorer.exe] Леха
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026.11.01 22:47:24  [McSkill.exe] McSkill
+----------------------------------------------------------------------------
+
+--- WINDOW  2026.11.01 22:47:28  [explorer.exe] Леха
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026.11.01 22:47:33  [javaw.exe] McSkill
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026.11.01 22:48:23  [java.exe] Minecraft 1.7.10
+----------------------------------------------------------------------------
+
+--- WINDOW  2026.11.01 22:49:25  [java.exe] |  McSkill  |  HiTech - 1.7.10  |  Cu_Rent  |
+----------------------------------------------------------------------------
+
+--- WINDOW  2026.11.01 22:50:37  [javaw.exe] McSkill
+----------------------------------------------------------------------------
+
+--- WINDOW  2026.11.01 22:50:38  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026.11.01 22:50:39  [dwm.exe] |  McSkill  |  HiTech - 1.7.10  |  Cu_Rent  | (Не отвечает)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026.11.01 22:50:39  [java.exe] |  McSkill  |  HiTech - 1.7.10  |  Cu_Rent  |
+----------------------------------------------------------------------------
+
+--- WINDOW  2026.11.01 22:51:01  [dwm.exe] |  McSkill  |  HiTech - 1.7.10  |  Cu_Rent  | (Не отвечает)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026.11.01 22:51:02  [java.exe] |  McSkill  |  HiTech - 1.7.10  |  Cu_Rent  |
+----------------------------------------------------------------------------
+
+--- WINDOW  2026.11.01 22:51:16  [dwm.exe] |  McSkill  |  HiTech - 1.7.10  |  Cu_Rent  | (Не отвечает)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026.11.01 22:51:36  [java.exe] |  McSkill  |  HiTech - 1.7.10  |  Cu_Rent  |
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  5[Esc]DFFFFFFFFFD5
+  [LMB]
+  5[Esc][Esc][Esc]5//[Bk];H55
+  [LMB]
+  [LMB]
+  [Esc]FF2DF
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc]2
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc]2FD
+  [RMB]
+  [Esc]
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc]2
+  [RMB]
+  [LMB]
+  [Esc]
+  [RMB]
+  [Esc]
+  [RMB]
+  [Esc]
+  [RMB]
+  [LMB]
+  [Esc]
+  [RMB]
+  [LMB]
+  [Esc]FF
+  [RMB]
+  [Esc]5[^][^][v][v][^][ENTER]
+  5
+  [LMB]
+  [Esc]C[Esc]F
+  [RMB]
+  [Esc]FDFFFFFFFFF2222
+  [RMB]
+  [Esc]
+  [RMB]
+  [Esc]
+  [RMB]
+  [Esc]2FFFF DFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFDF2FFDDDDDDDF222222222DDDDDDDDDF2DKFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF D
+  [RMB]
+  [Esc]C[Esc]FD
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  :20=\[Bk][Bk][Bk][Bk][Bk][Bk][Bk][Bk]:20=B
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc][Esc]FFF
+  [RMB]
+  [Esc]F2DD2D2D2FDK2FDK2FDK2FDK2FFF2F2
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc]F F5[Esc]C[Esc]FDC
+  [LMB]
+  [LMB]
+  [Esc]F
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc]FC[Esc]5
+  [LMB]
+  FFF2FFFFFF                             DDDDDDDDDDFDFFF FFFDK2KFFD2DFK2FFFD  
+  [LMB]
+  FFFF     FF  FF     CFF   FF FF   D           
+  [LMB]
+  22FF   FF                FF    KKKKKKKKKFF                                               5/0CC2[Bk][Bk][Bk][Bk]0CC2[ENTER]
+  F FF FF       FFFFFFFFFFFFFFFFFFFFFF   FF       FFKKKKKKK2KFC[Esc]FFFF  DDFDKKF5/@CD4[ENTER]
+  DFD
+  [LMB]
+  FC[Esc]FF                         FF   D   DDK
+  [RMB]
+  F
+  [LMB]
+  FFFFFFFFFFFFFFFFFD
+  [RMB]
+  FDK
+  [LMB]
+  FFF
+  [LMB]
+  FFFKFFKFFKFFKFFK
+  [LMB]
+  FFFK
+  [LMB]
+  FF                                                                                    D D
+  [RMB]
+  [RMB]
+  [LMB]
+  FF2FD22222
+  [RMB]
+  K
+  [LMB]
+  FDFFFKFFFFKFFKFF                             
+  [LMB]
+  DFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFDFK
+  [RMB]
+  K
+  [LMB]
+  [LMB]
+  F2
+  [LMB]
+  FDK
+  [LMB]
+  FFFFFFFFK
+  [LMB]
+  FF
+  [LMB]
+  F                                                                                          
+  [LMB]
+  FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFDDK
+  [RMB]
+  [LMB]
+  [LMB]
+  FFFFFFFFFF                                                 2
+  [LMB]
+  FFDDD
+  [RMB]
+  FKD
+  [LMB]
+  FFFFFKFFKF
+  [RMB]
+  KF
+  [LMB]
+  FFFFFF
+  [LMB]
+  FFFF                                                                    C
+  [LMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  Q[Esc]
+  [LMB]
+  FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFDFD
+  [RMB]
+  [LMB]
+  FFFFFFFFFFFK F                                                               2
+  [LMB]
+  FDF                                                                                                                                                                                                                                                                                                                                                                                         DDFF FFFF                            FF                 D       FF   FF       FFFF F 
+  [LMB]
+  FFFFFFFFF2F  2FF 2                     DFFFFFFF F       D       D  FFFKKKKKKKKKKKKKKKKKKKKKKKKK2K
+  [RMB]
+  FFFFFFFFFFFFFFFFFDKKKKKKKKKKKKKKKFFFD
+  [LMB]
+  F2FF FFD   
+  [RMB]
+  5[^][ENTER]
+  [LMB]
+  FFKFF F   KDDDDDDDFD
+  [LMB]
+  F
+  [LMB]
+  FDFF                                                                                                                                      
+  [RMB]
+  K
+  [LMB]
+  FFF    
+  [RMB]
+  KFFK5[^][ENTER]
+  KFK
+  [LMB]
+  FFFFFFFFFFFF F22KKK2 F
+  [LMB]
+  FFFFK
+  [RMB]
+  F 
+  [LMB]
+  FFFFFFFFF2KFF DC
+  [LMB]
+  [LMB]
+  [Esc]D 
+  [RMB]
+  F
+  [RMB]
+   D 
+  [RMB]
+                                            
+  [RMB]
+                                                                                                                              
+  [RMB]
+               C
+  [LMB]
+  [LMB]
+  [Esc]
+  [RMB]
+                                                         
+  [RMB]
+                                                                                                                                                                                                                                        
+  [RMB]
+  [RMB]
+                                                                                                                                                                                                                
+  [LMB]
+  [RMB]
+  2
+  [LMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  [RMB]
+   
+  [RMB]
+  2
+  [RMB]
+  DFKDD
+  [RMB]
+  [RMB]
+  [RMB]
+  K
+  [LMB]
+  FF   
+  [RMB]
+  [LMB]
+  F 
+  [LMB]
+  5[Esc]F 
+  [LMB]
+  FFF2F
+  [LMB]
+  FFF    DK
+  [RMB]
+  [LMB]
+  F 
+  [LMB]
+  [LMB]
+  FFF   D
+  [RMB]
+  [LMB]
+  FDF F  FFF 
+  [LMB]
+  2FFFFFF2F22222222F
+  [LMB]
+  K
+  [LMB]
+  F                       D
+  [RMB]
+  [LMB]
+  DF 
+  [LMB]
+  FFF 
+  [LMB]
+  F 
+  [LMB]
+  FFF F FFFFFFFFFFFFFFFFFFFFFFF222
+  [LMB]
+  F                                                         DDK
+  [RMB]
+  F 
+  [LMB]
+   F FF       
+  [LMB]
+  F F  
+  [LMB]
+  FFFFFFFFFFFFFFFFFFFFFFF2F2FD
+  [LMB]
+  F                                                  DD
+  [RMB]
+  [LMB]
+  F 
+  [LMB]
+  F F FF F F 
+  [LMB]
+  F F FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF2F2222222D
+  [LMB]
+  F                       DDDDDDDDDDDDDDDDDDDD
+  [RMB]
+  K
+  [LMB]
+  F F F 
+  [LMB]
+       FFFFFFFFFFFFFFFFFFFFFFFFF2D
+  [LMB]
+  F                                      DDDDDDD
+  [RMB]
+  [LMB]
+  FF
+  [LMB]
+   FFF 
+  [LMB]
+  KFF         FF FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+  [LMB]
+  FFFFFFFFFFFFFFFFFFFFFFF F                                                  DD
+  [RMB]
+  [LMB]
+  F FF F 
+  [LMB]
+  F 
+  [LMB]
+  F 
+  [LMB]
+  KFF FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF2FD
+  [RMB]
+  [LMB]
+  FF                                                          D
+  [LMB]
+  F  KFF F KFF         F 
+  [LMB]
+  F  F [Esc][Esc]5
+  [LMB]
+  FFFF540[ENTER]
+  5A<>B@5;[ENTER]
+  5=5?>=OB=>[ENTER]
+  5D0:5; =04 1@0BL[ENTER]
+  540[ENTER]
+  5?>MB><C O 3>;K9 8 A :8@C>[Bk]:>9[ENTER]
+  5D0:5; =C65[ENTER]
+  5?>B><C GB> 157 =53>[Bk][Bk][Bk][Bk]A25B0 ?8748B[ENTER]
+  2FFFFFFF
+  [RMB]
+  [Esc]
+  [RMB]
+  F  FD 2
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc]540[ENTER]
+  5C<8@05HL[ENTER]
+  5A5@45F[Bk][Bk][Bk][Bk][Bk][Bk][Bk][Bk][Bk][Bk][Bk][Bk][Esc]F D
+  [RMB]
+  [Esc]FFF
+  [RMB]
+  [LMB]
+  [Esc]FK25=06 [Bk][Bk]4 A MB8< 45;0BL H>B0[ENTER]
+  K2F
+  [LMB]
+  K2DF
+  [LMB]
+  K
+  [LMB]
+  [LMB]
+  K2D2D2D2D2DD2D2D2D2D2K5<M A5BL E7[ENTER]
+  DK2FF2K5/;H5[ENTER]
+  5
+  [LMB]
+  [Esc]5>?0[Bk][Bk][Bk]>?0 :8BK ?>;CG8;[ENTER]
+  C[Esc]FFFFFFFFKD
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc]FD
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc]2
+  [RMB]
+  [Esc]
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc]5[^][Bk][Bk][Bk][Bk][Bk][Bk][Bk][Bk][Bk][Bk][Bk][Bk][Bk][Bk][Bk][Bk][Bk][Bk][Bk][Bk][Bk][Bk][Bk][Bk][Bk][Bk][Bk]
+  [LMB]
+  [Esc]D2KDDDDDDDFFFFFFFFFFFFFFFFFFFD
+  [RMB]
+  [Esc]F  FF 2222DD
+  [RMB]
+  DFFFFFFFFFFFFFFFFFFFFF K2FD2
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  F FD F2 KD F
+  [RMB]
+  [Esc] FFFFFFF
+  [RMB]
+  [RMB]
+  [Esc]KK K
+  [RMB]
+  [Esc]
+  [RMB]
+  [Esc]FFFF2D2D2D2D2D2DF2FDKD
+  [LMB]
+  [LMB]
+  [LMB]
+  KD
+  [LMB]
+  [LMB]
+  [RMB]
+  [Esc]5>C 5A[ENTER]
+  DF2
+  [RMB]
+  [LMB]
+  [Esc]55[^][^][^][v][v][^][ENTER]
+  C[Esc]FD
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc]C
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc]F5[Esc] F  KD
+  [RMB]
+  2KD F
+  [RMB]
+  [Esc]KDKD FD K
+  [RMB]
+  [Esc]F C[Esc]F2FDFD2D2F2
+  [RMB]
+  [Esc]FFDFFF
+  [RMB]
+  [Esc]F22KDDFKD
+  [RMB]
+  [Esc]F
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc]DF
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc]
+  [RMB]
+  [Esc]
+  [RMB]
+  [Esc]
+  [RMB]
+  2
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc]DF
+  [RMB]
+  [LMB]
+  [Esc]
+  [RMB]
+  [Esc]
+  [RMB]
+  [Esc]
+  [RMB]
+  [LMB]
+  [LMB]
+  [Esc]
+  [RMB]
+  [LMB]
+  [LMB]
+  [Esc]
+  [RMB]
+  [Esc]
+  [RMB]
+  [LMB]
+  [LMB]
+  [Esc]2
+  [RMB]
+  [Esc]
+  [RMB]
+  [LMB]
+  [Esc]
+  [RMB]
+  [Esc]F2
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc]D
+  [RMB]
+  [RMB]
+  [LMB]
+  [Esc]5/CK[Bk][Bk]FD:7 IBC[ENTER]
+   FDFFFFDKDFDFFD
+  [RMB]
+  [Esc]2FFFFFFFFFF
+  [RMB]
+  [Esc]FFFFFFFFFF22DFFFF2
+  [RMB]
+  [Esc]F2DFD
+  [RMB]
+  [Esc]
+  [RMB]
+  [Esc]2F
+  [RMB]
+  [Esc]
+  [RMB]
+  [Esc]FFFFFFFF2FFFF
+  [RMB]
+  [Esc]5
+  [LMB]
+  FFFF  D FDFF
+  [RMB]
+  [Esc]FF5[^][^][v][ENTER]
+  FKFFFFFFFFFFF
+  [RMB]
+  F[Esc]FD
+  [RMB]
+  [Esc]FFFFF2KF2
+  [RMB]
+  [Esc]F2FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFDF
+  [RMB]
+  [Esc]F2
+  [RMB]
+  [Esc]2
+  [RMB]
+  [Esc]
+  [RMB]
+  [LMB]
+  [Esc]5
+  [LMB]
+  F2D2D2D2FD D D DDD
+  [RMB]
+  2
+  [RMB]
+  [Esc]FD
+  [RMB]
+  [Esc]DD2D2FDDF2FFFFFFFFFDD
+  [RMB]
+  [Esc]25
+  [LMB]
+  [Esc]KDF5/0CC2[ENTER]
+  C[Esc]F
+  [RMB]
+  [Esc]F2
+  [RMB]
+  [Esc]
+  [RMB]
+  [Esc]KDFF
+  [RMB]
+  [Esc]FF2DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDF2FDF F D2F FDDKFFFFFFFFFFFFFFFFFFF FKD
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc]FFFFFFDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDFD
+  [RMB]
+  [RMB]
+  F DK DDDD DK
+  [RMB]
+  FFFFFDF
+  [RMB]
+  [Esc]FFD D F2 
+  [LMB]
+  F2
+  [RMB]
+  [Esc]FFD  F F F
+  [RMB]
+  22222  [Esc]
+  [RMB]
+  [RMB]
+  K2F  F2F 2DD
+  [RMB]
+  [Esc]K
+  [RMB]
+  [Esc]DKFF F DF
+  [RMB]
+  [Esc]FFD
+  [RMB]
+  [Esc]FD
+  [RMB]
+  [Esc]FF
+  [RMB]
+  [Esc]DFDDD K F 2
+  [RMB]
+  [Esc]DK DDDDDDDDDD DK25[Esc]4
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc][Esc]FFFFFFFFFFD
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc][Esc]F2F
+  [RMB]
+  [Esc]D
+  [RMB]
+  [Esc]
+  [RMB]
+  [Esc]DK
+  [RMB]
+  [Esc]
+  [RMB]
+  [LMB]
+  [LMB]
+  [Esc]DF
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc]2F
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc]
+  [LMB]
+  [Esc]F
+  [RMB]
+  [Esc]F  FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF F     DK2FD
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  F
+  [LMB]
+  FF
+  [LMB]
+  FF
+  [LMB]
+  FF
+  [LMB]
+  FD
+  [LMB]
+  FD
+  [LMB]
+  C[Esc] F
+  [LMB]
+  FFDDDDDDDDDC[Esc]DF
+  [LMB]
+  [LMB]
+  F
+  [LMB]
+  FFFFFDFF
+  [LMB]
+  [LMB]
+  [LMB]
+  DF
+  [LMB]
+  FC[Esc]F       FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF  2222DFFD 
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc]FF 2D
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc][Esc]FD
+  [RMB]
+  [LMB]
+  [Esc]F
+  [RMB]
+  2F
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc]4
+  [LMB]
+  [LMB]
+  [Esc][Esc]
+  [RMB]
+  [LMB]
+  [LMB]
+  [Esc]FF K
+  [RMB]
+  [LMB]
+  [Esc]FF 222D
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc]4
+  [LMB]
+  [Esc][Esc]
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc][Esc]FD
+  [RMB]
+  [RMB]
+  [LMB]
+  [Esc]F
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc][Esc]
+  [RMB]
+  [LMB]
+  [Esc]4
+  [LMB]
+  [Esc]
+  [LMB]
+  [Esc][Esc]C[Esc]
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc]4
+  [LMB]
+  [Esc][Esc]:
+  [RMB]
+  [LMB]
