@@ -1,0 +1,662 @@
+﻿
+--- WINDOW  2026.11.01 19:27:32  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026.11.01 19:27:33  [explorer.exe] UnlockingWindow
+----------------------------------------------------------------------------
+
+--- WINDOW  2026.11.01 19:27:33  [javaw.exe] McSkill
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026.11.01 19:28:29  [java.exe] Minecraft 1.7.10
+----------------------------------------------------------------------------
+
+--- WINDOW  2026.11.01 19:29:29  [java.exe] |  McSkill  |  HiTech - 1.7.10  |  Cu_Rent  |
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  FFFFFFFFF
+  [RMB]
+  [Esc]2KDFFFFFF
+  [RMB]
+  Q[Esc]
+  [RMB]
+  KDF
+  [RMB]
+  [Esc]KDF DF    FDKDDF2222DFDD  FFF     2 D F D F
+  [RMB]
+  [Esc]
+  [RMB]
+  [Esc]
+  [RMB]
+  [LMB]
+  [LMB]
+  [Esc]FDKFDKFDFFFFFFFFFFFFFFFFFFFF  FDDD 
+  [LMB]
+  [RMB]
+  [Esc]
+  [LMB]
+  K
+  [RMB]
+  F  D DF
+  [RMB]
+  [Esc]
+  [RMB]
+  2D
+  [RMB]
+  [RMB]
+  2 FDK
+  [RMB]
+  [Esc]FFFFFFF 
+  [RMB]
+  [Esc]F
+  [RMB]
+  [Esc]2
+  [RMB]
+  [Esc] D FD  DK2 F  
+  [LMB]
+  KD FD K
+  [LMB]
+  [LMB]
+  D
+  [LMB]
+  D
+  [LMB]
+  KDD
+  [LMB]
+  DK2FDF F KF  FD
+  [LMB]
+  D
+  [LMB]
+  D2F  FDDDDDDDDDDDD F DF DDDDDKD D D
+  [RMB]
+  K2
+  [RMB]
+  K
+  [RMB]
+  [RMB]
+  K22
+  [RMB]
+  2   FFFFFFFFFFFFFFFFF2222222222222
+  [RMB]
+  [Esc]KF D DF  DF F FD
+  [LMB]
+  [LMB]
+   FD 
+  [RMB]
+  [Esc]D2F
+  [RMB]
+  [Esc]KKF2 FF 222222K2FF 22222222FF22F   
+  [RMB]
+  [Esc]
+  [RMB]
+  [RMB]
+  2K2DD  FDK2F DF F DFFFFFFFFFF FD D FKDDDDF
+  [RMB]
+  K
+  [RMB]
+  KF2
+  [RMB]
+  K
+  [RMB]
+  K
+  [RMB]
+  [Esc]FF2 F D
+  [RMB]
+  [Esc]
+  [RMB]
+  [Esc]
+  [RMB]
+  [Esc]FF
+  [RMB]
+  [Esc]
+  [RMB]
+  [Esc]
+  [RMB]
+  [Esc]F
+  [RMB]
+  [Esc]FFFFFFFFFFFDF DFDK   F DF2F2K 
+  [RMB]
+  [Esc]DF222222222222DFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFK
+  [RMB]
+  [RMB]
+  [RMB]
+  DF
+  [RMB]
+  222222222222222222222D
+  [RMB]
+  [RMB]
+  FFFFFFFFFFFFF2F
+  [RMB]
+  [Esc]K2F 2 F FF FDDD DKFD222222222F22222D22DFD22KFD2D2D2D2D2D2D2D22DD2D2D2D2D2DD22D2D2D2D2D2D2KDF2F 2KFD DFFF F   DK D  DFDF 
+  [LMB]
+  DDFDDFDFDFFK
+  [LMB]
+  [LMB]
+  FFFF 2F DFFDFDFFF22K FF  FK
+  [RMB]
+  [Esc]
+  [RMB]
+  [Esc]2F 
+  [RMB]
+  [Esc]D F   FD F  F
+  [RMB]
+  [Esc]F FFF
+  [RMB]
+  [Esc]
+  [RMB]
+  [Esc]
+  [RMB]
+  [Esc]DFDFK
+  [RMB]
+  K2 F
+  [RMB]
+  [Esc]KD F 2
+  [RMB]
+  F
+  [RMB]
+  D
+  [RMB]
+  K
+  [RMB]
+  D
+  [RMB]
+  KKD
+  [RMB]
+  F 
+  [RMB]
+  F2
+  [RMB]
+  [Esc]DF F  FKD DDK
+  [LMB]
+  FFF2
+  [RMB]
+  [Esc]D F F DDDDDDDDDDD  2 2  D  F   KK
+  [RMB]
+  [Esc]FF2DF
+  [RMB]
+  [Esc]F2
+  [RMB]
+  [Esc]K2 2  F 222  2 2K DDDDDDDDDDDDDDDDDF2FFF2F2FF2 2F F2K
+  [LMB]
+  DDDDDDD
+  [LMB]
+  [RMB]
+  [Esc]
+  [LMB]
+  FFFFFFFFFFFF2FFK
+  [RMB]
+  [Esc]FDDDDD222222222222222FKF2FFF2
+  [RMB]
+  [LMB]
+  [Esc]FFFFFFF  D D D 
+  [RMB]
+  2
+  [RMB]
+  D
+  [RMB]
+  [RMB]
+  [RMB]
+  2
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  2FF      2DF2
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc]DF 2F F22F2DF 22222222DF2FKDF  D  2  22222222
+  [RMB]
+  [LMB]
+  [Esc]F F   2DF
+  [LMB]
+  DF
+  [LMB]
+  [LMB]
+  FDKD
+  [LMB]
+  FD
+  [LMB]
+  [LMB]
+  FDF2
+  [LMB]
+  [LMB]
+  [LMB]
+  FD  DK
+  [LMB]
+  F
+  [LMB]
+  F DK
+  [LMB]
+  FF
+  [LMB]
+  DFFFFFFFK 
+  [RMB]
+  F D
+  [RMB]
+  F 22 2F
+  [LMB]
+  [LMB]
+  FFFFFFDFKF 2
+  [RMB]
+  [RMB]
+  DFDF  D
+  [RMB]
+  [Esc]F 22222222222F
+  [RMB]
+  [Esc]2
+  [RMB]
+  [Esc]
+  [RMB]
+  [Esc]
+  [RMB]
+  [Esc]
+  [RMB]
+  [LMB]
+  [Esc]FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF2F
+  [LMB]
+  F K F
+  [RMB]
+  [RMB]
+  KF 
+  [RMB]
+  KK
+  [RMB]
+  K
+  [RMB]
+  K
+  [RMB]
+  F DD
+  [RMB]
+  D
+  [LMB]
+  2F
+  [RMB]
+  F  DDDDDDD
+  [RMB]
+    DK D  FDFFD KF2K
+  [LMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  K22K
+  [RMB]
+   F FKDK
+  [RMB]
+  K
+  [RMB]
+  K2
+  [RMB]
+  [LMB]
+  FFFFFFF   DF 
+  [RMB]
+  FDF DD FD
+  [LMB]
+  F2
+  [LMB]
+  2
+  [LMB]
+  FD F FFFC
+  [LMB]
+  [LMB]
+  [Esc]KDF22
+  [RMB]
+  K DFDDDDF 
+  [RMB]
+  KF 
+  [LMB]
+  FFFFFFFFFFDFD
+  [LMB]
+  [RMB]
+  F DFFDDDDD 
+  [RMB]
+  D  FD 
+  [LMB]
+  FFFFFFFFFF FD D F2F FD DDDDDDDD22 F 2 
+  [RMB]
+   2
+  [RMB]
+  K 
+  [RMB]
+  [RMB]
+   K K 
+  [RMB]
+  K   
+  [RMB]
+   
+  [RMB]
+  [RMB]
+   K
+  [RMB]
+  F 
+  [LMB]
+  FD D  DDFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+  [LMB]
+  FKKDF FD
+  [LMB]
+  FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF  DF DFFDKD
+  [RMB]
+  [RMB]
+  D22
+  [RMB]
+  DD
+  [RMB]
+  DDDDDK
+  [RMB]
+  F D2
+  [RMB]
+  [RMB]
+  F 
+  [LMB]
+  DF
+  [RMB]
+  [RMB]
+  [Esc]2F 
+  [LMB]
+  [LMB]
+           FFFFFF
+  [LMB]
+  KK
+  [LMB]
+  K
+  [LMB]
+   F FD    FFFFFFFFFFFFF      FD D K2F DFFF  F  D DF
+  [RMB]
+  22
+  [RMB]
+  [RMB]
+  FD
+  [RMB]
+  [RMB]
+  FD
+  [RMB]
+  F2DFD
+  [RMB]
+  K DFD
+  [RMB]
+  2F22222KDFFFFFFFFFFFFFFFFFFF    FFDD
+  [RMB]
+  [Esc]F   F
+  [RMB]
+  [Esc]2
+  [RMB]
+  [LMB]
+  [Esc][Esc]F F
+  [RMB]
+  [Esc]
+  [RMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc]F2
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc]KD2F
+  [RMB]
+  [LMB]
+  [Esc]FFFFFFFF5/F[Bk]0CC2[Bk][Bk][Bk][Bk]0CC2[ENTER]
+  5/;3[Bk]H5[ENTER]
+  5
+  [LMB]
+  [LMB]
+  [Esc][Esc]
+  [LMB]
+  [Esc]5555
+  [LMB]
+  5/FD:7 IBC[ENTER]
+  K2FDDDDDKDDFDFC[Esc]FDFF2
+  [RMB]
+  [Esc]FFFFF
+  [RMB]
+  [Esc]F2FF
+  [RMB]
+  [Esc]
+  [RMB]
+  [Esc]
+  [RMB]
+  [Esc]F2
+  [RMB]
+  [Esc]2FFFFFFFFFFFFF
+  [RMB]
+  [Esc]F2
+  [RMB]
+  [Esc]FFFFFFFFF2
+  [RMB]
+  [Esc]F2
+  [RMB]
+  [Esc]F
+  [RMB]
+  [Esc]
+  [RMB]
+  [Esc]FFFFFFFFFFFFFFFFFFFFFFDF
+  [RMB]
+  [RMB]
+  KK22222222222222222222222222222FFFFF
+  [RMB]
+  [Esc]DF
+  [RMB]
+  [RMB]
+  22K2FFFFFFFFF
+  [RMB]
+  FF222222222222222222222222222222KDFFFFFFFFFFFFFFFFFFFFFFFFFFF222222222222222222222222222FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFDF222FDF2222222222222222FFFFFFFFFFFFDDDF
+  [RMB]
+  [Esc]FFFFFFFF222222222
+  [RMB]
+  [Esc]FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF222222F22222222222222222222222222F2222DFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFK
+  [RMB]
+  [Esc]
+  [RMB]
+  FF
+  [RMB]
+  [Esc]F2DDDDDDDDDF
+  [RMB]
+  [Esc]DDDDFD2
+  [RMB]
+  [Esc]FDFD2F
+  [RMB]
+  [Esc]D22
+  [RMB]
+  [Esc]FFFFFFFFFFF[Ctrl]K
+  [LMB]
+  [RMB]
+  F
+  [RMB]
+  FK95[^][ENTER]
+  FFFFFFFF2F2222222FFDFFFFFFFFFFFFFF F F
+  [RMB]
+  [Esc]
+  [RMB]
+  F2FDDDFFFFFFFFFFFFFFFFFF2F
+  [RMB]
+  [Esc]D
+  [RMB]
+  [Esc]2FFD2K
+  [RMB]
+  [Esc]2F222222222KFFF222222F22222222222222222222F222222222F25
+  [LMB]
+  FFFFFFFFFFFFFFFFFFFFFFFFFFFF2FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF  FFFFFFFFFFF FFFFFFFFFFFFFF2
+  [RMB]
+  KD2
+  [LMB]
+  DFFDFDDDDDFDF     FF2DDDDDDDDDDDDD DDD222FFFFFFF  22222 2FFFF  2                  FFFFFFF FFFFFFF2222222DDDDFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF0  FFFFFFFFFFFFFFFFF F FF 2 FF  D2D
+  [RMB]
+  [RMB]
+  [RMB]
+  2FFFFK
+  [RMB]
+  FD
+  [RMB]
+  [RMB]
+  F
+  [RMB]
+  [RMB]
+  K
+  [RMB]
+  KKKKKKKK2FF
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  F
+  [RMB]
+  FFFFFFFFFFFFFFFFFFF
+  [RMB]
+  FFFFF FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF222222222222222222FFFF F22222222D FFFFFFFFFFFFFFFFFFFFFFFFFF  FFFFFFFFFFF F D222FFFFFFFF F            FF DDDD22222222222FF   FF                                                         DDDDDDDDDDDDDDD 2 DK
+  [RMB]
+  KKKKKD
+  [RMB]
+  FD
+  [RMB]
+  2
+  [RMB]
+  2222222KKKKKKKKKKKKKKKKKKKKKKKKKKKKKK5/FD[Bk][Bk]@K[Bk]D44IFCCB[ENTER]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc]5[Esc]5[^][ENTER]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc]5[^][ENTER]
+  [LMB]
+  [LMB]
+  [LMB]
+                        
+  [LMB]
+                         
+  [LMB]
+                       
+  [LMB]
+                          
+  [LMB]
+                        
+  [LMB]
+  [LMB]
+  [LMB]
+                                  
+  [LMB]
+                               
+  [LMB]
+                                 
+  [LMB]
+                                    
+  [LMB]
+     
+  [LMB]
+                               
+  [LMB]
+    
+  [LMB]
+  [LMB]
+  [LMB]
+                            
+  [LMB]
+  [Esc]5[^][ENTER]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
