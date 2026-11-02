@@ -1,0 +1,512 @@
+﻿  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/02 04:54:07  [chrome.exe] New Tab - Tutorial-Profile
+----------------------------------------------------------------------------
+  crome w
+  [LMB]
+
+--- WINDOW  2026/11/02 04:54:22  [chrome.exe] google.com/search?q=chrome+web+store&oq=chrome+w&gs_lcrp=EgZjaHJvbWUqCggBEAAYsQMYgAQyBggAEEUYOTIKCAEQABixAxiABDIKCAIQABixAxiABDIKCAMQABixAxiABDIHCAQQABiABDIKCAUQABixAxiABDIHCAYQABiABDIGCAcQBRhA0gEINDYwOWowajeoAgCwAgA&sourceid=chrome&source=chrome.ob&ie=UTF-8 - Tutorial-Profile
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/02 04:54:23  [chrome.exe] Google Search - Tutorial-Profile
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/02 04:54:29  [chrome.exe] chrome web store - Google Search - Tutorial-Profile
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/02 04:54:40  [chrome.exe] chromewebstore.google.com/category/extensions/productivity/education - Tutorial-Profile
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/02 04:54:42  [chrome.exe] Chrome Web Store - Education - Tutorial-Profile
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/02 04:54:51  [chrome.exe] Chrome Web Store - Tutorial-Profile
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/02 04:54:54  [chrome.exe] Chrome Web Store - Extensions - Tutorial-Profile
+----------------------------------------------------------------------------
+  [LMB]
+  ghoster
+  [LMB]
+
+--- WINDOW  2026/11/02 04:55:09  [chrome.exe] Ghostery AdBlocker for Privacy - Chrome Web Store - Tutorial-Profile
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  aiprm
+  [LMB]
+
+--- WINDOW  2026/11/02 04:55:22  [chrome.exe] AIPRM for ChatGPT - Chrome Web Store - Tutorial-Profile
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/02 04:55:25  [chrome.exe] (untitled)
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/02 04:55:26  [chrome.exe] AIPRM for ChatGPT - Chrome Web Store - Tutorial-Profile
+----------------------------------------------------------------------------
+  [LMB]
+  ghos
+  [LMB]
+
+--- WINDOW  2026/11/02 04:55:38  [chrome.exe] Ghostery AdBlocker for Privacy - Chrome Web Store - Tutorial-Profile
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/02 04:55:42  [chrome.exe] (untitled)
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/02 04:55:44  [chrome.exe] Ghostery AdBlocker for Privacy - Chrome Web Store - Tutorial-Profile
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/02 04:55:47  [chrome.exe] New Tab - Tutorial-Profile
+----------------------------------------------------------------------------
+  scam
+  [LMB]
+
+--- WINDOW  2026/11/02 04:55:55  [chrome.exe] scamalytics - Google Search - Tutorial-Profile
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/02 04:56:00  [chrome.exe] What Is My IP Address? - Find IP and Check Leaks - Tutorial-Profile
+----------------------------------------------------------------------------
+  [LMB]
+  [Clipboard]
+  23.27.115.248
+  [LMB]
+
+--- WINDOW  2026/11/02 04:56:07  [chrome.exe] scamalytics - Google Search - Tutorial-Profile
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/02 04:56:51  [chrome.exe] Web Site Source - Fraud Check - Tutorial-Profile
+----------------------------------------------------------------------------
+  [LMB]
+  [Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl]v
+  [LMB]
+
+--- WINDOW  2026/11/02 04:57:29  [chrome.exe] 23.27.115.248 ( Ace Data Centers II ) Fraud Risk - Tutorial-Profile
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/02 04:57:49  [chrome.exe] Ghostery AdBlocker for Privacy - Chrome Web Store - Tutorial-Profile
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/02 04:59:14  [chrome.exe] Ghostery AdBlocker for Privacy has been added to Chromium
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/02 05:00:35  [chrome.exe] Ghostery AdBlocker for Privacy - Chrome Web Store - Tutorial-Profile
+----------------------------------------------------------------------------
+  [LMB]
+  aip
+  [LMB]
+
+--- WINDOW  2026/11/02 05:00:41  [chrome.exe] AIPRM for ChatGPT - Chrome Web Store - Tutorial-Profile
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/02 05:00:43  [chrome.exe] (untitled)
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/02 05:00:44  [chrome.exe] AIPRM for ChatGPT - Chrome Web Store - Tutorial-Profile
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/02 05:00:58  [chrome.exe] AIPRM for ChatGPT has been added to Chromium
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/02 05:00:59  [chrome.exe] Untitled - Tutorial-Profile
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/02 05:00:59  [chrome.exe] AIPRM for ChatGPT - Tutorial-Profile
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/02 05:01:01  [chrome.exe] (untitled)
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/02 05:01:03  [chrome.exe] AIPRM for ChatGPT - Tutorial-Profile
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/02 05:01:07  [chrome.exe] ChatGPT: Chat, Work, Create & Code with AI - Tutorial-Profile
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  ayinlaahmed4062gmail.com
+  [LMB]
+  [LMB]
+  [Ctrl]
+  [Clipboard]
+  ayinlaahmed406@gmail.com
+  cc[Bk]
+  [LMB]
+
+--- WINDOW  2026/11/02 05:02:16  [chrome.exe] ChatGPT - Tutorial-Profile
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/02 05:02:21  [chrome.exe] accounts.google.com/v3/signin/identifier?opparams=%253Faudience%253D799222349882-ne3i0s9jdm5s0p7ll2d7tlsi1vc1halt.apps.googleusercontent.com&dsh=S-2113083785%3A1793624541358778&client_id=799222349882-ne3i0s9jdm5s0p7ll2d7tlsi1vc1halt.apps.googleusercontent.com&nonce=amtJD4JpPQUj2AsBPcC1&o2v=2&redirect_uri=https%3A%2F%2Fauth.openai.com%2Fapi%2Faccounts%2Fcallback%2Fgoogle&response_type=code&scope=openid+profile+email&service=lso&state=65d8c09a-4ef0-42cf-afca-a71f874d1c65&flowName=GeneralOAuthFlow&continue=ht
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/02 05:02:22  [chrome.exe] Sign in - Google Accounts - Tutorial-Profile
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [Ctrl]v
+  [LMB]
+
+--- WINDOW  2026/11/02 05:02:46  [chrome.exe] Welcome - Tutorial-Profile
+----------------------------------------------------------------------------
+  fund8103204060[ENTER]
+  fund1111[ENTER]
+  [LMB]
+
+--- WINDOW  2026/11/02 05:03:05  [ShellExperienceHost.exe] New notification
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/02 05:03:06  [chrome.exe] Welcome - Tutorial-Profile
+----------------------------------------------------------------------------
+  f
+  [LMB]
+  fund1234[ENTER]
+  fund11112[ENTER]
+
+--- WINDOW  2026/11/02 05:03:27  [chrome.exe] Verify it’s you To help keep your account safe, Google wants to make sure it’s really you trying to sign in. Learn more - Tutorial-Profile
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/02 05:04:22  [chrome.exe] Redirecting - Tutorial-Profile
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/02 05:04:29  [chrome.exe] chatgpt.com - Tutorial-Profile
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/02 05:04:30  [chrome.exe] ChatGPT - Tutorial-Profile
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/02 05:06:09  [chrome.exe] auth.openai.com - Tutorial-Profile
+----------------------------------------------------------------------------
+  i
+  [LMB]
+
+--- WINDOW  2026/11/02 05:06:14  [chrome.exe] auth.openai.com/error?payload=eyJlcnJvckNvZGUiOiAiY2xpZW50X2lkX25vdF9mb3VuZF9pbl9zZXNzaW9uIiwgIm9jY3VycmVkQXQiOiAiMjAyNi0xMS0wMlQxMzowNjoxNFoiLCAicmVxdWVzdElkIjogImU0OTYwYTc2LWExZjYtNDE2OC1iZTlhLTcwOTg3YTEyZTAwNiIsICJraW5kIjogIkF1dGhBcGlGYWlsdXJlIiwgInJldHJ5VXJsIjogImh0dHBzOi8vY2hhdGdwdC5jb20vYXV0aC9sb2dpbl93aXRoP2NhbGxiYWNrX3BhdGg9LyJ9&session_id=None&verifier_id=39d51bc3-8307-436e-8c1c-49bb87a50fba - Tutorial-Profile
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/02 05:06:35  [chrome.exe] Untitled - Tutorial-Profile
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/02 05:06:39  [chrome.exe] chatgpt.com - Tutorial-Profile
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/02 05:06:39  [chrome.exe] ChatGPT - Tutorial-Profile
+----------------------------------------------------------------------------
+  i just created a fiverr account i want to use it o [Bk][Bk]to offer forex ea bot developr so i want a full set[Bk]ip[Bk][Bk]up from tou [Bk][Bk][Bk][Bk]you that will be professional and inluc[End][Bk][Bk][Bk]clude the headline, escription in 700 chatt[Bk][Bk]racter, skills, employment history, and certificate and make everything based in usa [ENTER]
+
+--- WINDOW  2026/11/02 05:10:40  [chrome.exe] I just created a fiverr account i want to use it to offer forex ea bot developer so i want a full setup from you that will be professional and include the headline, description in 700 character, skills, employment history, and certificate and make everything based in usa - Tutorial-Profile
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/02 05:10:43  [chrome.exe] Fiverr Profile Setup - Tutorial-Profile
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/02 05:11:58  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/02 05:11:58  [explorer.exe] (untitled)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/02 05:11:58  [Incogniton.exe] Incogniton - Version 5.0.1.4
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/02 05:12:58  [explorer.exe] (untitled)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/02 05:12:58  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/02 05:12:58  [ShellExperienceHost.exe] Windows Shell Experience Host
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/02 05:12:58  [ShellExperienceHost.exe] Network Connections
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/02 05:14:37  [chrome.exe] Fiverr Profile Setup - Tutorial-Profile
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/02 05:15:14  [chrome.exe] Free IP Address & Browser Fingerprint Checker - Tutorial-Profile
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/02 05:15:44  [chrome.exe] Fiverr - Freelance Services Marketplace - Tutorial-Profile
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  f
+  [LMB]
+
+--- WINDOW  2026/11/02 05:19:15  [chrome.exe] Trading bots development services | Fiverr - Tutorial-Profile
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [LMB]
+
+--- WINDOW  2026/11/02 05:22:54  [(unknown)] Trading bots development services | Fiverr - Tutorial-Profile
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/02 05:22:56  [chrome.exe] Trading bots development services | Fiverr - Tutorial-Profile
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/02 05:22:59  [chrome.exe] Build forex trading bot, forex bot, forex trading robot by Mooehamed | Fiverr - Tutorial-Profile
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/02 05:24:09  [chrome.exe] fiverr.com/casparfx/deliver-profit-making-forex-trading-bot-forex-bot-forex-trading-scalp-ea?context_referrer=search_gigs&source=sorting_by&ref_ctx_id=ab95212fda3a4049b5b900e81aa45cc3&pckg_id=1&pos=36&context_type=new&funnel=ab95212fda3a4049b5b900e81aa45cc3&imp_id=00cd19dd-e84a-42f8-adae-c9b77a3db5d4 - Tutorial-Profile
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/02 05:24:19  [chrome.exe] Build forex trading bot, forex bot, forex trading robot by Mooehamed | Fiverr - Tutorial-Profile
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/02 05:25:12  [chrome.exe] fiverr.com/casparfx/deliver-profit-making-forex-trading-bot-forex-bot-forex-trading-scalp-ea?context_referrer=search_gigs&source=sorting_by&ref_ctx_id=ab95212fda3a4049b5b900e81aa45cc3&pckg_id=1&pos=36&context_type=new&funnel=ab95212fda3a4049b5b900e81aa45cc3&imp_id=00cd19dd-e84a-42f8-adae-c9b77a3db5d4 - Tutorial-Profile
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/02 05:25:16  [chrome.exe] Deliver profit making forex trading bot, forex bot, forex trading, scalp ea by Casparfx | Fiverr - Tutorial-Profile
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/02 05:26:19  [chrome.exe] Develop a professional gold ea and forex trading bot by Noreenali13 | Fiverr - Tutorial-Profile
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/02 05:26:43  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/02 05:26:51  [ShellExperienceHost.exe] Network Connections
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/02 05:27:39  [chrome.exe] Fiverr Profile Setup - Tutorial-Profile
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/02 05:27:41  [chrome.exe] ChatGPT - Tutorial-Profile
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/02 05:27:52  [chrome.exe] New chat - Tutorial-Profile
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/02 05:27:55  [chrome.exe] Fiverr Profile Setup - Tutorial-Profile
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  cre
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/02 05:29:40  [chrome.exe] Develop a professional gold ea and forex trading bot by Noreenali13 | Fiverr - Tutorial-Profile
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/02 05:31:46  [chrome.exe] fiverr.com/casparfx/deliver-profit-making-forex-trading-bot-forex-bot-forex-trading-scalp-ea?context_referrer=search_gigs&source=sorting_by&ref_ctx_id=ab95212fda3a4049b5b900e81aa45cc3&pckg_id=1&pos=36&context_type=new&funnel=ab95212fda3a4049b5b900e81aa45cc3&imp_id=00cd19dd-e84a-42f8-adae-c9b77a3db5d4 - Tutorial-Profile
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/02 05:31:47  [chrome.exe] Deliver profit making forex trading bot, forex bot, forex trading, scalp ea by Casparfx | Fiverr - Tutorial-Profile
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/02 05:32:27  [chrome.exe] Fiverr Profile Setup - Tutorial-Profile
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/02 05:32:44  [dwm.exe] Fiverr Profile Setup - Tutorial-Profile
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/02 05:32:44  [dwm.exe] Fiverr Profile Setup - Tutorial-Profile (Not Responding)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/02 05:32:49  [chrome.exe] Fiverr Profile Setup - Tutorial-Profile
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/02 05:33:06  [chrome.exe] ChatGPT - Tutorial-Profile
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/02 05:33:15  [chrome.exe] New chat - Tutorial-Profile
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/02 05:33:19  [chrome.exe] Fiverr Profile Setup - Tutorial-Profile
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/02 05:35:13  [chrome.exe] New Tab - Tutorial-Profile
+----------------------------------------------------------------------------
+  fiver.v[Bk]com[ENTER]
+
+--- WINDOW  2026/11/02 05:36:28  [chrome.exe] Fiverr | Freelance services marketplace | Find top global talent - Tutorial-Profile
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/02 05:36:47  [explorer.exe] (untitled)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/02 05:36:50  [ShellExperienceHost.exe] Network Connections
+----------------------------------------------------------------------------
+  [LMB]
+  [RMB]
+  [LMB]
+
+--- WINDOW  2026/11/02 05:38:53  [chrome.exe] Fiverr | Freelance services marketplace | Find top global talent - Tutorial-Profile
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/02 05:39:07  [chrome.exe] (untitled)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/02 05:39:10  [chrome.exe] Fiverr | Freelance services marketplace | Find top global talent - Tutorial-Profile
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  puhizoto2priyp.com
+  [LMB]
+  fund803204060
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/02 05:40:19  [chrome.exe] Save password?
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/02 05:40:19  [chrome.exe] Fiverr | Freelance services marketplace | Find top global talent - Tutorial-Profile
+----------------------------------------------------------------------------
+  [LMB]
+  ahmed-bidem001
+  [LMB]
+  [Bk]
+  [LMB]
+  731316
+
+--- WINDOW  2026/11/02 05:41:20  [chrome.exe] Fiverr - Freelance Services Marketplace - Tutorial-Profile
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/02 05:42:30  [chrome.exe] Fiverr Profile Setup - Tutorial-Profile
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/02 05:43:01  [chrome.exe] Fiverr - Freelance Services Marketplace - Tutorial-Profile
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/02 05:43:10  [chrome.exe] Seller Onboarding - Tutorial-Profile
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/02 05:43:10  [(unknown)] Seller Onboarding - Tutorial-Profile
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/02 05:43:11  [chrome.exe] Seller Onboarding - Tutorial-Profile
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  ahmedb[Bk] b
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/02 05:44:08  [explorer.exe] (untitled)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/02 05:44:09  [chrome.exe] Deliver profit making forex trading bot, forex bot, forex trading, scalp ea by Casparfx | Fiverr - Tutorial-Profile
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/02 05:44:10  [chrome.exe] Fiverr Profile Setup - Tutorial-Profile
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/02 05:44:12  [chrome.exe] ChatGPT - Tutorial-Profile
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/02 05:46:29  [chrome.exe] New chat - Tutorial-Profile
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/02 05:46:36  [chrome.exe] Fiverr Profile Setup - Tutorial-Profile
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/02 05:46:46  [ShellExperienceHost.exe] New notification
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/02 05:46:47  [chrome.exe] Fiverr Profile Setup - Tutorial-Profile
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [Clipboard]
+  I just created a fiverr account i want to use it to offer forex ea bot developer so i want a full setup from you that will be professional and include the headline, description in 700 character, skills, employment history, and certificate and make everything based in usa
+  
+  Please write in English language.
+  [LMB]
+  [Bk][Bk][Bk][Bk][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl]v[ENTER]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/02 05:50:53  [chrome.exe] Seller Onboarding - Tutorial-Profile
+----------------------------------------------------------------------------
+  [Clipboard]
+  MT4 & MT5 EA Developer | MQL4/MQL5 Expert | Forex Trading Automation
+  [LMB]
