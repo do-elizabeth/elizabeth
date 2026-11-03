@@ -1,0 +1,81 @@
+﻿
+--- WINDOW  2026/11/03 20:13:00  [brave.exe] 未命名 - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/03 20:13:01  [brave.exe] google.com - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/03 20:13:02  [brave.exe] Google - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/03 20:13:34  [brave.exe] 新分頁 - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/03 20:14:04  [brave.exe] mail.google.com/mail/u/0/#inbox - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/03 20:14:06  [brave.exe] Gmail - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/03 20:14:08  [brave.exe] 收件匣 (24,975) - south830325@gmail.com - Gmail - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/03 20:14:41  [brave.exe] 未命名 - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/03 20:14:42  [brave.exe] myaccount.google.com/?hl=zh_TW&utm_source=OGB&utm_medium=act&gar=WzEyMF0 - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/03 20:14:43  [brave.exe] Google 帳戶 - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/03 20:14:50  [brave.exe] 安全性 - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/03 20:15:54  [brave.exe] accounts.google.com/v3/signin/challenge/pwd?TL=AAxq8nsfPC0es1cApYPByXBbgKKS5MTUtCxknBnFbN-8Omv5IKgWWBp2Yss_5kD4&authuser=0&cid=2&continue=https%3A%2F%2Fmyaccount.google.com%2Fsigninoptions%2Ftwosv%3Fgar%3DWzEyMF0&dsh=S-1724501493%3A1793708152652333&flowName=GlifWebSignIn&followup=https%3A%2F%2Fmyaccount.google.com%2Fsigninoptions%2Ftwosv%3Fgar%3DWzEyMF0&rart=ANgoxcfWJXxVW6R8D9NQpzFKH9Nh_CE6Y7lwkVvJHcpdWpgzljOUKXl8E2_JObk8ZEyp9sJTpoz4mV5HDvSdTs1uME1DkRA8m5Be0dxFpKv2BSTef6SfJQ8&rpbg=1 - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/03 20:15:55  [brave.exe] 登入 - Google 帳戶 - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/03 20:18:00  [brave.exe] 安全性 - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/03 20:19:53  [brave.exe] accounts.google.com/v3/signin/challenge/pwd?TL=AAxq8nvSR_L--249DFF2doo47lCSryp5tdwZqnY-jUv4I2un3gcZc0vOpigSHcON&authuser=0&cid=2&continue=https%3A%2F%2Fmyaccount.google.com%2Fsigninoptions%2Ftwosv%3Fgar%3DWzEyMF0&dsh=S808281238%3A1793708391513367&flowName=GlifWebSignIn&followup=https%3A%2F%2Fmyaccount.google.com%2Fsigninoptions%2Ftwosv%3Fgar%3DWzEyMF0&rart=ANgoxcd2GGGsoeU4kA8hGMNXnrd_gxUfXDRxAmuO2wwCM9pVWt_MKfyVxsEm1zjkH8uWoAjoL2JLNN4z7IwjLtHqRE5BnJgYi5KTsA37SVsMBAyhpv3rkSI&rpbg=1 - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/03 20:19:54  [brave.exe] 登入 - Google 帳戶 - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/03 20:20:36  [brave.exe] 驗證您的身分 為協助保護您的帳戶安全，Google 想要確認登入帳戶的是您本人 - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/03 20:21:41  [brave.exe] 安全性 - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/03 20:22:25  [brave.exe] 擴充功能
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/03 20:23:06  [brave.exe] 安全性 - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/03 20:26:33  [brave.exe] accounts.google.com/v3/signin/challenge/pwd?TL=AAxq8nsAVOLqeSXpO3hb3HV-E2Y015hX4XPT7ZruzmK2B8DABmn-U1uPJVV8vdqA&authuser=0&cid=2&continue=https%3A%2F%2Fmyaccount.google.com%2Fsigninoptions%2Fpasskeys%3Fgar%3DWzEyMF0%26utm_source%3Dgoogle-account%26utm_medium%3Dweb%26utm_campaign%3Dpasskeys-screen%26continue%3Dhttps%3A%2F%2Fmyaccount.google.com%2Fsecurity%3Fgar%253DWzEyMF0%2526hl%253Dzh_TW%2526utm_source%253DOGB%2526utm_medium%253Dact&dsh=S408238%3A1793708792291009&flowName=GlifWebSignIn&followup=https%3A%2
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/03 20:26:34  [brave.exe] 登入 - Google 帳戶 - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/03 20:26:49  [brave.exe] 安全性 - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/03 20:33:17  [brave.exe] 新分頁 - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/03 20:33:42  [brave.exe] passwords.google.com/?pli=1 - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/03 20:33:43  [brave.exe] 密碼管理工具 - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/03 20:35:16  [brave.exe] 設定 - Brave
+----------------------------------------------------------------------------
