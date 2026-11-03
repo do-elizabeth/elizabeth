@@ -1,0 +1,2008 @@
+﻿
+--- WINDOW  2026.11.03 19:26:28  [ApplicationFrameHost.exe] Параметры
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  :0[Bk][Bk][Bk]:0<@0[Bk]
+  [LMB]
+  [RMB]
+
+--- WINDOW  2026.11.03 19:27:25  [Taskmgr.exe] Диспетчер задач
+----------------------------------------------------------------------------
+
+--- WINDOW  2026.11.03 19:27:27  [ApplicationFrameHost.exe] Параметры
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  KK
+
+--- WINDOW  2026.11.03 19:27:47  [ScreenClippingHost.exe] Создание фрагмента экрана
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026.11.03 19:27:50  [ApplicationFrameHost.exe] Параметры
+----------------------------------------------------------------------------
+  [LMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026.11.03 19:28:36  [opera.exe] rfr epyfnm rfrjt ghblj;tybt bcgjkmpetn rfvthe yf yjen,er — Яндекс: нашлось 25 тыс. результатов - Opera
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026.11.03 19:28:40  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026.11.03 19:28:42  [explorer.exe] (untitled)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026.11.03 19:28:42  [explorer.exe] Проводник
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026.11.03 19:28:52  [opera.exe] rfr epyfnm rfrjt ghblj;tybt bcgjkmpetn rfvthe yf yjen,er — Яндекс: нашлось 25 тыс. результатов - Opera
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026.11.03 19:28:52  [javaw.exe] McSkill
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026.11.03 19:28:55  [explorer.exe] Program Manager
+----------------------------------------------------------------------------
+
+--- WINDOW  2026.11.03 19:28:56  [javaw.exe] McSkill
+----------------------------------------------------------------------------
+
+--- WINDOW  2026.11.03 19:28:57  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026.11.03 19:28:57  [explorer.exe] Program Manager
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026.11.03 19:28:59  [explorer.exe] Проводник
+----------------------------------------------------------------------------
+
+--- WINDOW  2026.11.03 19:29:00  [explorer.exe] Леха
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026.11.03 19:29:09  [explorer.exe] Новая папка
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026.11.03 19:29:11  [explorer.exe] Леха
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026.11.03 19:29:13  [explorer.exe] BTC_Research_01-08 analysis
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026.11.03 19:29:17  [explorer.exe] 01_Charts
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026.11.03 19:29:19  [explorer.exe] BTC_Research_01-08 analysis
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026.11.03 19:29:20  [explorer.exe] 02_Trading_Notes
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026.11.03 19:29:21  [explorer.exe] BTC_Research_01-08 analysis
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026.11.03 19:29:22  [explorer.exe] 03_Backtesting
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026.11.03 19:29:26  [explorer.exe] BTC_Research_01-08 analysis
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026.11.03 19:29:28  [explorer.exe] Леха
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026.11.03 19:29:38  [WinRAR.exe] WinRAR
+----------------------------------------------------------------------------
+
+--- WINDOW  2026.11.03 19:29:39  [WinRAR.exe] BTC_Research_01-08 analysis.zip (пробная копия)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026.11.03 19:29:40  [WinRAR.exe] Пожалуйста, купите лицензию!
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026.11.03 19:29:41  [WinRAR.exe] BTC_Research_01-08 analysis.zip (пробная копия)
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026.11.03 19:29:42  [WinRAR.exe] Леха (пробная копия)
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026.11.03 19:29:44  [WinRAR.exe] BTC_Research_01-08 analysis (пробная копия)
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026.11.03 19:29:48  [WinRAR.exe] Леха (пробная копия)
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026.11.03 19:29:50  [WinRAR.exe] BTC_Research_01-08 analysis (пробная копия)
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026.11.03 19:29:52  [WinRAR.exe] 01_Charts (пробная копия)
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026.11.03 19:29:55  [WinRAR.exe] BTC_Research_01-08 analysis (пробная копия)
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026.11.03 19:29:56  [WinRAR.exe] 02_Trading_Notes (пробная копия)
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026.11.03 19:30:02  [WinRAR.exe] BTC_Research_01-08 analysis (пробная копия)
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026.11.03 19:30:02  [WinRAR.exe] 03_Backtesting (пробная копия)
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026.11.03 19:30:10  [WinRAR.exe] Внимание
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026.11.03 19:30:11  [WinRAR.exe] 03_Backtesting (пробная копия)
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026.11.03 19:30:12  [WinRAR.exe] BTC_Research_01-08 analysis (пробная копия)
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026.11.03 19:30:16  [WinRAR.exe] Внимание
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026.11.03 19:30:16  [WinRAR.exe] BTC_Research_01-08 analysis (пробная копия)
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026.11.03 19:30:18  [WinRAR.exe] Внимание
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026.11.03 19:30:19  [WinRAR.exe] BTC_Research_01-08 analysis (пробная копия)
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026.11.03 19:30:20  [WinRAR.exe] Операция с группой архивов
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026.11.03 19:30:22  [WinRAR.exe] BTC_Research_01-08 analysis (пробная копия)
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026.11.03 19:30:23  [WinRAR.exe] Операция с группой архивов
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026.11.03 19:30:25  [WinRAR.exe] BTC_Research_01-08 analysis (пробная копия)
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026.11.03 19:30:26  [WinRAR.exe] Леха (пробная копия)
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026.11.03 19:30:29  [WinRAR.exe] BTC_Research_01-08 analysis.zip (пробная копия)
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026.11.03 19:34:41  [explorer.exe] Леха
+----------------------------------------------------------------------------
+  [RMB]
+  [LMB]
+
+--- WINDOW  2026.11.03 19:34:58  [explorer.exe] Свойства: BTC_Research_01-08 analysis.zip
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026.11.03 19:35:17  [explorer.exe] (untitled)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026.11.03 19:35:17  [explorer.exe] Леха
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026.11.03 19:35:19  [explorer.exe] BTC_Research_01-08 analysis
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026.11.03 19:35:22  [explorer.exe] 01_Charts
+----------------------------------------------------------------------------
+  [LMB]
+  [RMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026.11.03 19:35:33  [explorer.exe] BTC_Research_01-08 analysis
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026.11.03 19:35:34  [explorer.exe] 02_Trading_Notes
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026.11.03 19:35:38  [explorer.exe] BTC_Research_01-08 analysis
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026.11.03 19:35:39  [explorer.exe] 03_Backtesting
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026.11.03 19:35:49  [explorer.exe] BTC_Research_01-08 analysis
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026.11.03 19:35:50  [explorer.exe] 02_Trading_Notes
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026.11.03 19:35:53  [explorer.exe] BTC_Research_01-08 analysis
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026.11.03 19:35:54  [explorer.exe] 03_Backtesting
+----------------------------------------------------------------------------
+  [RMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026.11.03 19:36:02  [EXCEL.exe] Открытие - Excel
+----------------------------------------------------------------------------
+
+--- WINDOW  2026.11.03 19:36:09  [EXCEL.exe] Excel
+----------------------------------------------------------------------------
+
+--- WINDOW  2026.11.03 19:36:10  [EXCEL.exe] BTC_Weekly_Backtest_October_2026.xlsx - Excel
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026.11.03 19:36:55  [EXCEL.exe] Microsoft Excel
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026.11.03 19:36:57  [EXCEL.exe] BTC_Weekly_Backtest_October_2026.xlsx - Excel
+----------------------------------------------------------------------------
+
+--- WINDOW  2026.11.03 19:36:58  [EXCEL.exe] Ход выполнения
+----------------------------------------------------------------------------
+
+--- WINDOW  2026.11.03 19:36:58  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026.11.03 19:36:58  [EXCEL.exe] BTC_Weekly_Backtest_October_2026.xlsx - Excel
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026.11.03 19:37:03  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026.11.03 19:37:03  [javaw.exe] McSkill
+----------------------------------------------------------------------------
+
+--- WINDOW  2026.11.03 19:37:03  [EXCEL.exe] BTC_Weekly_Backtest_October_2026.xlsx - Excel
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026.11.03 19:37:42  [javaw.exe] McSkill
+----------------------------------------------------------------------------
+
+--- WINDOW  2026.11.03 19:37:43  [explorer.exe] 03_Backtesting
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026.11.03 19:37:48  [javaw.exe] McSkill
+----------------------------------------------------------------------------
+
+--- WINDOW  2026.11.03 19:37:50  [explorer.exe] (untitled)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026.11.03 19:37:50  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026.11.03 19:37:50  [SearchApp.exe] Поиск
+----------------------------------------------------------------------------
+
+--- WINDOW  2026.11.03 19:37:51  [StartMenuExperienceHost.exe] Начальный экран
+----------------------------------------------------------------------------
+
+--- WINDOW  2026.11.03 19:37:51  [ApplicationFrameHost.exe] Параметры
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  :0<
+  [LMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026.11.03 19:38:13  [javaw.exe] McSkill
+----------------------------------------------------------------------------
+
+--- WINDOW  2026.11.03 19:38:15  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026.11.03 19:38:15  [java.exe] |  McSkill  |  HiTech - 1.7.10  |  Cu_Rent  |
+----------------------------------------------------------------------------
+  [LMB]
+  FFFFFFFDFFFFFFFFFFFFF
+  [RMB]
+  [LMB]
+  [Esc]5
+  [LMB]
+  FF     DD D   2DFDF
+  [RMB]
+  [RMB]
+  [Esc]FF
+  [RMB]
+  [Esc]DF
+  [RMB]
+  [Esc]2F
+  [RMB]
+  [RMB]
+  [Esc]CD
+  [LMB]
+  [Bk][Bk][Bk][Bk][Bk][Bk][Bk][Bk][Bk][Bk][Bk][Bk][Bk]D;0:A>2
+  [LMB]
+  [LMB]
+  [Esc][Esc]FD
+  [RMB]
+  [Esc]2F2
+  [RMB]
+  [Esc]
+  [RMB]
+  [LMB]
+  [Esc]  FFFFFFF F FDKD
+  [RMB]
+  K
+  [RMB]
+  KD
+  [RMB]
+  K
+  [RMB]
+  2FF
+  [RMB]
+  [RMB]
+  KDC
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc][Esc]F  FD
+  [RMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc]
+  [LMB]
+  [Esc][Esc]2
+  [RMB]
+  [Esc]
+  [RMB]
+  [Esc]
+  [RMB]
+  [Esc]
+  [RMB]
+  [Esc]
+  [RMB]
+  [Esc]
+  [RMB]
+  [Esc]
+  [RMB]
+  [Esc]
+  [RMB]
+  [Esc]
+  [RMB]
+  [LMB]
+  [LMB]
+  [Esc][Esc]FD
+  [RMB]
+  [Esc]K2
+  [RMB]
+  [Esc]FF2
+  [RMB]
+  [LMB]
+  [Esc]FF
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc][Esc]2F
+  [RMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  [Esc]C
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc][Esc]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [Esc]C
+  [LMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc]
+  [RMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [Esc]F 2
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc]F
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc]F[Esc]2C[Esc][Esc]
+  [LMB]
+  [Esc]5/@D44IFCCB[ENTER]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc]5[^][ENTER]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc]CF[Esc]FF
+  [RMB]
+  [LMB]
+  [Esc][Esc]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc]FD
+  [RMB]
+  [Esc]FF
+  [RMB]
+  [LMB]
+  [Esc]FFD2
+  [RMB]
+  [LMB]
+  [Esc]FFDFF 
+  [RMB]
+  [Esc]FD2D2D2D2D2D2D2D2D2D2DD2F 2FK2D2D2D2D22K
+  [RMB]
+  [Esc]
+  [RMB]
+  [Esc]
+  [RMB]
+  [LMB]
+  [Bk][Bk][Bk][Bk][Bk][Bk][Bk][Bk][Bk][Bk][Bk]4@0:>=[Bk][Bk][Bk][Bk][Bk][Bk][Bk][Bk][Bk]4@0:>=85[Bk][Bk]
+  [LMB]
+  [LMB]
+  [Bk][Bk][Bk][Bk][Bk][Bk][Bk][Bk]:8@:0
+  [LMB]
+  [LMB]
+  [Bk][Bk][Bk][Bk][Bk][Bk][Bk][Bk]
+  [LMB]
+  [LMB]
+  :8@:0[Bk][Bk][Bk][Bk][Bk][Bk]4:[Bk][Bk]4@0:[Esc][Esc][Esc]FDFC
+  [LMB]
+  [Bk][Bk][Bk][Bk][Bk]1C@[Esc][Esc]5H>[ENTER]
+  5?>965[Bk][Bk]4B[ENTER]
+  51A:>:0 1;>:>2 8@84852K9 1C@ :>?05B[ENTER]
+  C
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc]51OA=>[ENTER]
+  KDFFFDFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFDC[Esc]FDF
+  [RMB]
+  [Esc]C[Esc]2
+  [RMB]
+  [Esc]C
+  [LMB]
+  [LMB]
+  [Esc][Esc]2FK
+  [RMB]
+  [Esc]
+  [RMB]
+  [Esc]
+  [RMB]
+  [Esc]F D
+  [RMB]
+  [LMB]
+  [Esc]DFFFFFF
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc][Esc]KD
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [Esc]F DDDD
+  [RMB]
+  [Esc]
+  [RMB]
+  [LMB]
+  [Esc]
+  [LMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc]FFDF
+  [RMB]
+  [LMB]
+  [LMB]
+  [Esc]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc][Esc]
+  [RMB]
+  [LMB]
+  [Esc]
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc]
+  [LMB]
+  [LMB]
+  [Esc]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc][Esc]
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  [Esc]F DF
+  [RMB]
+  [LMB]
+  [Esc]
+  [RMB]
+  [Esc]F 222
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc]F KDF
+  [RMB]
+  [LMB]
+  [Esc][Esc]F
+  [RMB]
+  [LMB]
+  [Esc][Esc]
+  [RMB]
+  [Esc]
+  [LMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc]
+  [LMB]
+  [Esc]
+  [RMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc]
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [Esc]
+  [LMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [Esc]
+  [LMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc]
+  [LMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc]
+  [LMB]
+  [Esc][Esc]F DF FDFFCF 
+  [RMB]
+  [LMB]
+  [Esc]DFK2
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc][Esc]2FK50409[ENTER]
+  F2FK22222F
+  [RMB]
+  [Esc]D
+  [RMB]
+  [Esc]
+  [RMB]
+  [Esc]
+  [RMB]
+  [LMB]
+  [LMB]
+  [Esc]
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc]
+  [RMB]
+  [Esc]2
+  [RMB]
+  [Esc][Esc]
+  [RMB]
+  [Esc]
+  [RMB]
+  [LMB]
+  [LMB]
+  [Esc]F2
+  [RMB]
+  [LMB]
+  [Esc]DF5[Esc]
+  [RMB]
+  [Esc]F FDFD2
+  [RMB]
+  [Esc]KDF 
+  [RMB]
+  [Esc]KC
+  [LMB]
+  [Esc][Esc]F 2
+  [RMB]
+  [Esc]KD
+  [RMB]
+  [LMB]
+  [Esc]F 
+  [RMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc]
+  [LMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc]K2
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc]FD
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc][Esc]F
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [Esc]
+  [LMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc][Esc]
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  Q[Esc]
+  [LMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [Esc]
+  [LMB]
+  [Esc][Esc]FKD
+  [RMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [Esc]C
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc][Esc]
+  [RMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  [Esc]
+  [RMB]
+  [Esc]
+  [RMB]
+  [Esc]
+  [RMB]
+  [Esc]
+  [RMB]
+  [LMB]
+  [Esc]
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc]
+  [RMB]
+  [Esc]FFFKFFFFFFFFFFFFFKDFFD9KFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFDF2C[Esc]FFF
+  [RMB]
+  [Esc]FFFFD5[Esc]50 C BO 5ABL7[ENTER]
+  5O E7 <=5 ;5=L [ENTER]
+  5=> O E>GC[ENTER]
+  FKFFF
+  [RMB]
+  [Esc]FFK 50 GB> BK B0< 45;0BL ?;0=8@C5HL[ENTER]
+  K5E>B5;>AL 1K >AB028BL 40[ENTER]
+  KDFFKDFF2DFF2FFFFKFFFFFFFFFFFFFFFFFFFFFFFK           FFFFFFFFFFFD5H> MB>[ENTER]
+  2KDFDK22222222KFDDDDDDDDDDDDDDDDDDDDDDDFFDDDDDDDDF222222222222222222FFFFFKDDDFDDF222222222222F2222F222DDFFDFDFDDDDDDDDDDDDF   22FFFFFFFFFFFFFFFFDDDDFFKDFDFF2DDDDDDDDDDDDDDDDDDFFD2
+  [RMB]
+  [Esc]F KDDDDDDDDDDDKFDDDDDDDDDDFFDK22F2DF2FFKF22FFFDKDFDDD222DFFDD2FF22F2DFFDFFKKDFD
+  [RMB]
+  [Esc]FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFDFFFFF50E0EE[ENTER]
+  2FFDF2FKK5284520 A<>B@8[ENTER]
+  FFFFFFFFDDFC[Esc]D
+  [RMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [Esc][Esc]F 
+  [RMB]
+  [RMB]
+  [Esc]F
+  [RMB]
+  [Esc]DFFFFFF2DF
+  [RMB]
+  [Esc]
+  [RMB]
+  [Esc]2
+  [RMB]
+  [Esc]FFFFF2F2
+  [RMB]
+  [Esc]FFDF
+  [RMB]
+  [Esc]F D
+  [RMB]
+  [LMB]
+  [Esc]FFFFFFFFD2FKDF
+  [RMB]
+  [LMB]
+  [Esc]FF2KDK
+  [RMB]
+  [LMB]
+  [Esc]F 
+  [RMB]
+  [LMB]
+  [Esc]KD
+  [RMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [Esc]
+  [LMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [Esc]
+  [LMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc][Esc]2F
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [Esc]C
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc]DF
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc][Esc]
+  [RMB]
+  [Esc]2
+  [RMB]
+  [Esc]
+  [RMB]
+  [Esc]C
+  [LMB]
+  [LMB]
+  [Esc][Esc]
+  [RMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  [Esc]F
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [Esc][Esc]
+  [RMB]
+  [Esc]
+  [RMB]
+  [Esc]
+  [RMB]
+  [LMB]
+  [LMB]
+  [Esc]F
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc][Esc]D
+  [RMB]
+  [Esc]2
+  [RMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  [Esc]FFK
+  [RMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  [Esc]C
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc]FD
+  [RMB]
+  [Esc]F C
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc][Esc]
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [Esc]KKKK
+  [RMB]
+  [LMB]
+  [Esc]FFFFFFFFF2FDKFFFDFDFFDDDDDDDDDDDDDDF
+  [RMB]
+  [Esc]222F2KD2FDKDF222222FDDDDFFFFDFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF 5>1KG=K<8 :015;O<>[Bk]8 ?>45B7\[Bk][ENTER]
+  FDFFFFFD58;8 B0:8<8 CG[Bk][Bk];CG5H[ENTER]
+  FFF
+  [RMB]
+  [Esc]FFDFFD
+  [RMB]
+  [Esc]FFFFFFFFDDDDDDDDDDDDDDDDDDDDDDFFFFFFFFF2DDF2FF
+  [RMB]
+  [Esc]FFFFFFFFFFFFFFDDDDDDDDDDDFDFFDK 2F FFDK2D2FFFF 2                                      D25[Esc]FFFFFFFFFFFFFFFFFFFFFFFF2F22C
+  [LMB]
+  [Bk][Bk][Bk][Bk][Bk]:015;L[Bk][Bk][Bk][Bk][Bk][Bk]?@>2>4
+  [LMB]
+  [Esc][Esc]FFDC
+  [LMB]
+  [Esc][Esc]2DK
+  [RMB]
+  [Esc]2
+  [RMB]
+  [Esc]
+  [RMB]
+  [Esc]
+  [RMB]
+  [Esc]
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc]DFD
+  [RMB]
+  [RMB]
+  [LMB]
+  [Esc]F
+  [RMB]
+  [LMB]
+  [Esc]
+  [RMB]
+  [LMB]
+  [Esc]F
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc]FF DD
+  [RMB]
+  [LMB]
+  [Esc]FDC
+  [LMB]
+  [Esc][Esc]DF
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc]
+  [LMB]
+  [Esc]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc]F
+  [RMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  [Esc]
+  [RMB]
+  [Esc]
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [Esc]KDD F  DK2F
+  [RMB]
+  FFD 
+  [RMB]
+  [Esc]FFDFFDFF D FFFFFFDDF  FDFF
+  [RMB]
+  [LMB]
+  [Esc]FF
+  [RMB]
+  [Esc]2
+  [RMB]
+  [RMB]
+  [LMB]
+  [Esc]C
+  [LMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [Esc]DF
+  [RMB]
+  [Esc]2
+  [RMB]
+  [LMB]
+  [Esc]C
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc]FD
+  [RMB]
+  [LMB]
+  [LMB]
+  F
+  [RMB]
+  DF
+  [RMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [Esc]
+  [LMB]
+  [Esc]FF2
+  [RMB]
+  [LMB]
+  [LMB]
+  [Esc]FFD
+  [RMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc]FFFFDFFD FFDKDFDFDFFDFDFFFFFDFD
+  [LMB]
+  DF
+  [LMB]
+  FDDD2D22DDD
+  [LMB]
+  DDD22FK
+  [LMB]
+  F DFFDFFFFFFFFFFFFFF F    DDD
+  [RMB]
+  [Esc]FFFFFFFFFFF
+  [RMB]
+  [LMB]
+  [Esc]FFFFFFFFFFDFFFFDF2
+  [LMB]
+  FD2
+  [LMB]
+  DK22
+  [LMB]
+  DF
+  [LMB]
+  [LMB]
+  F
+  [LMB]
+  FKF
+  [RMB]
+  [LMB]
+  F
+  [LMB]
+  F
+  [LMB]
+  F
+  [LMB]
+  [RMB]
+  KK
+  [RMB]
+  [RMB]
+  KC[Esc]FKC
+  [LMB]
+  [LMB]
+  [Esc]
+  [RMB]
+  [RMB]
+  K
+  [RMB]
+  KF
+  [RMB]
+  KF
+  [LMB]
+  F
+  [RMB]
+  FKKKKKKKKKKK
+  [RMB]
+  K
+  [RMB]
+  K
+  [RMB]
+  [RMB]
+  [LMB]
+  F2
+  [LMB]
+  2F2F
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  F
+  [LMB]
+  FFFFF
+  [RMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  K
+  [RMB]
+  K
+  [RMB]
+  [RMB]
+  F
+  [RMB]
+  K
+  [RMB]
+  K
+  [RMB]
+  F
+  [RMB]
+  K
+  [RMB]
+  KD K F2FDDDDDFFFDF2
+  [RMB]
+  2
+  [RMB]
+  2
+  [RMB]
+  DK2F
+  [RMB]
+  FD2FDF2FF F2F22F
+  [LMB]
+  FFF2F
+  [LMB]
+  FFFFFFFDKFD
+  [RMB]
+  F D2F2DF2DFF2DDDDDDDFF2FFFF222222222F2KDDDDFDD2FF22222FFFF2FF2FFD22DD2D2D2DFF22KD2D2DDFDFF22DKK2DFKFDFFFFFFFFF2FFDDFDFK
+  [RMB]
+  K
+  [RMB]
+  2DD22DFFDFDDFFDDK222F
+  [LMB]
+  DFFD
+  [RMB]
+  2
+  [RMB]
+  FFFFFFFFFFFF F       DFFFD
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc]FFFD
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc]FFFFFFFFFDFF2F
+  [LMB]
+  FFK
+  [LMB]
+  [LMB]
+  FF
+  [LMB]
+  FFFFFF
+  [LMB]
+  DF
+  [LMB]
+  F
+  [LMB]
+  FDK
+  [RMB]
+  K2K
+  [RMB]
+  K
+  [RMB]
+  KK
+  [RMB]
+  FD 
+  [RMB]
+  [RMB]
+  F2DFFD 
+  [RMB]
+  D D222
+  [RMB]
+  DFDF DDKDK
+  [RMB]
+  F 2 FFFFF
+  [RMB]
+  [Esc]DF2F5<1 <M >B45;L=> ?8B0BL[ENTER]
+  5E>BO ?>EC =025@=[ENTER]
+  KDFFFFDDDF2
+  [RMB]
+  [Esc]
+  [RMB]
+  [Esc]2F
+  [RMB]
+  [Esc]
+  [RMB]
+  [Esc]F2
+  [RMB]
+  [Esc]
+  [RMB]
+  [Esc]FFDDDF
+  [RMB]
+  FD
+  [LMB]
+  FKK2FDC[Esc]KD2
+  [RMB]
+  2
+  [RMB]
+  K
+  [RMB]
+  F 2FD D
+  [RMB]
+  2
+  [RMB]
+  DF
+  [RMB]
+  [RMB]
+  [RMB]
+  DD
+  [RMB]
+  D
+  [RMB]
+  D2
+  [RMB]
+  DD
+  [RMB]
+  KDFDDF
+  [RMB]
+  FFKC
+  [LMB]
+  [LMB]
+  [Esc]F
+  [RMB]
+  [RMB]
+  DFDF
+  [RMB]
+  K2FFK
+  [RMB]
+  [RMB]
+  K
+  [RMB]
+  KD
+  [RMB]
+  [RMB]
+  [RMB]
+  DK
+  [RMB]
+  2
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  2C
+  [LMB]
+  [LMB]
+  [Esc]K
+  [RMB]
+  DFD
+  [RMB]
+  [RMB]
+  KC[Esc]C
+  [LMB]
+  [LMB]
+  [Esc] 
+  [RMB]
+  [RMB]
+   
+  [RMB]
+  K 
+  [RMB]
+    KD
+  [RMB]
+  [RMB]
+  DFFFFFFFFFFFFFFFFFFFFFFFF
+  [LMB]
+  [LMB]
+  DF2DFF2 KDFFDF2FFFFFFFFFFFFFFFFFFFFFFFFFFF  FFF2DF2DDFF2FFF
+  [RMB]
+  F
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc]F
+  [RMB]
+  [Esc] FD FFFDF DFFF DDKFFFFFFFFFFFFFFF FD DDDDDDDDDD FDFF
+  [RMB]
+  FFC[Esc]FF5=>@<0;L=> 1C45B[ENTER]
+  KFFFFF FD   D        FF      FFF 
+  [RMB]
+  [Esc]C
+  [LMB]
+  [Esc][Esc]
+  [RMB]
+  [LMB]
+  [Bk][Bk][Bk][Bk][Bk][Bk][Bk][Bk][Bk][Bk]=[Bk]8=4CAB@8
+  [LMB]
+  [LMB]
+  [Esc][Esc]2FK
+  [RMB]
+  [Esc]
+  [RMB]
+  [Esc]
+  [RMB]
+  [LMB]
+  [LMB]
+  [Esc]DF
+  [RMB]
+  [Esc]FF2FDF2F
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc]DFFDDF
+  [RMB]
+  [LMB]
+  [LMB]
+  [Esc]DF
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc]2
+  [RMB]
+  [LMB]
+  [LMB]
+  [Esc]C[Esc]FD
+  [RMB]
+  [Esc]K2
+  [RMB]
+  [Esc] FD FF2   DFC
+  [LMB]
+  [LMB]
+  [Esc][Esc]  F      2 D FF
+  [RMB]
+  [Esc]2
+  [RMB]
+  [LMB]
+  [Esc]F
+  [RMB]
+  [Esc]C[Esc]
+  [RMB]
+  [Esc]
+  [RMB]
+  [LMB]
+  [Esc][Esc]2K
+  [RMB]
+  [Esc]
+  [RMB]
+  [LMB]
+  [Esc]C
+  [LMB]
+  [Esc][Esc]F
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc][Esc]2
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [Esc]C
+  [LMB]
+  [LMB]
+  [Esc]F2
+  [RMB]
+  [Esc]FF
+  [RMB]
+  [LMB]
+  [Esc]C
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [Esc]FFD
+  [RMB]
+  [Esc]2FF
+  [RMB]
+  [LMB]
+  [Esc]DF
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc][Esc]
+  [RMB]
+  [LMB]
+  [LMB]
+  [Esc]
+  [RMB]
+  [LMB]
+  [LMB]
+  [Esc]C[Esc]C
+  [LMB]
+  [Esc][Esc]KDFDFC
+  [LMB]
+  [LMB]
+  [Esc][Esc]
+  [RMB]
+  [Esc]
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc][Esc]2F
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc][Esc]D
+  [RMB]
+  [Esc]
+  [RMB]
+  [LMB]
+  [Esc]DF
+  [RMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [Esc]
+  [RMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  [Esc]DF
+  [RMB]
+  [LMB]
+  [LMB]
+  [Esc][Esc]KD2KDFFFFF5/0[Bk]0CC2[ENTER]
+  FF DK2FFFFFFFFD2
+  [RMB]
+  [Esc]FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+  [RMB]
+  [Esc]DF5/@D44IFCCB[ENTER]
+  [LMB]
+  [LMB]
