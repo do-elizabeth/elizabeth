@@ -1,0 +1,85 @@
+﻿
+--- WINDOW  2026/11/03 03:10:41  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/03 03:10:41  [explorer.exe] (untitled)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/03 03:10:42  [Dolphin Anty.exe] dolphin_anty
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/03 03:10:45  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/03 03:20:06  [explorer.exe] (untitled)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/03 03:20:06  [explorer.exe] Task View
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/03 03:20:06  [Dolphin Anty.exe] Dolphin{anty}
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/03 03:23:37  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/03 03:23:37  [explorer.exe] (untitled)
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/03 03:23:41  [chrome.exe] Restore pages?
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/03 03:23:49  [chrome.exe] Telegram Web - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/03 03:23:52  [chrome.exe] New Tab - Google Chrome
+----------------------------------------------------------------------------
+  gmal.o
+
+--- WINDOW  2026/11/03 03:24:10  [chrome.exe] Gmail - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/03 03:24:20  [chrome.exe] Inbox (1,230) - ayinlaahmed45@gmail.com - Gmail - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/03 03:24:37  [chrome.exe] Untitled - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/03 03:24:38  [chrome.exe] accounts.google.com/v3/signin/identifier?authuser=0&continue=https://mail.google.com/mail/&ec=GAlAFw&hl=en&rip=1&service=mail&flowName=GlifWebSignIn&flowEntry=AddSession&dsh=S-450097552:1793705079057633 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/03 03:24:39  [chrome.exe] Gmail - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [Bk]06
+  [LMB]
+
+--- WINDOW  2026/11/03 03:24:50  [chrome.exe] Welcome - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  fu[Bk][Bk]funf[Bk]d11112
+  [LMB]
+
+--- WINDOW  2026/11/03 03:25:13  [chrome.exe] gds.google.com/web/landing?ep=p&gdsid=-380629311&tda=CAA&gm3e=false&authuser=1&hl=en&continue=https://accounts.google.com/ServiceLogin?continue%3Dhttps://mail.google.com/mail/%26service%3Dmail%26hl%3Den%26authuser%3D1%26passive%3Dtrue%26sarp%3D1%26aodrpl%3D1%26checkedDomains%3Dyoutube%26checkConnection%3Dyoutube:926%26pstMsg%3D1&service=mail&rapt=AEjHL4N0MqM4yPXh0nuRG0JhLhJw81vB5c5rCMN6xhf8toSyEqeXrG66pc9ej6j9Lt4nFWk5NpHoSp3LDTjm8UdieUn1Jg8DwA&pli=1 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/03 03:25:13  [chrome.exe] Google Account - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/03 03:25:15  [chrome.exe] Account Recovery Options - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/03 03:26:37  [chrome.exe] Free up space to continue
