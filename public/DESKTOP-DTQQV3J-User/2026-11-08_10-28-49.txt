@@ -1,0 +1,3181 @@
+﻿  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  q
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  f
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  e
+  [LMB]
+  e
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  d
+  [RMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  e
+  [LMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  q
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc]
+  [LMB]
+  [Esc]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  q
+  [LMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  e
+  [LMB]
+  [LMB]
+  r
+  [LMB]
+  rr
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  qq
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  w
+  [LMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  qq
+  [LMB]
+  wq
+  [LMB]
+  q
+  [RMB]
+  q
+  [RMB]
+  w
+  [RMB]
+  [RMB]
+  [RMB]
+  q
+  [RMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  e
+  [LMB]
+  [LMB]
+  w
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  w
+  [LMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  q
+  [LMB]
+  [RMB]
+  [RMB]
+  f
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  w
+  [LMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  q
+  [LMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  r
+  [LMB]
+  r
+  [RMB]
+  r
+  [LMB]
+  rr
+  [LMB]
+  r
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  eqe
+  [LMB]
+  w
+  [LMB]
+  e
+  [RMB]
+  [LMB]
+  [RMB]
+  e
+  [LMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  ff
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  w
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  q
+  [LMB]
+  [RMB]
+  [RMB]
+  e
+  [LMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [Tab]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  q
+  [RMB]
+  w
+  [LMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  e
+  [RMB]
+  w
+  [LMB]
+  q
+  [RMB]
+  [LMB]
+  [RMB]
+  q
+  [LMB]
+  [LMB]
+  w
+  [LMB]
+  [RMB]
+  q
+  [LMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  w
+  [LMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  ww
+  [LMB]
+  [RMB]
+  q
+  [LMB]
+  [RMB]
+  [RMB]
+  w
+  [RMB]
+  [RMB]
+  qw
+  [LMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  q
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  e
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [X1]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  rr
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  r
+  [RMB]
+  [RMB]
+  [LMB]
+  e
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  q
+  [RMB]
+  we
+  [RMB]
+  [LMB]
+  [RMB]
+  e
+  [LMB]
+  qq
+  [LMB]
+  wq
+  [LMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  e
+  [RMB]
+  e
+  [LMB]
+  w
+  [LMB]
+  [RMB]
+  f
+  [LMB]
+  [RMB]
+  qf
+  [LMB]
+  [RMB]
+  qe
+  [RMB]
+  [LMB]
+  [RMB]
+  qw
+  [LMB]
+  [LMB]
+  [LMB]
+  w
+  [LMB]
+  ee
+  [RMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  w
+  [LMB]
+  e
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  e
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  q
+  [LMB]
+  w
+  [LMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  w
+  [RMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  w
+  [LMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  w
+  [RMB]
+  we
+  [RMB]
+  w
+  [LMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc]
+  [LMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  q
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  e
+  [LMB]
+  e
+  [LMB]
+  [RMB]
+  ww
+  [LMB]
+  [RMB]
+  e
+  [LMB]
+  [RMB]
+  [LMB]
+  e
+  [LMB]
+  [LMB]
+  qe
+  [LMB]
+  [LMB]
+  e
+  [RMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc]
+  [LMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  e
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  q
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  e
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  r
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  qe
+  [LMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  e
+  [LMB]
+  [RMB]
+  w
+  [RMB]
+  e
+  [RMB]
+  ww
+  [RMB]
+  [LMB]
+  [LMB]
+  e
+  [LMB]
+  w
+  [LMB]
+  w
+  [LMB]
+  [RMB]
+  qq
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  ww
+  [LMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  q
+  [LMB]
+  [RMB]
+  q
+  [LMB]
+  ff
+  [LMB]
+  [RMB]
+  fq
+  [LMB]
+  [RMB]
+  [LMB]
+  e
+  [LMB]
+  [RMB]
+  qe
+  [X1]
+  [LMB]
+  [LMB]
+  [Esc]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc]
+  [LMB]
+  [LMB]
+  [Esc]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  rr
+  [LMB]
+  q
+  [RMB]
+  w
+  [LMB]
+  q
+  [RMB]
+  [LMB]
+  [RMB]
+  q
+  [LMB]
+  w
+  [RMB]
+  [LMB]
+  e
+  [RMB]
+  [LMB]
+  w
+  [RMB]
+  [LMB]
+  [RMB]
+  q
+  [LMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  q
+  [LMB]
+  [LMB]
+  e
+  [LMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  q
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  ew
+  [LMB]
+  e
+  [LMB]
+  [LMB]
+  qwq
+  [LMB]
+  e
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  w
+  [LMB]
+  [LMB]
+  [LMB]
+  w
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  q
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  w
+  [LMB]
+  w
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  r
+  [RMB]
+  [LMB]
+  e
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  f
+  [LMB]
+  w
+  [LMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  e
+  [RMB]
+  e
+  [LMB]
+  [RMB]
+  e
+  [LMB]
+  [LMB]
+  [RMB]
+  e
+  [LMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  e
+  [LMB]
+  [RMB]
+  [LMB]
+  w
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  wwqw
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  e
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  r
+  [LMB]
+  rr
+  [RMB]
+  [RMB]
+  r
+  [LMB]
+  r
+  [RMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  e
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  w
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [X1]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  r
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  e
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  r
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  f
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  e
+  [LMB]
+  [RMB]
+  [LMB]
+  q
+  [RMB]
+  [RMB]
+  q
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  r
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  e
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  r
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  e
+  [LMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  w
+  [LMB]
+  w
+  [RMB]
+  [RMB]
+  [RMB]
+  q
+  [LMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  q
+  [LMB]
+  [LMB]
+  ee
+  [LMB]
+  [RMB]
+  [LMB]
+  e
+  [LMB]
+  we
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  r
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  e
+  [LMB]
+  e
+  [LMB]
+  q
+  [LMB]
+  e
+  [RMB]
+  e
+  [LMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  f
+  [LMB]
+
+--- WINDOW  2026/11/08 09:48:37  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/08 09:48:38  [brave.exe] $89.072 | SOL | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/08 09:48:39  [brave.exe] $89.078 | SOL | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/08 09:48:41  [brave.exe] $89.077 | SOL | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/08 09:48:43  [LeagueClientUx.exe] League of Legends
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/08 09:48:45  [Mobalytics.exe] League of Legends Guides - Mobalytics
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/08 09:48:45  [LeagueClientUx.exe] League of Legends
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/08 09:48:46  [brave.exe] $89.077 | SOL | Vest Markets - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/08 09:48:54  [brave.exe] $89.076 | SOL | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/08 09:48:55  [brave.exe] $89.063 | SOL | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/08 09:48:56  [brave.exe] $89.052 | SOL | Vest Markets - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/08 09:48:57  [brave.exe] $89.053 | SOL | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/08 09:48:58  [brave.exe] $89.056 | SOL | Vest Markets - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/08 09:48:59  [brave.exe] $89.057 | SOL | Vest Markets - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/08 09:49:00  [brave.exe] $89.056 | SOL | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/08 09:49:01  [brave.exe] $89.043 | SOL | Vest Markets - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/08 09:49:02  [brave.exe] $89.044 | SOL | Vest Markets - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/08 09:49:04  [brave.exe] $89.033 | SOL | Vest Markets - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/08 09:49:10  [brave.exe] $89.032 | SOL | Vest Markets - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/08 09:49:13  [brave.exe] $89.033 | SOL | Vest Markets - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/08 09:49:15  [brave.exe] $89.024 | SOL | Vest Markets - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/08 09:49:17  [brave.exe] $89.025 | SOL | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/08 09:49:18  [brave.exe] $89.027 | SOL | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/08 09:49:19  [brave.exe] $89.026 | SOL | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/08 09:49:20  [brave.exe] $89.025 | SOL | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/08 09:49:21  [brave.exe] $89.024 | SOL | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/08 09:49:22  [brave.exe] $89.025 | SOL | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/08 09:49:24  [brave.exe] $89.026 | SOL | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/08 09:49:25  [brave.exe] $89.025 | SOL | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/08 09:49:26  [brave.exe] $89.013 | SOL | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/08 09:49:28  [brave.exe] $89.014 | SOL | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/08 09:49:29  [brave.exe] $89.013 | SOL | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/08 09:49:30  [brave.exe] $89.012 | SOL | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/08 09:49:31  [brave.exe] $89.003 | SOL | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/08 09:49:33  [brave.exe] $89.010 | SOL | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/08 09:49:34  [brave.exe] $89.008 | SOL | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/08 09:49:35  [brave.exe] $89.009 | SOL | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/08 09:49:36  [brave.exe] $89.007 | SOL | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/08 09:49:38  [brave.exe] $89.006 | SOL | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/08 09:49:39  [brave.exe] $89.005 | SOL | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/08 09:49:42  [brave.exe] $89.004 | SOL | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/08 09:49:54  [brave.exe] $89.003 | SOL | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/08 09:49:55  [brave.exe] $89.004 | SOL | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/08 09:49:59  [brave.exe] $89.000 | SOL | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/08 09:50:00  [brave.exe] $89.026 | SOL | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/08 09:50:01  [brave.exe] $89.022 | SOL | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/08 09:50:02  [brave.exe] $89.020 | SOL | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/08 09:50:03  [brave.exe] $89.026 | SOL | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/08 09:50:04  [brave.exe] $89.052 | SOL | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/08 09:50:05  [brave.exe] $89.056 | SOL | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/08 09:50:06  [brave.exe] $89.057 | SOL | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/08 09:50:07  [brave.exe] $89.055 | SOL | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/08 09:50:08  [brave.exe] $89.057 | SOL | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/08 09:50:11  [brave.exe] $89.056 | SOL | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/08 09:50:15  [brave.exe] $89.055 | SOL | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/08 09:50:17  [brave.exe] $89.056 | SOL | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/08 09:50:18  [brave.exe] $89.063 | SOL | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/08 09:50:19  [brave.exe] $89.060 | SOL | Vest Markets - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/08 09:50:20  [brave.exe] 返傭站 — Fee Otter - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/08 09:50:28  [brave.exe] J-POP 1990 2000 メドレー🎶懐かしい邦楽ヒット曲50選🌸L'Arc-en-Ciel, GLAY, GLORIA, B'z, BUMP OF CHICKEN - YouTube - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/08 09:50:29  [brave.exe] Facebook - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/08 09:50:39  [brave.exe] $89.041 | SOL | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/08 09:50:40  [brave.exe] $89.040 | SOL | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/08 09:50:41  [brave.exe] $89.039 | SOL | Vest Markets - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/08 09:50:42  [brave.exe] J-POP 1990 2000 メドレー🎶懐かしい邦楽ヒット曲50選🌸L'Arc-en-Ciel, GLAY, GLORIA, B'z, BUMP OF CHICKEN - YouTube - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/08 09:50:44  [explorer.exe] (untitled)
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/08 09:50:48  [brave.exe] [#] Facebook - Brave [#]
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/08 09:50:49  [brave.exe] [#] 返傭站 — Fee Otter - Brave [#]
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/08 09:50:50  [brave.exe] [#] J-POP 1990 2000 メドレー🎶懐かしい邦楽ヒット曲50選🌸L'Arc-en-Ciel, GLAY, GLORIA, B'z, BUMP OF CHICKEN - YouTube - Brave [#]
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/08 09:50:51  [brave.exe] [#] Facebook - Brave [#]
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/08 09:50:53  [brave.exe] [#] 新分頁 - Brave [#]
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/08 09:51:00  [brave.exe] [#] pornlulu.com/zh-hans/cat/83?page=28 - Brave [#]
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/08 09:51:01  [brave.exe] [#] 巨乳无码 - 免费情色成人视频 - Pornlulu - Brave [#]
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/08 09:51:04  [brave.exe] [#] 免费情色成人视频 - Pornlulu - Brave [#]
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/08 09:51:48  [explorer.exe] (untitled)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/08 09:51:48  [ShellExperienceHost.exe] 音量控制
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/08 09:51:50  [brave.exe] [#] 免费情色成人视频 - Pornlulu - Brave [#]
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/08 09:51:52  [brave.exe] [#] 二舅引荐的长腿美模，被硬汉巨根无情猛烈操干，刺激到情难自禁高潮不断，只能哭着叫爸爸 - 国产自拍 - 免费情色成人视频 - Brave [#]
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/08 09:52:40  [explorer.exe] (untitled)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/08 09:52:41  [ShellExperienceHost.exe] 音量控制
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/08 09:52:44  [brave.exe] [#] 二舅引荐的长腿美模，被硬汉巨根无情猛烈操干，刺激到情难自禁高潮不断，只能哭着叫爸爸 - 国产自拍 - 免费情色成人视频 - Brave [#]
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/08 09:53:02  [brave.exe] [#] pornlulu.com/zh-hans/cat/263 - Brave [#]
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/08 09:53:02  [brave.exe] [#] 国产自拍 - 免费情色成人视频 - Pornlulu - Brave [#]
+----------------------------------------------------------------------------
+  [RMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/08 09:53:35  [brave.exe] [#] 疯狂猛插黑丝继母的紧致骚穴，狂喷精液让她在浪叫中彻底失神沦陷 - 国产自拍 - 免费情色成人视频 - Brave [#]
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/08 09:54:08  [brave.exe] [#] 清纯女大学生被老司机骗入密林，娇喘连连，肥臀狂抖，狠狠操爆粉嫩湿润的骚穴 - 国产自拍 - 免费情色成人视频 - Brave [#]
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/08 09:55:09  [brave.exe] [#] 国产自拍 - 免费情色成人视频 - Pornlulu - Brave [#]
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/08 09:55:12  [brave.exe] [#] pornlulu.com/zh-hans/cat/263?page=2 - Brave [#]
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/08 09:55:12  [brave.exe] [#] 国产自拍 - 免费情色成人视频 - Pornlulu - Brave [#]
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/08 09:55:28  [brave.exe] [#] pornlulu.com/zh-hans/cat/263?page=3 - Brave [#]
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/08 09:55:29  [brave.exe] [#] 国产自拍 - 免费情色成人视频 - Pornlulu - Brave [#]
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/08 09:55:51  [brave.exe] [#] 极品空姐主管被上司从背后狠狠插爆，白皙蜜桃臀疯狂扭动迎合，深喉吞精后入内射，娇喘连连湿透丝袜 - 国产自拍 - 免费情色成人视频 - Brave [#]
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/08 09:55:53  [brave.exe] [#] 国产自拍 - 免费情色成人视频 - Pornlulu - Brave [#]
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/08 09:55:59  [brave.exe] [#] pornlulu.com/zh-hans/cat/263?page=4 - Brave [#]
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/08 09:56:00  [brave.exe] [#] 国产自拍 - 免费情色成人视频 - Pornlulu - Brave [#]
+----------------------------------------------------------------------------
+  [RMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/08 09:56:26  [brave.exe] [#] pornlulu.com/zh-hans/cat/263?page=5 - Brave [#]
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/08 09:56:26  [brave.exe] [#] 国产自拍 - 免费情色成人视频 - Pornlulu - Brave [#]
+----------------------------------------------------------------------------
+  [RMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/08 09:56:52  [brave.exe] [#] pornlulu.com/zh-hans/cat/263?page=6 - Brave [#]
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/08 09:56:52  [brave.exe] [#] 国产自拍 - 免费情色成人视频 - Pornlulu - Brave [#]
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/08 09:57:11  [brave.exe] [#] pornlulu.com/zh-hans/cat/263?page=7 - Brave [#]
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/08 09:57:12  [brave.exe] [#] 国产自拍 - 免费情色成人视频 - Pornlulu - Brave [#]
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/08 09:57:39  [brave.exe] [#] pornlulu.com/zh-hans/cat/263?page=8 - Brave [#]
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/08 09:57:39  [brave.exe] [#] 国产自拍 - 免费情色成人视频 - Pornlulu - Brave [#]
+----------------------------------------------------------------------------
+  [RMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/08 09:58:20  [brave.exe] [#] pornlulu.com/zh-hans/cat/263?page=9 - Brave [#]
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/08 09:58:21  [brave.exe] [#] 国产自拍 - 免费情色成人视频 - Pornlulu - Brave [#]
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/08 09:58:41  [brave.exe] [#] pornlulu.com/zh-hans/cat/263?page=10 - Brave [#]
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/08 09:58:42  [brave.exe] [#] 国产自拍 - 免费情色成人视频 - Pornlulu - Brave [#]
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/08 09:59:04  [brave.exe] [#] 淫荡女友身着女仆装跨坐胯下疯狂抽插，揉捏丰乳狂干嘴喊不要却满脸潮红爽到失神 - 国产自拍 - 免费情色成人视频 - Brave [#]
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/08 09:59:27  [brave.exe] [#] 极品双姝沦陷，巨乳姐妹花被猛男轮番干到狂喷浓液 - 国产自拍 - 免费情色成人视频 - Brave [#]
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/08 10:01:07  [brave.exe] [#] pornlulu.com/zh-hans/v/Mx9Yg3 - Brave [#]
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/08 10:01:08  [brave.exe] [#] 麻豆双生姐妹花联合夹逼复仇，丰满巨乳被猛烈抽插直顶高潮 - 国产自拍 - 免费情色成人视频 - Brave [#]
+----------------------------------------------------------------------------
+  [RMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [->][->]
+  [LMB]
+  [->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->]
+  [LMB]
+  [LMB]
+  [->][->][->][->][->][->]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/08 10:06:30  [brave.exe] [#] 新婚之夜母女花齐上阵，巨乳双飞遭无套狠操，精液狂飙内射简直太刺激 - 国产自拍 - 免费情色成人视频 - Brave [#]
+----------------------------------------------------------------------------
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/08 10:07:20  [brave.exe] [#] 极品母女双飞，守寡人妻与妙龄女儿被色狼邻居狂干内射 - 国产自拍 - 免费情色成人视频 - Brave [#]
+----------------------------------------------------------------------------
+  [LMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/08 10:08:10  [brave.exe] [#] 李蓉蓉与岚湘庭极致双飞，母女角色淫乱爆操，内射深吻尽显露骨诱惑 - 国产自拍 - 免费情色成人视频 - Brave [#]
+----------------------------------------------------------------------------
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/08 10:08:46  [brave.exe] [#] 李蓉蓉口活惊艳，鲍鱼争奇斗艳，极品肉穴被狂操到内射高潮，激情淫荡令人血脉偾张 - 国产自拍 - 免费情色成人视频 - Brave [#]
+----------------------------------------------------------------------------
+  [LMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/08 10:10:35  [brave.exe] [#] 夏晴子李蓉蓉苡若玉足轻颤，三穴同时高潮喷水，巨乳疯狂弹跳，无套深喉狂插内射，湿透衣衫的极致淫乱合集 - 国产自拍 - 免费情色成人视频 - Brave [#]
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/08 10:10:53  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/08 10:10:54  [brave.exe] J-POP 1990 2000 メドレー🎶懐かしい邦楽ヒット曲50選🌸L'Arc-en-Ciel, GLAY, GLORIA, B'z, BUMP OF CHICKEN - YouTube - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/08 10:10:54  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/08 10:10:54  [brave.exe] [#] 夏晴子李蓉蓉苡若玉足轻颤，三穴同时高潮喷水，巨乳疯狂弹跳，无套深喉狂插内射，湿透衣衫的极致淫乱合集 - 国产自拍 - 免费情色成人视频 - Brave [#]
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/08 10:10:55  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/08 10:10:55  [brave.exe] J-POP 1990 2000 メドレー🎶懐かしい邦楽ヒット曲50選🌸L'Arc-en-Ciel, GLAY, GLORIA, B'z, BUMP OF CHICKEN - YouTube - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/08 10:10:56  [brave.exe] $88.872 | SOL | Vest Markets - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/08 10:11:02  [brave.exe] $88.873 | SOL | Vest Markets - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/08 10:11:10  [brave.exe] $88.879 | SOL | Vest Markets - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/08 10:11:11  [brave.exe] [#] 夏晴子李蓉蓉苡若玉足轻颤，三穴同时高潮喷水，巨乳疯狂弹跳，无套深喉狂插内射，湿透衣衫的极致淫乱合集 - 国产自拍 - 免费情色成人视频 - Brave [#]
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/08 10:14:46  [brave.exe] [#] 四姐妹深夜集体失守，极品花蕾被轮番爆操狂干，尖叫连连直喷内射高潮合集 - 国产自拍 - 免费情色成人视频 - Brave [#]
+----------------------------------------------------------------------------
+  [RMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/08 10:15:34  [brave.exe] [#] 浪漫纯欲姐妹花极致沦陷，水嫩骚穴狂野吸吮，内射高潮不断的水果派激情盛宴 - 国产自拍 - 免费情色成人视频 - Brave [#]
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/08 10:16:14  [brave.exe] [#] 姐妹警花双双沦陷，淫贼肆意狂操，内射巨乳肉奴，尽显淫靡风采 - 国产自拍 - 免费情色成人视频 - Brave [#]
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/08 10:18:37  [brave.exe] [#] pornlulu.com/zh-hans/v/JkMVZz - Brave [#]
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/08 10:18:38  [brave.exe] [#] 警花姐妹花遭多人轮番暴干，巨乳傲人身姿被操到喷水内射，色气满满。 - 国产自拍 - 免费情色成人视频 - Brave [#]
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/08 10:19:08  [brave.exe] [#] 新婚人妻苏畅与粗犷菜摊老板在厕所热烈缠绵，被强势按倒连续爆操，激情内射席卷全身，湿滑爱意尽显挑逗。 - 国产自拍 - 免费情色成人视频 - Brave [#]
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/08 10:19:26  [brave.exe] [#] 赵晓涵在奇淫旅社遭猛男轮番强干，肉体交缠中彻底沦陷至失禁高潮 - 国产自拍 - 免费情色成人视频 - Brave [#]
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/08 10:19:49  [brave.exe] [#] pornlulu.com/zh-hans/v/PRoE5b - Brave [#]
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/08 10:19:49  [brave.exe] [#] 奇淫旅社深夜预约，李蓉蓉赤身服务，指尖滑过肌肤，唇齿间低吟着最醉人的呻吟，连床单都浸透了爱液 - 国产自拍 - 免费情色成人视频 - Brave [#]
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/08 10:20:05  [brave.exe] [#] 熟透人妻深夜与年轻女婿疯狂交欢，巨乳浪叫被粗壮肉棒狠狠贯穿，直插宫颈高潮连喷，精液满溢 - 国产自拍 - 免费情色成人视频 - Brave [#]
+----------------------------------------------------------------------------
+  [RMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/08 10:20:52  [brave.exe] [#] 深夜与清纯学妹的激情缠绵，丰满巨乳在激烈爆操中彻底沦陷，留下满溢的内射印记 - 国产自拍 - 免费情色成人视频 - Brave [#]
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/08 10:21:18  [brave.exe] [#] 白嫩新娘爆发销魂夜，丰盈巨乳被彻底干透，内射时淫叫不断，色气满满引人遐想。 - 国产自拍 - 免费情色成人视频 - Brave [#]
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/08 10:21:35  [brave.exe] [#] 无套狂爆巨乳人妻的骚穴，浓精内射填满淫荡少妇的子宫 - 国产自拍 - 免费情色成人视频 - Brave [#]
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/08 10:21:53  [brave.exe] [#] 清纯极品女大学生在酒店被渣男狠干到全身湿透，彻底沦陷 - 国产自拍 - 免费情色成人视频 - Brave [#]
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/08 10:22:04  [brave.exe] [#] 丰满优娜化身八艳，身着唯美诗衣率先献身，硕大乳峰随剧烈抽插疯狂抖动，紧致骚穴被肉棒狠狠贯穿，高潮瞬间飙出大量精液 - 国产自拍 - 免费情色成人视频 - Brave [#]
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/08 10:22:32  [brave.exe] [#] pornlulu.com/zh-hans/v/mEkyqE - Brave [#]
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/08 10:22:33  [brave.exe] [#] 清纯八艳粉穴集体迎宾，骚穴深润饥渴待填，猛男轮番狂插狠干，高潮连连淫液横飞 - 国产自拍 - 免费情色成人视频 - Brave [#]
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/08 10:22:54  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/08 10:22:54  [brave.exe] $88.840 | SOL | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/08 10:22:54  [brave.exe] $88.855 | SOL | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/08 10:22:55  [brave.exe] $88.854 | SOL | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/08 10:22:56  [brave.exe] $88.855 | SOL | Vest Markets - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/08 10:22:58  [brave.exe] Facebook - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  ai4[<-][->][->][Bk][Bk][Bk][Bk]ai4[v][v][v][ENTER]
+  [v][v][v][v][v][^][ENTER]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/08 10:23:16  [brave.exe] 墨紫櫻 | Facebook - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/08 10:23:23  [brave.exe] Facebook - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  [Clipboard]
+  墨紫櫻
+  
+  [LMB]
+
+--- WINDOW  2026/11/08 10:23:57  [brave.exe] 新分頁 - Brave
+----------------------------------------------------------------------------
+  [RMB]
+  [LMB]
+  [ENTER]
+
+--- WINDOW  2026/11/08 10:24:00  [brave.exe] google.com/search?q=墨紫櫻&oq=墨紫櫻&sourceid=chrome&ie=UTF-8 - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/08 10:24:01  [brave.exe] 墨紫櫻 - Google 搜尋 - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/08 10:24:06  [brave.exe] google.com/search?q=墨紫櫻&sca_esv=28c9370ba8d17229&sxsrf=AKL5yDgamOu-2i8QbMFUARt5pmApx3Rtqg:1794104640219&ei=QN3vatnIDKrArfcPubS_gQ4&start=10&sa=N&sstk=AYl2yk-ZTAjfGrsQ-NlWDdkwYKnVEPLjDu7JcgsRJIy_TkzVC-7mvv4SNRunzJ-xVg0fjUxrEF8s7VRF-bbeWnpCA4bIh9JDJn91xg&ved=2ahUKEwjZ6JPOqPeXAxUqYOsIHTnaL-AQ8tMDegQIRBAE&biw=2560&bih=1323&dpr=1 - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/08 10:24:06  [brave.exe] 墨紫櫻 - Google 搜尋 - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/08 10:24:11  [brave.exe] Facebook - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  g/ hjp6
+  [LMB]
+
+--- WINDOW  2026/11/08 10:24:26  [brave.exe] 生存遊戲聊天、討論社團 - 搜尋結果 | Facebook - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [Bk][<-][<-][<-]m4286[ENTER]
+  [RMB]
+  [LMB]
+  [LMB]
+  [ENTER]
+
+--- WINDOW  2026/11/08 10:24:39  [brave.exe] 育達生存 - 搜尋結果 | Facebook - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/08 10:24:47  [brave.exe] 《育達科大生存遊戲社盆菜(？)團》 - 搜尋結果 | Facebook - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/08 10:24:50  [brave.exe] 《育達科大生存遊戲社盆菜(？)團》 | Facebook - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/08 10:24:54  [brave.exe] 周峻瑞 | Facebook - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/08 10:24:55  [brave.exe] Facebook - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/08 10:24:56  [brave.exe] 周峻瑞 | Facebook - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/08 10:24:58  [brave.exe] 《育達科大生存遊戲社盆菜(？)團》 | Facebook - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/08 10:25:10  [brave.exe] Facebook - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/08 10:25:14  [brave.exe] 《育達科大生存遊戲社盆菜(？)團》 | Facebook - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/08 10:25:15  [brave.exe] Facebook - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/08 10:25:17  [brave.exe] 《育達科大生存遊戲社盆菜(？)團》 | Facebook - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/08 10:25:19  [brave.exe] Facebook - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/08 10:25:23  [brave.exe] 《育達科大生存遊戲社盆菜(？)團》 | Facebook - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/08 10:25:24  [brave.exe] Facebook - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/08 10:25:27  [brave.exe] 《育達科大生存遊戲社盆菜(？)團》 | Facebook - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/08 10:25:31  [brave.exe] Facebook - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/08 10:25:33  [brave.exe] 《育達科大生存遊戲社盆菜(？)團》 | Facebook - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [Ctrl][Ctrl]c
+  [Clipboard]
+  育達科大生存遊戲
+  [LMB]
+  [Ctrl]v
+  [LMB]
+
+--- WINDOW  2026/11/08 10:25:43  [brave.exe] 育達科大生存遊戲 - 搜尋結果 | Facebook - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [<-][<-][<-][<-][Bk][Bk][ENTER]
+
+--- WINDOW  2026/11/08 10:25:56  [brave.exe] 育達生存遊戲 - 搜尋結果 | Facebook - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [Ctrl]
+  [Clipboard]
+  育達生存遊戲
+  c
+  [LMB]
+
+--- WINDOW  2026/11/08 10:26:02  [brave.exe] [育達生存遊戲社103學年度-社團迎新同樂會] | Facebook - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/08 10:26:07  [brave.exe] YDU生存遊戲社 | Facebook - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/08 10:26:23  [brave.exe] Facebook - Brave
+----------------------------------------------------------------------------
+  [RMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/08 10:26:26  [brave.exe] facebook.com/photo/?fbid=1869845903238445&set=oa.1080424078719941 - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/08 10:26:27  [brave.exe] Facebook - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/08 10:26:33  [brave.exe] YDU生存遊戲社 | Facebook - Brave
+----------------------------------------------------------------------------
+  [RMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/08 10:26:46  [brave.exe] Facebook - Brave
+----------------------------------------------------------------------------
+  [RMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/08 10:26:55  [brave.exe] facebook.com/photo/?fbid=1605325569690481&set=oa.710533132375706 - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/08 10:26:56  [brave.exe] Facebook - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/08 10:27:14  [brave.exe] YDU生存遊戲社 | Facebook - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/08 10:27:16  [brave.exe] Facebook - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/08 10:27:20  [brave.exe] YDU生存遊戲社 | Facebook - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/08 10:27:36  [brave.exe] Facebook - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/08 10:27:39  [brave.exe] YDU生存遊戲社 | Facebook - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/08 10:27:43  [brave.exe] Facebook - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
