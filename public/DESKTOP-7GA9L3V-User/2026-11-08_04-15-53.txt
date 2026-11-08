@@ -1,0 +1,583 @@
+﻿
+--- WINDOW  2026/11/07 13:27:54  [explorer.exe] Your battery is running low.
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/07 13:50:48  [explorer.exe] Your battery is very low
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/08 03:47:36  [LockApp.exe] Windows Default Lock Screen
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/08 03:48:35  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/08 03:48:42  [explorer.exe] UnlockingWindow
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/08 03:48:44  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/08 03:48:45  [chrome.exe] Gigs - George
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/08 03:49:18  [brave.exe] Gigs - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/08 03:50:14  [chrome.exe] Gigs - George
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/08 03:50:54  [brave.exe] Gigs - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/08 03:51:03  [chrome.exe] Project Catalog | Upwork - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/08 03:51:59  [explorer.exe] (untitled)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/08 03:52:06  [chrome.exe] Project Catalog | Upwork - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/08 03:52:12  [brave.exe] Gigs - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/08 03:52:16  (no active window)
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/08 03:52:16  [explorer.exe] (untitled)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/08 03:52:19  [brave.exe] Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/08 03:52:23  [brave.exe] Offer profitable forex trading bot, forex bot, gold trading bot, trading bot by Julian_hayes0 | Fiverr - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/08 03:52:38  [brave.exe] Gigs - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/08 03:52:50  [brave.exe] New Tab - Brave
+----------------------------------------------------------------------------
+  cro
+  [LMB]
+
+--- WINDOW  2026/11/08 03:52:58  [brave.exe] chrome web store - Brave Search - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/08 03:53:04  [brave.exe] chromewebstore.google.com - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/08 03:53:05  [brave.exe] Chrome Web Store - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/08 03:53:17  [brave.exe] Chrome Web Store - Extensions - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  aip
+  [LMB]
+
+--- WINDOW  2026/11/08 03:53:22  [brave.exe] AIPRM for ChatGPT - Chrome Web Store - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/08 03:53:25  [brave.exe] (untitled)
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/08 03:53:27  [brave.exe] AIPRM for ChatGPT - Chrome Web Store - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/08 03:53:36  [brave.exe] AIPRM for ChatGPT has been added to Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/08 03:53:36  [brave.exe] Untitled - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/08 03:53:37  [brave.exe] AIPRM for ChatGPT - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/08 03:53:42  [brave.exe] (untitled)
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/08 03:53:45  [brave.exe] AIPRM for ChatGPT - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/08 03:53:48  [brave.exe] ChatGPT: Chat, Work, Create & Code with AI - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/08 03:54:02  [brave.exe] AIPRM for ChatGPT - Chrome Web Store - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/08 03:54:03  [brave.exe] ChatGPT: Chat, Work, Create & Code with AI - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/08 03:54:13  [brave.exe] Signup - AIPRM for ChatGPT - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/08 03:54:21  [brave.exe] accounts.google.com/v3/signin/identifier?opparams=%253F&dsh=S-2145414000%3A1794138860704368&access_type=offline&client_id=228278226612-5om1ffmfp2grddk11iq1pqosb33lm4mo.apps.googleusercontent.com&o2v=1&redirect_uri=https%3A%2F%2Fapp.aiprm.com%2Fapi%2Fauth%2Fgoogle%2Fcallback&response_type=code&scope=profile+email&service=lso&state=qCZS2tQOYIKFR87xO0oKLFQAObpEJqBePain0lZB2g6swtfwLwBrQR5hedUepSQd4LfOSqhcN3TerXgyHCdvfA%3D%3D&flowName=GeneralOAuthFlow&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/08 03:54:22  [brave.exe] Sign in - Google Accounts - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  ahmedayila832gmailcom
+
+--- WINDOW  2026/11/08 03:54:47  [brave.exe] Welcome - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  funs[Bk]d1111[ENTER]
+
+--- WINDOW  2026/11/08 03:54:59  [brave.exe] Verify it’s you To help keep your account safe, Google wants to make sure it’s really you trying to sign in. Learn more - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/08 03:55:59  [brave.exe] Omleiden - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/08 03:56:03  [brave.exe] Setting up connection - AIPRM - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/08 03:56:04  [brave.exe] ChatGPT: Chat, Work, Create & Code with AI - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/08 03:56:49  [brave.exe] Account Connected Successfully! - AIPRM for ChatGPT & Claude - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/08 03:57:21  [brave.exe] ChatGPT: Chat, Work, Create & Code with AI - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/08 03:57:47  [brave.exe] ChatGPT - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/08 03:57:54  [brave.exe] Just a moment... - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/08 03:58:14  [brave.exe] ChatGPT - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  lo [Bk], i nedd[Bk][Bk]ed 3 work experience to add to my new fiverr account and make it aal[Bk][Bk]llign with 
+  [RMB]
+  [LMB]
+  [LMB]
+  this my 
+  [LMB]
+
+--- WINDOW  2026/11/08 03:59:53  [brave.exe] Self View - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [Ctrl]cc
+  [LMB]
+  [Ctrl][Ctrl][Ctrl]
+  [Clipboard]
+  MT4 MT5 Forex EA Developer  Custom Trading Bots  Automation
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/08 04:00:11  [brave.exe] ChatGPT - Brave
+----------------------------------------------------------------------------
+  headline 9[Ctrl]v0 and also 2 best adication [Bk][Bk][Bk][Bk][Bk][Bk][Bk][Bk]ucation with all the requirement to add and also 2 best certificate and make everything based in u[Bk]usa [ENTER]
+  [LMB]
+
+--- WINDOW  2026/11/08 04:01:28  [brave.exe] Hello, i need 3 work experience to add to my new fiverr account and make it align with this my headline (MT4 MT5 Forex EA Developer Custom Trading Bots Automation) and also 2 best aducation with all the requirement to add and also 2 best certificate and make everything based in USA - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/08 04:01:30  [brave.exe] Create Fiverr Experience Education Certificates - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/08 04:01:32  [brave.exe] Collage Maker: BeFunky - Create Photo Collages Online - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/08 04:01:35  [brave.exe] Create Fiverr Experience Education Certificates - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/08 04:01:37  [brave.exe] Self View - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/08 04:01:48  [brave.exe] Write Fiverr experience entries - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [Ctrl]
+  [Clipboard]
+  Forex EA Developer
+  [LMB]
+
+--- WINDOW  2026/11/08 04:02:15  [brave.exe] Self View - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl]v
+  [LMB]
+  [LMB]
+  [LMB]
+  fiverr
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/08 04:02:31  [brave.exe] Write Fiverr experience entries - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [Ctrl]
+  [Clipboard]
+  Developed custom Expert Advisors for MetaTrader 4 and MetaTrader 5, specializing in automated forex trading, trade execution, strategy implementation, and risk management. Built trading bots based on price action, breakout strategies, and custom trading rules.
+  ccc
+  [LMB]
+
+--- WINDOW  2026/11/08 04:02:47  [brave.exe] Self View - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Ctrl]v
+  [LMB]
+  forex e
+  [LMB]
+  [LMB]
+  forex rob
+  [LMB]
+  forex bot
+  [LMB]
+  trading a
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/08 04:03:55  [brave.exe] Write Fiverr experience entries - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [Ctrl]
+  [Clipboard]
+  MQL4/MQL5 Developer
+  cccccccc
+  [LMB]
+
+--- WINDOW  2026/11/08 04:04:08  [brave.exe] Self View - Brave
+----------------------------------------------------------------------------
+  [Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl]v
+  [LMB]
+  [LMB]
+  [LMB]
+  upwork
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/08 04:04:39  [brave.exe] Write Fiverr experience entries - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [Ctrl]
+  [Clipboard]
+  Designed and customized automated trading systems using MQL4 and MQL5. Worked on EA development, strategy testing, trade management, stop-loss and take-profit automation, and debugging to improve trading system performance.
+  cccccc
+  [LMB]
+
+--- WINDOW  2026/11/08 04:04:49  [brave.exe] Self View - Brave
+----------------------------------------------------------------------------
+  [Ctrl]v
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/08 04:04:58  [brave.exe] Write Fiverr experience entries - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl]
+  [Clipboard]
+  Trading Automation Specialist
+  cccccc
+  [LMB]
+
+--- WINDOW  2026/11/08 04:05:06  [brave.exe] Self View - Brave
+----------------------------------------------------------------------------
+  [Ctrl]v
+  [LMB]
+  [LMB]
+  [LMB]
+  fiverr
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/08 04:05:30  [brave.exe] Write Fiverr experience entries - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl]
+  [Clipboard]
+  Specialized in converting manual trading strategies into automated trading solutions. Developed custom trading algorithms, automated entry and exit conditions, risk management functions, and trading session filters for MT4 and MT5 platforms.
+  ccccc
+  [LMB]
+
+--- WINDOW  2026/11/08 04:05:39  [brave.exe] Self View - Brave
+----------------------------------------------------------------------------
+  [Ctrl]v
+  [LMB]
+  [LMB]
+  [LMB]
+  unit
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/08 04:06:00  [brave.exe] Write Fiverr experience entries - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [Ctrl]
+  [Clipboard]
+  Bachelor's Degree
+  ccccccc
+  [LMB]
+
+--- WINDOW  2026/11/08 04:06:22  [brave.exe] Self View - Brave
+----------------------------------------------------------------------------
+  [Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/08 04:06:30  [brave.exe] Write Fiverr experience entries - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/08 04:06:35  [brave.exe] Self View - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  con[Bk]mputer science 
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/08 04:06:56  [brave.exe] Write Fiverr experience entries - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  give me actual school to add t[Bk]in the education section that will match it based in usa [ENTER]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Ctrl]c
+  [Clipboard]
+  New Jersey Institute of Technology
+  cccccc
+  [LMB]
+
+--- WINDOW  2026/11/08 04:08:53  [brave.exe] Self View - Brave
+----------------------------------------------------------------------------
+  [Ctrl]v
+  [LMB]
+  [LMB]
+  [LMB]
+  unit
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/08 04:09:09  [brave.exe] Write Fiverr experience entries - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [Ctrl]
+  [Clipboard]
+  New York University (NYU)
+  cccccccc
+  [LMB]
+
+--- WINDOW  2026/11/08 04:09:28  [brave.exe] Self View - Brave
+----------------------------------------------------------------------------
+  [Ctrl]v
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/08 04:09:38  [brave.exe] Write Fiverr experience entries - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [Ctrl]
+  [Clipboard]
+  Financial Technology and Algorithmic Trading
+  ccccccccccccc
+  [LMB]
+
+--- WINDOW  2026/11/08 04:10:02  [brave.exe] Self View - Brave
+----------------------------------------------------------------------------
+  [Ctrl][Ctrl][Ctrl][Ctrl]v
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/08 04:10:21  [brave.exe] Write Fiverr experience entries - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [Ctrl]
+  [Clipboard]
+  Certified Associate Python Programmer
+  cc
+  [LMB]
+
+--- WINDOW  2026/11/08 04:10:52  [brave.exe] Self View - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [Ctrl][Ctrl][Ctrl][Ctrl]v
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/08 04:10:58  [brave.exe] Write Fiverr experience entries - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [Ctrl]c
+  [Clipboard]
+  Python Institute (OpenEDG)
+  ccc
+  [LMB]
+
+--- WINDOW  2026/11/08 04:11:26  [brave.exe] Self View - Brave
+----------------------------------------------------------------------------
+  [Ctrl]v
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/08 04:11:39  [brave.exe] Write Fiverr experience entries - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [Ctrl]
+  [Clipboard]
+  Certified Entry-Level Automation Specialist with Python
+  ccccccccc
+  [LMB]
+
+--- WINDOW  2026/11/08 04:11:48  [brave.exe] Self View - Brave
+----------------------------------------------------------------------------
+  [Ctrl]v
+  [LMB]
+
+--- WINDOW  2026/11/08 04:11:50  [brave.exe] Write Fiverr experience entries - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [Ctrl]
+  [Clipboard]
+  Python Institute (OpenEDG)
+  cccccc
+  [LMB]
+
+--- WINDOW  2026/11/08 04:12:01  [brave.exe] Self View - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl]
+  [LMB]
+  [Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl]v
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/08 04:12:35  [brave.exe] Gigs - Brave
+----------------------------------------------------------------------------
+  [RMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/08 04:12:50  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/08 04:12:50  [chrome.exe] Project Catalog | Upwork - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/08 04:13:28  [chrome.exe] Telegram Web - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/08 04:14:39  [dwm.exe] Telegram Web - Google Chrome (Not Responding)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/08 04:14:43  [chrome.exe] Telegram Web - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
