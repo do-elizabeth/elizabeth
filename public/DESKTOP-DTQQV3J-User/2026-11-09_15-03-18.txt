@@ -1,0 +1,788 @@
+﻿
+--- WINDOW  2026/11/09 14:18:31  [chrome.exe] BTCUSDT.P 74,377.9 ▼ −0.59% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 14:18:32  [chrome.exe] BTCUSDT.P 74,393.8 ▼ −0.57% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 14:18:33  [chrome.exe] BTCUSDT.P 74,393.7 ▼ −0.57% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 14:18:33  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 14:18:33  [brave.exe] $74,385.2 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 14:18:33  [brave.exe] $74,379.7 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 14:18:34  [brave.exe] $74,376.6 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 14:18:35  [brave.exe] $74,391.7 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 14:18:36  [brave.exe] $74,399.9 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 14:18:37  [brave.exe] $74,400.0 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 14:18:38  [brave.exe] $74,399.9 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/09 14:18:40  [brave.exe] $74,398.3 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 14:18:41  [brave.exe] $74,405.3 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 14:18:43  [brave.exe] $74,400.1 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 14:18:44  [brave.exe] $74,400.0 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 14:18:46  [brave.exe] $74,394.8 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 14:18:47  [brave.exe] $74,394.9 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/09 14:18:50  [brave.exe] $74,394.8 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/09 14:18:54  [brave.exe] $74,394.9 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 14:18:55  [brave.exe] $74,405.0 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 14:18:56  [brave.exe] $74,398.9 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 14:18:57  [brave.exe] $74,396.0 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 14:18:59  [brave.exe] (3) Facebook - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 14:19:00  [brave.exe] 返傭站 — Fee Otter - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 14:19:01  [brave.exe] (3) Facebook - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/09 14:19:01  [brave.exe] 返傭站 — Fee Otter - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 14:19:05  [chrome.exe] 即時字幕
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 14:19:07  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 14:19:07  [chrome.exe] BTCUSDT.P 74,388.6 ▼ −0.57% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 14:19:08  [chrome.exe] BTCUSDT.P 74,368.7 ▼ −0.6% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 14:19:09  [chrome.exe] BTCUSDT.P 74,366.3 ▼ −0.6% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 14:19:09  [chrome.exe] BTCUSDT.P 74,366.4 ▼ −0.6% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 14:19:09  [chrome.exe] RO Survivors · Free Ragnarok Online–inspired survivors game in your browser - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/09 14:19:40  [chrome.exe] Google 翻譯 - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 14:19:40  [chrome.exe] BTCUSDT.P 74,305.2 ▼ −0.69% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 14:19:40  [chrome.exe] BTCUSDT.P 74,305.1 ▼ −0.69% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 14:19:41  [chrome.exe] Google 翻譯 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 14:19:42  [chrome.exe] RO Survivors · Free Ragnarok Online–inspired survivors game in your browser - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+    
+  [LMB]
+  [LMB]
+  [v] [<-][<-][<-][<-][<-][<-][v][v][v][v][v][v][v][v][v][v][v][v][v][<-][v][v][v][v][v][v][v][v][v][v][v][v][v][v][v][^][v][v][^][->][^][<-][v][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][<-][->][^][^][^][^][^][^][^][^][^][^][^][^][^][^][^][^][^][^][^][^][^][^][^][^][^][^][^][^][^][^][^][^][^][^][^][^][^][^][^][<-][^][^][->][v][<-][^][->][v][v][v][v][v][v][v][->][->][->][->][->][->][->][->][->][->][->][->][^][^][^][^][^][^][^][^][^][^][^][^][^][^][^][^][^][^][^][<-][<-][<-][<-][<-][<-][<-]
+  [LMB]
+  awwwwwwwaaaasswwwwwwwwwwwwwwwwwwwwwwwwwwwsdsssssssssssssssssssasaaaaaaadswsa
+  [LMB]
+  dssssssssssssssssswaaaassssssssssssssssssssddddddddddddddddadwwwwwwwwwwwwwwwwwwawaaaaaaaaadaadssssddddddddddddddddddsssddd
+  [LMB]
+  wddddddddddddddddsaadawaddddddddddddddddddddddddaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+  [LMB]
+  awwwwwwwwwwwwwwwwwwwswdasddddddddddddddddddddda
+  [LMB]
+  [LMB]
+  wwwwwwwwwwwwwwwwdssdwa
+  [LMB]
+  dwwwwwwwwwwwwwaaawsddddddddddddddddddddaaaaawdddddddwsadaawwwwwwwww
+  [LMB]
+  [LMB]
+  sssssas
+  [LMB]
+  ssssssssssssssssssdsdwwwwdwddddddddddddddddddddddddddddddddddddddddwwwwwwddddddddddddddddddddwaaaaaaaaawwwwwwwwwwwwwwwssswwwwwwwwwwwwwwaw[Esc]
+  [LMB]
+  aaaaaaaawsaadsadddddddddddddddddddddddddddddddddddddddddsaddddddddddddddw
+  [LMB]
+  sdsaddwwwwwwwwwwwwwwwwwaaaaaaaa
+  [LMB]
+  dwwwwwwwwwwwwwwdwaaaaaaaawwwwwwwwwwwaaaddawssssssssssssssssssssssssssssssssssssssssssssssssssssdaaaaaaaaaddddddddddddddddddddddddsssssssssssssssssssssssssssssssssssda
+  [LMB]
+  saaaaaaaaaaaaaaaaaadssssssssssswwwwwawdaaaaaaaaswaaswwwwwwwawaaassssssssssssadsada
+  [LMB]
+  sddssssssdsaaddddddwsssssssssswddadaaaaaaaaaaaaaaaaass
+  [LMB]
+  [LMB]
+  [LMB]
+  aw
+  [LMB]
+  aw
+  [LMB]
+  awsddadaadasdssssssssssssssssssssdssswwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwawaaaaaaaaaaaaaaaaaaaaaawwwwwwwwwwwwwawaaaaaaaaaaaaaaaaaassssawwwaasaadddddddddddddddddddddddsasdddddddd
+  [LMB]
+  sddddddddddddddwwwwwssssssasdddddddddddwwwwwwwwwwwwwwwddaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaawwwwwwwwwwwwwwwwwwwwwaaaaaaaaaaaaaaaasssss
+  [LMB]
+  [LMB]
+  awwwwss
+  [LMB]
+  assddssssssssdssssssss
+  [LMB]
+  dssswwwwwwwwwwwwwsadwwwwwwwwawaaaaaaaaaaaaaaaaaawswsssadddaaaaaaddsdddddddwswswwwwwwwwwwwwwwwwwwwdddassswwwwwwwwwwwwwwwww
+  [LMB]
+  wddddddddddddaaaaaaaaaaaaaaaaaaaassssssssssssssssssssssssssssssssaaaaaaaaaaaassddddddddddddddddddddddddsddddddddddddddddddddddddddddddddddddwddw
+  [LMB]
+  dddddddwwwwwwwwwwwwwwwwwwwwwwwwwwadddddaaaaaaaaaaawwwwwwwwwssssssssssssdsaaaaaaaaaaaaaaddddddddddddad
+  [LMB]
+  ssssssdsadssssssssssssssssswwwwwwwwwwwwww
+  [LMB]
+  dwwwwwwwwwwwwwwwwwwwwwwwwwwwwwddaaaaaaaaaaasswssssssssssaaaaaaaaaaaaddddddddddddddddddddaddddddddddddddddddddddddwwwwwwwww
+  [LMB]
+  ddwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwaaaaaaaasssssssssdsa
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/09 14:27:45  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 14:27:45  [brave.exe] 返傭站 — Fee Otter - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 14:27:47  [brave.exe] $74,325.4 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 14:27:47  [brave.exe] $74,340.2 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 14:27:48  [brave.exe] $74,340.5 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/09 14:27:53  [brave.exe] $74,342.5 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 14:27:54  [brave.exe] $74,345.0 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 14:27:55  [brave.exe] $74,351.2 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 14:27:56  [brave.exe] $74,356.1 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 14:27:57  [chrome.exe] RO Survivors · Free Ragnarok Online–inspired survivors game in your browser - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 14:28:00  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 14:28:00  [brave.exe] $74,356.0 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 14:28:00  [brave.exe] $74,356.1 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/09 14:28:02  [brave.exe] $74,351.2 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 14:28:03  [brave.exe] $74,351.1 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 14:28:04  [brave.exe] $74,351.2 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 14:28:08  [brave.exe] $74,356.8 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 14:28:09  [brave.exe] $74,361.0 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 14:28:10  [brave.exe] $74,364.6 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 14:28:10  [brave.exe] $136.14 | SPCX | Vest Markets - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/09 14:28:18  [brave.exe] $136.13 | SPCX | Vest Markets - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 14:28:20  [chrome.exe] RO Survivors · Free Ragnarok Online–inspired survivors game in your browser - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [ENTER]
+  [LMB]
+  awddw
+  [LMB]
+  [LMB]
+  wawddddddddddddddsadaaaaaaaaaasssssds
+  [LMB]
+  [RMB]
+  [LMB]
+  [Clipboard]
+  Your account was used on another device. Its most recent save has been loaded.
+
+--- WINDOW  2026/11/09 14:29:26  [chrome.exe] Google 翻譯 - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [Ctrl][Ctrl][Ctrl]v
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Bk][Bk]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/09 14:29:36  [chrome.exe] RO Survivors · Free Ragnarok Online–inspired survivors game in your browser - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 14:29:40  [chrome.exe] Google 翻譯 - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 14:29:41  [chrome.exe] RO Survivors · Free Ragnarok Online–inspired survivors game in your browser - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 14:29:46  [chrome.exe] BTCUSDT.P 74,300.1 ▼ −0.69% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 14:29:46  [chrome.exe] BTCUSDT.P 74,300.2 ▼ −0.69% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 14:29:47  [chrome.exe] RO Survivors · Free Ragnarok Online–inspired survivors game in your browser - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 14:29:49  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 14:29:49  [brave.exe] $135.96 | SPCX | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 14:29:50  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 14:29:50  [chrome.exe] RO Survivors · Free Ragnarok Online–inspired survivors game in your browser - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 14:29:53  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 14:29:53  [LINE.exe] LINE
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 14:29:58  [chrome.exe] RO Survivors · Free Ragnarok Online–inspired survivors game in your browser - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  sdddddddddddsdssssssssssssssssssssssssssssssssssssssssssssssssssaswwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwdwddddddddddddddddddddddddddddddwwswsssssssddddddddddddddddddsssssssssssssssssssssssssssssawsaaaaaaaaaaaaaaaa
+  [LMB]
+  asssssswwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwadddddddddddddddddddddddddddddddddddddddddddddsssddddddddwwwaawsssssssssssssssssssssssssssssssaaaaaaaaaasssssssssdsddddddddadawsddwassssssssssdddddddddddddddddddddddddddddddddddsssssssssssssssssssssswwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwaaddaaaaswwwwwwwwwwwwwwwwwwwasssssssssss
+  [LMB]
+  asssssssssssssssssssssssssssssssssssdas
+  [LMB]
+  aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaasaaaaaaaaaaaaaaaaaaadssssssad
+  [LMB]
+  sssssdsddwwwwwwwwwwwwwwwwwwwdddddwwwwwaaaaaaaawwwwwwwwwwwwwwwwwwwws
+  [LMB]
+  awaaaaaaaaaaaaaaaaaaaaaaaaaasssssdddsssssssssss
+  [LMB]
+  sdddddddddddddwwwwwwwwwwwwwwwwwwwwwwdaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaasaaassssssssssssdddaddddddddsssw
+  [LMB]
+  dwwwwwwwwwwwwwwwwdwdswwwdddddddddddaaaasssssssssssssssssssssssssss
+  [LMB]
+  saaaaaaasd
+  [LMB]
+  awwwwwwwwwwsddddddddddddddddddwdddddddddwwwwwwwwwwwwwwwwwwwwwwawaaaaaaswddddddddddssssddwwsssssssasssssaaaaaaaaawswwwwwwwwww
+  [LMB]
+  wwwwwwwwwwwwwwwwaassssdddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddwwwwwwwwwwwwwwdas
+  [LMB]
+  wwaassssssswdas
+  [LMB]
+  saaaaaaaasssssssssssssssssssssswssssssssssdddddddddddddddddddddddddwssswwww
+  [LMB]
+  dddddddddwssssswwwwwwwwwwwwwwwwwwwwwwwdaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaasssswsaaaaaaaaaaaaaaaaaaaaaaddddsddddddddaddwddddddddddwwsssssssssssssssssssssssssssasaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaawwwwaaaaawwwddddddddddddddddddddddddddddsss
+  [LMB]
+  ddddddssssssssdwdsssssssssssdaaaaaaaaaaaaaaaaaaaaaaaaaaaasssssssssssssssaaaaaaaawwwwwwwaaaaaswww
+  [LMB]
+  wwwwwwawdddddddddddwdddddddddddddddddddddsdadddddddddddddddddaddddddaaaaaaaaaaaaawwswwwwwwwwwwwwaawwwwwwwwdwddddddddddddddddddddwdddssdddddddsa
+  [LMB]
+  ssaadaa
+  [LMB]
+  ssssasaaaaaaaaaaaaaaaaaaaaaaaaaaawwwwwwwwwawwwwwwwwwwwwwwwwwwwwaaddddddddddddddwwwwwwwwwwwwwwwwwwwwwwwwwwwssssssssssssssssdaaaaaaaaaaaaaaaaaaaaaaaaa
+  [LMB]
+  saaaaaaaaaaaaasssss
+  [LMB]
+  saaaaaaaasssswwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwdddddddddwwwwwwdwwwwwwwdsddddddddddddddddddddsaaaadaaaaaaaaaaaaaaaaaaaaaaaaaaaaassssssssssswwwwwda
+  [LMB]
+  sa
+  [LMB]
+  ssssssssssssssssaswwwwwwwwwwwwwwwdddddddddddddddddddddddddddddddddddddddddddddddddddddddssssssssssssssssssssssssssssssssdsadsaaaaawwwwasssssssws
+  [LMB]
+  aaaawssasaaawaaaaaaaaaddddddddddddddddddddddddddddddddddddddddddsadasssssssssssssssssddddddddddddddddddddddddddddddddwwwwwwwwwwwwwwwwwddddaaaaaaaaws
+  [LMB]
+  aaaaaaaaaaaaaaaaaasaaaaaaaaaaaadddddddd
+  [LMB]
+  ssssssssssssssssssssssssdsdddawsdddddddddwdsaaaaaaaaassdwddddd
+  [LMB]
+  ddddddddddwwswwwwwwawaaaaasdaswwwwwwwwwwwwwwwsssaaaaaaaaaaaaaaaaaaaaadddddddddddddddddddddddwswdswwwwwwwwwwwww
+  [LMB]
+  dwwwwwwwwddswwdaaaaaaaaaaaaadawadaaaaaaaaaaaaaaaaaaaaaaaaaaaasaaaaaaaaaaaaaasssssssssddaaddddddaddddddssssdwdaaasssdwdddddddddddwwwwwwwwwwwwwwwwwwwwwwwwwdaaaaaaaaaaaaaaaaaaaaswwwsdddadws
+  [LMB]
+  ssssssssssdsadddddddddddddddddddddddadaaaaaaaaaaad
+  [LMB]
+  sddddddddddddswwwwwwdddaaaaaswwwwwwwwwwssssssssssssssssdaadaddswwwwwwwwwwwwwwdws
+  [LMB]
+  sdddddaadwdwwdaaaaaaaaaawsdddsaasddddddddddddddddddddssssaaaaaaaaaaaaaaaaaawwwwwwwwwwwwwwwadddddsssssswwdawsdswwwwwwwwwwwaaaaaaaaaaaaaaaaasaaaaaaaaaaaaaasaadaddddddddddwsssssssdaaaaaaaaaaaaawwwwwwswwwwwwwwwwadddddddaswwwwww
+  [LMB]
+  waaaaaaaaadasddddddddddddddddddawddddddddwddddddddddddddddddddddddddddddddddwsssssssadddddaaaaaaaaaaaadawwsswwwwwwwswwwwwwwwdasdwaswdawwwwwwwwdaddddddddddddddddddddddddddddddddddddddddddssssssssssssssssssssssssssssssdddssssssssasddddadadwaaaaaaaaaaaaaaadwsaaaaaaaaaaaaaaaaaaaaaaswwwwwwwwdwdddddawdawdaaaaaaawdddddddddddddddddddddddddddddddddwwssawwwwawssdwdsassssssssssssssssssssaawassssdddaaaadddddddddsssssssssssssssssssswadddwwwwwdwsdaaaaaaaaaaaaaaaaaawsdddddddaaaaaaaaaaaaaaaawdawwwwwwwwwwwwwwwsawaawsssdawadadwasdwaaaaaawdadsadddaddddddddddddddddddddddddddddddddddddddwwwwssssssaaaaasdwwdsaswwwwdwwwwwwawdawdawwwwwwwwdsssssssssssssdsswdaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaassssssssssssssssssssssssssssssssssssssssssdddddddsas
+  [LMB]
+  dwwwwwwwwwwwwwwwaddddddddddddddddddddddddddddddddddddddddddddddddddddddd
+  [LMB]
+
+--- WINDOW  2026/11/09 14:40:48  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 14:40:48  [explorer.exe] (untitled)
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 14:40:49  [LINE.exe] LINE
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 14:40:50  [chrome.exe] RO Survivors · Free Ragnarok Online–inspired survivors game in your browser - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 14:40:53  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 14:40:53  [brave.exe] $135.79 | SPCX | Vest Markets - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 14:40:57  [brave.exe] $135.81 | SPCX | Vest Markets - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 14:41:00  [brave.exe] $135.82 | SPCX | Vest Markets - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 14:41:00  [brave.exe] $74,100.2 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 14:41:01  [brave.exe] $74,091.4 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 14:41:02  [brave.exe] $74,091.3 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 14:41:03  [brave.exe] $74,068.5 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 14:41:04  [brave.exe] $74,059.9 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/09 14:41:05  [brave.exe] $74,048.7 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 14:41:06  [brave.exe] $74,057.2 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/09 14:41:08  [brave.exe] $74,065.3 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 14:41:09  [brave.exe] $74,065.2 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 14:41:10  [brave.exe] $74,057.1 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 14:41:11  [brave.exe] $74,082.4 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 14:41:12  [brave.exe] $74,088.5 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 14:41:13  [brave.exe] $74,093.5 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 14:41:14  [brave.exe] $74,108.2 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 14:41:16  [brave.exe] $74,101.9 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 14:41:17  [brave.exe] $74,102.6 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 14:41:18  [brave.exe] $74,112.7 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 14:41:19  [brave.exe] $74,120.0 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 14:41:21  [brave.exe] $74,119.9 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/09 14:41:22  [brave.exe] $74,149.8 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 14:41:23  [brave.exe] $74,156.1 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 14:41:24  [brave.exe] $74,158.3 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 14:41:25  [brave.exe] $74,166.1 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 14:41:26  [brave.exe] $74,166.8 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 14:41:27  [brave.exe] $74,170.3 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 14:41:28  [brave.exe] $74,176.1 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 14:41:29  [brave.exe] $74,167.6 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 14:41:29  [chrome.exe] RO Survivors · Free Ragnarok Online–inspired survivors game in your browser - Google Chrome
+----------------------------------------------------------------------------
+  asdd
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc]dw 
+  [LMB]
+  [LMB]
+  wwwwwwawaaaaaaaaaaaaadwswaaawaasssdsddddddddddddddddsdsssaassdsdsdds
+  [LMB]
+  sdddddsaaaaaaaaaaaaaaaaaaaaaaaaaaaaaasaswdwaaaaaaaaaaaaaaaaaaaaaaaaddwwawddaasdwwwwwwwwwwww
+  [LMB]
+  wwwwwwwaaaaaaawsdddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddsssdsswwwwwwwwwwwwwwwdwdddddddddddddddddddawddasddadddaaswwwwwwwwwwwwwwwwwwwwwwwwwww
+  [LMB]
+  wwwwwwwwwwwwwwdwdsssssssssasaaaaaawdd
+  [LMB]
+  waaadsaasddddddddddddddddddddwsssssssasaaaaaaaaaaaaaaaaaaaaaaaaa
+  [LMB]
+  ssssssssasdwwdaaaaaaaaaaaaaaaasssssdddaddwddssssaddddaawddsawwwwwwwwwwwsddddddddddwwdddddddddawwa
+  [LMB]
+  [LMB]
+  [LMB]
+  wwwwwwwwwwwawdswdddddddddwsssdsdddaaaaasaassssssssssddwwwwwwwwwwwwwwwwwwwwwwwwwwwdddddawwswwwwwsaaddadddddddddwwww
+  [LMB]
+  [LMB]
+  wddad
+  [LMB]
+  wddddddddddddddddddaaaassssssssssdsadwsssssssssssssdsaawwsssssssasdddddddadwddads
+  [LMB]
+  ssssssssssssssssadaaaddawwwadsdsaasawawdsawa
+  [LMB]
+  wawasddddddddsdwssssssssssssssssssssssssassddsaaaaaawwwwwwwwwwwwwwwwwsdwdadsawddddaaaaaaaaaaaaaaaaaaadasd
+  [LMB]
+  ssssasaaaaaaawaaadsawwwwwwwwwwadddddddddsaadssssssssssdwdaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaassssasdddddddddddddddaddddadsaaaaaaaaaaaaa
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  waaaaaaaasssssssdsddddddwwwwwwwwwwwwwwwdddawwwwwwwwwwwwwwwwwwwwwwwwwwwwwwdwdddwaaaaaawddddddddsddddddddaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaad
+  [LMB]
+  sddddddddaaaaaaaaaaaadddddwwwdddddddddd
+  [RMB]
+  ddddaaaaaaaaaaaaaaaaaaaaa
+  [LMB]
+  awwwwwwwwwwwwwwwwwwwwwwwwwwwwaaaaaaaaaaaaaaaaaadwdddddswaaaaaaaaaaaaasssssaadddd
+  [LMB]
+  dddddddddddssssss
+  [LMB]
+  ddddddddddddddddddddddddd
+  [LMB]
+  dsssssssssssssssssssssssssdaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaadsssaaaaaaaaaaaaaaasdddddddddddddddddddddssssssssssaaaaaaaaaaaawdddwdawwwwwwwww
+  [LMB]
+  wdswwwwwwwwwwwwwwwwwwwwwwwwwwwwwawwaaaaaaaawwwwwwwwdwddddddaaaaaawddwaaadadadsddddddddwwwwwawwwwsdddddddddwsswaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaawwwwwwwwwwwwwdwaaaaaaaaaaaaaaaasasaaaaaaaaaaaaaaaaaaaaaaaaaaaaadaaasssssssssssssssdddddddddddwsssssssssssssssssasssssss
+  [LMB]
+  saaaaaaaaaaaaaaaaaaaaaaaaadaddddddddddddddddwwwwwwwwwdddddddddddddddddsddadaaaaaaaaaaaaaaaaaaaaaawwwwwwwwwwwwwwwwwwwwwwwwwsswwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwdwdddddddddddddddddddddddwwwwwwwwwwwwaddadddddddddddddwssssssawwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwawaaasa
+  [LMB]
+  sssssssssssdaaaaaaaaaaaaaaaaaaasssssssssssssssssssdsddaddddddddddddsssssssssssssssssssdddddddddddddddddddddddddddddddddddddwwwwwwwdddddddd
+  [LMB]
+  dwwwwwwwwwwwddddddddddddddddddaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaawwwwwwwwwwwwwssssaddddddddwwwwwwwwwwwwsdddadaadddssssssaddadaaaaaaaaaaaaaawssssswwwwwwwwwwwwwwwwwwwwwwwwwasa
+  [LMB]
+  sddaaaaaawwwwwwwwwwwwwwwwwwwwwwwwwawaaaaaaaaaasssssaaaaaaaaaaaaaaaaaaaaaaaaaadaddddddddddddddddddddssssssaaadddddddddddddddddddddddddddddddddddddddddsdwwwwswwwdddddddddddswwwwwwwwwwwwwwwwwwwwwwwwwwwwaaaaaaaaaaaaaadddddawwwwaaaaaaaaaaaaaaaaaaaasssssssswdaaaaaaaaaasssssssasdddddddadsssssssssssssssssssdsdsaaaaaaaaaaaaaadddddddddddddddddddsssswdd
+  [LMB]
+  dwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwaaaaaaaaaaaaaaaaaaaawddddwwwwwwwawwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwdwdddddddddddddddaaassssssssssssssssssssssssssssssw
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc]s 
+  [LMB]
+  [LMB]
+  [Esc]
+
+--- WINDOW  2026/11/09 14:51:57  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 14:51:57  [brave.exe] $74,295.2 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 14:51:57  [brave.exe] $74,304.1 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 14:51:58  [brave.exe] $74,312.0 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 14:51:59  [brave.exe] $74,309.9 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 14:52:00  [brave.exe] $74,305.1 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 14:52:01  [brave.exe] $74,305.2 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 14:52:02  [brave.exe] $74,312.0 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 14:52:05  [brave.exe] $74,311.9 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 14:52:06  [brave.exe] $74,312.0 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 14:52:07  [brave.exe] $74,305.1 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 14:52:08  [brave.exe] $74,305.2 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 14:52:09  [brave.exe] $74,294.1 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 14:52:10  [brave.exe] $74,294.2 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 14:52:11  [brave.exe] 返傭站 — Fee Otter - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 14:52:12  [brave.exe] (3) Facebook - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 14:52:16  [chrome.exe] RO Survivors · Free Ragnarok Online–inspired survivors game in your browser - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  dwwwwwawwwwwwwwwwwwwwwwwwwwwwaawwaaadssssssssssssssaaaaaaaaaaaaaawawwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwawaaaaaaaaaaasdaawsa
+  [LMB]
+  saaaaaaaaaaaaaaaaasssssssssssssssssssssssssssssssssssssssssssssssssdddddddddddddddddddsaaaadwwwwwwwwwwwwwwwwwwwwwsssddddddssssssssssaaaaaaaaaaaawswsdddddddwwwwwwwwwwww
+  [LMB]
+  ddddddddddddddddddwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwsasassawdsasssssssssssssssssssdsddddsaaaaaaaaaaaaaaaaaaaadasawwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwdwddwad
+  [LMB]
+  [LMB]
+  dwwwwwwwwwwwwwwwwwwwdddddadwwwwwwwwwwwwwwwwwawaaaaaaaaaaaaaaaaaaaaswwwdddsadddddddddddddddddddddddddddddddddddddddawwaswawsssaawasaaaaaaasddddddada
+  [LMB]
+  awdsaadaaaawadasdadsaasdwasswdsa
+  [LMB]
+  awwwwwwwwwwwwwwwwwwwwwwwwwdwddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddsssssssssssssssssssssssssssssssssssssssssssssdawwwwwwwwwwdsssssssssssssssssssssssssssssssssswaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaasssssssaaaaaaaaaaaaaaassd
+  [LMB]
+  wwwwawd
+  [LMB]
+  dwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwdddddddddddddddwwwwwwaaaaassssssssssssssddddaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaddddddddddddwwwwwwwwwwwwwwwwwwww
+  [LMB]
+  [LMB]
+  dddddddddsssssssadadwddassssssssssssssssssssaaaaaaaaaaawwwwwwwwwwwwawawwadddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddsssdadddw
+  [LMB]
+  awadwssssssssssssssssssdawwdadsddaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaawadsasaasassaasssswawaawawwwwwwwwsddddddddddsssssssssswwaaddaaaaaaas
+  [RMB]
+  ssa
+  [LMB]
+  [LMB]
+  [RMB]
+  ds 
+  [LMB]
+
+--- WINDOW  2026/11/09 14:56:22  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 14:56:22  [brave.exe] (3) Facebook - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 14:56:23  [brave.exe] $74,369.5 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 14:56:24  [brave.exe] $74,377.5 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 14:56:26  [chrome.exe] RO Survivors · Free Ragnarok Online–inspired survivors game in your browser - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  dawswwwwwwwwwwawaaaaa
+  [RMB]
+  wdwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwdwssssssssssssssssssssssssasdaaaawwwwwwdssssssssdaaaaaadddddddddddddddddddd
+  [LMB]
+  dsssssssssdwwwwddddddddddddddddddaaaaaaaaaaaaaaaaaaaaaaaaaawwwassssssssasaaaaaaaaaaasssadddddddddddd
+  [LMB]
+  sasaadaddddsswddddddddddddddddddddddddddddddddddwwwwwwwwwwwwwwwwwwwwsssssssssssssssssssssssaawwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwdwasdssssssssssssssaaaaaaaaaaaaaaaaaaaa
+  [LMB]
+  saaaaaaaaaaaaaaaaaaaaaadawwwwwwwwwwwwwwwwwwwwwwwwwwwssssssssswwwwwwwwwwwwwwwwwwwwwwwwwwawdssadwds
+  [LMB]
+  aaaaaaaaasssss
+  [LMB]
+  sssassswwwwwwwwssssssdsddsadawasdwddssssdddsdsawdwasaawsddssdsdwwddwadwd
+  [LMB]
+  dsssssssssdwwdadsddddddddddddddddddaasawdswa
+  [LMB]
+  dsdddddddddddddddaaaaaaaaaaaaaadwddwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwadaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaasdasddddasassdsssawsssssssssssssssssssssddddddddddddddddswwwwwdwdswa
+  [LMB]
+  [LMB]
+  [LMB]
+  wwwwwdddaaaaaaaaaaaaaaaaaaaaaaaawwwddddsssssadwwwwwwwwwwawawwwwwwwwwwwwwwwwwwwwssaaaaaaaaaaaaadddddddddsdadddddwwwwdddddddddddddddddddds
+  [LMB]
+  sdwwwwwwwwwwwwwwwwwwwwwwwwwwwaaawdsaa
+  [LMB]
+  dwdddddddddddddddaaaaaasssssssssswssssssdsaadddddddsssssssssssssssssssddddddddswdddddddddddddddddddddddddddddddddddd
+  [LMB]
+  dwwwwwwwwdaaaaaaaaaaaaaw
+  [LMB]
+  awwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwawaaaaaawwdwdsdwwaaaaswssssssssssssssssssssassswssawsdddddwwwwwwwwwwwssssssssswwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwawaaaaaaaaaaaaaaaaaaaawss
+  [LMB]
+  [LMB]
+  [LMB]
+  sssssssssssssssssa
+  [LMB]
+  saaadddddddddsssssssssssdsdssssssssdwdddwwwwwwwwddawwwwwwwwwwwwwwwsssssssssssssssssssssssa
+  [LMB]
+  aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaasssssssssssssssddddddddddwawssssssssssssssssssssssssssssssssssssawddddddd
+  [LMB]
+  sdaaaa
+  [LMB]
+  wdsawwawdasdadwsssddddddddddddddwwwwwwwwwwwwwwwwwwwwwwwsddaaadddddddddddddddddddddwwwwwwdddddddddddaaaaaaawsdsawdawdddddswwwwwwwwwwwwwwwwaaaaaaawwwwwwwwwwss
+  [LMB]
+  ssaaaaaasssddaaaaaaaadaaasadsaaaaaaaddwsssssdddddddddddddddddddddsdwwwdwddddddwwwwwwwwwwwwwwwwwwwwwwwwwwwwdwwadwdwwwwwwwwwawwdsd
+  [LMB]
+  dwddwaaaaaawwwwwwwwwwwwwwwwwwwwwwssssssssssssssssssssasasawsassaaadaaasaaddddddwwwwwwsasawawawadddddddddddddddddddddddddddddddddddddssssssssssswwwwwwwwwwwwwwwwwwwwsssssssssssssssa
+  [LMB]
