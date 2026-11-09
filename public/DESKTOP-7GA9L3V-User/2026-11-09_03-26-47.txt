@@ -1,0 +1,1015 @@
+﻿
+--- WINDOW  2026/11/09 02:26:58  [ShellExperienceHost.exe] New notification
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 02:26:59  [Incogniton.exe] Incogniton - Version 5.0.1.4
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 02:27:38  [chrome.exe] Gigs - George
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 02:28:51  [Incogniton.exe] Incogniton - Version 5.0.1.4
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 02:29:43  [chrome.exe] It needs a human touch - Olamide
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/09 02:30:09  [chrome.exe] Login to Fiverr - Olamide
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/09 02:30:53  [chrome.exe] Untitled - Olamide
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 02:30:53  [chrome.exe] Password Manager - Olamide
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 02:30:57  [chrome.exe] Login to Fiverr - Olamide
+----------------------------------------------------------------------------
+  [LMB]
+  jitisufy2tplo.top
+  [LMB]
+  fund8103204060
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/09 02:32:28  [chrome.exe] Gigs - Olamide
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 02:32:32  [chrome.exe] Save password?
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 02:32:33  [chrome.exe] Gigs - Olamide
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 02:32:46  [chrome.exe] Self View - Olamide
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 02:32:59  [chrome.exe] Gigs - Olamide
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 02:33:09  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 02:33:09  [brave.exe] Gigs - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 02:33:15  [chrome.exe] Gigs - Olamide
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 02:33:23  [chrome.exe] Gigs - George
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 02:33:28  [chrome.exe] Gigs - Olamide
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 02:33:34  [brave.exe] Gigs - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 02:33:48  (no active window)
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 02:33:48  [explorer.exe] (untitled)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 02:33:48  [brave.exe] Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 02:33:52  [brave.exe] uBlock Origin Lite - Chrome Web Store - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 02:33:54  [brave.exe] Before you continue - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 02:33:56  [brave.exe] chromewebstore.google.com/detail/ublock-origin-lite/ddkjiahejlhfcafbddmgiahcphecmpfh - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 02:33:58  [brave.exe] uBlock Origin Lite - Chrome Web Store - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 02:34:18  [brave.exe] (untitled)
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 02:34:19  [brave.exe] uBlock Origin Lite - Chrome Web Store - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  location gui[Bk]
+  [LMB]
+
+--- WINDOW  2026/11/09 02:34:35  [brave.exe] Chrome Web Store - Search Results - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 02:34:38  [brave.exe] Location Guard (V3) - Chrome Web Store - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 02:34:40  [brave.exe] (untitled)
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 02:34:41  [brave.exe] Location Guard (V3) - Chrome Web Store - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 02:34:52  [brave.exe] Location Guard (V3) has been added to Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 02:34:52  [brave.exe] Untitled - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 02:34:53  [brave.exe] Location Guard - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 02:35:03  [brave.exe] uBlock Origin Lite has been added to Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 02:35:10  [brave.exe] Location Guard - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 02:35:10  [brave.exe] Location Guard (V3) - Chrome Web Store - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  webtc control[ENTER]
+
+--- WINDOW  2026/11/09 02:35:20  [brave.exe] Chrome Web Store - Search Results - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 02:35:22  [brave.exe] WebRTC Control - Chrome Web Store - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 02:35:24  [brave.exe] (untitled)
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 02:35:26  [brave.exe] WebRTC Control - Chrome Web Store - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  gho
+
+--- WINDOW  2026/11/09 02:35:30  [brave.exe] WebRTC Control has been added to Brave
+----------------------------------------------------------------------------
+  s
+
+--- WINDOW  2026/11/09 02:35:30  [brave.exe] Untitled - Brave
+----------------------------------------------------------------------------
+  te
+
+--- WINDOW  2026/11/09 02:35:32  [brave.exe] WebRTC Control - Chrome Web Store - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 02:35:35  [brave.exe] Ghostery AdBlocker for Privacy - Chrome Web Store - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 02:35:37  [brave.exe] (untitled)
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 02:35:38  [brave.exe] Ghostery AdBlocker for Privacy - Chrome Web Store - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  proto
+  [LMB]
+
+--- WINDOW  2026/11/09 02:35:47  [brave.exe] Proton VPN: Fast & Secure - Chrome Web Store - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 02:35:50  [brave.exe] (untitled)
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 02:35:54  [brave.exe] Proton VPN: Fast & Secure - Chrome Web Store - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 02:35:59  [brave.exe] Location Guard - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/09 02:36:04  [brave.exe] Location Guard (V3) is asking you to
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 02:36:04  [brave.exe] Location Guard - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 02:36:06  [brave.exe] Location Guard (V3) is asking you to
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 02:36:06  [brave.exe] Location Guard - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 02:36:06  [brave.exe] Location is turned off in system settings
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 02:36:06  [brave.exe] Location Guard - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/09 02:36:10  [brave.exe] Just a moment... - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 02:36:11  [brave.exe] Proton VPN: Fast & Secure has been added to Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 02:36:11  [brave.exe] Untitled - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 02:36:11  [brave.exe] Proton VPN Browser Extension - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 02:36:13  [brave.exe] Just a moment... - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 02:36:18  [brave.exe] WebRTC Control - MyBrowserAddon - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 02:36:22  [brave.exe] Proton VPN Browser Extension - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 02:36:26  [brave.exe] (untitled)
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 02:36:28  [brave.exe] Proton VPN Browser Extension - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 02:36:30  [brave.exe] (untitled)
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 02:36:31  [brave.exe] Proton VPN Browser Extension - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/09 02:36:34  [brave.exe] Extensions
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 02:36:39  [brave.exe] Proton VPN Browser Extension - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 02:36:40  [brave.exe] Proton VPN: Fast & Secure - Chrome Web Store - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  gho
+  [LMB]
+
+--- WINDOW  2026/11/09 02:36:44  [brave.exe] Ghostery AdBlocker for Privacy - Chrome Web Store - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/09 02:36:51  [brave.exe] Extensions
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 02:36:52  [brave.exe] Untitled - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 02:36:53  [brave.exe] Extensions - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 02:36:57  [brave.exe] Ghostery AdBlocker for Privacy has been added to Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 02:36:59  [brave.exe] Extensions - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 02:37:00  [brave.exe] Ghostery AdBlocker for Privacy - Chrome Web Store - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 02:37:01  [brave.exe] Untitled - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 02:37:01  [brave.exe] Welcome to Ghostery - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/09 02:37:05  [brave.exe] Ghostery AdBlocker for Privacy - Chrome Web Store - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 02:37:12  [brave.exe] Proton VPN Browser Extension - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/09 02:37:17  [brave.exe] Untitled - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 02:37:20  [brave.exe] Proton - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/09 02:39:37  [brave.exe] Proton VPN: Sign-up - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  youngiam0192gmail.com[ENTER]
+  [LMB]
+  [LMB]
+  715870
+  [LMB]
+  105376[ENTER]
+  [LMB]
+  fund8103204060
+  [LMB]
+  fund8103204060
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/09 02:43:08  [brave.exe] Save password?
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 02:43:09  [brave.exe] Proton VPN: Sign-up - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 02:43:14  [brave.exe] Proton VPN Browser Extension - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 02:43:14  [brave.exe] (untitled)
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/09 02:43:48  [brave.exe] New Tab - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  scamaly
+  [LMB]
+
+--- WINDOW  2026/11/09 02:44:07  [brave.exe] scamalytics - Brave Search - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 02:45:09  [explorer.exe] (untitled)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 02:45:10  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 02:45:10  [SearchHost.exe] Search
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 02:45:11  [explorer.exe] Search
+----------------------------------------------------------------------------
+  servi
+
+--- WINDOW  2026/11/09 02:45:17  [explorer.exe] (untitled)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 02:45:18  [mmc.exe] Services
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 02:45:25  [mmc.exe] Windows Update Properties
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 02:45:25  [mmc.exe] Windows Update Properties (Local Computer)
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/09 02:45:29  [mmc.exe] (untitled)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 02:45:30  [mmc.exe] Services
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 02:45:30  [brave.exe] scamalytics - Brave Search - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 02:45:56  [brave.exe] scamalytics.com - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 02:45:59  [explorer.exe] (untitled)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 02:45:59  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 02:45:59  [ShellExperienceHost.exe] Network Connections
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/09 02:46:11  [brave.exe] scamalytics.com - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 02:46:15  [brave.exe] Scamalytics - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 02:46:18  [brave.exe] New Tab - Brave
+----------------------------------------------------------------------------
+  whoer.net[ENTER]
+
+--- WINDOW  2026/11/09 02:46:27  [brave.exe] What Is My IP Address? - Find IP and Check Leaks - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 02:46:54  [brave.exe] (untitled)
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/09 02:47:02  [brave.exe] What Is My IP Address? - Find IP and Check Leaks - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/09 02:47:31  [brave.exe] (untitled)
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/09 02:47:40  [brave.exe] What Is My IP Address? - Find IP and Check Leaks - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [Clipboard]
+  95.173.217.74
+
+--- WINDOW  2026/11/09 02:48:13  [brave.exe] Scamalytics - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [Ctrl][Ctrl]v
+  [LMB]
+
+--- WINDOW  2026/11/09 02:48:19  [brave.exe] 95.173.217.74 ( Datacamp Limited ) Fraud Risk - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 02:48:55  [brave.exe] (untitled)
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/09 02:49:02  [brave.exe] What Is My IP Address? - Find IP and Check Leaks - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [Clipboard]
+  169.150.218.18
+  [LMB]
+
+--- WINDOW  2026/11/09 02:49:21  [brave.exe] 95.173.217.74 ( Datacamp Limited ) Fraud Risk - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [Ctrl]v
+  [LMB]
+
+--- WINDOW  2026/11/09 02:49:28  [brave.exe] 169.150.218.18 ( Datacamp Limited ) Fraud Risk - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 02:49:34  [brave.exe] (untitled)
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/09 02:49:47  [brave.exe] What Is My IP Address? - Find IP and Check Leaks - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Clipboard]
+  134.82.67.18
+  [LMB]
+
+--- WINDOW  2026/11/09 02:51:08  [brave.exe] 169.150.218.18 ( Datacamp Limited ) Fraud Risk - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Ctrl]v
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/09 02:51:18  [brave.exe] What Is My IP Address? - Find IP and Check Leaks - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/09 02:51:21  [brave.exe] 169.150.218.18 ( Datacamp Limited ) Fraud Risk - Brave
+----------------------------------------------------------------------------
+  [Ctrl][Ctrl][Ctrl][Ctrl][Ctrl]v
+  [LMB]
+
+--- WINDOW  2026/11/09 02:51:27  [brave.exe] 134.82.67.18 ( Servers.com, Inc. ) Fraud Risk - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 02:51:31  [brave.exe] What Is My IP Address? - Find IP and Check Leaks - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/09 02:51:43  [brave.exe] (untitled)
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 02:51:47  [brave.exe] What Is My IP Address? - Find IP and Check Leaks - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [Clipboard]
+  169.150.218.37
+
+--- WINDOW  2026/11/09 02:52:16  [brave.exe] 134.82.67.18 ( Servers.com, Inc. ) Fraud Risk - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [Ctrl][Ctrl][Ctrl]v
+  [LMB]
+
+--- WINDOW  2026/11/09 02:52:24  [brave.exe] 169.150.218.37 ( Datacamp Limited ) Fraud Risk - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 02:52:30  [brave.exe] What Is My IP Address? - Find IP and Check Leaks - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 02:52:32  [brave.exe] New Tab - Brave
+----------------------------------------------------------------------------
+  fverr.com[ENTER]
+  [LMB]
+
+--- WINDOW  2026/11/09 02:52:41  [brave.exe] Fiverr | Freelance services marketplace | Find top global talent - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/09 02:53:04  [brave.exe] New Tab - Brave
+----------------------------------------------------------------------------
+  freelanc
+  [LMB]
+
+--- WINDOW  2026/11/09 02:53:14  [brave.exe] search.brave.com/search?q=freelancing+platforms&source=desktop - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 02:53:14  [brave.exe] freelancing platforms - Brave Search - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 02:53:24  [brave.exe] Fiverr | Freelance services marketplace | Find top global talent - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/09 02:53:44  [brave.exe] (untitled)
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/09 02:53:52  [(unknown)] (untitled)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 02:53:53  [brave.exe] Fiverr | Freelance services marketplace | Find top global talent - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 02:53:54  [brave.exe] (untitled)
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 02:53:55  [brave.exe] Offer a profitable forex trading robot,gold bot,forex ea,scalping bot,trading ea by Carlislewelch | Fiverr - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 02:53:59  [explorer.exe] (untitled)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 02:54:02  [ShellExperienceHost.exe] Battery Information
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 02:54:03  [(unknown)] (untitled)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 02:54:03  [explorer.exe] (untitled)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 02:54:07  [brave.exe] Offer a profitable forex trading robot,gold bot,forex ea,scalping bot,trading ea by Carlislewelch | Fiverr - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 02:54:09  [brave.exe] Deliver profitable forex trading robot, trading bot, forex ea robot, gold ea by Georgms | Fiverr - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 02:54:09  [brave.exe] Give gold ea, forextrading bot,trading robot,swing ea,scalperea by Jikbless | Fiverr - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 02:54:10  [brave.exe] Offer trading robot trial forex trading bot trial gold ea forex robot by Jeorgelewis | Fiverr - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 02:54:10  [brave.exe] Fiverr - Freelance Services Marketplace for The Lean Entrepreneur - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  forex 
+  [LMB]
+
+--- WINDOW  2026/11/09 02:54:29  [brave.exe] Trading bots development services | Fiverr - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/09 02:54:44  [brave.exe] ChatGPT - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 02:54:56  [brave.exe] New chat - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 02:54:58  [brave.exe] Write Fiverr Profile Title Description - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 02:55:12  [brave.exe] ChatGPT - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  hello, i just want to create a fierr account and set it 
+
+--- WINDOW  2026/11/09 02:55:50  [powershell.exe] C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+----------------------------------------------------------------------------
+  u
+
+--- WINDOW  2026/11/09 02:55:55  [brave.exe] ChatGPT - Brave
+----------------------------------------------------------------------------
+  up so i[Bk][Bk][Bk][Bk][Bk][Bk][Bk]up basd [Bk][Bk]ed on forex ea bot sp[Bk]o i want a t[Bk]headline and description that will be professiona, reasonable and valuable tha buyr
+
+--- WINDOW  2026/11/09 02:57:01  [powershell.exe] C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+----------------------------------------------------------------------------
+  [Bk]
+
+--- WINDOW  2026/11/09 02:57:04  [brave.exe] ChatGPT - Brave
+----------------------------------------------------------------------------
+  [Bk]ers will li[Bk]oce for them to contacte me and makw it just in 600 chaacter [ENTER]
+
+--- WINDOW  2026/11/09 02:57:35  [brave.exe] Hello, i just want to create a fiverr account and set it up based on forex ea bot so i want a headline and description that will be professiona, reasonable and valuable that buyers will loce for them to contacte me and makw it just in 600 character - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 02:57:43  [brave.exe] Create Forex EA Profile - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 02:57:51  [brave.exe] Write Fiverr Forex EA Profile - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [Ctrl]c
+  [Clipboard]
+  Forex EA Developer | MT4 & MT5 Trading Bot Specialist
+  ccccccc
+  [LMB]
+
+--- WINDOW  2026/11/09 03:01:04  [brave.exe] Trading bots development services | Fiverr - Brave
+----------------------------------------------------------------------------
+  [RMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [LMB]
+
+--- WINDOW  2026/11/09 03:03:02  [brave.exe] Fiverr | Freelance services marketplace | Find top global talent - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/09 03:03:22  [brave.exe] Trading bots development services | Fiverr - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 03:03:27  [brave.exe] Fiverr | Freelance services marketplace | Find top global talent - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 03:03:31  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 03:03:31  [explorer.exe] (untitled)
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 03:04:46  [chrome.exe] New Tab - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 03:05:19  [chrome.exe] Telegram Web - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/09 03:08:08  [brave.exe] Fiverr | Freelance services marketplace | Find top global talent - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  gocymeso2pmail.e[Bk]site
+  [LMB]
+  fund8103204060
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/09 03:10:16  [brave.exe] Save password?
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 03:10:16  [brave.exe] Fiverr | Freelance services marketplace | Find top global talent - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  yemiola839
+  [LMB]
+  618479
+
+--- WINDOW  2026/11/09 03:11:42  [brave.exe] Fiverr - Freelance Services Marketplace - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 03:11:57  [brave.exe] Seller Onboarding - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [Bk]mi ola
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/09 03:12:54  [explorer.exe] (untitled)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 03:12:54  [brave.exe] Trading bots development services | Fiverr - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/09 03:13:00  [brave.exe] Write Fiverr Forex EA Profile - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [Ctrl]c
+
+--- WINDOW  2026/11/09 03:13:11  [explorer.exe] (untitled)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 03:13:11  [brave.exe] Seller Onboarding - Brave
+----------------------------------------------------------------------------
+  [Ctrl]v
+  [LMB]
+  [LMB]
+  [LMB]
+  [Bk]
+  [LMB]
+  [Bk]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/09 03:14:31  [explorer.exe] (untitled)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 03:14:32  [brave.exe] Write Fiverr Forex EA Profile - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  ma logo fo yemi ola fc[Bk]x[ENTER]
+
+--- WINDOW  2026/11/09 03:15:05  [explorer.exe] (untitled)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 03:15:05  [brave.exe] Seller Onboarding - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 03:15:08  [explorer.exe] (untitled)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 03:15:08  [brave.exe] Write Fiverr Forex EA Profile - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [Clipboard]
+  I am a professional Forex EA Developer specializing in custom trading automation for MetaTrader 4 and MetaTrader 5. I help traders turn their trading strategies into efficient, automated systems tailored to their goals.
+  
+  My services include custom Forex EA development, scalping and breakout bots, risk management systems, trade automation, custom indicators, strategy optimization, and backtesting.
+  
+  Whether you need a new trading bot or want to automate an existing strategy, I focus on delivering reliable, well-structured solutions with clear communication and dedicated support.
+  
+  **Let's bring your trading strategy to life!**
+
+--- WINDOW  2026/11/09 03:15:14  [explorer.exe] (untitled)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 03:15:14  [brave.exe] Seller Onboarding - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [Ctrl]v
+
+--- WINDOW  2026/11/09 03:15:24  [explorer.exe] (untitled)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 03:15:24  [brave.exe] Write Fiverr Forex EA Profile - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [Ctrl]v[ENTER]
+  [ENTER]
+  [ENTER]
+  mak [Bk]e it n 600 character [ENTER]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/09 03:15:56  [brave.exe] chatgpt.com wants to save
+----------------------------------------------------------------------------
+  [ENTER]
+
+--- WINDOW  2026/11/09 03:15:58  [brave.exe] Write Fiverr Forex EA Profile - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 03:16:04  [explorer.exe] (untitled)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 03:16:06  [brave.exe] Seller Onboarding - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 03:16:17  [brave.exe] www.fiverr.com wants to open
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/09 03:16:22  [brave.exe] Seller Onboarding - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [Bk]
+  [LMB]
+  [LMB]
+  [Bk]
+  [LMB]
+  [Bk]
+
+--- WINDOW  2026/11/09 03:16:56  [explorer.exe] (untitled)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 03:16:56  [brave.exe] Write Fiverr Forex EA Profile - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [Clipboard]
+  I am a professional Forex EA Developer specializing in custom trading automation for MetaTrader 4 and MetaTrader 5. I help traders transform their strategies into efficient automated systems tailored to their trading goals.
+  
+  My services include custom Forex EA development, scalping and breakout bots, trade automation, risk management, custom indicators, strategy optimization, and backtesting.
+  
+  Whether you need a new trading bot or want to automate an existing strategy, I deliver well-structured solutions, clear communication, and reliable support.
+  
+  Let's turn your trading ideas into automated solutions!
+
+--- WINDOW  2026/11/09 03:17:03  [explorer.exe] (untitled)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 03:17:03  [brave.exe] Seller Onboarding - Brave
+----------------------------------------------------------------------------
+  [Ctrl]
+
+--- WINDOW  2026/11/09 03:17:08  [explorer.exe] (untitled)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 03:17:08  [brave.exe] Write Fiverr Forex EA Profile - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  in 600 character[ENTER]
+  [LMB]
+  [Clipboard]
+  I am a professional Forex EA Developer specializing in custom trading automation for MetaTrader 4 and MetaTrader 5. I help traders turn their strategies into efficient automated systems. My services include custom EA development, scalping and breakout bots, trade automation, risk management, custom indicators, strategy optimization, and backtesting. Whether you need a new bot or want to automate an existing strategy, I focus on well-structured solutions, clear communication, and dependable support. Let's discuss your requirements and bring your trading strategy to life with a tailored EA now.!
+
+--- WINDOW  2026/11/09 03:18:23  [explorer.exe] (untitled)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 03:18:24  [brave.exe] Seller Onboarding - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [Ctrl]v
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/09 03:19:03  [brave.exe] Write Fiverr Forex EA Profile - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 03:19:10  [brave.exe] Gigs - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 03:19:14  [chrome.exe] Gigs - George
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 03:19:20  [chrome.exe] Gigs - Olamide
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/09 03:19:29  [brave.exe] Seller Onboarding - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 03:19:32  [brave.exe] (untitled)
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 03:19:36  [brave.exe] Write Fiverr Forex EA Profile - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 03:21:23  [brave.exe] Seller Onboarding - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 03:21:32  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 03:21:32  [explorer.exe] (untitled)
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 03:21:50  [Dolphin Anty.exe] dolphin_anty
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 03:22:16  [Dolphin Anty.exe] Dolphin{anty}
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
