@@ -1,0 +1,986 @@
+﻿
+--- WINDOW  2026/11/09 09:07:17  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 09:07:17  [LINE.exe] LINE
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 09:07:22  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 09:07:22  [brave.exe] $2,150.52 | ETH | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 09:07:22  [brave.exe] $2,150.93 | ETH | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 09:07:23  [brave.exe] $2,150.77 | ETH | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 09:07:24  [brave.exe] $2,150.89 | ETH | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 09:07:25  [brave.exe] $2,151.04 | ETH | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 09:07:26  [brave.exe] $2,151.34 | ETH | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 09:07:27  [brave.exe] $2,150.89 | ETH | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 09:07:28  [brave.exe] $2,151.09 | ETH | Vest Markets - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 09:07:30  [brave.exe] $2,150.86 | ETH | Vest Markets - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 09:07:31  [brave.exe] $2,150.74 | ETH | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 09:07:32  [brave.exe] $2,150.68 | ETH | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 09:07:33  [brave.exe] $2,150.50 | ETH | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 09:07:34  [brave.exe] $2,150.61 | ETH | Vest Markets - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 09:07:35  [brave.exe] 返傭站 — Fee Otter - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 09:07:36  [brave.exe] Facebook - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 09:07:38  [brave.exe] $2,150.08 | ETH | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 09:07:38  [brave.exe] $2,149.62 | ETH | Vest Markets - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 09:07:40  [brave.exe] $2,149.37 | ETH | Vest Markets - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 09:07:41  [brave.exe] $2,149.18 | ETH | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 09:07:42  [brave.exe] $2,148.96 | ETH | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 09:07:43  [brave.exe] $2,149.12 | ETH | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 09:07:44  [brave.exe] $2,149.00 | ETH | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 09:07:45  [brave.exe] $2,148.82 | ETH | Vest Markets - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 09:07:47  [brave.exe] $2,148.62 | ETH | Vest Markets - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 09:07:49  [brave.exe] $2,148.40 | ETH | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 09:07:50  [brave.exe] $2,148.00 | ETH | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 09:07:51  [brave.exe] $2,147.82 | ETH | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 09:07:52  [brave.exe] $2,147.30 | ETH | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 09:07:53  [brave.exe] $2,147.06 | ETH | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 09:07:54  [brave.exe] $2,147.43 | ETH | Vest Markets - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 09:07:55  [brave.exe] $2,147.58 | ETH | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 09:07:56  [brave.exe] $2,147.57 | ETH | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 09:07:57  [brave.exe] $2,147.43 | ETH | Vest Markets - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 09:07:58  [brave.exe] $2,147.28 | ETH | Vest Markets - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 09:07:59  [brave.exe] $137.44 | SPCX | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 09:08:01  [brave.exe] $137.61 | SPCX | Vest Markets - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 09:08:02  [brave.exe] $137.57 | SPCX | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 09:08:03  [brave.exe] $137.59 | SPCX | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 09:08:04  [brave.exe] $137.60 | SPCX | Vest Markets - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/09 09:08:08  [brave.exe] $137.63 | SPCX | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 09:08:09  [brave.exe] $137.60 | SPCX | Vest Markets - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/09 09:08:11  [brave.exe] $137.64 | SPCX | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 09:08:12  [brave.exe] $137.58 | SPCX | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 09:08:13  [brave.exe] $137.57 | SPCX | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 09:08:14  [brave.exe] $137.50 | SPCX | Vest Markets - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 09:08:15  [brave.exe] $137.25 | SPCX | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 09:08:16  [brave.exe] $137.26 | SPCX | Vest Markets - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 09:08:17  [brave.exe] $137.42 | SPCX | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 09:08:19  [brave.exe] $137.31 | SPCX | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 09:08:20  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 09:08:20  [LINE.exe] LINE
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 09:08:21  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 09:08:21  [brave.exe] $137.31 | SPCX | Vest Markets - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 09:08:21  [brave.exe] 快來打波利 https://playinnow.com/detail.html?game=ro-survivors - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 09:08:23  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 09:08:23  [chrome.exe] BTCUSDT.P 75,364.0 ▲ +0.73% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 09:08:23  [chrome.exe] BTCUSDT.P 75,371.8 ▲ +0.74% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 09:08:24  [chrome.exe] BTCUSDT.P 75,371.9 ▲ +0.74% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 09:08:25  [chrome.exe] RO Survivors · Free Ragnarok Online–inspired survivors game in your browser - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  sdaddddddddddddddddddddddaaaaaaaaaaaaaaaaaadaasdwaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaassssssssssssssssssdawwwwwwwwdaadddddsads
+  [LMB]
+  awwwwwwwwwwdsasdasaaawdddddswadasdsaaaaaaassssssdddddddddddddddddadadws
+  [LMB]
+  sssssssssdsasdsssswasdddddddddddddddddddddddddwwwwwwdssawdaaaaaaaawdaaawwwwwwwwwwwwwwwwwwwwssssssssssssssssssssssssaddddddssw
+  [LMB]
+  ddddddddddddddwwwwwwwwwwwwwwwwwwwwaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaasssssssssssaaaaaaassssssssssssdaddddddddddddddddddddddsswwwwwwwwwwwwwwwddaaawswssssds
+  [LMB]
+  aaaaaaaaaaaaaasd
+  [LMB]
+  sssdsssw
+  [LMB]
+  wdaaaaaaasssssssdaddddddddddddddddddddddddd
+  [LMB]
+  dddddddddddddddddddwwwwsadddadwwwwwwwwawaa
+  [LMB]
+  awwwwwwwwwwwwwwwwwssadad
+  [LMB]
+  ssssddddddddwwwdaaaaaaasadddssssssssssssssssssss
+  [LMB]
+  sssssssssssssssssssssssaaaaaaaaaaaaaaaaaaaaaaaaaaawwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwsswwdddddddddddddddddddddddddddddddddddddddddddddddsssssssssssssssssssssssaaaaaaaaaaaaaaaaaaaaaasdawwwwwwadaaaaaswwwwwwwwwwwwwwwddddddddddddddddddddddddddddddddddddwsssssssssssssssssssssssssssssssssssasdaa
+  [LMB]
+  aaaaaaaaaasaa
+  [LMB]
+  ssssssssssssasaaaaaaaaaaaaaaawwwwwwadssa
+  [LMB]
+  aaaaaaaaaaaaaawwwwwwaaaaaaaaaaaaaaaaaaaaaaaddddddddddddaawwwwwwwwwwwddssssssadwwwwwwwwwwwwwwsddddsddddddssssssssssaasssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss
+  [LMB]
+  saaaaaaaaaasssssswa
+  [LMB]
+  aaaawwwwwwwwwwwwawaddddddddddddddddwssssssssssssssssssdaaaaaaaaaaaaaaaaaws
+  [LMB]
+  aaaaaaaaaaaaaaaaawwwwwwwaaaaaaaaaaaaaaaaaaaaaaaaaaaaddddddddddddddddddddddddddddddddwsssssssssssssaaaadaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaawwwwwwwwwdwa
+  [LMB]
+  aaaaaaaaaaaaaaaaaaaaaaaaaaaaw
+  [LMB]
+  assssssssssssssssssssdddssssssssssssssddddddddddddddddddddddwdddsaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaawwwwwwwwwwwwwaaadddddddwwdd
+  [LMB]
+  dwwwwwwwwwwdsaw
+  [LMB]
+  dddddddddddddsadssssssssssssssssssssssaadaaaaasd
+  [LMB]
+  dddddddddddddddddddsa
+  [LMB]
+  assssswwswwwwwwwwwwwwwwwwwwwwwadswwwwwwwwwwwssss
+  [LMB]
+  sdddddddddddddddddsssssssssdsawsdddadaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaawddddda
+  [LMB]
+  wwwwwwwwwwwawddddddddddddddssaaa
+  [LMB]
+  sssssssssssssssssssaaaaaaaaaaaaaaaaawwwwwwwwwwwwwwwwwwwwwwwwwwwdddddddddddddddddddddddddddddsssssssssssssssaaaaaaaaa
+  [LMB]
+  saaaaaaaaaaaaaaaaaawaddwsssswd
+  [LMB]
+  dddddddddddddddddddddddsad
+  [LMB]
+  dssssssssssssssssddaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaawwwwwwwwdwdddddddddddddw
+  [LMB]
+  dswwwww
+  [LMB]
+  waddddddddddddddddddssaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaawwwwwwwwwwwwwwwwwwwdddddddddddddddddddsssssssssssddadas
+  [LMB]
+  saaaaaaaaaaaaaaaaaaaasddddddddddddddddddddddddddddwwwwwwwwwwwwwwwwwwaasssssd
+  [LMB]
+  saaaaaaawaaaaaaaaaaaaaaaaaddddddddddddddddddwssssdawssdsaaaaaaaaawwwwwwwwwwaddddddddddddddddwaawssssssssssssssssssssssssssssssssaaadadddswwwwwwwwwwwwwwwwwwwwwwd
+  [LMB]
+  dddddddwwwwwwwwwad
+  [LMB]
+  wwwwwwwwwwwwwwdssssssdsaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaswswwwwaaaddddddddddddddddddddddddddddddddddddddddds
+  [LMB]
+  dsadddddddswwwwwwwwwwwwwwwwwwwsdaaaaaaaaaaaaassssssssswwwwwwwwwaddddddddddddddddddd
+  [LMB]
+  wwwwwwwwwwwwwwwwwd
+  [LMB]
+  wdddddddddddddddddddddddddddddddddddddddddddddddddddsssssssssssssssssssssssssssssssss
+  [LMB]
+  ddddddddwsssssssssssssssssssasssssssssssssssssssssaaaaaaaaaaaaaaaaaawwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwawswwwwwwwwddddddddddddddddddddddddddddddwsadddddddddddddwwwwwwwwwwwwwwwwwwwwwwwwwwsddddddddddddddaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaawwwwswwwwwwwwddd
+  [LMB]
+  wdddddddddd
+  [LMB]
+  dddddddddswwwddsssssssssasdddddddddaaaaaaaaaaaaaaaaaaaaaaaaaas
+  [LMB]
+  aaaaaaaaaaaaaaawwaadddddddddddsssssssssssssaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaawwwwwwwwwaaaaaaaaaaaaa
+  [LMB]
+  wwwwwwwwwwwwwwwdddddasdaddddddddssssaaaaaaaaaaaaaaaaaaaawwwdddaaaaaaaaaaaaaaaaaaaaaaaaaaaaawssssssssssssddaaaadaadssssssssssssddddddddddddsswwwwwwwwwww
+  [LMB]
+  wdddddddddddddddddddddwwwwwwwwwdwwwaaaawwwwwwwwaaaaaaaaaaaaaaawssssssssssssssssssssssssssssssssssaaaaaaaaaaaaaadadswsadddddddddddddddddddwwwwwwwwwwwwwwwwwwwwwww
+  [LMB]
+  dwwwwwdddddddwwwwwwwwwwwwawaaaswsssaaaaaaaadaaaaaaaaaaaaaaddddddddddddddddddddddddddssssssssssssswwwwwwwwwwwwwwwwwwwwwdddddddwwwwwwwwwwwwaadaaaaaaaaaaaaaaaaaaaaaaaaaaaasw
+  [LMB]
+  awwwwwwwwwwwwwwwwwwwsssssssssssssssssssssssssssssssadsaadddddddddddddswwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwdaaaaaaaaaaa
+  [LMB]
+  awwwwwwwwwwwwwwwwwwwwwwwwwwwww
+  [LMB]
+  aaaaaaaaaaaaaaaaaaaaaaaaaassssssssssssssssssssssssssssadssssssssssssssssssssssssswwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwaw
+  [LMB]
+  awwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+  [LMB]
+  awwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwsssssssssaaassssssssssssssssssssssssdddddddddddddsswwwwwdddddddddddddddddddddddddddddddddddddddddddwdaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaawsssssssssssssssssssssssssssaaaaaaadddddddddddddddddswsaaaaaaaaaaaaaaad
+  [LMB]
+  dsssswwwwwddswwwawaaawddaaaaawwwwwwwwwwwwwwwsaaaaaaaaaaaaaaaaaaddddddddddddddaddadddddddddddddddddddddddddddws
+  [LMB]
+  dsdwddddddddwawwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwssadddddadaddddddddddddddddddw
+  [LMB]
+  dssswwdddsaaaaaaaaaaadwssssssssaawsssssssswwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwaaaa
+  [LMB]
+  awwwwwwwwwwwwwww
+  [LMB]
+  awwwwwwwwwwwwwwwwwwwwddddddddddddddddddddddddssssssssssssssssssssssssssssssssssssssssssssssssssssssssaaaaaaaaaaaaaasw
+  [LMB]
+  awwwwwwwwwwwwwwwwwwwwwwwwwww
+  [LMB]
+  awwwwwwwwwwwwwaaaaaaaaa
+  [LMB]
+  waaddsssssssssssssssssaswsswwwwww
+  [LMB]
+  wwwwwwwwwwwwdwaaaawwwwwwwwwwwwwwwwwwdddddddddddddwwsasdaaasaaaaaaaaaaaaaaaaaaaawwwwwwwwwwwaaaaaaaaaaaaawwwddddddsaaaaaaaaawsssssssssssssssssssddsssssssssssssssssssssssssssdssssssaaaaaaaadadddddddddddddddddddddddwwwdddddddddddddddddswwwwwwwdwawwwwwwwwwwwwwwawaaaaaaaaaaaaaaaaawwwdwwwwda
+  [LMB]
+  aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaassssssssssssssssssssssssddaddadddddddwssssssssssssssssssssssswwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwawadassssss
+  [LMB]
+  aaaaaaaaaaaaaaaaaaaaassssssws
+  [LMB]
+  saaaaaaaaaaaaaaaaaaaaaaaaaadaddddddddddddddddddddsswwdwaawaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaawssssssssssssssssssaasddddddddddddddddddddddddddddddddddawasaddddddddddddddsssssssswwwwwwwwwwwwwwwwwwwddaa
+  [LMB]
+  awwwwwaaaaaawwwdaaaa
+  [LMB]
+  aaaaaaaaaaaaawdddddawssssssssssssssssssssssssssssssssssssssdsaaddddddddddddddddddddddddddddddsssssssssssswdddddddddddddddddddddd
+  [LMB]
+  wadadaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaassssssssssssssssssssssssaddddddddddddddddddddddddddddddddddwdsaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+  [LMB]
+  assssswwdd
+  [LMB]
+  wwwwwwwwwwwwwwwwwwwwwwwwdwddddddwsssssssssssadaaaaaaaaaaaaaawaddddssssssssssssssssssssassddddddddddddddddddddddddddddwwwwwwwwwwwwwwwwwwwwwwwwwwdaaaaaaaaaaasswwwwwwwwwwwwwwwwwwwwwwwwwwwassssssdsawwwwwwwddddssaaaawwwwwwwwwwdwddddddddddddddddddddsddsssssdwaaaaaadawwwswwwdwdddddddddddddddddddsssssssssssaaaaaaaaaaawdwsdawwwwwwwdawdddddddddddddddddddddddddddddddsaaaaaaaaaaaaaaaaaaaaaaaaaawwwwwwwwadssssaw
+  [LMB]
+  assdddddddddddddddddsssssssssssssssswa
+  [LMB]
+  sssssaaaaaaaaaasddddddddddddwwwwwwwwwwwwwwwwwwwwwwwwwww
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  s
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc]ds 
+  [LMB]
+  [LMB]
+  sa
+  [RMB]
+  [RMB]
+  saaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaddddddssddddawwwwwwwwwwwwwwwwwwwwwwwa
+  [LMB]
+  waaaaaaaaaaaaasssssssssssssssssssawdassssssssssssas
+  [LMB]
+  sssssssssssssssssssssssdddddddddddddddddddswwaaasssssssssssssaa
+  [LMB]
+  sssssssssssssssssssdsssssswwwwwwwwwwwwwwwwwwwwwwwaaaaaaaaassssssaw
+  [LMB]
+  aawwwdddddddddddddddddddddddsssssssssssaadd
+  [LMB]
+  sdsddddddddddddddddwwwwwwwwwwwwwwdssssssssssssaddwa
+  [LMB]
+  aaaaaaaaaaaaaawwwwwwwwwwwwwwwwwwwssssd
+  [LMB]
+  ddddddddddddddddddddddddddddddddddds
+  [LMB]
+  ddddddwadddddddaaaaaaaaaaaaaaaaaaaaaaaasaaaaaaaadddddddddddddddddwwwwwwwwwwwwwwwaww
+  [LMB]
+  aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaasssssssddddddddddddddddddddddwwwwwwwwwwwwwwwwwwwwwwa
+  [LMB]
+  awwwwaaassssssssssssssssssssssssssssssdssws
+  [LMB]
+  sdddddaaaadwaaaaaaaddddddsaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaawddddddddddddddddddddddddddddddddaa
+  [LMB]
+  awwddddddddddddddsaaa
+  [LMB]
+  sssssssssssssssssssssssssssssssssssssssssssadddddwwwwwwwwwwwddaaaaaaaaw
+  [LMB]
+   
+  [LMB]
+  [LMB]
+  [LMB]
+  wassssssssssssssssssssssssssssssasawaddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddwwassssssssssssssssss
+  [LMB]
+  saaaaaaaaaaaaaaaaaaaaaaaaaaaaaadaaawwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwda
+  [LMB]
+  wddsdswdsadawwdwddddssaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaas
+  [LMB]
+  ssssssssdswwaaaaaaaaaaaaaaaaaaaaaaaassssssssssssa
+  [LMB]
+  sssssssssssssssssssssssdawwwwwwwddddddddddddddddddddddddddddasaddddddddddddddd
+  [LMB]
+  saaaaaaaaaaaaaaaaaaaaaawwwwwwwwwwwwwwwwwwwwwwwwwwwaaddddddddddddddddddddddd
+  [LMB]
+  d
+
+--- WINDOW  2026/11/09 09:31:02  [chrome.exe] 即時字幕
+----------------------------------------------------------------------------
+  ddsa
+
+--- WINDOW  2026/11/09 09:31:02  [chrome.exe] RO Survivors · Free Ragnarok Online–inspired survivors game in your browser - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  d
+  [LMB]
+  sasaaaaaaaadddddddddddd
+  [LMB]
+  dddddddwwwwwwwwwwwwwwwwwwwwd
+  [LMB]
+  awsddddwwwwwwwwwwwwwwwaaaaaaaaaaaaa
+  [LMB]
+  aaaaaaaaaaaaaaaaaaaaaaaaaaasdddddddddddddddddddddddddddddddwwwwwwwwwwwdddddsadwawssssssswdddddddddddaaaaaaaasssssssssssssssssssssssssssssssssssssssssssssssssssssssssssdawwwwwwwwwwwww
+  [LMB]
+  wwwwwwwwwwwwwwwwwdadddsssssssssssssssssssssssssaaaawaaswwwwwwwwwwwwdwwwwwwwwwdddddddddddddddaawwdassssssssssssssssssssdaaaasssssssssssssssssssssssssssssssssssssssddddddddddddddddddddddddddddddds
+  [LMB]
+  ddddddddddddddddddddddddwwwwwwwwwwwwwwwwwwwwwwwwdsadddddddddddddaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaawwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwaaaaaawddddddddssssssssssssa
+  [LMB]
+  sssssssssssssssds
+  [LMB]
+  dsw
+  [LMB]
+  dddddddddddddddddddddddddddddddwwwwwawaaaaaaaaasss
+  [LMB]
+  saaaaaaaadddwwwwwwwwwwwwwwwwwdaaaaaaaaaaaaaaaaa
+  [LMB]
+  aaaaaaaaaaaaaaawwwwwwaadasdwaasssssssssssssssssssdsddddddddddddddddddddddswwddddddddddaaaaaaaaaaaaaaaaaaaaaaaaswsssssssssssssssssssssssssssssadddddddddss
+  [LMB]
+  sddddddddddddddddddddwwwwwdaaaaaaaaaasw
+  [LMB]
+  ssssssssssssssasadddddddddddddddddddddddddd
+  [LMB]
+  ssssddddddddddddddddddddddddddwwwwwwwwwwwwwwwwwwwwwwwwwwaaaaaaaaaaaaaaaaaaaaaaaaaaaawwsa
+  [LMB]
+  ssasaaawwwwwwaadddddddddddddddddddddwwsssssssssssssssssssssssssssssssssssssssasdddddaaaaaaaaasww
+  [LMB]
+  aswwwwwdd
+  [LMB]
+  wwwwwwwwwwwwwwwwwwwwd
+  [LMB]
+  wwwwwwwwwwwwwwwddddddddddddddddddddddddddddddddddddwsssssssssssssssssssssssdaaaaaaaaaaaaaaaaaaaaaaaaaaawwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+  [LMB]
+  wwwwwwwwadddddwwwwwwwwwwwwwwwwwwwdddddddddddddddddddddddddddddddswsssssssssssssssssssssssssssssssdsaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaawwwwwwwwwwwwwdaddddddd
+  [LMB]
+  wdddddddddddddddddddddddddddddddddswaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaassssssaaasssssssssssssssssssssdsdddddddddswwwwwwwwwwww
+  [LMB]
+  dwwwwwwwwwwdaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaawssssssssssssssssssssss
+  [LMB]
+  saaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddsssssssssssssssssswwwwwwwwwwwwwwwwwwwwwwdddddaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaasssasaaaaas
+  [LMB]
+  asaaaaaaaaaasssssssssdsddddddddwsssssssssssswswwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwaaaaaaaaaaaaaaaaaaawssssssssssddddddddd
+  [LMB]
+  sssssssssddddddddddddddddddddddddddddaaaaaaaaaaaaaaaaawwwwwwwwwwwwwwwwwaadddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddssaaaaaaaaaaaaaaaaaasaaaaasssw
+  [LMB]
+  sssssssasdddddddddddddddddddddddddwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwsssssaaaaaaaaaaaaaaaaaaaaaawwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwdddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddwwwwwwwwwwwwwwdwddaaaa
+  [LMB]
+  dwaaaaswsssssssssssssssssssdsdddddddddddddddddddddddddddddddwwwwwwwawaaaaaaaaaaaaaaaaaaaawssssssssssssssssssssssssssssssssssss
+  [LMB]
+  asswwwwdddddddddddddddddddddddd
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+   
+  [LMB]
+  [LMB]
+  [LMB]
+  sa[Esc]
+
+--- WINDOW  2026/11/09 09:39:23  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 09:39:23  [brave.exe] 快來打波利 https://playinnow.com/detail.html?game=ro-survivors - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 09:39:24  [brave.exe] $136.36 | SPCX | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 09:39:25  [brave.exe] $136.37 | SPCX | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 09:39:28  [brave.exe] $136.40 | SPCX | Vest Markets - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/09 09:39:30  [brave.exe] $2,133.05 | ETH | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 09:39:31  [brave.exe] $2,132.75 | ETH | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 09:39:32  [brave.exe] $2,132.98 | ETH | Vest Markets - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 09:39:33  [brave.exe] $2,133.12 | ETH | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 09:39:34  [brave.exe] $2,132.80 | ETH | Vest Markets - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/09 09:39:35  [brave.exe] $2,132.73 | ETH | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 09:39:36  [brave.exe] $2,132.94 | ETH | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 09:39:36  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 09:39:37  [chrome.exe] RO Survivors · Free Ragnarok Online–inspired survivors game in your browser - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 09:39:38  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 09:39:38  [brave.exe] $2,133.04 | ETH | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 09:39:38  [brave.exe] $2,132.73 | ETH | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 09:39:38  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 09:39:38  [chrome.exe] RO Survivors · Free Ragnarok Online–inspired survivors game in your browser - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 09:39:39  [chrome.exe] BTCUSDT.P 74,821.7 0% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 09:39:41  [chrome.exe] BTCUSDT.P 74,816.1 0% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 09:39:42  [chrome.exe] BTCUSDT.P 74,816.0 0% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 09:39:42  [chrome.exe] BTCUSDT.P 74,816.1 0% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 09:39:44  [brave.exe] $2,132.60 | ETH | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 09:39:44  [brave.exe] $2,132.42 | ETH | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 09:39:46  [brave.exe] $2,132.43 | ETH | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 09:39:48  [brave.exe] $2,132.92 | ETH | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 09:39:49  [brave.exe] $2,132.62 | ETH | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 09:39:50  [brave.exe] $2,132.43 | ETH | Vest Markets - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 09:39:51  [brave.exe] $2,132.18 | ETH | Vest Markets - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 09:39:52  [brave.exe] $2,132.09 | ETH | Vest Markets - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 09:39:54  [brave.exe] $2,132.41 | ETH | Vest Markets - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 09:39:56  [brave.exe] $2,132.23 | ETH | Vest Markets - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  900
+
+--- WINDOW  2026/11/09 09:39:58  [brave.exe] $2,132.25 | ETH | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 09:39:59  [brave.exe] $2,132.58 | ETH | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 09:40:00  [brave.exe] $2,132.60 | ETH | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 09:40:01  [brave.exe] $2,132.59 | ETH | Vest Markets - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/09 09:40:03  [brave.exe] $2,132.39 | ETH | Vest Markets - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 09:40:04  [brave.exe] $2,132.59 | ETH | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 09:40:05  [brave.exe] $2,132.60 | ETH | Vest Markets - Brave
+----------------------------------------------------------------------------
+  20
+
+--- WINDOW  2026/11/09 09:40:06  [brave.exe] $2,132.59 | ETH | Vest Markets - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 09:40:07  [brave.exe] $2,132.78 | ETH | Vest Markets - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 09:40:08  [brave.exe] $2,133.18 | ETH | Vest Markets - Brave
+----------------------------------------------------------------------------
+  30
+
+--- WINDOW  2026/11/09 09:40:10  [brave.exe] $2,133.20 | ETH | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 09:40:11  [brave.exe] $2,133.18 | ETH | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 09:40:12  [brave.exe] $2,133.20 | ETH | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 09:40:13  [brave.exe] $2,133.18 | ETH | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 09:40:14  [brave.exe] $2,133.20 | ETH | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 09:40:15  [brave.exe] $2,133.18 | ETH | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 09:40:16  [brave.exe] $2,133.49 | ETH | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 09:40:17  [brave.exe] $2,133.48 | ETH | Vest Markets - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 09:40:18  [explorer.exe] EXCEL區
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 09:40:20  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 09:40:20  [chrome.exe] BTCUSDT.P 74,860.0 ▲ +0.06% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 09:40:21  [chrome.exe] BTCUSDT.P 74,869.9 ▲ +0.07% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 09:40:21  [chrome.exe] BTCUSDT.P 74,877.5 ▲ +0.08% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 09:40:21  [chrome.exe] RO Survivors · Free Ragnarok Online–inspired survivors game in your browser - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  wd
+  [LMB]
+  [RMB]
+  ds
+  [RMB]
+  sssssssssssssssssssssssssssssssssssssssssssssssssssssssawwdddddddsawas
+  [LMB]
+  sss
+  [RMB]
+  ssdssdswad
+  [RMB]
+  daddswaaaaaaaaaaaaaaaaaasssssssssasawdssssssss
+  [LMB]
+  sssssssssssssssssssssssdadadwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+  [LMB]
+  wwwawaaaaaaaaaaaaaaaaaaaaaaaaaawddddddddddddddddddddddddddddddddddddddssssssssssssssssssssssssssssssasawsw
+  [LMB]
+  waddddddddddssa
+  [LMB]
+  saaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaawsssssddddddddddddddddddddwwwwwww
+  [LMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  ssssssssssssssssssssssssssssdddddddddwdwwwwwwwwwwawssssssssssw
+  [LMB]
+  aaaaaaaaaaawwwwwwwwd
+  [LMB]
+  dwwwwwwwwwwwwwwwwwwwwwwwwdaaaaaaaassssssssssssssssssawdddddddsssssa
+  [LMB]
+  sdaaaaaaaaaaaaaaaaawwdwdddddwssssssasawddda
+  [LMB]
+  aaaaaaaaaaaaaaaaaaaaaaaaaassssssssssaaadddddddddddddddddddddsawwwwwwwwwwwwwwwwadssssssssssdwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwdaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaassssssasddddddddddddddd
+  [LMB]
+  sddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwdwaaaaaaaaaaaaaaaasss
+  [LMB]
+  sssssssssaadddddddddddddddddddddddswwwwwwwwwwwwwwwwwwwwwdda
+  [LMB]
+  aaaaaaaaawsssssssssssdsdwwwwwwwwwwwwwwwwwwwwwwwww
+  [LMB]
+  wwwwwwwwwwwwwwwwwwwwawsaaaaaaaaaaaaa
+  [LMB]
+  ssssssasddddddddddddddddddwwwwwwwwwdadddsaaaaaaaaaaaaaaaaaaaaaaaaaaaaad
+  [LMB]
+  sssssssssssssssssssssssssssssssss
+  [LMB]
+  sssssssaaaaaaaaaaaawwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwdwdddddddddddddddddddwwwwwwwwwwwwwwwwwwsssssssssssaaaaaaaaaaaaaaaaaaaaaaaaaaaswddd
+  [LMB]
+  sdddddddddddddddddssa
+  [LMB]
+  sssssssssssdsdwwwwwwwwwwwww
+  [LMB]
+  dwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwddddddddddddddddddddddddddddaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaawwwwwwssssdddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddswwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwdwawwwwwwwwwwwwsaaaaaaaaaaaaaaaaaaaaaaaaaadw
+  [LMB]
+  ssssssdss
+  [LMB]
+  ddddddddddddddddddddddddswddwaaaaaaaaaaaaaaaawwwwwwwwwwwwwwssssssssssssssssaaddddddddddddddddddddddddddddddddddddswwd
+  [LMB]
+  dswwwwww
+  [LMB]
+  dwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwaaaaaaaaaaaaaaaaaaaaaaaaaaaaawwwwwwwwwwwwwwwwwwsssssssssssssssssssssssssssssssdsddddddddddddddddddssssssssssssw
+  [LMB]
+  sddddddwwwwwwwwwwwwwwawaaaaaaaaaaaaaaaa
+  [LMB]
+  awwwwwwwwwwwwwws
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc] 
+  [LMB]
+  [LMB]
+  [LMB]
+  sssssssssssssssssssssssssssssssssssssssssssssssdssssssssssssssssssssssssssssssdwasdsddddsswassssssssss
+  [LMB]
+  aaaaaaaaaaaaaaaaaaaaaaaasssssssssssswwwwwwaaaaadwas
+  [LMB]
+  asssssssssssssssssssssdddddddddswassssssssssssasdwaddddwaaaaaadddd
+  [LMB]
+  dwwwwwwwwwwwwwwwwwawsssasdsaawwwwwddddddddddwaaaaaaaadaadawwwsdd
+  [LMB]
+  sssssssssssssdsdwaaddddddddsssssssssaaaaaaaaaaaaaaaaaaaaaaaaaaaaadddddwwwwwwwwwwww
+  [LMB]
+  waaaaasaawwwwwwwwwwwwwwwww
+  [LMB]
+  awwwwwwwwwwwwwwwwwwwwwwwwwwwwadddddddddddddddddddddwsdwaaaaaaaaaaaaasssssssssssdsaddddddddddddsadwawwad
+  [LMB]
+  waaaaaaaaaaaaaadddddaaaasssssssssssdddddddddddddddddadaaaaaawaaddsa
+  [LMB]
+  saaaaaaaaaaaaaaaaa
+  [LMB]
+  ssdddddddddddddwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwdaaaaaaaaaaaaaaaawwsssssssssssssssssssssssssssssssssssssssssssssssssssasdddddddddddddddsssssswwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwdaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaawsssssssssssssssdaadd
+  [LMB]
+  sssssdddddddswwwwwwwwwwwwwwwwwwwwwwwwwwwaaaaaaaaaaaaaaaaaaaaassssssssssssssssssssssssssdd
+  [LMB]
+  ssssssssssssssssssssssssssd
+  [LMB]
+  ssssssssssssssssssssssssssadawddddddddddddddddddddddddddddddddaaaaaaaaa
+  [LMB]
+  aaaaaaaaaaaaaaaaaaaaaaaaaaaaassssssssds
+  [LMB]
+  sssssssssssssssdsdddddddddddddddddddddddddddwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwsaaaaaaaaaass
+  [LMB]
+  awwwwwwwwwwwwwwwwwwwsaddddddddddddddddddddddddd
+  [LMB]
+  sssssssdwsaa
+  [LMB]
+  saaaaaaaaaaaaaaaaaaaaaaaawwwwwwwwwwwwwwwwwwwwwwwwwwwwwdwddddddddddddddwssssssdaaaaaaaaaaaaaaasssssssssww
+  [LMB]
+  awwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwddddddddddwssaaaaaaaaaaaaaaaaaaaaaaaaaaaaddddddddddddddddddddddddddddddwwwdddaaaaaaaaawwwwwwwwwwwwwwwwwwwwwwwww
+  [LMB]
+  waaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaasssssssssaaaaaaaaaaaaaadddddddddddddddddddddddddddddddddddddddddddddddddddwwwwwwwwwwwww
+  [LMB]
+  dwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwddddddsssssdwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaawssssssdsaddddddddddddddddddddddddddsss
+  [LMB]
+  sddddddddddddddddddddddddddwdwdddddddddddddddddddddddddddddddddddddddddddddddddddaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaswssssssssssssssssssssssssssssssaddddddddddddddddddddddwsssssssssssssssssssssssssssssswwwwwwwwddaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaawssssdd
+  [LMB]
+  ssssdsddddddaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaawwwww
+  [LMB]
+  awwdassssssssdddddddddddddddddddddddddddddddddddddddddddddddddddddddswwwwwwwwwwwwwwwwddddddddswwwwwwwwwwwwwwawaaaaaaaaaaaaaaaaaaaaaaaaawssssssssss
+  [LMB]
+  awssssssssssssssssssssssssssssadada
+  [LMB]
+  ssssssssddddddddddd
+  [LMB]
+  sdssssssssssssssssw
+  [LMB]
+  wdddddddddddddddddddddwwwwwwwwdddaaaaaaaaaaaaaaaawwwwwsssss
+  [LMB]
+  aaaaaaaaws
+  [LMB]
+  sas
+  [LMB]
+  aaaaaaaaaaaaaaaaaaaaaaasssssssssssssssssssaaaaaaaaaaaddddddddddswwwwwwwwwd
+  [LMB]
+  dwwwwwwwwwwwwwwwwwwaadaaaaaaaaaaaaawwwwwssssssssssssssssssssaaaaaaaaddddddddddddddddddddddddwssssssswwwwwww
+  [LMB]
+  wddddddddddddddddddddddddddddddddddddddddddaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaawwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwsssssssssssssssssssssssssssssssssssssssssssssssssssssssaddddswwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwdwddddd
+  [LMB]
+  dwwwaaaaaaaaaaaaaaaaaaawaaaaaaaaaaaa
+  [RMB]
+  aaaaaaaaaaaaaa
+  [RMB]
+  saaaaaaaaassssssssaaaaaadddddddddddddddddddd
+  [LMB]
+  ssssssssssssdsdddddddddd
+  [LMB]
+  sdddddsssssssssaadwwwwwwwwwwwwwwwwwwwwwdddddddddddddddddddddddaaaaaawwwwwwwwwwwwwwwwwwwwwwwwwwwssssssssssssssssaaaddddddddddddddddssswwwwwwddw
+  [LMB]
+  dddssssssssssssaddddddddddddaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaawwwsdadddddddddddddddddddddddddddddddddddddwwwwwwwwwwwwwwwwwwwwswwwwwwwwwwwwwwwwwwawaawwwwwwwwwwwwwwsss
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+   
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  ssssssssssssssssssssssssssssssss
+  [RMB]
+  wdddwwwwwwwwwwwwwwdwddddsdawwwwwwwwwasd
+  [LMB]
+  sddddddddddddddddddddddaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaawwwddsssssssawwwwwwwwwwwwwwwwddddddddssssssssssssssss
+  [LMB]
+  sssssssssssssssssssssssssssssssssaadwwwwwwwwwwwwwwwwddddddddda
+  [LMB]
+  awwsssssssssssssddddddwwwwwwwwwwwwwwwwwwawaaaaaaaassssssdddddddddddddddddddddddddddddddwwwwa
+  [LMB]
+  wwwwwwwwwwwwwwwwwwwwwwwwwawadssssssaasssdddddwwwwwwwdaaaaaaaaaaaaaaaaaaaaaaa
+  [LMB]
+  aaaaaaaaaaaaaaaaaaaaaaaaaaaaasdssd
+  [LMB]
+  sssssssssssdssadwda
+  [LMB]
+  wwwwwwwwwwwwwwwwwwwaaaaaaaaaaasssssssdddddddddddwwwwwwwwwwwwwwaaaaaaaawdssaaaaaaaaaaaaaaaaaaaaaaaadsssssssssssawwwwwwdwwsaaaaaaaaawd
+  [LMB]
+  wwwwwwwwwwwwwdddddddddwwwwwwwwwwawsssssssssssssssddddddddssssssdddddddddwdsaddadaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaawddddddddddddddddddaa
+  [LMB]
+  aaaaaaaaaaaaaaasssssssdss
+  [LMB]
+  sssssssssssssadddddddsssdsdddddddddddddddawddaaaaaaaaaasa
+  [LMB]
+  ssssssssssssssssssdsdddddddddddsaswwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwdwddddadsdsssssssasadaaaaaaaaawa
+  [LMB]
+  awwwwwwwwwwwwwwwwwadddsssssdaaaaaaaaaaaaaaaaawwwwwwwwwwwwwwwwwwwwwwadddddddddddddddddddddddddddddddddddddsdaadaa
+  [LMB]
+  aaaaaaaaaaaaaaaaaw
+  [LMB]
+  awwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwdwdddddddddddddddddddddddddddddd
+  [LMB]
+  waaaaaaaaaaaaaaaaaaaassssssssssssssssssssssdswwwwwwwddddddddddddssssssssssssssssaaaaaaaaaaaaaaaaaawwwwwwwwwww
+  [LMB]
+  awwwwwwwwwwwwwwwwwwwwwwwwwadsssssssssssssdddsssssssaassssdssssssaawsss
+  [LMB]
+  dswaaa
+  [LMB]
+  dwwwwwwwwwwwwwwwwwdddddddddddwwwwwwwwawwddsdaaaaaaaaaaaaaaaaaaaaaaaa
+  [LMB]
+  ssssssssssaaaaswswwwwwwwwwwwwwwwaaaaaddddddddddddddddddddddddwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwssssadaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaawwwwwwwwwwwwwwwwwaawwwwwwwwwwwwwwwwwwwwwwwaaaadddddddddddddddddddddddddddddddddddddddddddddddddddddddssssssssd
+  [LMB]
+  sddaaaaaaaaawsswwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwdddddddddddddw
+  [LMB]
+  ddddddddddddddddddddddddddddddddddddddddddddsadddddddddddddddssaaa
+  [LMB]
+  ssssssssssssssssssssssssssssssssasaaaaaaaaaaaaaaaaaaasdwwsaaaaaaaaaaadddddddddddddddddwaddddddddddddddddddddaaaaaaaasssss
+  [LMB]
+  aaaaaaaaaaaaaaaaassssw
+  [LMB]
+  wwwwwwwwwwwwwwwwwwwwwwwww
+  [LMB]
+  wddddasdda
+  [LMB]
+  saaaaaaaaaaaaaaaaaadddddddddddddddddddddddddddddddddddddddddswwwwwddddddaaaaaaaaaaaaaaaaaaawwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwsdddddddaaaaaaaaaaaaaaaddddddddsssssssds
+  [LMB]
+  sdddddddddddddddddwaaaaaaaaaaaaaaaawwww
+  [LMB]
