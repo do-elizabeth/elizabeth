@@ -1,0 +1,576 @@
+﻿
+--- WINDOW  2026/11/09 10:37:51  [brave.exe] It needs a human touch - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 10:38:21  [brave.exe] Gigs - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/09 10:41:40  [ShellExperienceHost.exe] New notification
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 10:41:41  [brave.exe] Gigs - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 10:42:36  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 10:42:36  [explorer.exe] (untitled)
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 10:42:39  [chrome.exe] New Tab - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 10:42:40  [chrome.exe] Project Catalog | Upwork - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 10:47:47  [chrome.exe] upwork.com/nx/client/dashboard/ - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 10:47:49  [chrome.exe] Your Dashboard - Upwork - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/09 10:48:25  [chrome.exe] Upwork Login - Log in to your Upwork account - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  a[ENTER]
+
+--- WINDOW  2026/11/09 10:49:03  [chrome.exe] Your Dashboard - Upwork - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 10:50:06  [chrome.exe] Update password?
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 10:50:06  [chrome.exe] Your Dashboard - Upwork - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 10:50:11  [chrome.exe] Upwork - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 10:50:21  [chrome.exe] Project Catalog | Upwork - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 10:50:22  [chrome.exe] Adebisi S. - MT5 EA Developer | Forex Account Management Automation | Prop Trader | Upwork - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 10:50:27  [chrome.exe] Project Catalog | Upwork - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 10:50:32  [chrome.exe] Freelancer Profile - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 10:50:33  [chrome.exe] Adebisi S. - MT5 EA Developer | Forex Account Management Automation | Prop Trader | Upwork - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/09 10:50:42  [chrome.exe] New Tab - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 10:51:10  [chrome.exe] (untitled)
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 10:51:11  [chrome.exe] New Tab - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 10:51:17  [chrome.exe] Adebisi S. - MT5 EA Developer | Forex Account Management Automation | Prop Trader | Upwork - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 10:51:20  [chrome.exe] (untitled)
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 10:51:26  [chrome.exe] Restore pages?
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 10:52:35  [chrome.exe] New Tab - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 10:52:38  [chrome.exe] Restore pages?
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 10:52:39  [chrome.exe] New Tab - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 10:52:42  [chrome.exe] Project Catalog | Upwork - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/09 10:53:47  [chrome.exe] (untitled)
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/09 10:54:04  [chrome.exe] Project Catalog | Upwork - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/09 10:54:09  [chrome.exe] New Tab - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 10:54:11  [chrome.exe] about:blank - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [RMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/09 10:54:19  [chrome.exe] Private Messages - Carlos Alfread - TravisBruce - Trader's profile - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 10:54:20  [chrome.exe] George S. - Forex Account Manager | MT4/MT5 EA Developer | Prop Firm Treader | Upwork - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [LMB]
+
+--- WINDOW  2026/11/09 10:55:13  [chrome.exe] Project Catalog | Upwork - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/09 10:55:19  [chrome.exe] (untitled)
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/09 10:55:47  [powershell.exe] C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 10:56:47  [chrome.exe] Project Catalog | Upwork - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 10:56:51  [chrome.exe] Adebisi S. - MT5 EA Developer | Forex Account Management Automation | Prop Trader | Upwork - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 10:56:56  [chrome.exe] Project Catalog | Upwork - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 10:56:59  [powershell.exe] C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 10:57:19  [chrome.exe] Project Catalog | Upwork - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 10:57:20  [chrome.exe] Telegram Web - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 10:57:44  [ShellExperienceHost.exe] New notification
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 10:57:47  [chrome.exe] Untitled - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 10:57:47  [chrome.exe] Telegram Web - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 10:57:49  [chrome.exe] Telegram - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/09 10:58:13  [chrome.exe] Goat Community - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/09 10:59:08  [chrome.exe] 1 notification - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 10:59:11  [chrome.exe] Telegram Web - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+                                                                                                                                                                
+
+--- WINDOW  2026/11/09 11:00:07  [SearchHost.exe] Search
+----------------------------------------------------------------------------
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
+
+--- WINDOW  2026/11/09 11:02:19  [chrome.exe] Telegram Web - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/09 11:02:52  [explorer.exe] (untitled)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 11:02:53  [ShellExperienceHost.exe] Battery Information
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 11:02:54  [explorer.exe] (untitled)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 11:03:02  [chrome.exe] Telegram Web - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 11:03:17  [chrome.exe] New Tab - Google Chrome
+----------------------------------------------------------------------------
+  [ENTER]
+
+--- WINDOW  2026/11/09 11:03:24  [chrome.exe] Canva - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 11:03:37  [chrome.exe] Black White Minimalist Elegant Monogram Initial Logo - Logo - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 11:03:44  [chrome.exe] canva.com - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 11:03:46  [chrome.exe] Home - Canva - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 11:03:49  [(unknown)] Home - Canva - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 11:03:52  [chrome.exe] Home - Canva - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 11:03:56  [chrome.exe] Untitled - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 11:03:56  [chrome.exe] canva.com/design/editor/shell?designId=DAHaVGX3ES8&extension=jpDONXoyF31ggSv0T4NURw&mode=edit - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 11:03:59  [chrome.exe] Canva - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 11:04:34  [chrome.exe] Untitled design - 712 × 430px - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/09 11:05:06  [chrome.exe] Open
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl]
+  [LMB]
+  [Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl]
+  [LMB]
+  [Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl]
+  [LMB]
+  [Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl]
+  [LMB]
+
+--- WINDOW  2026/11/09 11:05:23  [chrome.exe] Untitled design - 712 × 430px - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/09 11:06:05  [chrome.exe] Telegram Web - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/09 11:08:38  [chrome.exe] Untitled design - 712 × 430px - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  gimage 
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/09 11:10:19  [chrome.exe] Project Catalog | Upwork - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 11:10:37  (no active window)
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 11:11:16  [chrome.exe] uBlock Origin Lite - Chrome Web Store - Team Account
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 11:11:22  [chrome.exe] Google Chrome - The Fast & Secure Web Browser Built to be Yours - Team Account
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/09 11:11:32  [chrome.exe] New Tab - Team Account
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 11:11:33  [(unknown)] New Tab - Team Account
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 11:12:26  [chrome.exe] Chrome Web Store - Team Account
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/09 11:12:33  [chrome.exe] Chrome Web Store - Extensions - Team Account
+----------------------------------------------------------------------------
+  [LMB]
+  ublo
+  [LMB]
+
+--- WINDOW  2026/11/09 11:12:41  [chrome.exe] uBlock Origin Lite - Chrome Web Store - Team Account
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 11:12:43  [chrome.exe] (untitled)
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 11:12:45  [chrome.exe] uBlock Origin Lite - Chrome Web Store - Team Account
+----------------------------------------------------------------------------
+  [LMB]
+  cation i
+  [LMB]
+
+--- WINDOW  2026/11/09 11:13:01  [chrome.exe] Chrome Web Store - Search Results - Team Account
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 11:13:02  [chrome.exe] Location Guard (V3) - Chrome Web Store - Team Account
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 11:13:04  [chrome.exe] (untitled)
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 11:13:07  [chrome.exe] Location Guard (V3) - Chrome Web Store - Team Account
+----------------------------------------------------------------------------
+  [LMB]
+  webtc 
+
+--- WINDOW  2026/11/09 11:13:24  [chrome.exe] Location Guard - Team Account
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/09 11:13:30  [chrome.exe] Location Guard (V3) wants to
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 11:13:32  [chrome.exe] Location is turned off in system settings
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 11:13:33  [chrome.exe] Location Guard - Team Account
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 11:13:54  [chrome.exe] Location Guard (V3) - Chrome Web Store - Team Account
+----------------------------------------------------------------------------
+  [ENTER]
+
+--- WINDOW  2026/11/09 11:13:56  [chrome.exe] Chrome Web Store - Search Results - Team Account
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 11:13:59  [chrome.exe] WebRTC Control - Chrome Web Store - Team Account
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/09 11:14:10  [chrome.exe] (untitled)
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 11:14:12  [chrome.exe] Untitled - Team Account
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 11:14:12  [chrome.exe] Extensions - Team Account
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 11:14:12  [(unknown)] Extensions - Team Account
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 11:14:13  [chrome.exe] Extensions - Team Account
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 11:14:15  [(unknown)] Extensions - Team Account
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 11:14:15  [chrome.exe] Extensions - Team Account
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 11:14:18  [chrome.exe] WebRTC Control - Chrome Web Store - Team Account
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/09 11:14:26  [chrome.exe] (untitled)
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 11:14:29  [chrome.exe] WebRTC Control - Chrome Web Store - Team Account
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 11:14:34  [chrome.exe] WebRTC Control has been added to Chromium
+----------------------------------------------------------------------------
+  o
+
+--- WINDOW  2026/11/09 11:14:38  [chrome.exe] WebRTC Control - Chrome Web Store - Team Account
+----------------------------------------------------------------------------
+  ghos
+  [LMB]
+
+--- WINDOW  2026/11/09 11:14:43  [(unknown)] WebRTC Control - Chrome Web Store - Team Account
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 11:14:43  [chrome.exe] WebRTC Control - Chrome Web Store - Team Account
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 11:14:43  [chrome.exe] Ghostery AdBlocker for Privacy - Chrome Web Store - Team Account
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 11:15:13  [(unknown)] Ghostery AdBlocker for Privacy - Chrome Web Store - Team Account
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 11:15:13  [chrome.exe] Ghostery AdBlocker for Privacy - Chrome Web Store - Team Account
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 11:15:31  [chrome.exe] Just a moment... - Team Account
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 11:16:37  [chrome.exe] Extensions - Team Account
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/09 11:19:10  [chrome.exe] Project Catalog | Upwork - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 11:20:29  [explorer.exe] (untitled)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 11:20:29  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 11:20:29  [StartMenuExperienceHost.exe] Start
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 11:20:31  [explorer.exe] Search
+----------------------------------------------------------------------------
+
+================================================================================
+ SESSION START  2026/11/09 15:16:45
+================================================================================
+
+
+--- WINDOW  2026/11/09 15:16:45  [LockApp.exe] Windows Default Lock Screen
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 15:19:41  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 15:19:53  [explorer.exe] UnlockingWindow
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 15:19:53  [explorer.exe] (untitled)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 15:19:56  [explorer.exe] Program Manager
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/09 15:20:03  [Incogniton.exe] Incogniton
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 15:20:04  [explorer.exe] (untitled)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 15:20:04  [Incogniton.exe] Incogniton
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 15:20:13  [Incogniton.exe] (untitled)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/09 15:20:14  [Incogniton.exe] Incogniton - Version 5.0.1.4
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/09 15:21:35  [chrome.exe] Gigs - Olamide
+----------------------------------------------------------------------------
+  [LMB]
