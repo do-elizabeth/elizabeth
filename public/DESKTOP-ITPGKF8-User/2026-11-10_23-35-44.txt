@@ -1,0 +1,256 @@
+﻿
+--- WINDOW  2026/11/10 22:35:59  [chrome.exe] 4033.18 | XAUUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/10 22:36:42  [chrome.exe] 4035.28 | XAUUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/10 22:36:55  [chrome.exe] 4035.22 | XAUUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/10 22:37:46  [chrome.exe] 4036.52 | XAUUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/10 22:37:51  [chrome.exe] 4036.36 | XAUUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/10 22:38:43  [chrome.exe] 4036.43 | XAUUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/10 22:38:47  [chrome.exe] 4035.80 | XAUUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/10 22:39:41  [chrome.exe] 4037.03 | XAUUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/10 22:39:44  [chrome.exe] 4037.69 | XAUUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/10 22:40:41  [chrome.exe] 4037.42 | XAUUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/10 22:41:36  [chrome.exe] 4036.52 | XAUUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/10 22:42:31  [chrome.exe] 4035.50 | XAUUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/10 22:43:27  [chrome.exe] 4035.95 | XAUUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/10 22:44:21  [chrome.exe] 4037.52 | XAUUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/10 22:45:16  [chrome.exe] 4036.10 | XAUUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/10 22:46:12  [chrome.exe] 4036.25 | XAUUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/10 22:47:06  [chrome.exe] 4036.49 | XAUUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/10 22:48:03  [chrome.exe] 4037.30 | XAUUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/10 22:48:57  [chrome.exe] 4036.31 | XAUUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/10 22:49:45  [chrome.exe] 4036.29 | XAUUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/10 22:49:52  [chrome.exe] 4036.94 | XAUUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/10 22:50:46  [chrome.exe] 4036.80 | XAUUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/10 22:50:48  [chrome.exe] 4035.91 | XAUUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/10 22:51:42  [chrome.exe] 4035.29 | XAUUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/10 22:52:38  [chrome.exe] 4037.39 | XAUUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/10 22:53:33  [chrome.exe] 4038.14 | XAUUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/10 22:54:28  [chrome.exe] 4036.44 | XAUUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/10 22:55:22  [chrome.exe] 4038.86 | XAUUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/10 22:56:17  [chrome.exe] 4038.15 | XAUUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/10 22:57:11  [chrome.exe] 4038.63 | XAUUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/10 22:58:06  [chrome.exe] 4036.92 | XAUUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/10 22:59:00  [chrome.exe] 4036.50 | XAUUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/10 22:59:57  [chrome.exe] 4037.04 | XAUUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/10 23:00:43  [chrome.exe] 4036.54 | XAUUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/10 23:00:52  [chrome.exe] 4036.65 | XAUUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/10 23:01:43  [chrome.exe] 4035.75 | XAUUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/10 23:01:46  [chrome.exe] 4034.83 | XAUUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/10 23:02:41  [chrome.exe] 4034.06 | XAUUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/10 23:03:27  [chrome.exe] XAUUSDT.P 4,034.03 ▼ −2.68% Unnamed - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/10 23:03:27  [chrome.exe] XAUUSDT.P 4,034.00 ▼ −2.68% Unnamed - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/10 23:03:35  [chrome.exe] XAUUSD 4,027.710 ▼ −2.73% Unnamed - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/10 23:03:35  [chrome.exe] XAUUSD 4,027.750 ▼ −2.73% Unnamed - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/10 23:03:37  [chrome.exe] XAUUSD 4,027.660 ▼ −2.73% Unnamed - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/10 23:03:37  [chrome.exe] XAUUSD 4,027.685 ▼ −2.73% Unnamed - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/10 23:03:41  [chrome.exe] 4034.06 | XAUUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/10 23:03:41  [chrome.exe] 4032.86 | XAUUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/10 23:04:33  [chrome.exe] 4034.19 | XAUUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/10 23:05:30  [chrome.exe] 4034.44 | XAUUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/10 23:06:26  [chrome.exe] 4032.73 | XAUUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/10 23:07:21  [chrome.exe] 4032.19 | XAUUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/10 23:08:18  [chrome.exe] 4033.25 | XAUUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/10 23:09:12  [chrome.exe] 4033.68 | XAUUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/10 23:10:07  [chrome.exe] 4032.83 | XAUUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/10 23:11:03  [chrome.exe] 4033.00 | XAUUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/10 23:11:57  [chrome.exe] 4034.92 | XAUUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/10 23:12:47  [chrome.exe] 4033.50 | XAUUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/10 23:12:54  [chrome.exe] 4033.85 | XAUUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/10 23:13:42  [chrome.exe] 4035.06 | XAUUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/10 23:13:49  [chrome.exe] 4035.77 | XAUUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/10 23:14:44  [chrome.exe] 4036.26 | XAUUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/10 23:14:45  [chrome.exe] 4036.34 | XAUUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/10 23:15:41  [chrome.exe] 4036.45 | XAUUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/10 23:16:36  [chrome.exe] 4036.86 | XAUUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/10 23:17:31  [chrome.exe] 4036.20 | XAUUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/10 23:18:28  [chrome.exe] 4036.51 | XAUUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/10 23:19:22  [chrome.exe] 4036.53 | XAUUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/10 23:20:19  [chrome.exe] 4039.09 | XAUUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/10 23:21:13  [chrome.exe] 4037.58 | XAUUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/10 23:22:09  [chrome.exe] 4038.51 | XAUUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/10 23:23:04  [chrome.exe] 4038.30 | XAUUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/10 23:23:59  [chrome.exe] 4037.12 | XAUUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/10 23:24:54  [chrome.exe] 4037.66 | XAUUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/10 23:25:43  [chrome.exe] 4035.89 | XAUUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/10 23:25:48  [chrome.exe] 4035.13 | XAUUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/10 23:26:42  [chrome.exe] 4036.15 | XAUUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/10 23:27:38  [chrome.exe] 4036.92 | XAUUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/10 23:28:32  [chrome.exe] 4036.54 | XAUUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/10 23:31:10  [chrome.exe] 4033.54 | XAUUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/10 23:32:07  [chrome.exe] 4034.49 | XAUUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/10 23:33:03  [chrome.exe] 4035.06 | XAUUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/10 23:33:59  [chrome.exe] 4032.76 | XAUUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/10 23:34:42  [chrome.exe] 4033.79 | XAUUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/10 23:34:54  [chrome.exe] 4034.37 | XAUUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/10 23:35:41  [chrome.exe] 4033.75 | XAUUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
