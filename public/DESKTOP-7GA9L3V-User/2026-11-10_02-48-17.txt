@@ -1,0 +1,317 @@
+﻿
+--- WINDOW  2026/11/10 00:56:43  [explorer.exe] (untitled)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/10 00:56:46  [ShellExperienceHost.exe] New notification
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/10 00:56:46  [explorer.exe] (untitled)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/10 00:57:01  [powershell.exe] C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/10 00:57:11  [brave.exe] Gigs - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/10 00:57:23  [chrome.exe] Gigs - Olamide
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/10 00:57:41  [chrome.exe] Gigs - George
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/10 00:58:58  [chrome.exe] Untitled - George
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/10 00:58:59  [chrome.exe] fiverr.com/users/georgms/manage_gigs/forex-trading-bot-gold-trading-robot-forex-ea-bot-xauusd-ea-robot-forex-g/edit - George
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/10 00:58:59  [chrome.exe] Fiverr / georgms / Edit Gig - George
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/10 00:59:19  [chrome.exe] Open
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/10 00:59:30  [chrome.exe] Fiverr / georgms / Edit Gig - George
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/10 00:59:44  [chrome.exe] Gigs - George
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/10 01:26:10  [explorer.exe] Your battery is running low.
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/10 01:27:51  [chrome.exe] Gigs - George
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/10 01:33:54  [explorer.exe] Your battery is very low
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/10 01:33:54  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/10 02:26:12  [explorer.exe] (untitled)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/10 02:26:17  [Incogniton.exe] Incogniton - Version 5.0.1.4
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/10 02:26:30  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/10 02:26:30  [ShellExperienceHost.exe] Windows Shell Experience Host
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/10 02:26:31  [ShellExperienceHost.exe] Action center
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/10 02:26:34  [Incogniton.exe] Incogniton - Version 5.0.1.4
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/10 02:27:12  [chrome.exe] Extensions - Team Account
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/10 02:27:29  [chrome.exe] Just a moment... - Team Account
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/10 02:29:31  [chrome.exe] WebRTC Control :: MyBrowserAddon - Team Account
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/10 02:29:48  [chrome.exe] Extensions - Team Account
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/10 02:29:50  [chrome.exe] Ghostery AdBlocker for Privacy - Chrome Web Store - Team Account
+----------------------------------------------------------------------------
+                                                                                                                                       [Bk][Bk][Bk][Bk]
+  [LMB]
+
+--- WINDOW  2026/11/10 02:30:35  [chrome.exe] (untitled)
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/10 02:30:36  [chrome.exe] Ghostery AdBlocker for Privacy - Chrome Web Store - Team Account
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  proy[Bk]t
+  [LMB]
+
+--- WINDOW  2026/11/10 02:31:22  [chrome.exe] Proton VPN: Fast & Secure - Chrome Web Store - Team Account
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/10 02:31:24  [chrome.exe] (untitled)
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/10 02:31:34  [chrome.exe] Proton VPN: Fast & Secure - Chrome Web Store - Team Account
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/10 02:31:39  [chrome.exe] Proton VPN: Fast & Secure has been added to Chromium
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/10 02:31:40  [chrome.exe] Proton VPN Browser Extension - Team Account
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/10 02:34:22  [chrome.exe] Untitled - Team Account
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/10 02:34:22  [chrome.exe] Proton - Team Account
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/10 02:34:24  [chrome.exe] Proton VPN: Sign-up - Team Account
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  surnellsunday2gmail.com[ENTER]
+  155774\[ENTER]
+  [LMB]
+  fund8103204060
+  [LMB]
+  fund8103204060[ENTER]
+
+--- WINDOW  2026/11/10 02:35:38  [chrome.exe] Save password?
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/10 02:35:39  [chrome.exe] Proton VPN: Sign-up - Team Account
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/10 02:35:41  [chrome.exe] Proton VPN Browser Extension - Team Account
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/10 02:35:42  [chrome.exe] (untitled)
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/10 02:35:50  [chrome.exe] Proton VPN Browser Extension - Team Account
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/10 02:35:52  [chrome.exe] Proton VPN: Fast & Secure - Chrome Web Store - Team Account
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/10 02:35:54  [chrome.exe] New Tab - Team Account
+----------------------------------------------------------------------------
+  [LMB]
+  fic[Bk][Bk]verr.com[ENTER]
+
+--- WINDOW  2026/11/10 02:36:09  [chrome.exe] Fiverr | Freelance services marketplace | Find top global talent - Team Account
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/10 02:36:14  [chrome.exe] (untitled)
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/10 02:36:15  [chrome.exe] Fiverr | Freelance services marketplace | Find top global talent - Team Account
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/10 02:36:23  [chrome.exe] (untitled)
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/10 02:36:43  [chrome.exe] Fiverr | Freelance services marketplace | Find top global talent - Team Account
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/10 02:36:54  [Incogniton.exe] Incogniton - Version 5.0.1.4
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/10 02:36:56  [chrome.exe] Fiverr | Freelance services marketplace | Find top global talent - Team Account
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/10 02:37:12  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/10 02:37:12  [explorer.exe] (untitled)
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/10 02:37:15  [brave.exe] Forex trading bot, forex trading bot, forex bot, forex trading robot, forex ea by Debrapeay | Fiverr - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/10 02:37:25  [chrome.exe] Fiverr | Freelance services marketplace | Find top global talent - Team Account
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/10 02:37:31  [brave.exe] Forex trading bot, forex trading bot, forex bot, forex trading robot, forex ea by Debrapeay | Fiverr - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/10 02:37:39  [brave.exe] Offer forex trading bot forex bot forex ea trading bot forex trading bot by Danny_kling | Fiverr - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/10 02:37:39  [brave.exe] Gold ea trading ot forex bot xauusd ea bot scalping trading robot gold ea robot by Elismilegames | Fiverr - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/10 02:37:40  [brave.exe] Fiverr - Freelance Services Marketplace for The Lean Entrepreneur - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/10 02:37:44  [brave.exe] Untitled - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/10 02:37:47  [brave.exe] fiverr.com/olagunt/provide-forex-trading-bot-forex-expert-advisor-or-ea-and-forex-trading-guides?context_referrer=search_gigs&source=pagination&ref_ctx_id=5be3af189c534eac8116046bca17a9e2&pckg_id=1&pos=18&context_type=new&funnel=5be3af189c534eac8116046bca17a9e2&imp_id=2427278f-7d96-4575-bdf8-ad3ca798561a - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/10 02:37:47  [brave.exe] Provide forex trading bot forex expert advisor or ea and forex trading guides by Olagunt | Fiverr - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/10 02:37:51  [brave.exe] Fiverr - Freelance Services Marketplace for The Lean Entrepreneur - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  forex 
+  [LMB]
+
+--- WINDOW  2026/11/10 02:38:08  [brave.exe] Trading bots development services | Fiverr - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  [LMB]
+
+--- WINDOW  2026/11/10 02:43:58  [brave.exe] Write Fiverr Forex EA Profile - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/10 02:44:00  [brave.exe] ChatGPT - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/10 02:44:09  [brave.exe] Write Fiverr Forex EA Profile - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/10 02:44:18  [brave.exe] ChatGPT - Brave
+----------------------------------------------------------------------------
