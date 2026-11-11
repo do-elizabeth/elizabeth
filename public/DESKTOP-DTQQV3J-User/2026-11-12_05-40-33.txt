@@ -1,0 +1,1141 @@
+﻿  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc]sdd 
+  [LMB]
+  [LMB]
+  ssssssssssasaaaaadadadawsssssssssssssssssddddddddddddddddswd
+  [LMB]
+  wwwwwwwwwwwwwwwwwwwwwdwaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaddddddddddddddddddddddddddddddadsdaaaaa
+  [LMB]
+  saaaaaaaaaaaaaadddddddddddddssssdddddddddssssdaaaaaawws
+  [LMB]
+  waaaadddddddwwaaaaaaaaaaaddddddddwwwwwwsssssssssssdd
+  [LMB]
+  sdwwwwwwwwwaadsssssaaaaaaaaaaaaawwd
+  [LMB]
+  wdsdaadawwwwwwwwwwww
+  [LMB]
+  awwwwwasssssssssssssdd
+  [LMB]
+  sddddddddddddddddddswdadddddddddswaawwwwwwwwsssssssssssssssssssssssssssssssdswa
+  [LMB]
+  dssssssssssssssswsddd
+  [LMB]
+  dsssswddddwwwwwwwwwwwwwwwwwwwwwwwwwwwwwawaaaaaaaaaaaaaaaaaaawwwwwwwwwsaddddd
+  [LMB]
+  dwwwwwwwwwwwwwwwwwwwwdaaaaaaaaaasddd
+  [LMB]
+  ddddddddddddddddddsaddsawdswwwwwwwdwddddswdddddddaaaaaaaaaaaaaaaaaaaaaaaaaawswwssddadadasdddddddddddddssssssssssssswwddwwwwwwwadaaaaaaaaaaaaaaaaaaaaw
+  [LMB]
+  aaaaaaaaaaasssssssssssssssssssssssssssssssssssdadadsssssssssssssswswwwwwwwwwwwwwwwwwwwwwwwwwwwwaaaaaaaaaaaaaaaaaaaaaaaaaaaaassssswwwwwwwwawaswddwwwwwwwwwwssssssssssssssaaaaddaaaaaaaaaaaaaaaaaaaaa
+  [LMB]
+  sadaddswwwwwwwwwwwwdddddddddddddddddddddsadaddwddddddddddddddddddddddddsddaddddddsdassssssssasssssssssssssssswwwwww
+  [LMB]
+  wwwwwwwwwddwww
+  [LMB]
+  aaaaaaaaaaaaaaaaaaaawwwwwwwwwwwwwwwwwwwww
+  [LMB]
+  awwwwwwwwwwwwwwwwwwwwww
+  [LMB]
+  dwddddddddddwwwwwwwwwsdssssssdsdda
+  [LMB]
+  saaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaasswwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwadwwwawssssdaaaaaadddddddddddddddddddddddddddddddddddssswwwwwwwwwwwdwdddddddddddwaawaaaaaw
+  [LMB]
+  aaaaaaaaaaaaaaaaaaaaaaaaaaaaawdd
+  [LMB]
+  dwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwsssssssssssssssdsadaaaaaaaaaawswsdaaaaaaaaaaaaaaaaaaaaawwwwwwwwwwwwwwwwwwwwwaaaaawawdassssdssaadddddddddddddsswwdwwwwwwwwwwwww[Esc]
+  [LMB]
+
+--- WINDOW  2026/11/11 22:37:51  [chrome.exe] BTCUSDT.P 73,547.9 ▼ −0.3% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/11 22:37:51  [chrome.exe] BTCUSDT.P 73,551.8 ▼ −0.29% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/11 22:37:52  [chrome.exe] BTCUSDT.P 73,551.9 ▼ −0.29% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/11 22:37:52  [chrome.exe] BTCUSDT.P 73,551.8 ▼ −0.29% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/11 22:37:53  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/11 22:37:53  [brave.exe] $73,557.5 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/11 22:37:54  [brave.exe] $73,557.6 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/11 22:37:55  [brave.exe] $73,558.4 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/11 22:37:56  [brave.exe] $73,558.5 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/11 22:37:57  [brave.exe] $73,558.4 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/11 22:37:58  [brave.exe] $73,581.8 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/11 22:37:59  [brave.exe] $73,621.6 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/11 22:38:00  [brave.exe] $73,641.7 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/11 22:38:01  [brave.exe] $73,651.7 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/11 22:38:02  [brave.exe] $73,653.4 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/11 22:38:03  [brave.exe] $73,679.7 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/11 22:38:04  [brave.exe] $73,691.8 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/11 22:38:05  [brave.exe] $73,691.4 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/11 22:38:06  [brave.exe] $73,704.8 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/11 22:38:07  [brave.exe] $73,707.1 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/11 22:38:08  [brave.exe] $73,708.8 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/11 22:38:09  [brave.exe] $73,686.0 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/11 22:38:10  [brave.exe] $73,684.1 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/11 22:38:11  [brave.exe] $73,690.8 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/11 22:38:12  [brave.exe] $73,684.4 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/11 22:38:13  [brave.exe] $73,684.3 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/11 22:38:14  [brave.exe] $73,697.1 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/11 22:38:15  [brave.exe] $73,692.8 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/11 22:38:16  [brave.exe] $73,706.2 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/11 22:38:17  [brave.exe] $73,721.2 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/11 22:38:18  [brave.exe] $73,732.2 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/11 22:38:19  [brave.exe] $73,715.5 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/11 22:38:20  [brave.exe] $73,706.5 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/11 22:38:21  [brave.exe] $73,702.6 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/11 22:38:21  [brave.exe] (8) 今天余额18000U，10万U多单已梭哈，多头开始反攻！！ - YouTube - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/11 22:38:36  [brave.exe] $73,735.3 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/11 22:38:37  [brave.exe] $73,748.0 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/11 22:38:38  [brave.exe] $73,747.9 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/11 22:38:39  [brave.exe] $73,776.2 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/11 22:38:40  [brave.exe] (8) 今天余额18000U，10万U多单已梭哈，多头开始反攻！！ - YouTube - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/11 22:38:43  [brave.exe] $73,755.8 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/11 22:38:43  [brave.exe] $73,758.2 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/11 22:38:44  [brave.exe] $73,728.0 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/11 22:38:45  [brave.exe] $73,728.9 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/11 22:38:46  [brave.exe] $73,719.5 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/11 22:38:47  [brave.exe] $73,718.1 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/11 22:38:48  [brave.exe] $73,724.6 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/11 22:38:49  [brave.exe] $73,738.1 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/11 22:38:50  [brave.exe] $73,760.7 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/11 22:38:51  [brave.exe] $73,767.2 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/11 22:38:52  [brave.exe] $73,768.3 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/11 22:38:53  [brave.exe] $73,773.0 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/11 22:38:54  [brave.exe] $73,769.0 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/11 22:38:55  [brave.exe] $73,768.2 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/11 22:38:56  [brave.exe] $73,772.5 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/11 22:38:57  [brave.exe] $73,772.6 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/11 22:38:57  [brave.exe] (8) 今天余额18000U，10万U多单已梭哈，多头开始反攻！！ - YouTube - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/11 22:39:09  [brave.exe] $73,754.3 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/11 22:39:10  [brave.exe] $73,763.6 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/11 22:39:11  [brave.exe] $73,782.5 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/11 22:39:12  [brave.exe] $73,790.7 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/11 22:39:13  [brave.exe] $73,770.8 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/11 22:39:14  [brave.exe] $73,778.8 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/11 22:39:14  [brave.exe] (8) 今天余额18000U，10万U多单已梭哈，多头开始反攻！！ - YouTube - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/11 22:39:33  [brave.exe] $73,750.3 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/11 22:39:34  [brave.exe] $73,745.9 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/11 22:39:35  [brave.exe] $73,746.1 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/11 22:39:36  [brave.exe] $73,746.0 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/11 22:39:36  [brave.exe] (8) 今天余额18000U，10万U多单已梭哈，多头开始反攻！！ - YouTube - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/11 22:39:42  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/11 22:39:42  [chrome.exe] BTCUSDT.P 73,752.0 ▼ −0.02% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/11 22:39:42  [chrome.exe] BTCUSDT.P 73,762.2 ▼ −0.01% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/11 22:39:43  [chrome.exe] BTCUSDT.P 73,766.1 0% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/11 22:39:43  [chrome.exe] BTCUSDT.P 73,776.9 ▲ +0.01% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/11 22:39:43  [chrome.exe] RO Survivors · Free Ragnarok Online–inspired survivors game in your browser - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  sawaaaaaaaaaaaaww
+  [LMB]
+  aaaaaaassdaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaadsssssssssssssssssswwwwwwddddddddwwwwwwwwwwwwwwaaaaaaaaaawwwwwwwwwwwwssssssssssssssa
+  [LMB]
+  sadddddddsssssssssaaaaaaaaaaawswswdaawddadddddddddddsswawssssssssssssssssssaaaaaaaaaaaaaaaaaaaaaaaawwwwwwwwwwwwwwwwwwwwwwwwwwwwwwaddddddddddddddddddddddddddddddd
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  dwwwwwwwwwwwwwwwwwwwdddddddddddddddddddddddddddddddddddsssssssssssssssssssssaadaaaassssswwwwwwwwaddsw
+  [LMB]
+  [LMB]
+  ddddddd
+  [LMB]
+  dwsssssssssssssssaaaaaaaaaaaaaaaaaaaaaaaaaaaawwwwwwwwwwwwwwwwwwwwddwwwwwwwsddasssswa
+  [LMB]
+  aasa wwwwwwwwww
+  [LMB]
+  awwwwwwwwww
+  [LMB]
+  aaawwwwwadddddddddsasdwssss
+  [LMB]
+  sdddddddddddddddddddddssddddsssssaaaaaaasssssssssssssswdddwwssssasswswaaaaaaaaaaaaaaaaaaaaaaaaaawwwwsdadawwwwawadddddddddddddddddddddddddddddddddddddddddddddd
+  [LMB]
+  dddddddddds
+  [LMB]
+  dddddddddwwwwwwwwwwwwwwwww
+  [LMB]
+  ddddddddddddddddddddddddssssssssssssssssdssssssssssssssssssassssssssswwwwwwwwwwwwwwwwwwwwwwwwwwwwwawwddddddddwwdddddddddwsssaddaaaaaaaaaaaaaaaaswwwwwwwwwwwww
+  [LMB]
+  awwwwwwwwwwwwwwwwwwwwwwwwwwww
+  [LMB]
+  [LMB]
+  aawwwwwwwwwwwwaddddddddddddddddddddddddddddwwwwwwwwddddddddddddddddddddddddddddssssssssdsdaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaawsaswwaddaaaaawsdddddadddddddddddddddddssswddddwwwwddddw awwwwwdwsssssssssssssssssss
+  [LMB]
+  sssssssssssssssssssssssssasaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaswwwwwwwwwwwwwwwwwwwwwwwwwawaasssssssssssssss
+  [LMB]
+  sdddddddddddddddddddddddddddddwwdddada
+  [LMB]
+  [LMB]
+  ddddddddddddddddddddddddsdaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaawwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwaaaaaaaaaaaaaasaaaaaaaaaaaaaaaaaaasssssssssssssssssssssssssssssssssssssssssssssssssssdddddddddddddddddsdsdssswwwwwwwwwwwwwwwwwwwwwwdaddddddddddddddddddddwwwwwwwwwwwwwwwadd
+  [LMB]
+  [LMB]
+  awwwwwwwwwwwwwwwwwdaaaw
+  [LMB]
+  awwwwwwwwwwwwwwwwaddddddsssssssssssssssssssdsadassssssssssssssaaaaawwws
+  [LMB]
+  aaaaaaaaaaaaaaaaaaaaaaaaswwaaaaaaaaaassssssssasdadddddddddddddddddddddddwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwa
+  [LMB]
+  awwwwwwwwwwwwwdaaaaaaa
+  [LMB]
+  asw
+  [LMB]
+  awwwwww
+  [LMB]
+  [LMB]
+  [LMB]
+  awwwaaaassssssssssssssssssssssssssssssaddddddddddddddssssswswwwwwwwwwwwwwwwwdaaaaaaa
+  [LMB]
+  awwwwwwwwwwwwwwwwwwwwww
+  [LMB]
+  aawwwwwwwwwwwwwwwwwwwdaaaaaaaaaaaaaaassssaaaaadaddddddddwwwwwwwwwssswddwwwwwwwdaaaaaaaaaaaaaaadddddddddddddddsddaaaaaaaaaaaaaaaaaaaaaaaaaaaaawdsaw
+  [LMB]
+  aaaaaaaaaaaaaaaaw
+  [LMB]
+  awwwwwwwwwwwssssssawwwwwwwwdddddddddasdadasssssssdssssssssssddddddswwwwwwwwwwwwwwwwwwwwwwwww
+  [LMB]
+  wwwwwwdddddddddddddaadddddddddddds
+  [LMB]
+  sssssdssddwdssssssssssssssssdaaaaaaaaaaaaadaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaawwwwwwwwwwwwwwwwwwwwwwwwaaaaaaasaaawwwwwwwwwwwwwsssssssssssssssssssaaadddddddssssssssssssssssssssssswwwwwwwwwwwwwwwwwwwwwwwwwwwwwddddddddddaaaa
+  [LMB]
+  [LMB]
+  awwwwwwwwwwwwwwwwwwwawa
+  [LMB]
+  aaaaaaaaaaaaaaaaaaaaaaaa dw
+  [LMB]
+  dwwwwwwwwwwwwwwwws
+  [LMB]
+  ddddddddddddddddddssssssdddwadwdadsssssddwaaaaaaaaaaaaaaaaaaaaaaaaaaaawsssssaasaaaa
+  [LMB]
+  sssssssdsadaaddddddddddddddddddddwsdddddddddddddddddddddddddddddwwwwwwwwwwwwwwddddddddddddddddddddaaaaaaaaaaaaaaaaaaaaaaaaaawssssssa
+  [LMB]
+  assssa
+  [LMB]
+  [LMB]
+  [LMB]
+  aass
+  [LMB]
+  saaaaadadswwwwwwd
+  [LMB]
+  wwwwwwwwwwwdaw  adaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaasaaaaaaaaaaaaaaaawa 
+  [LMB]
+  aaaaaaaaaaaaaaaaaaaaaaaaa
+  [LMB]
+  assssssssssssssssssssssssssdsddddddddddddssssssssssssssssssssssssswwwwddaaaaawds
+  [LMB]
+  wdddddddddddd
+  [LMB]
+  dddddddddddwwwwsssssssssssssssssssssssssssssssssssssdaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaasww
+  [LMB]
+  aaaaawwwwd
+  [LMB]
+  aassswwwwwwwwwwwwwaasd
+  [LMB]
+  dssasssssssdsddddddddddddddswswwwwwwwwwwwwwwwwwwwwwwwwwwawddaaawswwwwwwwwwwwdassssssssssssssssssssssssssssssssssdddddddddddddddddaa
+  [LMB]
+  ssssssssssadaddddddddddddddddssssssssssssssssssssssssssssssssssssssssswwwwwwwwwwwwwwddddddddddddddddddddddddddddaaaaaaaaaaaaaswsss
+  [LMB]
+  sass
+  [LMB]
+  wass
+  [LMB]
+  wwwwwwwwwwwwwwwa
+  [LMB]
+  aaaaaaaaaaaaaaaaaaaw
+  [LMB]
+  sssssssssssssssssssssssssssssssasassdadddddddsadddddddddddddddddsssssssssssssssssssswwwwwwddaaddddaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
+--- WINDOW  2026/11/11 22:51:10  [chrome.exe] BTCUSDT.P 73,703.2 ▼ −0.09% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/11 22:51:11  [chrome.exe] BTCUSDT.P 73,686.7 ▼ −0.11% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/11 22:51:12  [chrome.exe] BTCUSDT.P 73,683.4 ▼ −0.12% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/11 22:51:12  [chrome.exe] BTCUSDT.P 73,683.3 ▼ −0.12% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/11 22:51:13  [chrome.exe] BTCUSDT.P 73,680.1 ▼ −0.12% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/11 22:51:14  [chrome.exe] BTCUSDT.P 73,680.0 ▼ −0.12% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/11 22:51:14  [chrome.exe] BTCUSDT.P 73,680.1 ▼ −0.12% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/11 22:51:16  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/11 22:51:16  [brave.exe] (8) 今天余额18000U，10万U多单已梭哈，多头开始反攻！！ - YouTube - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/11 22:51:20  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/11 22:51:20  [chrome.exe] BTCUSDT.P 73,705.0 ▼ −0.09% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/11 22:51:21  [chrome.exe] RO Survivors · Free Ragnarok Online–inspired survivors game in your browser - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  awwwwwwwwwwwwwwwwwwws
+  [LMB]
+  aaaaaaaaaaaaaaaass
+  [LMB]
+  aaaaaww
+  [LMB]
+  sssssssas
+  [LMB]
+  dsdddddddddddddddddda
+  [LMB]
+  assssssssssssssssssdaws
+  [LMB]
+  sssssssssssssssssssasdawwsdddddddddddddwsadddddddddddddddddddddddddddddddddwddaaaaaaaa
+  [LMB]
+  aaaawwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+  [LMB]
+  wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+  [LMB]
+  awwwwwwwwwwwwwwwwwwww
+  [LMB]
+  wwwwwwwwwawaaaaaaaaaaaaaaaaaaaaaaaaaaaaasssassaaddddddddddddddddddddddddddddddddddssssssssssssssssssssssssssssssssssssssswwwwwwwwwwwwwwwwwwwwwwwwwwwaaaaaa
+  [LMB]
+  awwwwwwwwwwwwwwwwwwwwaaaawww
+  [LMB]
+  aaaaaaaaawwwwwwwwwwwwwwwwwwwwwwwwwwwww
+  [LMB]
+  aaaaaaaaaaaaaaaaaaaaaaaaaaaaassssssssssssssssssssssssssssssssss
+  [LMB]
+  ssssssssssssssssssssssssssssssssssssssss
+  [LMB]
+  asssssssssssssssssssdsadssadw
+  [LMB]
+  dwwwwwwwwwwadsawdddddddddddddddddddddddd
+  [LMB]
+  dwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+  [LMB]
+  wddddaddswadsaadw
+  [LMB]
+  dwasdawadsadwadasdawdswasdswa
+  [LMB]
+  awdsd
+  [LMB]
+  dddwaddsawasdsasawsdawadddwadawdsssssssssssssssssswdassa
+  [LMB]
+  aaaaaaaaaaaaaaaawdwdwdsasaawdsawwwwwwwwwwwwawsddaww
+  [LMB]
+  sddaw
+  [LMB]
+  dwawdwdsd dssasddwd
+  [LMB]
+  wd
+  [LMB]
+  wdaadwadsasasdwdawddsasdsssssss
+  [LMB]
+  wdsaddwawwadswasddsasdssawddsaaawdds
+  [LMB]
+  awdswwawsd
+  [LMB]
+  dssadddddddddddwaaadddddddddddddddddddsssssssaaaaasddddddddddddddwwwwwwwwdwsaddwaaaaawwssdawwddddddddsdwawswasdsswasdawdswasdwasddswwawaaaaaaaaaaassasawwwwwwdadddddddddddddddssssssssssswadaaaaaaaaaawsadadasadaaaaaaaaaaaaasdddddwsawdsdwasdwasdwasdwasdwdawsddddddddddddddddwwwwwwwddddddaaaaawswasaaaaaaaaaaaaaasdwwwwwwwwwwwwwwwddddddddddd
+  [LMB]
+  ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
+  [LMB]
+  saaaaaaaaaaaaaaaaaaaaaaaaaassssssssssssssssssssssssssssssssssssssssswwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwdw
+
+--- WINDOW  2026/11/11 22:56:46  [chrome.exe] BTCUSDT.P 73,563.9 ▼ −0.28% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/11 22:56:47  [chrome.exe] BTCUSDT.P 73,563.8 ▼ −0.28% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/11 22:56:47  [chrome.exe] BTCUSDT.P 73,561.9 ▼ −0.28% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/11 22:56:48  [chrome.exe] RO Survivors · Free Ragnarok Online–inspired survivors game in your browser - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  sddssssssssssssssssssss 
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/11 22:58:15  [chrome.exe] BTCUSDT.P 73,581.8 ▼ −0.25% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/11 22:58:16  [chrome.exe] BTCUSDT.P 73,581.9 ▼ −0.25% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/11 22:58:17  [chrome.exe] BTCUSDT.P 73,589.1 ▼ −0.24% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/11 22:58:17  [chrome.exe] BTCUSDT.P 73,589.2 ▼ −0.24% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/11 22:58:18  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/11 22:58:18  [brave.exe] (8) 今天余额18000U，10万U多单已梭哈，多头开始反攻！！ - YouTube - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/11 22:58:22  [brave.exe] 今天余额18000U，10万U多单已梭哈，多头开始反攻！！ - YouTube - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/11 22:58:26  [brave.exe] (8) 今天余额18000U，10万U多单已梭哈，多头开始反攻！！ - YouTube - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/11 22:58:29  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/11 22:58:29  [chrome.exe] BTCUSDT.P 73,590.1 ▼ −0.24% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/11 22:58:29  [chrome.exe] BTCUSDT.P 73,590.0 ▼ −0.24% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/11 22:58:30  [chrome.exe] BTCUSDT.P 73,590.1 ▼ −0.24% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/11 22:58:30  [chrome.exe] BTCUSDT.P 73,590.0 ▼ −0.24% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/11 22:58:31  [chrome.exe] BTCUSDT.P 73,585.4 ▼ −0.25% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/11 22:58:31  [chrome.exe] RO Survivors · Free Ragnarok Online–inspired survivors game in your browser - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  awwwwwwaaaaaaaaaaaaaaaaaaaaaaaaaaw 
+  [LMB]
+  [LMB]
+  [Esc]aaaaaddddddddddddddddsw 
+  [LMB]
+   [Esc]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc]sdw 
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/11 23:00:43  [chrome.exe] BTCUSDT.P 73,482.1 ▼ −0.39% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/11 23:00:45  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/11 23:00:45  [brave.exe] (8) 今天余额18000U，10万U多单已梭哈，多头开始反攻！！ - YouTube - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/11 23:00:49  [brave.exe] $73,510.0 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/11 23:00:49  [brave.exe] $73,548.7 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/11 23:00:51  [brave.exe] $73,536.0 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/11 23:00:52  [brave.exe] $73,536.1 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/11 23:00:53  [brave.exe] $73,551.1 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/11 23:00:54  [brave.exe] $73,558.6 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/11 23:00:55  [brave.exe] $73,564.8 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/11 23:00:56  [chrome.exe] BTCUSDT.P 73,517.8 ▼ −0.34% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/11 23:00:56  [chrome.exe] BTCUSDT.P 73,517.9 ▼ −0.34% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/11 23:00:56  [chrome.exe] BTCUSDT.P 73,517.8 ▼ −0.34% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/11 23:00:57  [chrome.exe] BTCUSDT.P 73,513.0 ▼ −0.35% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/11 23:00:57  [chrome.exe] BTCUSDT.P 73,513.1 ▼ −0.35% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/11 23:00:58  [chrome.exe] BTCUSDT.P 73,512.4 ▼ −0.35% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/11 23:00:58  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/11 23:00:58  [LINE.exe] LINE
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/11 23:01:05  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/11 23:01:05  [chrome.exe] BTCUSDT.P 73,492.2 ▼ −0.38% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/11 23:01:06  [chrome.exe] RO Survivors · Free Ragnarok Online–inspired survivors game in your browser - Google Chrome
+----------------------------------------------------------------------------
+                                                                                                                                                                                                                  
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  ssssssssssssssssssssssssssssssssssssssssssaddddddddddddaaaaaaaasdwdadwdsddwasdaaaaaawwwwwwwwwwssssssssssssssssssssss
+  [LMB]
+  sssssssssssdsasdwadswad
+  [LMB]
+  ddddddddddddwasadwadaswdadwsddsds
+  [LMB]
+  dsssssswdsaawawwwsd
+  [LMB]
+  sdddddwwww
+  [LMB]
+  wsss
+  [LMB]
+  wawwsww
+  [LMB]
+  swsssssswwswwwsss
+  [LMB]
+  wsww
+  [LMB]
+  wdwsawwsssw
+  [LMB]
+  wwdwdsssa
+  [LMB]
+  awwddwwwwss
+  [LMB]
+  wswdwwwwdw                                                                                                                                                                                                                                                                                                           
+
+--- WINDOW  2026/11/11 23:05:56  [chrome.exe] BTCUSDT.P 73,626.0 ▼ −0.19% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/11 23:05:57  [chrome.exe] BTCUSDT.P 73,625.9 ▼ −0.19% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/11 23:05:58  [chrome.exe] BTCUSDT.P 73,626.0 ▼ −0.19% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/11 23:05:58  [chrome.exe] BTCUSDT.P 73,625.9 ▼ −0.19% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/11 23:05:59  [chrome.exe] BTCUSDT.P 73,626.0 ▼ −0.19% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/11 23:05:59  [chrome.exe] BTCUSDT.P 73,625.9 ▼ −0.19% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/11 23:06:00  [chrome.exe] BTCUSDT.P 73,618.8 ▼ −0.2% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/11 23:06:00  [chrome.exe] BTCUSDT.P 73,618.7 ▼ −0.2% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/11 23:06:00  [chrome.exe] BTCUSDT.P 73,618.6 ▼ −0.2% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/11 23:06:01  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/11 23:06:01  [brave.exe] $73,663.0 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/11 23:06:01  [brave.exe] $73,650.6 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/11 23:06:02  [brave.exe] $73,650.7 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/11 23:06:04  [brave.exe] $73,650.6 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/11 23:06:05  [brave.exe] $73,650.7 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/11 23:06:06  [brave.exe] $73,646.3 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/11 23:06:07  [brave.exe] $73,644.2 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/11 23:06:09  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/11 23:06:09  [chrome.exe] BTCUSDT.P 73,600.0 ▼ −0.23% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/11 23:06:10  [chrome.exe] RO Survivors · Free Ragnarok Online–inspired survivors game in your browser - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+                        
+  [LMB]
+                
+  [LMB]
+          
+  [LMB]
+  iissssa
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc]saaww 
+  [LMB]
+  [Esc]
+  [LMB]
+  [LMB]
+  saaaaw 
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  sddddddddddddsssssssssssssssssssssssdwwwwwwwwwwwwdddddddddddddddddddddddddddddddwsssssssssssssssssssaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaawswwwadasdddddddddddsssssssssssaawwwwwwwwwwwwwwwwwwwwwdwddddddddddddddddddddddddddddddddssssssdaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaawwwwwwwwwwwwwwwwwwwwwwwwwwddddddddddddddddddddddddddddddddddddssssssssssssssasaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaswwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwdwddddddddddddddddddddddddddddddddddddddddddsssssssssssssssssssssssssssssssssssssssdddddddaaaaaaaaaaaaaaaaaaaaaaaaasssssssssswwwwwwwwwswwwwwwaddddddddddddddddddddddddddddddddddddddddddddddddssssssssssssssss
+  [LMB]
+  ssssaaaaaaaaaawddddddddddddddddddddddssssssssssssssssssaaaaaaaaaaaaaaaaaaaaaaaaaaaaawwwwwwwwwwwwwwwwwwwwwdwddddddddddddddddddddsssadaaaaaaaaawwwwwwsssssawwwwwwwwwwwwwaaaaaaaaaaaadddddddddddddddddddddddddddddddddddddddddddddsssssssdddddddddddddddddddddaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaasswwwwwwwwwwwwwwwwwwwwdddddddddddddddddwwwsdddddddddaaaaaaaaaaaaaaaaaaswwwwwwwwwwwawddddddddddddddddddddddddddddddddddddddddddddddddddssssssssssssssssssssssssssssssssssssssdaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaas
+  [LMB]
+  wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwddddddddddddddddddddddddddsddddddddddddawwasssssssssdswwwwwwwssaaaaaaaaaaaaaawwwwwwssssssadddddddddddwwwwwwwdddddddddddddddddaawwwwwwwwsssssssaaaaawwwwwwwwwwwwwwwwasdddddddddddddddddadssssssssdddddddddddddddddddddddddwwwwwddddddddddddddddddddddddddaaaaaaaawaaaaaaaaawwsssssssssdaaaadddddddddddddddddddddddddddddddddddddwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwawaaaaaaaaaaaaaawwwwwwwsssss
+  [LMB]
+  sssssdddddddddddddddddddddddddddddddddddddddddwwwwwwwwwwwwwwwwwwwdwdddddwwwwwwwwwwwwwwwwawaaaaaaaaaaaaaaassssssssssssssdsddddddddddddddddwwwwwwwwwwaaaaaaaaaawwassssssssssssssdsdaddddddsswwwwwwwwwwaaadaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaasaawsdadddddaaadadddddssdddddwdwdddddddwwwwwwwwwaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaassssdaaddddddddddddddddddssssssssswwwdadaaaaaaaaaaaaaaaaaw
+  [LMB]
+  aassssssssssssssssssssssssssssssssssssssaaaaaaaaaaaaaaaadddddddddddddddddddssssssssssssssssssssssssssssssawadsaaaasdsdwadasdwwwwsssssssadswdddaaaaaaawaassssssssssssssssaaaaaaaadasdawdaswdwdsssssssssssssssssssdsddddddddddddddddddwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwawdaaaaaaaaaawwwwwwwwwwwwwwwwwwwwwwwwwwwwwwsssssssssssssssssssssssssssssssssssssssssssssssssssssssssssasdddssssssswwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwddaaaaaaaaaaaaawwsssssssssssssssssssssddddddddddddsss
+  [LMB]
+  dwddddddddddddddddddddaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaassssssssssssssssssssssssssadadddddddddsssssssssssssssssssssssssssssswwwwadddaaaaaaaaaaaaaaaaaaaaaaaaawsssssssssssssssssadddddddddddddddddddddddssddddddwwwwwsasdwadwwwwwwwwwwwwwwwwwwdwaaaaaaaaaaaawwwwwwwwwwwwwwwwwwwsssssssssssssssssssssssadddddddddddssssssssssswwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwdwaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaasssssssssssssssssssssssssssssssssssssssssdadsssdsdddddddddddddddddddddddddddddddw
+  [LMB]
+  wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaasssssssssssssssdaddddddddssssssssssssssssssswwwwwwwwwwwwwddaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaasssssssssssssssssssssaaaadadddddddddadddddddddddddddddddddddddddddddddddddddddswwwwwwwwwwwwwwwwwwwwwwdaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaasssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssdddddddddddddddddddddddddddddddddddddddddddddddddddddddddddwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaassssssssssssssssssssssssssssssssssssssssssssssssssssssssddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddwwwwwwwwwwwwwwwwwwwwwwwwwwwdwdddaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+  [LMB]
+  waaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaasaaaaaaawwwwwwwdsaaawsssssssssdwassssssaaaaaadddddddwasddddddddwaaaaaaaaadddddddawwwwwwwwwwwwwwwwwwwwwwwsssssssssssssssdsddddddddddddddddsssssssssswsadwasddadddddddddadddddddddddddddddddddddddddddddddddddddddddddddddddddddddwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwdwaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaadaaaaaaaaaaaaaaaaaaaaaaaaaaaaassssssssssssdddddddsssdddddddddddddddddddddddddddddddddddddddddssssssdwddaaaaaaaaaaaaaaaaaaaaaaaaaaaaaawwwwwwwwwwwwwwwwwwwwwwwwww
+  [LMB]
+  waaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaasadddddddddddddddaadddddddddddaaaaaaaaaaaaaaaaaaaadwaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaassssssssssddssaaaaaaaaadddddddddddwwwwwwwwwwwwwwwwwwwwwwwaaaaaaaaaaaaaaaaawssssssssssssssssssssssdddddsssdssssssssssssssswwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwawaaaaaaaaaaaawssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssdsdddddddddddddddddddddddddddddddddddddwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwawaaaaaaaaaaaaaaaaaaaaaaaaaaawsssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssddddddddddddddddddddddddddddddddddddddddddddddddddddddddddwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+  [LMB]
+  dssadddaaaasadddddddwdaaaaaaawdssddddwdaaaaaasaaaaaadddddddddddddddwwdddwwwwwwwwaaaaaaaaaaaaassssssssssssssddddddddddwassssssssssssssssswdsdsassssssdsssssddddwdsawwdddddddddddddddddddddaaasdssaaaawwwwwwwwwwwwddddddddddddddddddddddd
+  [LMB]
+  aawadwwwwdddaaaaaaaaaaaaawwwwwwwwsssssssssssssssssssssssssaaddddddddddddddddddddddddddddddddddwwwwwwwwwwwwwwwwwdaaaassssssssssssssssssssssssssssdsddddddddddddddddddddddddddwwwwwwwwwwwwwwwwwww
+  [LMB]
+  saaasw 
+  [LMB]
+
+--- WINDOW  2026/11/11 23:20:12  [chrome.exe] BTCUSDT.P 73,528.5 ▼ −0.33% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/11 23:20:13  [chrome.exe] BTCUSDT.P 73,522.7 ▼ −0.33% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/11 23:20:16  [chrome.exe] BTCUSDT.P 73,522.6 ▼ −0.33% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/11 23:20:16  [chrome.exe] BTCUSDT.P 73,521.8 ▼ −0.34% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/11 23:20:17  [chrome.exe] BTCUSDT.P 73,515.9 ▼ −0.34% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/11 23:20:17  [chrome.exe] BTCUSDT.P 73,520.8 ▼ −0.34% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/11 23:20:18  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/11 23:20:18  [brave.exe] $73,558.2 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/11 23:20:18  [brave.exe] $73,563.2 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/11 23:20:19  [brave.exe] $73,563.1 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/11 23:20:20  [brave.exe] $73,566.0 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/11 23:20:21  [brave.exe] $73,558.3 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/11 23:20:22  [brave.exe] $73,558.2 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/11 23:20:23  [brave.exe] $73,566.5 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/11 23:20:24  [brave.exe] $73,567.3 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/11 23:20:25  [brave.exe] $73,566.5 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/11 23:20:28  [brave.exe] $73,575.0 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/11 23:20:29  [brave.exe] $73,584.6 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [Clipboard]
+  51e9abb4-161f-591b-acaf-b760e247ce47
+
+--- WINDOW  2026/11/11 23:20:32  [brave.exe] $73,590.8 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/11 23:20:33  [brave.exe] $73,584.3 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/11 23:20:34  [brave.exe] $73,575.4 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/11 23:20:35  [brave.exe] $73,575.5 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/11 23:20:36  [brave.exe] $73,577.2 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/11 23:20:40  [brave.exe] $73,577.1 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/11 23:20:41  [brave.exe] $73,577.2 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/11 23:20:42  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/11 23:20:42  [chrome.exe] BTCUSDT.P 73,543.1 ▼ −0.31% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/11 23:20:42  [chrome.exe] BTCUSDT.P 73,543.2 ▼ −0.31% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/11 23:20:43  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/11 23:20:43  [brave.exe] $73,581.7 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/11 23:20:44  [brave.exe] $73,581.6 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/11 23:20:44  [brave.exe] (8) 今天余额18000U，10万U多单已梭哈，多头开始反攻！！ - YouTube - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/11 23:20:52  [brave.exe] (8) YouTube - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/11 23:20:56  [brave.exe] (8) 今天余额18000U，10万U多单已梭哈，多头开始反攻！！ - YouTube - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/11 23:20:56  [brave.exe] $73,586.1 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/11 23:20:57  [brave.exe] $73,592.2 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/11 23:20:58  [brave.exe] $73,589.6 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/11 23:20:59  [brave.exe] $73,583.3 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/11 23:21:00  [brave.exe] $73,569.0 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/11 23:21:01  [brave.exe] $73,577.6 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/11 23:21:02  [brave.exe] $73,593.9 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/11 23:21:03  [brave.exe] $73,594.8 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/11 23:21:05  [brave.exe] $73,598.7 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/11 23:21:06  [brave.exe] $73,598.6 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/11 23:21:07  [brave.exe] (8) 誰說網紅只會割韭菜？我砸500萬做服飾品牌來反詐！【好棒Bump】 - YouTube - Brave
+----------------------------------------------------------------------------
+  [->][->][->][->][->][->][->][->][->][->][->][->][->]
+  [LMB]
+
+--- WINDOW  2026/11/11 23:21:42  [brave.exe] $73,506.3 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/11 23:21:43  [brave.exe] $73,504.8 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/11 23:21:44  [brave.exe] $73,492.9 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/11 23:21:44  [brave.exe] (8) 誰說網紅只會割韭菜？我砸500萬做服飾品牌來反詐！【好棒Bump】 - YouTube - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/11 23:22:20  [brave.exe] $73,572.4 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/11 23:22:21  [brave.exe] $73,572.5 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/11 23:22:22  [brave.exe] $73,578.6 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/11 23:22:23  [brave.exe] (8) 誰說網紅只會割韭菜？我砸500萬做服飾品牌來反詐！【好棒Bump】 - YouTube - Brave
+----------------------------------------------------------------------------
+  [->][->][->][->][->][->][->][->][->][->][->][->]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/11 23:23:25  [brave.exe] $73,499.8 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/11 23:23:25  [brave.exe] $73,503.8 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/11 23:23:26  [brave.exe] $73,503.6 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/11 23:23:27  [brave.exe] $73,510.7 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/11 23:23:28  [brave.exe] $73,505.0 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/11 23:23:29  [brave.exe] $73,503.7 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/11 23:23:30  [brave.exe] $73,503.8 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/11 23:23:31  [brave.exe] $73,503.7 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/11 23:23:34  [brave.exe] $73,503.8 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/11 23:23:34  [explorer.exe] (untitled)
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/11 23:23:35  [SearchApp.exe] 搜尋
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/11 23:23:36  [StartMenuExperienceHost.exe] 開始
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/11 23:23:38  (no active window)
+----------------------------------------------------------------------------
+
+================================================================================
+ SESSION START  2026/11/12 05:35:34
+================================================================================
+
+
+--- WINDOW  2026/11/12 05:35:35  [explorer.exe] UnlockingWindow
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/12 05:35:35  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/12 05:35:51  [EADesktop.exe] EADesktop
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/12 05:35:51  [EADesktop.exe] EA
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/12 05:36:05  [Overwolf.exe] Overwolf Quick Launcher
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/12 05:36:11  [EADesktop.exe] EA
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/12 05:36:11  [Overwolf.exe] Overwolf Quick Launcher
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/12 05:36:12  [Lark.exe] Lark
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/12 05:36:12  [Overwolf.exe] Overwolf Quick Launcher
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/12 05:36:13  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/12 05:36:13  [explorer.exe] (untitled)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/12 05:36:14  [chrome.exe] 新分頁 - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  [LMB]
+
+--- WINDOW  2026/11/12 05:36:21  [chrome.exe] RO Survivors · Free Ragnarok Online–inspired survivors game in your browser - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  sadwaaaaaaaaaaasw 
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc]a 
+  [LMB]
+  [LMB]
+  s
+  [LMB]
+  wdsdddddwwwwwwwwwwwwwwdwdddddddwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwsssssssssssssssssssssssssssssasaaaaaaaaaaaaaaaaaawwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwddddsssssssssssssssssssssssssssssssssssssssssssssssasaaaaaaaaaaaaaaaaaaaaaaaaaawwwwwwwwwdddddddddddddddddddddddddddddddssssssssssssssssssssaaaaaaaaaaaaaaaaaaassssswwwwwwwwwwwwwwwwwdwddddddddddddddddddddddddddddsssssssssssssssssssssaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaawadddddddddddddddddddddddddddddwssssssssssssssssssssssaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaawawwawwasssssssssssddsssssssdsadddddddwwwwwwwwwwwwwwwwwwwwawaaaaaaaaaaw
+  [LMB]
+  awwwwwwwwwwwwwwwwwwwsddddddddddddddddddsssssssssssssssssssssaaaaaaaaaaaaaaaaaaaaaaaaaawwwwwwwwwwwwwwwwddddddddddddddddddsadddaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaawdddddsasddddddddddddddddddsawwwwwsaddddddddddwwwwwwwwwwwwwwwwwwwwwwwwwwwawaaaaaawwawaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaassssssssaadddwaaaadsadddddddddddddddddddddddwadasddddddddwwwwwwwwwwwaadwawwaaaawsssssssssssssssssssssssssssssssssssssssssssssssssssssdwsadwaaaaaaaaaaaaaaaaa
+  [LMB]
