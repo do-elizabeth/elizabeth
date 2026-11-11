@@ -1,0 +1,1066 @@
+﻿  [LMB]
+
+--- WINDOW  2026/11/10 14:40:32  [wade.exe] Gigs - Wade X
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/10 14:40:39  [Wade X.exe] WADE X
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/10 14:40:47  [wade.exe] New Tab - Wade X
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/10 14:40:50  [wade.exe] Before you continue - Wade X
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/10 14:40:55  [wade.exe] chromewebstore.google.com/?hl=en - Wade X
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/10 14:40:59  [wade.exe] Chrome Web Store - Wade X
+----------------------------------------------------------------------------
+  go
+  [LMB]
+
+--- WINDOW  2026/11/10 14:41:12  [wade.exe] Ghostery AdBlocker for Privacy - Chrome Web Store - Wade X
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/10 14:41:17  [wade.exe] (untitled)
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/10 14:41:19  [wade.exe] Ghostery AdBlocker for Privacy - Chrome Web Store - Wade X
+----------------------------------------------------------------------------
+  [LMB]
+  ubl
+  [LMB]
+
+--- WINDOW  2026/11/10 14:41:31  [wade.exe] uBlock Origin Lite - Chrome Web Store - Wade X
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/10 14:41:43  [wade.exe] (untitled)
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/10 14:41:45  [wade.exe] uBlock Origin Lite - Chrome Web Store - Wade X
+----------------------------------------------------------------------------
+  [LMB]
+  webt cntrol
+
+--- WINDOW  2026/11/10 14:42:22  [wade.exe] WebRTC Control - Chrome Web Store - Wade X
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/10 14:42:32  [wade.exe] WebRTC Control has been added to Wade X
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/10 14:42:32  [wade.exe] Untitled - Wade X
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/10 14:42:33  [wade.exe] Just a moment... - Wade X
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/10 14:42:34  [wade.exe] WebRTC Control - Chrome Web Store - Wade X
+----------------------------------------------------------------------------
+  proto
+  [LMB]
+
+--- WINDOW  2026/11/10 14:42:40  [wade.exe] Proton VPN: Fast & Secure - Chrome Web Store - Wade X
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/10 14:42:43  [wade.exe] (untitled)
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/10 14:42:44  [wade.exe] Proton VPN: Fast & Secure - Chrome Web Store - Wade X
+----------------------------------------------------------------------------
+  lo cn
+
+--- WINDOW  2026/11/10 14:43:01  [wade.exe] uBlock Origin Lite has been added to Wade X
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/10 14:43:03  [wade.exe] Chrome Web Store - Search Results - Wade X
+----------------------------------------------------------------------------
+  d
+
+--- WINDOW  2026/11/10 14:43:07  [wade.exe] Proton VPN: Fast & Secure has been added to Wade X
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/10 14:43:08  [wade.exe] Untitled - Wade X
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/10 14:43:08  [wade.exe] Proton VPN Browser Extension - Wade X
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/10 14:43:09  [Wade X.exe] WADE X
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/10 14:43:13  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/10 14:43:13  [wade.exe] Proton VPN Browser Extension - Wade X
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/10 14:43:15  [wade.exe] Chrome Web Store - Search Results - Wade X
+----------------------------------------------------------------------------
+  [LMB]
+  [Bk]
+  [LMB]
+
+--- WINDOW  2026/11/10 14:43:20  [wade.exe] Proton VPN: Fast & Secure - Chrome Web Store - Wade X
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/10 14:43:22  [wade.exe] Location Guard (V3) - Chrome Web Store - Wade X
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/10 14:43:25  [wade.exe] (untitled)
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/10 14:43:27  [wade.exe] Location Guard (V3) - Chrome Web Store - Wade X
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/10 14:43:29  [wade.exe] Extensions
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/10 14:43:39  [wade.exe] Location Guard (V3) - Chrome Web Store - Wade X
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/10 14:43:40  [wade.exe] Location Guard (V3) has been added to Wade X
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/10 14:43:40  [wade.exe] Untitled - Wade X
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/10 14:43:40  [wade.exe] Location Guard - Wade X
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/10 14:43:41  [wade.exe] Extensions
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/10 14:43:43  [wade.exe] Location Guard - Wade X
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/10 14:43:45  [wade.exe] (untitled)
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/10 14:43:47  [wade.exe] Untitled - Wade X
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/10 14:43:48  [wade.exe] Proton - Wade X
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/10 14:43:51  [wade.exe] Proton Account: Sign-in - Wade X
+----------------------------------------------------------------------------
+  tomiwabolaji012gmail.com[ENTER]
+  tomiwa2005[ENTER]
+
+--- WINDOW  2026/11/10 14:45:00  [wade.exe] (untitled)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/10 14:45:04  [Wade X.exe] WADE X
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/10 14:45:05  [wade.exe] Proton Account: Sign-in - Wade X
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/10 14:45:08  [chrome.exe] Trading bots development services | Fiverr - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/10 14:45:08  [wade.exe] Proton Account: Sign-in - Wade X
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/10 14:45:10  [chrome.exe] Inbox (68) - olalomolola@gmail.com - Gmail - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/10 14:45:10  [wade.exe] Proton Account: Sign-in - Wade X
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/10 14:45:15  [wade.exe] (untitled)
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/10 14:47:53  [wade.exe] Proton Account: Sign-in - Wade X
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/10 14:48:03  [wade.exe] (untitled)
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/10 14:48:05  [wade.exe] Proton Account: Sign-in - Wade X
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/10 14:48:06  [wade.exe] (untitled)
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/10 14:48:21  [wade.exe] Home - Proton Account - Wade X
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/10 14:48:21  [wade.exe] New Tab - Wade X
+----------------------------------------------------------------------------
+  fiver
+  [LMB]
+
+--- WINDOW  2026/11/10 14:49:17  [wade.exe] Google Search - Wade X
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/10 14:49:18  [wade.exe] fiverr - Google Search - Wade X
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/10 14:50:57  [wade.exe] Find freelance jobs & assignments | Fiverr - Wade X
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/10 14:50:58  [wade.exe] (untitled)
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/10 14:51:09  [wade.exe] Find freelance jobs & assignments | Fiverr - Wade X
+----------------------------------------------------------------------------
+  [LMB]
+  rawijala2okymail.site
+  [LMB]
+  tomiwa2006\[Bk][Bk]
+  [LMB]
+  [LMB]
+  5
+  [LMB]
+  [Ctrl]c
+  [Clipboard]
+  rawijala
+  [LMB]
+  [Ctrl]v
+  [LMB]
+
+--- WINDOW  2026/11/10 14:52:46  [wade.exe] Save password?
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/10 14:52:46  [wade.exe] Find freelance jobs & assignments | Fiverr - Wade X
+----------------------------------------------------------------------------
+  744150
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/10 14:53:49  [wade.exe] Facturering en betalingen - Wade X
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/10 14:54:07  [wade.exe] Find freelance jobs & assignments | Fiverr - Wade X
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/10 14:55:11  [wade.exe] Fiverr - Freelance dienstenmarktplaats - Wade X
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/10 14:55:55  [wade.exe] Facturering en betalingen - Wade X
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/10 14:56:02  [wade.exe] Fiverr - Freelance dienstenmarktplaats - Wade X
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/10 14:57:08  [wade.exe] Find freelance jobs & assignments | Fiverr - Wade X
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/10 14:57:15  [wade.exe] Seller Onboarding - Wade X
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/10 14:57:28  (no active window)
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/10 14:57:31  [chrome.exe] Trading bots development services | Fiverr - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/10 14:57:35  [chrome.exe] Design Forex Logo - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  hello i want you to design logo for this image[Bk][Bk][Bk][Bk][Bk]name [Ctrl][Ctrl][Ctrl]v size 500 by 500[ENTER]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/10 14:59:47  [chrome.exe] New Tab - Google Chrome
+----------------------------------------------------------------------------
+  artsr[Bk]
+  [LMB]
+
+--- WINDOW  2026/11/10 14:59:56  [chrome.exe] artstation - Google Search - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/10 14:59:59  [chrome.exe] ArtStation - Explore - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/10 15:00:04  [chrome.exe] ArtStation - All Channels - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/10 15:01:07  [chrome.exe] ArtStation - Peace, Piwi - Google Chrome
+----------------------------------------------------------------------------
+  [RMB]
+  [LMB]
+
+--- WINDOW  2026/11/10 15:01:13  [chrome.exe] Save As
+----------------------------------------------------------------------------
+  [ENTER]
+
+--- WINDOW  2026/11/10 15:01:14  [chrome.exe] ArtStation - Peace, Piwi - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/10 15:01:16  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/10 15:01:16  [wade.exe] Seller Onboarding - Wade X
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/10 15:01:19  [wade.exe] Open
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [ENTER]
+
+--- WINDOW  2026/11/10 15:01:23  [wade.exe] Seller Onboarding - Wade X
+----------------------------------------------------------------------------
+  [LMB]
+  [Ctrl]v
+  [LMB]
+  [Ctrl][Ctrl][Ctrl]v
+  [LMB]
+  [LMB]
+  \[Bk][Bk][Tab]r
+  [LMB]
+  r
+  [LMB]
+  [LMB]
+  forex account manager, prop firm trader mql5 mql4 ea developer
+  [LMB]
+  [LMB]
+  [LMB]
+  eng
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/10 15:02:56  [explorer.exe] (untitled)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/10 15:02:57  [chrome.exe] ArtStation - Peace, Piwi - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/10 15:02:59  [chrome.exe] Design Forex Logo - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/10 15:03:01  [chrome.exe] Install forex trading bot, forex xauusd ea, gold trading bot, gold bot, gold ea by Ethansteven74 | Fiverr - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/10 15:03:03  [chrome.exe] Trading bots development services | Fiverr - Google Chrome
+----------------------------------------------------------------------------
+  [RMB]
+  [LMB]
+
+--- WINDOW  2026/11/10 15:03:11  [chrome.exe] fiverr.com/geniluny/gold-ea-forex-ea-bot-forex-trading-bot-forex-gold-ea-trading-robot-scalp-ea?context_referrer=search_gigs&source=sorting_by&ref_ctx_id=5e865709a0f7467198aa8d7ad4a34e5b&pckg_id=1&pos=10&context_type=new&funnel=5e865709a0f7467198aa8d7ad4a34e5b&imp_id=e77d1627-f74d-47cc-830f-76162c254e32 - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/10 15:03:11  [chrome.exe] Gold ea, forex ea bot, forex trading bot, forex gold ea trading robot, scalp ea by Geniluny | Fiverr - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/10 15:03:20  [chrome.exe] Trading bots development services | Fiverr - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/10 15:03:30  [chrome.exe] Gold ea, forex ea bot, forex trading bot, forex gold ea trading robot, scalp ea by Geniluny | Fiverr - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/10 15:03:39  [chrome.exe] Geniluny - Forex Trader, prop firm Trader, Forex EA Robot MT4 AND MT5 BOT | Profile | Fiverr - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/10 15:03:57  [chrome.exe] Trading bots development services | Fiverr - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/10 15:04:06  [chrome.exe] Untitled - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/10 15:04:07  [chrome.exe] Develop forex trading bot, mt4 mt5 expert advisor, indicator in mql4 mql5 by Ehsan_algo | Fiverr - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/10 15:04:14  [chrome.exe] Trading bots development services | Fiverr - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/10 15:04:19  [chrome.exe] Untitled - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/10 15:04:20  [chrome.exe] Deliver forex trading bot, forex trading robot, mt4, mt5, xauusd, gold trading by Gold__dens | Fiverr - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [Ctrl]
+  [Clipboard]
+  deliver forex trading bot, forex trading robot, mt4, mt5, xauusd, gold trading
+  c
+
+--- WINDOW  2026/11/10 15:04:28  [explorer.exe] (untitled)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/10 15:04:28  [wade.exe] Seller Onboarding - Wade X
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/10 15:04:40  [wade.exe] Just a moment... - Wade X
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/10 15:04:42  [wade.exe] Location Guard (V3) - Chrome Web Store - Wade X
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/10 15:04:47  [explorer.exe] (untitled)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/10 15:04:47  [wade.exe] Location Guard (V3) - Chrome Web Store - Wade X
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/10 15:04:49  [wade.exe] Seller Onboarding - Wade X
+----------------------------------------------------------------------------
+  [LMB]
+  [Ctrl]c
+  [Clipboard]
+  Forex Account Manager, prop firm Trader MQL5 MQL4 EA Developer
+
+--- WINDOW  2026/11/10 15:04:59  [explorer.exe] (untitled)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/10 15:04:59  [chrome.exe] Deliver forex trading bot, forex trading robot, mt4, mt5, xauusd, gold trading by Gold__dens | Fiverr - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/10 15:05:01  [chrome.exe] Design Forex Logo - Google Chrome
+----------------------------------------------------------------------------
+  help o wriete[Bk][Bk][Bk]te about on this headline with 550 chra[Bk][Bk]aracter[ENTER]
+  [Ctrl]v[ENTER]
+  [LMB]
+  [Clipboard]
+  I am a professional Forex Account Manager, Prop Firm Trader, and MQL4/MQL5 EA Developer with practical experience in forex trading and automated trading systems. I specialize in MT4/MT5 Expert Advisor development, custom trading bots, account management automation, prop firm trading strategies, risk management, equity protection, and drawdown control. I focus on reliable execution, strategic trading, and customized solutions tailored to your trading goals. Let's build smarter trading solutions together.
+
+--- WINDOW  2026/11/10 15:05:51  [wade.exe] Seller Onboarding - Wade X
+----------------------------------------------------------------------------
+  [LMB]
+  [Ctrl]v
+  [LMB]
+  [LMB]
+  [LMB]
+  forex
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/10 15:06:35  [wade.exe] (untitled)
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/10 15:06:46  [wade.exe] Seller Onboarding - Wade X
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/10 15:07:06  [wade.exe] Fiverr / rawijala / Create a new Gig - Wade X
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/10 15:07:12  [chrome.exe] Design Forex Logo - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/10 15:07:13  [chrome.exe] Deliver forex trading bot, forex trading robot, mt4, mt5, xauusd, gold trading by Gold__dens | Fiverr - Google Chrome
+----------------------------------------------------------------------------
+  [Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl]
+  [Clipboard]
+  deliver forex trading bot, forex trading robot, mt4, mt5, xauusd, gold trading
+  [Ctrl]ccc
+
+--- WINDOW  2026/11/10 15:07:19  [explorer.exe] (untitled)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/10 15:07:19  [wade.exe] Fiverr / rawijala / Create a new Gig - Wade X
+----------------------------------------------------------------------------
+  [LMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/10 15:07:48  [wade.exe] (untitled)
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/10 15:07:50  [wade.exe] Fiverr / rawijala / Create a new Gig - Wade X
+----------------------------------------------------------------------------
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/10 15:09:27  [chrome.exe] Deliver forex trading bot, forex trading robot, mt4, mt5, xauusd, gold trading by Gold__dens | Fiverr - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl]
+  [Clipboard]
+  mt4 trading bot
+  cc
+
+--- WINDOW  2026/11/10 15:09:50  [explorer.exe] (untitled)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/10 15:09:50  [wade.exe] Fiverr / rawijala / Create a new Gig - Wade X
+----------------------------------------------------------------------------
+  [Ctrl]v[ENTER]
+
+--- WINDOW  2026/11/10 15:09:53  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/10 15:09:53  [chrome.exe] Deliver forex trading bot, forex trading robot, mt4, mt5, xauusd, gold trading by Gold__dens | Fiverr - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Ctrl]
+  [Clipboard]
+  xauusd trading bot
+  c
+
+--- WINDOW  2026/11/10 15:10:12  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/10 15:10:13  [wade.exe] Fiverr / rawijala / Create a new Gig - Wade X
+----------------------------------------------------------------------------
+  [Ctrl][Ctrl]v[ENTER]
+
+--- WINDOW  2026/11/10 15:10:17  [explorer.exe] (untitled)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/10 15:10:17  [chrome.exe] Deliver forex trading bot, forex trading robot, mt4, mt5, xauusd, gold trading by Gold__dens | Fiverr - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [Ctrl]
+  [Clipboard]
+  forex trading robot
+  c
+
+--- WINDOW  2026/11/10 15:10:25  [explorer.exe] (untitled)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/10 15:10:25  [wade.exe] Fiverr / rawijala / Create a new Gig - Wade X
+----------------------------------------------------------------------------
+  [Ctrl][Ctrl][Ctrl]v[ENTER]
+
+--- WINDOW  2026/11/10 15:10:29  [explorer.exe] (untitled)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/10 15:10:29  [chrome.exe] Deliver forex trading bot, forex trading robot, mt4, mt5, xauusd, gold trading by Gold__dens | Fiverr - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [Ctrl]
+  [Clipboard]
+  forex expert advisor
+  c
+
+--- WINDOW  2026/11/10 15:10:34  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/10 15:10:34  [wade.exe] Fiverr / rawijala / Create a new Gig - Wade X
+----------------------------------------------------------------------------
+  [Ctrl]v[ENTER]
+  gold ea bot[ENTER]
+  [LMB]
+
+--- WINDOW  2026/11/10 15:10:49  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/10 15:10:49  [chrome.exe] Deliver forex trading bot, forex trading robot, mt4, mt5, xauusd, gold trading by Gold__dens | Fiverr - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [Ctrl][Ctrl][Ctrl][Ctrl]
+  [Clipboard]
+  I will give you forex trading bot, forex trading robot, mt4, mt5, xauusd, gold trading
+  c
+
+--- WINDOW  2026/11/10 15:11:00  [wade.exe] Fiverr / rawijala / Edit Gig - Wade X
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Bk]
+  [LMB]
+  [Ctrl]v
+  [LMB]
+  1
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/10 15:11:36  [chrome.exe] Deliver forex trading bot, forex trading robot, mt4, mt5, xauusd, gold trading by Gold__dens | Fiverr - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [Ctrl]
+  [Clipboard]
+  HELLO AMAZING BUYER
+  
+  Looking for a customized Forex trading bot for your trading requirements?
+  
+  
+  
+  I offer Forex trading robot solutions for MT4 and MT5, with a focus on XAUUSD (Gold) and other supported currency pairs.
+  
+  
+  
+  My services are tailored to individual project requirements, with attention to functionality, trading configurations, and risk management features.
+  
+  What I Offer:
+  
+  Forex Trading Bot Solutions
+  MT4 and MT5 Trading Robots
+  XAUUSD and Gold Trading Solutions
+  Automated Trading Configurations
+  Custom Trading Parameters
+  Stop Loss and Take Profit Settings
+  Risk Management Features
+  Trading System Setup and Assistance
+  Existing System Adjustments
+  Technical Support
+  Why Choose My Service?
+  
+  Professional and clear communication
+  Solutions tailored to your requirements
+  Attention to detail
+  Reliable project support
+  Commitment to quality delivery
+  Whether you have a specific trading system in mind or need a customized solution for your requirements, I'm ready to discuss your project.
+  
+  
+  
+  Please contact me before ordering so we can discuss your needs and determine the right service for your project.
+  c
+
+--- WINDOW  2026/11/10 15:11:54  [wade.exe] Fiverr / rawijala / Edit Gig - Wade X
+----------------------------------------------------------------------------
+  [LMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [Bk]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Bk]
+  [LMB]
+  [Bk]
+  [LMB]
+  [Bk]
+  [LMB]
+  [Bk]
+  [LMB]
+  [Bk][Bk][Bk]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Bk]
+  [LMB]
+  [Bk][Bk]
+  [LMB]
+  [Bk]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Bk]
+  [LMB]
+  [Bk]
+  [LMB]
+
+--- WINDOW  2026/11/10 15:18:56  [explorer.exe] (untitled)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/10 15:18:56  [chrome.exe] Deliver forex trading bot, forex trading robot, mt4, mt5, xauusd, gold trading by Gold__dens | Fiverr - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/10 15:19:00  [wade.exe] Fiverr / rawijala / Edit Gig - Wade X
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  deat[Bk][Bk]tailed for more ind[Bk]formation
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/10 15:19:42  [explorer.exe] (untitled)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/10 15:19:43  [chrome.exe] Deliver forex trading bot, forex trading robot, mt4, mt5, xauusd, gold trading by Gold__dens | Fiverr - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/10 15:19:45  [chrome.exe] Telegram Web - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/10 15:21:06  [chrome.exe] 3af2d53e-6ca9-4015-9246-9668880463ad (1280×677) - Google Chrome
+----------------------------------------------------------------------------
+  [RMB]
+  [LMB]
+
+--- WINDOW  2026/11/10 15:21:14  [chrome.exe] Save As
+----------------------------------------------------------------------------
+  [ENTER]
+
+--- WINDOW  2026/11/10 15:21:15  [chrome.exe] 3af2d53e-6ca9-4015-9246-9668880463ad (1280×677) - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/10 15:21:17  [wade.exe] Fiverr / rawijala / Edit Gig - Wade X
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/10 15:21:20  [wade.exe] Open
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/10 15:21:23  [wade.exe] Fiverr / rawijala / Edit Gig - Wade X
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/10 15:21:25  [wade.exe] Open
+----------------------------------------------------------------------------
+  [LMB]
+  [ENTER]
+
+--- WINDOW  2026/11/10 15:21:27  [wade.exe] Fiverr / rawijala / Edit Gig - Wade X
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/10 15:22:11  [wade.exe] nl.fiverr.com/users/rawijala/seller_dashboard - Wade X
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/10 15:22:12  [wade.exe] Freelancer dashboard - Wade X
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/10 15:22:18  [wade.exe] Identity Verification - Wade X
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/10 15:22:22  [wade.exe] (untitled)
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/10 15:22:24  [wade.exe] Identity Verification - Wade X
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  14434779490
+  [LMB]
+  967977
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  tomiwa
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/10 15:27:49  [wade.exe] Freelancer dashboard - Wade X
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/10 15:27:53  [wade.exe] Earnings - Wade X
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/10 15:28:01  [wade.exe] Freelancer dashboard - Wade X
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/10 15:28:04  [wade.exe] Fiverr / rawijala / Edit Gig - Wade X
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/10 15:28:12  [wade.exe] Gigs - Wade X
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/10 15:28:58  [explorer.exe] (untitled)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/10 15:28:58  [Wade X.exe] WADE X
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/10 15:29:58  [explorer.exe] Your battery is running low.
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/10 15:32:07  [explorer.exe] Your battery is very low
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/10 15:32:08  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/10 23:51:07  [explorer.exe] (untitled)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/10 23:51:09  [wade.exe] Gigs - Wade X
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/10 23:51:25  [Wade X.exe] WADE X
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/10 23:51:33  [wade.exe] Gigs - Wade X
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/10 23:51:59  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/10 23:51:59  [explorer.exe] (untitled)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/10 23:52:03  [brave.exe] Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/10 23:52:43  [csrss.exe] WerFault.exe - Application Error
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/10 23:52:50  [explorer.exe] (untitled)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/10 23:52:50  [csrss.exe] brave.exe - Application Error
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/10 23:52:55  [explorer.exe] (untitled)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/10 23:52:57  [brave.exe] Gigs - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/10 23:53:55  [explorer.exe] (untitled)
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/10 23:53:58  [brave.exe] Gigs - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/10 23:54:07  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/10 23:54:07  [explorer.exe] (untitled)
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/10 23:54:14  [chrome.exe] New Tab - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/10 23:54:29  [chrome.exe] google.com/search?q=icognition&oq=icogn&gs_lcrp=EgZjaHJvbWUqCAgBEEUYJxg7MgYIABBFGDkyCAgBEEUYJxg7MgoIAhAAGLEDGIAEMgYIAxBFGDsyBwgEEAAYgAQyCggFEAAYsQMYgAQyCggGEAAYsQMYgAQyDQgHEAAYgwEYsQMYgAQyDQgIEC4YxwEY0QMYgAQyEAgJEC4YxwEYsQMY0QMYgATSAQg0MDQ1ajBqN6gCALACAA&sourceid=chrome&source=chrome.ob&ie=UTF-8 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/10 23:54:30  [chrome.exe] icognition - Google Search - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/10 23:54:38  [chrome.exe] Anti-Detect Browser for Multi-Accounting - Incogniton - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/10 23:55:24  [explorer.exe] (untitled)
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/10 23:55:30  [chrome.exe] 3af2d53e-6ca9-4015-9246-9668880463ad (1280×677) - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/10 23:55:32  [brave.exe] Gigs - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/10 23:55:34  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/10 23:55:34  [explorer.exe] (untitled)
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/10 23:55:38  [chrome.exe] New Tab - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  ignitio[ENTER]
+
+--- WINDOW  2026/11/10 23:56:35  [chrome.exe] icognition - Google Search - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/10 23:56:40  [chrome.exe] Anti-Detect Browser for Multi-Accounting - Incogniton - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [ENTER]
+  [LMB]
+  [LMB]
+  [Bk][Bk][Bk]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/10 23:57:17  [chrome.exe] incogniton - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [Bk][Bk][Bk][Bk][Bk][Bk][Bk][Bk][Bk][Bk][Bk][Bk][Bk][Bk]ico[ENTER]
+
+--- WINDOW  2026/11/10 23:57:25  [chrome.exe] icognition - Google Search - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+   
+  [LMB]
+
+--- WINDOW  2026/11/10 23:57:36  [chrome.exe] icognition download - Google Search - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/10 23:57:49  [chrome.exe] Download and Install Incogniton | Incogniton Knowledge Hub - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/10 23:57:50  [chrome.exe] Untitled - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/10 23:57:58  [chrome.exe] Download Incogniton for free - The top anti-detect browser - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/10 23:58:03  [chrome.exe] Untitled - Google Chrome
+----------------------------------------------------------------------------
