@@ -1,0 +1,646 @@
+﻿  [LMB]
+
+--- WINDOW  2026/11/13 17:54:00  [brave.exe] $69,043.0 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/13 17:54:02  [brave.exe] $69,043.1 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/13 17:54:04  [brave.exe] $69,043.0 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/13 17:54:05  [brave.exe] 想越 越南美食 - Google 地圖 - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/13 17:54:05  [brave.exe] 返傭站 — Fee Otter - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/13 17:54:05  [brave.exe] 活動 | Better History - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/13 17:54:06  [brave.exe] 想越 越南美食 - Google 地圖 - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/13 17:54:09  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/13 17:54:09  [chrome.exe] BTCUSDT.P 69,033.0 ▼ −3.35% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/13 17:54:09  [chrome.exe] BTCUSDT.P 69,032.9 ▼ −3.35% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/13 17:54:10  [chrome.exe] BTCUSDT.P 69,033.0 ▼ −3.35% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/13 17:54:11  [chrome.exe] BTCUSDT.P 69,032.9 ▼ −3.35% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/13 17:54:11  [chrome.exe] BTCUSDT.P 69,033.0 ▼ −3.35% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/13 17:54:13  [chrome.exe] BTCUSDT.P 69,032.9 ▼ −3.35% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/13 17:54:14  [chrome.exe] BTCUSDT.P 69,033.0 ▼ −3.35% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/13 17:54:15  [chrome.exe] BTCUSDT.P 69,032.9 ▼ −3.35% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/13 17:54:18  [chrome.exe] BTCUSDT.P 69,033.0 ▼ −3.35% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/13 17:54:19  [chrome.exe] BTCUSDT.P 69,039.7 ▼ −3.34% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/13 17:54:20  [chrome.exe] BTCUSDT.P 69,039.8 ▼ −3.34% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/13 17:54:21  [chrome.exe] BTCUSDT.P 69,042.5 ▼ −3.34% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/13 17:54:21  [chrome.exe] BTCUSDT.P 69,042.6 ▼ −3.34% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/13 17:54:24  [chrome.exe] BTCUSDT.P 69,042.5 ▼ −3.34% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/13 17:54:25  [chrome.exe] BTCUSDT.P 69,042.6 ▼ −3.34% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/13 17:54:26  [chrome.exe] BTCUSDT.P 69,042.5 ▼ −3.34% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/13 17:54:26  [chrome.exe] BTCUSDT.P 69,042.6 ▼ −3.34% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/13 17:54:27  [chrome.exe] BTCUSDT.P 69,042.5 ▼ −3.34% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/13 17:54:27  [chrome.exe] BTCUSDT.P 69,023.5 ▼ −3.37% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/13 17:54:28  [chrome.exe] BTCUSDT.P 69,023.4 ▼ −3.37% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/13 17:54:30  [chrome.exe] BTCUSDT.P 69,023.5 ▼ −3.37% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/13 17:54:33  [chrome.exe] BTCUSDT.P 69,026.8 ▼ −3.36% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/13 17:54:33  [chrome.exe] BTCUSDT.P 69,026.7 ▼ −3.36% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/13 17:54:34  [chrome.exe] BTCUSDT.P 69,026.8 ▼ −3.36% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/13 17:54:35  [chrome.exe] BTCUSDT.P 69,026.7 ▼ −3.36% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/13 17:54:36  [chrome.exe] BTCUSDT.P 69,026.8 ▼ −3.36% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/13 17:54:38  [chrome.exe] BTCUSDT.P 69,026.7 ▼ −3.36% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/13 17:54:39  [chrome.exe] BTCUSDT.P 69,026.8 ▼ −3.36% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/13 17:54:43  [chrome.exe] BTCUSDT.P 69,026.7 ▼ −3.36% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/13 17:54:43  [chrome.exe] BTCUSDT.P 69,026.8 ▼ −3.36% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/13 17:54:44  [chrome.exe] BTCUSDT.P 69,026.7 ▼ −3.36% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/13 17:54:46  [chrome.exe] BTCUSDT.P 69,026.8 ▼ −3.36% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/13 17:54:46  [chrome.exe] BTCUSDT.P 69,026.7 ▼ −3.36% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/13 17:54:47  [chrome.exe] BTCUSDT.P 69,026.8 ▼ −3.36% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/13 17:54:49  [chrome.exe] BTCUSDT.P 69,029.7 ▼ −3.36% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/13 17:54:50  [chrome.exe] BTCUSDT.P 69,029.8 ▼ −3.36% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/13 17:54:50  [chrome.exe] BTCUSDT.P 69,029.7 ▼ −3.36% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/13 17:54:51  [chrome.exe] BTCUSDT.P 69,018.4 ▼ −3.37% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/13 17:54:52  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/13 17:54:52  [brave.exe] 想越 越南美食 - Google 地圖 - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/13 17:54:54  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/13 17:54:55  [chrome.exe] BTCUSDT.P 69,021.7 ▼ −3.37% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/13 17:54:55  [chrome.exe] RO Survivors · Free Ragnarok Online–inspired survivors game in your browser - Google Chrome
+----------------------------------------------------------------------------
+  d 
+  [LMB]
+  [LMB]
+  ssssaaaaaaaaaaaaaaaaaaaaaaaawwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwaaaaaaaaaaaaaaaaaaddddddddddadddadadwsaaaaaaaaaaaaaaaaaadssssssssssssssssssaaadddddddddddddd
+  [LMB]
+  sssssssssssssssssssssssasaaaadwwaadddddddddddddddddddddddssssssdddddddddddddddddddddddddddddawwwwwwsdddddddsssssssssssssssssssssssssssssssssaaaawwwwwwwwwwwwwwwaaaaaaaaaaaaaaas
+  [LMB]
+  [LMB]
+  waaaaass
+  [LMB]
+  [LMB]
+  sddddddddddddddddddddddwsdawdsdwwwwwwdwadsssdwdd
+  [LMB]
+  wddaaawwdddddddddsddaaaaaaaaaaaaaaaaaaaaaaaawddsaaaaadawasadssssssdddsawdwdddddaaawssssssssssss
+  [LMB]
+  ssssssssssssssssasadd
+  [LMB]
+  [LMB]
+  dswwdaaassssssssssssssssdsswwww
+  [LMB]
+  wdddddddddaaaaawwwwwwwwwwwwwsswsassssssssddsawdwasddsadsddddddddddddssssswwwwwdaadwdddddddawwwwwwwwwwwwwwwwwwwawwa
+  [LMB]
+  asaaaaaaaaaaaaaaaaaaaasdwsssddddddd
+  [LMB]
+  sdddddddddddddaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaws
+  [LMB]
+  ssssssssssssssssssssssssssasaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaawaaaaaaaaaadaaadddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddwwwwwwwwwwwwwwwwwwwsdaaa
+  [LMB]
+  ssssssssssssssssssssssssssssddaaaaaaaswwwwwwwwwwwwwwwwwwwwwwwwwdadaaaadwwwwwwwwwwwwdwdssdd
+  [LMB]
+  ssssssssssssssssssssssssssssssssssssssssssssssaaaaaaaaaaaaaasaadswaaaaaaaaaaaaaaaaaaasddwwwwwwwwwwwwwwwwwwwwwwwdd
+  [LMB]
+  dwwwwwwwwwwwwwwwwwwwwwwaaaaaaaaaaaaaaaaaaaaaaassssssssssssssssssssssssssssssssssssddssswwwwdddddddddddddddddaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaadwdddaaawsssssssssssawdddddddddwsd
+  [LMB]
+  ddddddddddddddddddddddddddddddddddsawsa
+  [LMB]
+  asssssssswsssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssasddddddwaaasddsaaaasdddddsadwwwwwwwwwwwwwssssswwwadddsssssss
+  [LMB]
+  dssssssssssssdaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaawwwwwwwwwwwsswwdwa
+  [LMB]
+  [LMB]
+  aaaaaassssssssssssssdsaaaaaaaaaaaaaaaaaaaaaaaadddddddddddddsssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssswwwwwwwwwwwwwwwwwwwwwwwwwwwdddddddddddddddddaaaaaaaaaaaaswswsssssssssdsaaaaaaaaaadad
+  [LMB]
+  ssdddddd
+  [LMB]
+  dwwwwwwwwwwwwwasdddddddddddddddddddddddddddadwwwwwwwwwwwwwwwwwwwwwwwddadsssssssssssssssssssssssssdswdddddwwwwwww
+  [LMB]
+  wddddddddddddaaaawwaswwwwwssssssssaaaadddaddddddddddddddddddddddddddddddddddsssssaaaaaaaaaaawsdaddddddddwwwwwwsswwwwwwwwwwwwwwwdddddddddddddddddddddddddssssssdwddddddddddddddddaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaawwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+  [LMB]
+  [LMB]
+  aaaaaaaaaaaaaaaaasssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssdaaadddddddddddddadsddddddddddddddddddddddddwwwwwwwwwwwwwwwwwwwwwwwwwwdddddddddddddddddddddddddddddasw
+  [LMB]
+  awwwwwwwwwwwwwwwwwwwwwwwwwwwa
+  [LMB]
+  waaaaaaaaaaaaaaaaaaaaaaaaaaasssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssddddddddddddddd
+  [LMB]
+  ssdsdddddddwwwwwwwwwssswddddddddddddddddddwwwwwwda
+  [LMB]
+  [LMB]
+  waaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaassssssssssssssssssssssssssssssssssssss
+  [LMB]
+  ssssssssssssssssssddadddaaaaaaaaddddwwwwssssssssssssssssssssss
+  [LMB]
+  [LMB]
+  ds
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc]sd 
+  [LMB]
+  [LMB]
+  sssssssaaaaaaaaaaaaaaaaawwwwwwwwwwwwwwwwwwwaaddddddddddddddsaadasddda
+  [LMB]
+  awaaaaaaaaaaaaaaaaaaaadddddsaadadddddddadaaadddddddsassssssssssssssssss
+  [LMB]
+  dwwwwwwwwwwwwwwwwwwwwd
+  [LMB]
+  ddddddddddddddddddwwwwwwwwwwwwwwwawddddddddwwwwwwwwwwwwwwwwwwwws
+  [LMB]
+  dwdsawd
+  [LMB]
+  wdddddasdwwwaaaaaaaaaaawwwwwwwwwddsddaaaaaaaaaaaaaaaaaaaaaaaaswddddddddddddddssssssssssss
+  [LMB]
+  wdadsdddaaaaaaaaaadwaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+  [LMB]
+  dddddddssssasssssssssswsdaddddwwwwwwwwwwwwdddsaaawwwwwwwwwwwwda
+  [LMB]
+  [LMB]
+  aaaaaaawsdwwwwwwadddddd
+  [LMB]
+  sdddddda
+  [LMB]
+  assssdwadwwwwwwwwwsssssssdwdasaaaaaaaaaaawswwwwwwwwwwddddddddddddddddaaaaaaaaaaaaaaaaaaawdssaaaaaaa
+  [LMB]
+  asssssssssswaassssssssddddddddddddddddddddddddddddddddds
+  [LMB]
+  [LMB]
+  dwwwwwwwwwwwwwa
+  [LMB]
+  sssssssssssssdsswssssssssssssass
+  [LMB]
+  wdddddddddddddadsdawwwwwwd
+  [LMB]
+  dsdddwwwwwwwwwwwwwwwwwwwwwwdddddddddddddddaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaasdwsssdasssssdwaaaaaaaa
+  [LMB]
+  awwwwwwwwwwwwwwwwwwwwww
+  [LMB]
+  dswssssssssssssdaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaasaswsadwwwawd
+  [LMB]
+  dddddwwwwwwwwwwdddddddaaaaaaaaaaaaaaaaaaaaaaaaaassssssssssdwadsssssssssssssssd
+  [LMB]
+  sssssssssssssssssssasd
+  [LMB]
+  sdddddddddddddddddddddddddddddddaaaaassssssssssssssssssss
+  [LMB]
+  sssssssssssssssssssaaddddwwwwwwwwwwwwdddddddddddddadwd
+  [LMB]
+  [LMB]
+  wwwwwwwwwwwwwwwwwwwwwawaaawww
+  [LMB]
+  aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaawdssawdsssssssdsdddddddddddddwwwwwadsdaaaaaaaaaaaaaaaaaaaaaadwwwwaaadwww
+  [LMB]
+  wdddddddddddddddddawwwwwwwwwwwwwwwwwwwwwwwwwwaasdwsssssssssdwdsssssssssdssssssssssssssssssssssssssssssssssssssssssssssssssssaaaaaaaaaaasswwwwwwaa
+  [LMB]
+  saaaaaaaaaaaaaaaaaaaaddddddddddddddddwwwwwwdddawwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwws
+  [LMB]
+  [LMB]
+  [LMB]
+  dwwwwwwwwwwwwwwwwddddwaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+  [LMB]
+  wddddddddddddddddddddddssdsdddddddddddddddddddddddddddassssssssssswsdwawwdwws 
+  [LMB]
+  sdd
+  [LMB]
+  ssssssssssssssssssasaddddad
+  [LMB]
+  [LMB]
+  [LMB]
+  sssssssssssssasdaaaaaaaaaaadadddwwwwwwwwwwwwwdaaaaaswddaaawwwwwwwwwwwwwwsdsssswwwwwwwwwadawwwwwwwwadaaa
+  [LMB]
+  wdaw
+  [LMB]
+  [LMB]
+  wddddddddddddddddsdddddddddddddddawwwwwwwdwwwwwwwawaaaaaassddwsadd
+  [LMB]
+  sdssssssssssssd
+  [LMB]
+  dssssssssssssssssdwwaadsssssssssssssssssssssssssaswwwwwwwwwwwwwwwwwwwwwwwwwwwwwaaaaaaa
+  [LMB]
+  aaaaaaaaaaaaaaaaaaaaaaaaaaaaaswwsssssssssssssssdsddddddddddddddddddddsssssssswwwwwwwwwwwwwwwswddddddddddwsaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaawwwwwwwwwwwwwwwwwwwwwwwwaaaaaaaaaaaaaaaaaaadddddddddddddddddddddddddddddddddddddddwwwwwwwwsssssssssssssssssssdsssdsaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+  [LMB]
+  aaaaaaaaaaaaaaaaaaaaaasssssssssssdswsssssssssssswwwwwwwwwwwwwwwwwwwwwwwwawaaaaaaaaaaaaaaaaaaaaaaawwwwwwwwwwwwwwwwdsdawwd
+  [LMB]
+  dddddddddddddddddddddddddddds
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc]sd 
+  [LMB]
+
+--- WINDOW  2026/11/13 18:11:55  [chrome.exe] BTCUSDT.P 69,359.9 ▼ −2.9% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/13 18:11:56  [chrome.exe] BTCUSDT.P 69,360.0 ▼ −2.9% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/13 18:11:56  [chrome.exe] BTCUSDT.P 69,359.9 ▼ −2.9% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/13 18:11:57  [chrome.exe] RO Survivors · Free Ragnarok Online–inspired survivors game in your browser - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  sssssssasssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssasaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaadawwwwwwwwwwwwwwwwwdddddddddssssssssssssdsdwdsswaaaaaaaaaaaaaaaaaawwwwwwwwwa
+  [LMB]
+  wwwwwwwwwwwdwasssssdsdddaaaaaaaaaaaaaadwswwww
+  [LMB]
+  dwwwwwwwwwwwwwwwwwwwwwwwwwwwaddaaaaassssssssssssssssssssssssawadddddssssssssssaa
+  [LMB]
+  sssddassswwwwwwwwwwwwd
+  [LMB]
+  [LMB]
+  waaaaaaaaaaaaaaaaaaaaaad
+  [LMB]
+  dwwwwwwwwwwwwasdddddddddddddddddawwwwwwwwwdasdddddddddddddddddss
+  [LMB]
+  ddssaw
+  [LMB]
+  wddddddddddddddaaaaaaaaaaadswwwwwaddddddaaaaaaaaaaaaaaasdddddddddddddddddddddsdasdadw
+  [LMB]
+  ddddddddddddddddddddwadswdd
+  [LMB]
+  awwwwasdawdwddawsddsdwsssssssss
+  [LMB]
+  awwwwwwwwwdsadswdsadsaaaaaaaaaaaaadwdasdas
+  [LMB]
+  saaaaaaaaaasdddddddddswdassdwdadsawda
+  [LMB]
+  [LMB]
+  dsssswasdwadadsdaw
+  [LMB]
+  wdddddddddddddddddddddddsdwasdadwdsasdsaaaaaaaaaaaada
+  [LMB]
+  [LMB]
+  asssssssssssssssssssssswdwsawwwwwwwwwwwdasdaw
+  [LMB]
+  wwadddsawdas
+  [LMB]
+  waaaaaaadsaswdddddddddddswaswddaasdsssssssssssssssssssssssdwwwaww
+  [LMB]
+  awwwwwwwwwwwwwwwwwwwdsssssssswaaaawdssawdaaaaaaa
+  [LMB]
+  awwwwwwwwwwwwwwwwwwwwwsdsawwwwdsssws dswasdswdawddsadsadawsssssssssssssssssssssssssswddddddddddddddddddddddsdddddddaaaaaaaaws
+  [LMB]
+  asssssswwwwwwwwwsd
+  [LMB]
+  dsssssssssssdddddddddwsdwaaaaaaaaaaaaaaawdswdassswwdsaadsawwwwwwwww
+  [LMB]
+  wdddddddswadswwwwwwwwwwwwwwwasdawwwwwwwwww
+  [LMB]
+  [LMB]
+  awwwwwwwwwwwwwwwwwwwwwwwwsdwwwwwwwwwwwwwwwwwwwsaaaaaadwassdwsssssssssssssssssssssssdsawwwwwwwwwasddddwwadsaaaawdsawwwwwwwwwwwwwwwwadaaaaaaaaaaaaaaaddawsaaaaaaaaaaaaa
+  [LMB]
+  aaaaaaaaaaaaaaawwwwwwwwwwwsssssssssssssssddddddddddddaswdsddsaaaaaaaaawwwwwwwwwwwwwaaaddddwwwwadassssdddddddddddddddw
+  [LMB]
+  dssssssssssssssdsd
+  [LMB]
+  dssssssssssssssssaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa wdddd
+  [LMB]
+  wddddddddddddddddddddddddddawwsdwsssasawdawwwdwadddddddddddsssss
+  [LMB]
+  sssssssasdddddddddddddddddddddddddswwwwwwwwwwwwwwwddddddddddddddddwddddddddddddddddddddddddddddddddddddsaaaadwwsdawdadddddddswsaaadawwwwwwwwwwwdwa
+  [LMB]
+  awwwwsddddddwdaaaaaaaddddddddddddadassdd dwassssssswdaadddddddddddddddswwwwwwwwwwwwwwwwwwwwwwwwwwwwawdsssssdwsaaaaaaaaaaaaaasssssssdwsaw
+  [LMB]
+  [LMB]
+  [LMB]
+  wwwwwwwwwdaw
+  [LMB]
+  ssssssssdaaaaaaawsdwwasssssdwssssdwwwwwwwwssssssds
+  [LMB]
+  sddddddddddadaaaaaaawwwwsds
+  [LMB]
+  ssssssssssssdsd
+  [LMB]
+  [LMB]
+  sd
+  [LMB]
+  wwwwwwwwwwwwwwwwdwasssssssssssswwwwwddddddddddddddddddddddawdddddddddwssssssssssssssswswssasssswdawwwwwwwadddsdaddw
+  [LMB]
+  dwddddddddddddddddddddddwaw
+  [LMB]
+  wwwww
+  [LMB]
+  wwwwwwwwwwwwwwwwwwwwdddsssssssssssdddddwaaaaaaaaaaaasdaaaaaaaaaaaaaaaaaasdwwwwwwwwsssssssssaaw
+  [LMB]
+  awwwwwwdsd
+  [LMB]
+  awwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+  [LMB]
+  sssssssaaadas
+  [LMB]
+  wdddd
+  [LMB]
+  wddddddddddddddddddddddddddddddddddasssssssssssssssaddddddddddddddddsssss
+  [LMB]
+  ssssaaaaaaadsaaaaaaaaaaaaaaaaaaaaaaaadwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwaadaasssssssssssssssssssssssssssssssaassssssadaaaaaaaaaaaaaaaaaaaaaaaaaaawssssddddddddddddddsssssaaaaaaaaaaaaaawwwwwwwwwdssddasssssssssssssssssssddddddddddwwwwwwwwwwwwdaaaaaaaaaaaaaaaaawsdd
+  [LMB]
+  wdddddddddddddda
+  [LMB]
+  waaaaaaaaaaaaaaaaaaaaaaaaaaaadwaaaaaaaaaaaaaaasdddddddddddddddswdawwwwwwwwwwwwwwwwwadddddddwddddddddddsssssssssssssssswwwwwwwwwwwwsdddddaaaaaaaaaaaaaawswwaaddadddddddsa
+  [LMB]
+  aaaaaaaaaaaaaaaaaaawaasswwwwwwwdaaasdddddwadasddwwsssssssssssssssssssssw
+  [LMB]
+  awwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwsdwdsssssssssasaadwwwwwwwww
+  [LMB]
+  wwwwwwwwwwwwwwwwwwdwdaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaawssssssssssssssssssssssssssssssssssssdddddddddddddddddddddddddddddaaaaaaaaadwdddddddddddddddddddddddwsds
+  [LMB]
+  wwwwwwwaddddddddwwwwwwwwwwwwwaaaaaaaaaaaaadaaasssssssssssssssd
+  [LMB]
+  wddddddddddssssssssssssadwwwwwww dwwwwwwwwwdsaaaaaaaaawdssswdddsssssssssssssssssssaaaaaaaasd
+  [LMB]
+  dsssssssssssssssawdssdsaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaswssssaaaaaaaaawwwwwwwwwwwwddadaaw
+  [LMB]
+  aaaaaaaaaaaaaaaaaaaaaaaaaaaasssdddddddddddddddddddddddddaaaaaaaaaaaaaaaaaaaaaaaaawwwwwwadddddddddddddddddddssssssssssssswsssssssssssaaaaaaaaaaaaaaaaaddddwawaaaaaaaa
+  [LMB]
+  awwwwwwwwwwwwwwwwwwwwwwwwwwwwwa
+  [LMB]
+  waaassssssssssssssssddddddddddddddddddwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwdwswaswdssawdadaaaaaaaaswwwwwwwwwwwww
+  [LMB]
+  saasd
+  [LMB]
+  sda
+  [LMB]
+  saaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaawsdddddddddddddddddddddddddwwsaddddwwwwwwwwwwwwwwwwwwwwwwwwwdwaaaaaaaaaaaaaaaaaaaaaaaaaaa
+  [LMB]
+  aaaaaaaaswwwwwwwwwwwwasddddddddaaaaaaaaaaaaaaaawwwwwwwwwwaaaaaaaawwwwwwwwwaa dssdswws
+  [LMB]
+  ssssssssssssssssssssssssssssssssssssssssssssssssssssssasaaawwwdddddddssssssssssssssssssssdwdssswssssssssssssssssssaawddddddddddddddddddddddddddaaaaaaaaaaaaaaaaaaaa
+  [LMB]
+  awwwwwwwwwwwwwwwwwwwww
+  [LMB]
+  [LMB]
+  awwwwwwwwwww
+  [LMB]
+  awsssssddddddddddddaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaawwwwwwwwwd
+  [LMB]
+  wdddddddddddaddadwdsssssssssssssssssawwassssssssdsddddddwdwsssssssaw
+  [LMB]
+  ssssssssssssssssssdsddaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaawswwwwwaaawdaaaaaaddddddd dwwwwwwwwwddsssawwwwwdddddddddsssssddd
+  [LMB]
+  dsas
+  [LMB]
+  awd
+  [LMB]
+  wadddddddddddddddaaaadddddddddddddddwwwwwwwwwwwwssssssssssssssawsddaaaaaaaaaaaaaaaaaaaaaaaaaaaaawwwwawaaaaaaaaaaaasdddddssssssssssdsddddddwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwdwaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaawsddddd dsssssssssdddddddddddddddddddddddddddwdsddddddddsa aaaaaaaaaaaas
+  [LMB]
+  saaaaaas
+  [LMB]
+  aaaaaaaaaaaassssddwwwwwwwwwwwwwwwwwwwwwwwawswwwwwwwwwwwwwwwwwssssssdsssssssss
+  [LMB]
+  ddddddddddddddddddddddddddddwwwwwddawddddddddddddddddddddddddddddddddsdsdwwwwwwwwwwwassssssssssssssssssawwwsssssssssssssssssssddddddddddddddddddddddsssswwwwwwwwwwwwwawssssssssssssssssssssssssssssssaaaaaaaaaaaaaaaaaaaaaadwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwasssswwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwdws
+  [LMB]
+  sddsss
+  [LMB]
+  awwwwwwwww
+  [LMB]
+  awwwwwwwwwdaaaaaaaaaaaaaaaadssssssssssssssswwwwwwwwwwwwwwwwwwwwwswwwwwwwwssaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaassssssssssssssssssssssssssssssssssssssssssssssssssssssssssssaaaaaaaaaaaaaaaaaaaadwwwwwwwwwwwwwwwswa wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwssdw
+  [LMB]
+  ddddddddddddddddddddwwwwwwwwwww
+  [LMB]
+  ddddddddddddddddddddddsswwwwwwwwwwwwwwwwwwawaaaaaaaaaaaaadadddddddasssssssssssssssssssssssssssssssssssssadddddddddddddddwddddddsaaawwdddddddddddddddddddddddddddddddddddddw aasddddddddddddddddddddddddddddsssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssddddd
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/13 18:29:53  [chrome.exe] BTCUSDT.P 69,250.1 ▼ −3.05% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/13 18:29:54  [chrome.exe] BTCUSDT.P 69,250.0 ▼ −3.05% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/13 18:29:54  [chrome.exe] BTCUSDT.P 69,250.1 ▼ −3.05% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/13 18:29:55  [chrome.exe] BTCUSDT.P 69,250.0 ▼ −3.05% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/13 18:29:55  [chrome.exe] BTCUSDT.P 69,250.1 ▼ −3.05% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/13 18:29:57  [chrome.exe] BTCUSDT.P 69,250.0 ▼ −3.05% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/13 18:29:57  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/13 18:29:57  [brave.exe] 想越 越南美食 - Google 地圖 - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/13 18:29:58  [brave.exe] $69,256.0 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/13 18:30:02  [brave.exe] $69,246.5 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/13 18:30:05  [brave.exe] $69,246.6 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/13 18:30:05  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/13 18:30:05  [chrome.exe] BTCUSDT.P 69,240.1 ▼ −3.06% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/13 18:30:05  [chrome.exe] BTCUSDT.P 69,240.0 ▼ −3.06% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/13 18:30:06  [chrome.exe] BTCUSDT.P 69,238.1 ▼ −3.07% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/13 18:30:06  [chrome.exe] BTCUSDT.P 69,238.0 ▼ −3.07% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/13 18:30:07  [chrome.exe] BTCUSDT.P 69,238.1 ▼ −3.07% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/13 18:30:07  [chrome.exe] RO Survivors · Free Ragnarok Online–inspired survivors game in your browser - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/13 18:30:48  [chrome.exe] BTCUSDT.P 69,220.0 ▼ −3.09% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/13 18:30:48  [chrome.exe] BTCUSDT.P 69,213.9 ▼ −3.1% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/13 18:30:49  [chrome.exe] BTCUSDT.P 69,214.0 ▼ −3.1% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/13 18:30:49  [chrome.exe] BTCUSDT.P 69,213.9 ▼ −3.1% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/13 18:30:50  [chrome.exe] BTCUSDT.P 69,226.8 ▼ −3.08% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/13 18:30:50  [chrome.exe] BTCUSDT.P 69,232.9 ▼ −3.07% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/13 18:30:50  [chrome.exe] BTCUSDT.P 69,226.9 ▼ −3.08% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/13 18:30:50  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/13 18:30:50  [brave.exe] $69,229.6 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/13 18:30:51  [brave.exe] $69,236.5 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/13 18:30:52  [brave.exe] Here’s your October account statement - south830325@gmail.com - Gmail - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/13 18:30:54  [brave.exe] 收件匣 (25,038) - south830325@gmail.com - Gmail - Brave
+----------------------------------------------------------------------------
