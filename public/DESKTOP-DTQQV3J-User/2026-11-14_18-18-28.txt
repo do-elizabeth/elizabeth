@@ -1,0 +1,1008 @@
+﻿
+--- WINDOW  2026/11/14 04:51:23  [cmd.exe] 系統管理員: 命令提示字元
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/14 04:51:29  [brave.exe] 修復映像檔方法選擇 - Google Gemini - Brave
+----------------------------------------------------------------------------
+  [Ctrl]
+  [Clipboard]
+  DISM /Online /Cleanup-Image /CheckHealth
+  c
+
+--- WINDOW  2026/11/14 04:51:32  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/14 04:51:32  [cmd.exe] 系統管理員: 命令提示字元
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/14 04:51:34  [cmd.exe] 系統管理員: 命令提示字元 - DISM  /Online /Cleanup-Image /CheckHealth
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/14 04:51:34  [cmd.exe] 系統管理員: 命令提示字元
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/14 04:51:47  [(unknown)] 系統管理員: 命令提示字元
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/14 04:51:47  [explorer.exe] (untitled)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/14 04:51:49  [ShellExperienceHost.exe] 新通知
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/14 04:51:50  [explorer.exe] (untitled)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/14 04:51:52  [brave.exe] 修復映像檔方法選擇 - Google Gemini - Brave
+----------------------------------------------------------------------------
+  aj4fu06dhl6njp3cj94ji3bji4531862ul4dhl62k72u04m06[<-][<-][<-][<-][v][v][v][^][ENTER]
+  [ENTER]
+  [<-][<-][<-][<-][<-][<-][<-][<-][<-][<-][<-][<-][<-][<-][->][->][->][Bk]hl6[ENTER]
+  [->][->][->][->][->][->][->][->][->][->][->][<-][<-][<-][<-][<-][->][->][->][->][->][->][->][->][->][->][->]c04[ENTER]
+  [<-][Bk][Bk]vu04[ENTER]
+  [->][->][->][->][->][->][->][->][->][->][<-][<-][<-][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->]2u04m06[ENTER]
+  [Bk][Bk]2u04m06[<-][<-][v][v][ENTER]
+  [ENTER]
+   5k4u;4cjo4u/3vu;32l4[ENTER]
+  chl65[Bk]win10 2k75/4t;6mp4vu/6/   5j3ul42;3[Bk]u/4vu;42[Bk][Bk][Bk]0 5j; win10y94chl6[ENTER]
+  [ENTER]
+  [LMB]
+
+--- WINDOW  2026/11/14 04:53:56  [brave.exe] 修復映像檔 - Google 搜尋 - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/14 04:53:57  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/14 04:53:57  [explorer.exe] (untitled)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/14 04:53:57  [chrome.exe] 新分頁 - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/14 04:54:04  [chrome.exe] RO Survivors · Free Ragnarok Online–inspired survivors game in your browser - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  ssdsda 
+  [LMB]
+  [LMB]
+  sssssdswwwwwwwwwwwwwdwdawsssssssssssssssssaaaaasada
+  [LMB]
+  sssssssssssaassssssssssssssdddssaaaaaaaaaaaasawsssssssssssssssdddddddddds
+  [LMB]
+  wdsddddddddddwsadwwdwwdsawwwwadsssd
+  [LMB]
+  wwwadsaw
+  [LMB]
+  awwwwwsdwaawwdswsadw
+  [LMB]
+  wdassdddawswad
+  [LMB]
+  wdasdada
+  [LMB]
+  waaaaadsasdw
+  [LMB]
+  [LMB]
+  wwwwwwwwwwwwwwwwwwwwwwwwwdaddwaawwsswwsaw
+  [LMB]
+  wwwda
+  [LMB]
+  saswadsawwdwdsa
+  [LMB]
+  sawassdaww
+  [LMB]
+  dsssssssdd
+  [LMB]
+  dssawdddwasssssadwsawdsa
+  [LMB]
+  wddddddawdwsddsaaaaaa
+  [LMB]
+  ssssssssawdwdddddddddddddsasads
+  [LMB]
+  wasds
+  [LMB]
+  wadsawdsdwdwasaddsasssssd
+  [LMB]
+  wddsdawwdww
+  [LMB]
+  wddddasssdadawadwdsadsdsas
+  [LMB]
+  wdaswdsaawdwwwwwwwwwsdwasddsaawsdwd
+  [LMB]
+  w
+  [LMB]
+  dwdddd
+  [LMB]
+  awwwwwwwwdsawsdswdasdwasawddsa
+  [LMB]
+  saaaaaaaaaaaaasas
+  [LMB]
+  dwas
+  [LMB]
+  dwsaaaawddwwawdasawdsasds
+  [LMB]
+  ssssssssssssssas
+  [LMB]
+  awwwwwwwwwwwwwwdawdddddddddaaaaasdwdddddwsaw
+  [LMB]
+  wddws
+  [LMB]
+  dsssssssssaaaaaaasddddddddswwwwwwwwaasdswdddaaaaaaasdddsawsdwwasaa
+
+--- WINDOW  2026/11/14 04:59:55  [powershell.exe] C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/14 04:59:55  [chrome.exe] RO Survivors · Free Ragnarok Online–inspired survivors game in your browser - Google Chrome
+----------------------------------------------------------------------------
+  awddsawwsddwwwwwwwwasd
+  [LMB]
+  sdd
+  [LMB]
+  wdasdwdasdsddsasawsdwdds
+
+--- WINDOW  2026/11/14 05:00:17  [powershell.exe] C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+----------------------------------------------------------------------------
+  dw
+
+--- WINDOW  2026/11/14 05:00:18  [chrome.exe] RO Survivors · Free Ragnarok Online–inspired survivors game in your browser - Google Chrome
+----------------------------------------------------------------------------
+  w
+  [LMB]
+  aws
+  [LMB]
+  wd
+  [LMB]
+  wwwwwwwddsssssssssaawsddawswddwdswasdwadsadsds
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  awswdsawwaswwwwwwwwwwwwwwwwwssdsadadsaa
+  [LMB]
+  wdaaaaaaaaaaaaasdw
+  [LMB]
+  dwwwwwwwwwwwwwsadwadassdwdwdssdawdsawa
+  [LMB]
+  wwwwwwwwwwawdsawas
+  [LMB]
+  ddddddddwaaswadwadsawdaadwasawdssdwwwawasdsasdadwwwwwwwwwwwwwwwwwwwwwwdwsadawwawaaaaaaaaaaaaaaaaaaaaaaadss
+  [LMB]
+  [LMB]
+  sdsaasa
+  [LMB]
+  wddddsawdsdwaawdsdssssssssssswdswaaaaaaaaaaaaaaaasdswddwaasdsaaaaaaaaaaadwdsdwaaaaaa
+  [LMB]
+  awwwwwwwwdasadwsawwwdaswdssssssawasdwdawasdaddsaaw
+  [LMB]
+  wasdawd
+  [LMB]
+  dwddsasdwawwwdasdwsasaaaaaaaaaaaaaawddssssssssssssss
+  [LMB]
+  ddddddddswwwwwdwssasaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+  [LMB]
+  awwwwwwwwwwwwwwsasdwssssswwwwwwwwwwwwwwwwwwwwwasaawdsaaaaswwdsswdwwwwwwwwwwwwwwwwwwwddaaaaaaaaaaaaaaaaaaaaasssswddddddddddddsssssssssssssssssssssssadadwd
+  [LMB]
+  saaaaaaaaaaaadaaaaaaaaaaassssss
+  [LMB]
+  aaaaaaaaaaaaaaaaaaawwwwwswwwwadadsadddaaaaaaaaaaaaaaaaaawwwwwwwwwwwwwwwwwdwawdadwwswdddsaddddddddsdsdddddddddddddddddddaadwddw
+  [LMB]
+  wwwwwwwwwwwwwwwwwwwwaaaaaaaaaaaaaaaaaawwwwwwwwwwwwwwwwwwwssssssssssssssssssssssdadddddddsaddddddddddws
+  [LMB]
+  [LMB]
+  [LMB]
+  dwwwwwswwwwwdddaddadsssssssssssssssssasaaaaaaaaaaaaaaaaaaaaaaaaaa
+  [LMB]
+  aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaassssssswwwwwwwaaaaaaaawasdsasddaswwdasdaaaaaaaaaaaaawwwwwwwwwdadadawdddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddssssssssssssssssss
+  [LMB]
+  sssdddddddddddddddddddddddddddddddddwssadddddddddddddddaaaaaaaaaaawsdwwwswadddddddadadaaaawwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwdddddssssssssssssssssssssssdaa
+  [LMB]
+  saaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaadaaaaaaaaaaaaaaaawsssssssssaadawdwsaaaaaaaaw
+  [LMB]
+  awwwwwwwwwwwwwwwwwswwawdaaaaaaaaaaaaaaaaaadwd wwdwwwwwssddddddddddddddddddddddddddadadaaaaaaaaaaaaaaaaaswdaasdasdswawd
+  [LMB]
+  wddddddddddddddddddddddsaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaawwwwawaaaw sssssswd
+  [LMB]
+  wdddddddaaaaaadddddddddddddddddddddddddddwwwwddddddddddsssssddaaa
+  [LMB]
+  [LMB]
+  wdsadasssssswwaaaaaaaaaaaaaawasddadawwwwwwwdadasw
+  [LMB]
+  dwwwwwwwwwwwwwwwwwwwwdadddddddddddddddddswsssssssssssssssssssssd
+  [LMB]
+  assssssssssssdadaddaaaaaawsdswsasaaaaaaaaaaawd
+  [LMB]
+  waaaaaaaaaaaaaaaaaaasddddddwwwwwwd
+  [LMB]
+  wwwwwwwwwwwwwwwwwwwdwddsssssssssasssdwadswasd
+  [LMB]
+  ssssssssasaaaaaaaaaaasssdswwwwwwwwwwwwwwwwwwwwassssssssssssswwwwwwaaaaaaawwww
+  [LMB]
+  wwwwwwadaawddddddddddddddddddwssswawwwwwwwwwwwwwwwwwdaaasssssssssssssssssssssssssdddddddddd
+  [LMB]
+  dssssssssssssssssssssssssdsdwsadsdwsaddddddddw
+  [LMB]
+  wwwwwwwwwwwwwwwadadddsdaaaaaaaaaaaaaaass
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc]sd 
+  [LMB]
+  [LMB]
+  ssssssdsddwwwwwwwwsssssssssssssssssssssssssssssssssssssssssasasssssswwwwwwwwwaddawdsa
+  [LMB]
+  dwdswaaaaaawdddddddddddddddddddddwassssdssasaaaaaaaaaaaaaaaaaaaaaaaaaaaaads
+  [LMB]
+  wwwwwwwwwawwsddadwdssadsassdwwwwassdwws
+  [LMB]
+  sddwadsaaaaaaaawdwadasdddd
+  [LMB]
+  [LMB]
+  [LMB]
+  dsssssssad
+  [LMB]
+  wdad
+  [LMB]
+  wdddasdadddddddddddddd
+  [LMB]
+  sddddddddddddwaadsssssssssssdsaadawddasdwawdssa
+  [LMB]
+  dwwwwwwwwwwwwwwwwwwwawds
+  [LMB]
+  sssssaaaaaaaaaaaaaaaaaaaadaswwwassddwdsawwwdwsa
+  [LMB]
+  assssssssssssssssdwadasdddddddddwaaaaaaaa
+  [LMB]
+  wddddasdssaaaaaaaaadwaaads
+  [LMB]
+  asssssssssssssssssssssssssssssssssdwaadasdsasdadwwwwwwawsdwa
+  [LMB]
+  dwdddddddasdsssssssssssaassdwwwwwwwwadasssd
+  [LMB]
+  sddddddddawwwwwwwwww
+  [LMB]
+  [LMB]
+  wwwwwwwwwwwwdasdsadaadadwd
+  [LMB]
+  awwwwwwwwwwwwwwwwwwwwddwaaaaaaadssssssdsaddwaaswsdwda
+  [LMB]
+  wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwasdaddwaaaasawwdddddddddddddddsaaaaaaaaaadsawwdsadwasd
+  [LMB]
+  sdwsawddsaadwasdaw
+  [LMB]
+  wwwwwwwwwwwwwwwwawdasdawdddsdw
+  [LMB]
+  waaaaaaaaaasdsaadwwwwwwwwwwwwwwa
+  [LMB]
+  waaaaaaaaa
+  [LMB]
+  wwwwwwwwwwwaaaaaaasddaadwwwwwwwaaddddddsddwwwwwwwwwwwwwwwwaaawsdaaaaasdsawdasdadawdadw
+  [LMB]
+  wddwssaws
+  [LMB]
+  dsasswdddddddddddddddddddddaaaadaasddassdawadsawsddasdwwawdsadwdsadadddddwaaaa
+  [LMB]
+  wwwwwwwwwwwwwwwdssssssawd
+  [LMB]
+  wwwwwwwdwasddawsdwadsaaaaaaaaaaaadwwadwwwwawdadsadadssssssssdsaaaaaaaaaaaaaaaaaaaaadwssa
+  [LMB]
+  aaaaaaaaaaawswdadsadsdwaw
+  [LMB]
+  aaaaaaaaaaawwwwwwwwwwwdw
+  [LMB]
+  wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwaw
+  [LMB]
+  awwwwwwwwwwwwwwwwwwwwwwwwwwwssdwadswasdaaaaaawwwdsasdawdddsassssssssswdsdaw
+  [LMB]
+  wwwwwwwwwdwadasddwadwwasdwdsssss
+  [LMB]
+  [LMB]
+  asdassddddddddww
+  [LMB]
+  wwwwwwwwwwwwwawdsaaaaaaaaaaaaaaaaaaaasssdwasdsdsawdsdwaadddddwwwwwwsssssssssssssssssssssssssdwa
+  [LMB]
+  [LMB]
+  wwwawwdaaaaaaaaaaaaaaaaaaaaaasssss
+  [LMB]
+  ssaswdadasssssssssssssssssssssssssddawdwawdsasdwasdawswdwasdawdddddddsdaaaaaaaaaaaaaaad
+  [LMB]
+  wadaswwwwwwwwdwsawdawdswdsddsaawds
+  [LMB]
+  wdaddddddssssssssssssd
+  [LMB]
+  ssssssssssssssasaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaawdadawdsssssssddddddd
+  [LMB]
+  [LMB]
+  wdsadawdaasdddddwasawawdsadwwwwwwwwwwww
+  [LMB]
+  wwwdwddddddddddddddwwwwwwwwwwwwwwwwwwasdaddddddddddddddddddaswdsadaawwwwwwwwwwwwwwwwwwwwwwwwwadsawdsdawdwsdwasssssss
+  [LMB]
+  saaasdssssssssdsaaaawaw
+  [LMB]
+  wadwdsdsdsawddsadwwwadadadasddwdsawsdswaaaaaaadsw
+  [LMB]
+  wddddddddaad
+  [LMB]
+  sdddwsawdadwswasdsawddsaawwwwwwwwwwwwwwwwwwwsdwadddsaawdddasdswdsaawd
+  [LMB]
+  dwwwwwsadawdwsasssssssadawdawdasdada
+  [LMB]
+  [LMB]
+  waddsawswddsawdsadwswasdwaadsdw
+  [LMB]
+  sssdasdwdaswdddddasdwsaaaaaadddddddddddddddddaswwwwwwwwwwwwwwwwwwwwwwwwwww a
+  [LMB]
+  wddddddddddsa
+  [LMB]
+  sawdsawdwaadsadawwdsdwsdwaasdadawssaaaaaaddawwwwwwwwwwda
+  [LMB]
+  ddddddddwasdwasdwadsaw
+  [LMB]
+  dwwadsadwdswaadadssssssaaaaaaadwdssssssssawawdwsasdsssssss
+  [LMB]
+  sawsdawdsaaaaaaaaaaaaaaaaaaaaaaaaaa wwwwdsawdawdssdawddsawddsssa
+  [LMB]
+  asssssssswd
+  [LMB]
+  dwsadawwdssawwsdwadsdawdsdsawwdaswdadsadawsd
+  [LMB]
+  ssssssssssdswawdssadddwsawasdwadasswdswssssssssa
+  [LMB]
+  ssssssssssaadwasdawawwadssssssssssssssdsdwasa
+  [LMB]
+  [LMB]
+  [LMB]
+  sadwwsddwawdadssdsdwsawadsasdwaadsadwasddawwwwwwwwwad
+  [LMB]
+  sawdsawdwsa
+  [LMB]
+  wdddddddddddddddddddddddddsadawda wasdddwadasdsawsdwassdwasdwsdaaw
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  waaaaaawdsssawasdwdssdwawdsswassssssssssssssssssdddddadwwwwdawdsadwasssssssds
+  [LMB]
+  dwswaaw
+  [LMB]
+  waaaaaaaaaaaaaaaaaaaaaaaaadwasddddddsssssssssssasdadwaaasdwasawwwwwwdsadwadswadasdsadawdasdw
+  [LMB]
+  ddddddwsawdwawdasdwsaasdawsdasdwasdwasdawwwd
+  [LMB]
+  wwwwwwdwasdsawdsa
+  [LMB]
+  sawdsadawsdwdasdawdsasddawdawddwdsawdsaawaadsddsadsaawdaawdwwwwwwwsddddddddddddddd
+  [LMB]
+  wdsaaadswawdsdsawaaaaaaaaaaaaaaaaaaaawdasdasd
+  [LMB]
+  sdwdsawddasdawdawdasdasa
+  [LMB]
+  aswsdwwasadwadsadsdsadwadsaawwwwwwwdwdsawasdwdsadwdsddwasdwadadd
+  [LMB]
+  dwasdwwwwwas
+  [LMB]
+  [LMB]
+  sadwaswsdddddsdwaaaaaaaaawsdwasdwsawasdwadwsawa sawasdwasdaaaaaaaaaaaaaaaaaaaaaaaaaassssssss
+  [LMB]
+  ssssssssssssssdsawsdssdddwawwaawdadsdsadwadawadadsssdwaaaaaaaaaaawdawwddsdwasdsws
+  [LMB]
+  dddddds
+  [LMB]
+  ddddddddwswasdwdsdawdsawdswssdadaaaadsdwsdawdsdwdwdddddsdw
+  [LMB]
+  dsddawdwasdwawdaaaaaaaadwwawaawsaaaaaaaaaasdssdsdaw
+  [LMB]
+  wwwwawaaaadsaadwaadswasdsd sa
+  [LMB]
+  sdwwawdwddsadddddddsawdsawsddwwwwwwwwwwwwadwwdsawsds
+  [LMB]
+  sdsaaaaw
+  [LMB]
+  dwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwawddddddddddddddadwdwwwwwwwwwwwwwwwdwddwwaaaaaaaaaaaaaaaaaaaaaaaswssssssssssssssssssssssssssssssssssssssssssssswwwwwwwwsddddddddddddddddddddddddddddddddddddddddddwdddwassdw
+  [LMB]
+  wddsawsdddwawdswaaaaadsadwasdwawdawdd w
+  [LMB]
+  ddddddddddddddddddddddss
+  [LMB]
+  sddddddddddddddddddddddddddddawsadaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaawwddddddddddddddddddddddwwwwwwwwwwwwwwwwwwwwwwwwwwaawddddddddddddddddddddddddddddddddddddddddssssssssssssssawsds
+  [LMB]
+  sdddddddddddddddddddddddddddddddddddddddddddddddddsaaaaaaaaaawwwwwwwwwwwwwwwwwwwwwwwwwwwdw
+  [LMB]
+  wwwwwwwwwwwwwwwwwwwwdwddddddddddddddddddaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaassssssssssssssssssssssssddddddddddddddddddddddddddddddddddddssssssssssssssssssssssssssssssaw
+  [LMB]
+  awwwwwwwwwwwsddddddddddddddddddddddwwwwwwwwwwwwwwwwwwwwwasdadwawdwwaaaaaaaaaaaawsdswasdadawwwwwwd
+  [LMB]
+  waaaaaaaaaaaaasdadwaadsaaw
+  [LMB]
+  awsdwwasddwasddwawsdwassssdwwwwwwasawwdsawswdsadwasdadwadsad
+  [LMB]
+  dwssaaaaaaaawdaaaawddwdw
+  [LMB]
+  awsddwdsawdddddddaswdddddddwwwwdwdssdsaawdwawwd
+  [LMB]
+  wdassdawsssdddddddddddddddddddddddddddddddwadadsaaaaaaaaaaaaaaaaaaadwasdsaddawddsawsdddw
+  [LMB]
+  wwwwwwwwwwwwwwwwawdds
+  [LMB]
+  wwwadsadwaawawdsadwasddddddaawwwwwawasdwwwawsdwasdwdaassssssssssasdasddddddddwasddddddddddddddddddddddddddddss
+  [LMB]
+  dssssssssssssssssssswwwwwwwwddddddddaaaawwwwwwwwwwwwwwwwwwwwwwwwwsssssssssssssssssssssssssss
+  [LMB]
+  saaaaaaaaaaaaaaaaaaaaaaaaaaaaaaddddddddddddddddddddddd
+  [LMB]
+  wddddddddddddddddddddddddddddddddddddddddwwwwwwwwwwwawwdsd 
+
+--- WINDOW  2026/11/14 05:30:19  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/14 05:30:20  [brave.exe] 修復映像檔 - Google 搜尋 - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/14 05:30:20  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/14 05:30:20  [chrome.exe] RO Survivors · Free Ragnarok Online–inspired survivors game in your browser - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc]sd d[Esc]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc]sssss
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc]sddddddddddddddddddddddddddddd 
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc]
+  [LMB]
+  [LMB]
+  [Esc] [Esc]wdwww 
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc]sa 
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc]sdwd 
+  [LMB]
+  [LMB]
+  [Esc]sa 
+  [LMB]
+  [Esc]dw 
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc]sa 
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  wd 
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc]saaaaaaa 
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc]dwwww 
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc]wd [Esc]saaaaaaaaaa a
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc]dwwwwwww 
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc]aaaaaasss [Esc]dwwwwwwwwwwwww 
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc]saaaaaaaa a[Esc]
+  [LMB]
+
+--- WINDOW  2026/11/14 05:41:27  [Lark.exe] Lark
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/14 05:42:55  [explorer.exe] (untitled)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/14 05:42:55  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/14 05:42:55  [SearchApp.exe] 搜尋
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/14 05:42:57  [StartMenuExperienceHost.exe] 開始
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/14 05:42:59  (no active window)
+----------------------------------------------------------------------------
+
+================================================================================
+ SESSION START  2026/11/14 18:13:28
+================================================================================
+
+
+--- WINDOW  2026/11/14 18:13:29  [brave.exe] 新分頁 - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/14 18:13:31  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/14 18:13:31  [explorer.exe] (untitled)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/14 18:13:31  [chrome.exe] 新分頁 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/14 18:13:32  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/14 18:13:32  [brave.exe] 新分頁 - Brave
+----------------------------------------------------------------------------
+  offset[ENTER]
+
+--- WINDOW  2026/11/14 18:13:45  [brave.exe] google.com/search?q=OFFSET&oq=OFFSET&sourceid=chrome&ie=UTF-8 - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/14 18:13:47  [brave.exe] OFFSET - Google 搜尋 - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/14 18:13:53  [brave.exe] 未命名 - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/14 18:13:54  [brave.exe] History - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/14 18:13:54  [brave.exe] 活動 | Better History - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/14 18:13:57  [brave.exe] 未命名 - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/14 18:13:59  [brave.exe] feeotter.com/profile - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/14 18:14:00  [brave.exe] OFFSET - Google 搜尋 - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/14 18:14:01  [brave.exe] 活動 | Better History - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/14 18:14:01  [brave.exe] 返傭站 — Fee Otter - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/14 18:14:08  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/14 18:14:08  [explorer.exe] (untitled)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/14 18:14:08  [ShellExperienceHost.exe] EA 的捷徑清單
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/14 18:14:09  [brave.exe] 返傭站 — Fee Otter - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/14 18:14:10  [NECATLAgent2.exe] 作業記錄檢視
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/14 18:14:10  [JCICATLAgent.exe] 作業記錄檢視
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/14 18:14:11  [ShellExperienceHost.exe] Lark 的捷徑清單
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/14 18:14:12  [brave.exe] 返傭站 — Fee Otter - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/14 18:14:12  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/14 18:14:12  [chrome.exe] 新分頁 - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  ro[ENTER]
+
+--- WINDOW  2026/11/14 18:14:18  [chrome.exe] ro-survivors.com - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/14 18:14:18  [chrome.exe] RO Survivors · Free Ragnarok Online–inspired survivors game in your browser - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/14 18:15:02  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/14 18:15:02  [brave.exe] 返傭站 — Fee Otter - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/14 18:15:04  [brave.exe] 活動 | Better History - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/14 18:15:06  [brave.exe] 新分頁 - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/14 18:15:09  [brave.exe] youtube.com - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/14 18:15:10  [brave.exe] YouTube - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/14 18:15:10  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/14 18:15:10  [chrome.exe] RO Survivors · Free Ragnarok Online–inspired survivors game in your browser - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/14 18:15:12  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/14 18:15:12  [brave.exe] YouTube - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/14 18:15:13  [brave.exe] (4) YouTube - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/14 18:15:19  [brave.exe] YouTube - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/14 18:15:33  [brave.exe] 阿烽收笼抓到一堆猛货，隔天意外掉进海底，拉上来收获更多抓嗨了 - YouTube - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/14 18:15:33  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/14 18:15:33  [chrome.exe] RO Survivors · Free Ragnarok Online–inspired survivors game in your browser - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/14 18:15:35  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/14 18:15:36  [brave.exe] 阿烽收笼抓到一堆猛货，隔天意外掉进海底，拉上来收获更多抓嗨了 - YouTube - Brave
+----------------------------------------------------------------------------
+  [->]
+
+--- WINDOW  2026/11/14 18:15:55  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/14 18:15:56  [chrome.exe] RO Survivors · Free Ragnarok Online–inspired survivors game in your browser - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/14 18:15:58  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/14 18:15:58  [brave.exe] 阿烽收笼抓到一堆猛货，隔天意外掉进海底，拉上来收获更多抓嗨了 - YouTube - Brave
+----------------------------------------------------------------------------
+  [->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->]
+
+--- WINDOW  2026/11/14 18:16:44  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/14 18:16:44  [chrome.exe] RO Survivors · Free Ragnarok Online–inspired survivors game in your browser - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/14 18:16:45  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/14 18:16:46  [brave.exe] 阿烽收笼抓到一堆猛货，隔天意外掉进海底，拉上来收获更多抓嗨了 - YouTube - Brave
+----------------------------------------------------------------------------
+  [->][->][->][->][->][->][->][->][->]
+  [LMB]
+  [->][->][->][->][->][->][->]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/14 18:17:26  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/14 18:17:26  [chrome.exe] RO Survivors · Free Ragnarok Online–inspired survivors game in your browser - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/14 18:17:27  [explorer.exe] (untitled)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/14 18:17:28  [explorer.exe] 工作檢視
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/14 18:17:28  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/14 18:17:28  [brave.exe] 阿烽收笼抓到一堆猛货，隔天意外掉进海底，拉上来收获更多抓嗨了 - YouTube - Brave
+----------------------------------------------------------------------------
+  [->][->]
+  [LMB]
+  [->][->][->][->]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/14 18:17:42  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/14 18:17:42  [chrome.exe] RO Survivors · Free Ragnarok Online–inspired survivors game in your browser - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/14 18:17:43  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/14 18:17:43  [brave.exe] 阿烽收笼抓到一堆猛货，隔天意外掉进海底，拉上来收获更多抓嗨了 - YouTube - Brave
+----------------------------------------------------------------------------
+  [->]
+  [LMB]
+  [->]
+  [LMB]
+  [->][->][->][->][->][->][->][->][->]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/14 18:18:13  [brave.exe] YouTube - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/14 18:18:22  [brave.exe] 阿烽收笼抓到一堆猛货，隔天意外掉进海底，拉上来收获更多抓嗨了 - YouTube - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/14 18:18:24  [brave.exe] 台法融合250人份辦桌! 法式技法激盪台味傳統 首度來到台東舉辦「成功海宴」 - YouTube - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/14 18:18:24  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/14 18:18:24  [chrome.exe] RO Survivors · Free Ragnarok Online–inspired survivors game in your browser - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
