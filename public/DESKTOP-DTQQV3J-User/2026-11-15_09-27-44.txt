@@ -1,0 +1,2357 @@
+﻿  [LMB]
+
+--- WINDOW  2026/11/15 09:08:07  [brave.exe] $136.28 | SPCX | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:08:09  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:08:09  [chrome.exe] 新分頁 - Google Chrome
+----------------------------------------------------------------------------
+  tra
+  [LMB]
+
+--- WINDOW  2026/11/15 09:08:13  [chrome.exe] tw.tradingview.com - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:08:14  [chrome.exe] TradingView – 追踪所有市場 - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/15 09:08:16  [chrome.exe] tw.tradingview.com/chart/ - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:08:16  [chrome.exe] TradingView 提供即時股票、指數、期貨、外匯與比特幣圖表 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:08:17  [chrome.exe] BTCUSDT.P - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:08:17  [chrome.exe] BTCUSDT.P 62,646.9 ▼ −2.3% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:08:18  [chrome.exe] BTCUSDT.P 62,634.9 ▼ −2.32% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:08:18  [chrome.exe] BTCUSDT.P 62,638.9 ▼ −2.32% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:08:18  [chrome.exe] BTCUSDT.P 62,624.0 ▼ −2.34% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:08:20  [chrome.exe] BTCUSDT.P 62,621.4 ▼ −2.34% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/15 09:08:21  [chrome.exe] BTCUSDT.P 62,636.4 ▼ −2.32% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:08:21  [chrome.exe] BTCUSDT.P 62,602.0 ▼ −2.37% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:08:22  [chrome.exe] BTCUSDT.P 62,617.2 ▼ −2.35% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:08:22  [chrome.exe] BTCUSDT.P 62,626.8 ▼ −2.34% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:08:23  [chrome.exe] BTCUSDT.P 62,635.9 ▼ −2.32% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:08:23  [chrome.exe] BTCUSDT.P 62,640.0 ▼ −2.32% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:08:23  [chrome.exe] BTCUSDT.P 62,636.4 ▼ −2.32% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:08:24  [chrome.exe] BTCUSDT.P 62,624.2 ▼ −2.34% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/15 09:08:25  [brave.exe] $136.28 | SPCX | Vest Markets - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/15 09:08:32  [brave.exe] $62,562.6 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:08:34  [brave.exe] $62,604.1 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:08:35  [brave.exe] $62,622.9 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/15 09:08:36  [brave.exe] $62,631.8 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/15 09:08:37  [brave.exe] $62,658.3 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:08:38  [brave.exe] $62,664.6 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/15 09:08:39  [brave.exe] $62,619.2 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/15 09:08:40  [brave.exe] $62,582.6 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/15 09:08:41  [brave.exe] $62,575.5 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/15 09:08:42  [brave.exe] $62,586.4 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/15 09:08:43  [brave.exe] $62,621.5 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:08:44  [brave.exe] $62,615.4 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:08:45  [brave.exe] $62,618.5 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:08:46  [brave.exe] $62,619.8 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/15 09:08:47  [brave.exe] $62,632.8 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:08:48  [brave.exe] $62,648.1 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/15 09:08:49  [brave.exe] $62,661.1 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:08:50  [brave.exe] $62,666.5 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/15 09:08:51  [brave.exe] $62,674.9 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:08:52  [brave.exe] $62,675.6 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:08:53  [brave.exe] $62,678.9 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:08:54  [brave.exe] $62,692.3 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:08:55  [brave.exe] $62,702.6 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:08:56  [brave.exe] $62,704.6 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:08:57  [brave.exe] $62,652.1 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/15 09:08:58  [brave.exe] $62,666.2 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:08:59  [brave.exe] $62,646.2 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/15 09:09:00  [brave.exe] $62,637.2 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:09:01  [brave.exe] $62,632.6 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:09:02  [brave.exe] $62,636.4 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:09:03  [brave.exe] $62,689.7 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:09:04  [brave.exe] $62,721.1 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:09:05  [brave.exe] $62,725.7 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:09:06  [brave.exe] $62,729.3 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:09:07  [brave.exe] $62,735.0 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:09:08  [brave.exe] $62,719.2 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:09:09  [brave.exe] $62,719.6 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:09:10  [brave.exe] $62,735.0 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:09:11  [brave.exe] $62,726.6 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:09:12  [brave.exe] $62,749.1 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:09:13  [brave.exe] $62,721.1 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:09:14  [brave.exe] $62,716.9 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:09:15  [brave.exe] $62,712.6 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:09:16  [brave.exe] $62,715.1 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:09:17  [brave.exe] $62,683.4 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:09:18  [brave.exe] $62,688.7 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:09:19  [brave.exe] $62,661.1 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:09:20  [brave.exe] $62,658.8 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:09:21  [brave.exe] $62,642.7 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:09:22  [brave.exe] $62,633.2 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:09:23  [brave.exe] $62,640.7 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:09:24  [brave.exe] $62,654.8 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:09:24  [brave.exe] YouTube - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/15 09:09:28  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:09:28  [chrome.exe] BTCUSDT.P 62,711.9 ▼ −2.2% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:09:28  [chrome.exe] BTCUSDT.P 62,712.6 ▼ −2.2% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:09:29  [chrome.exe] BTCUSDT.P 62,736.8 ▼ −2.16% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:09:29  [chrome.exe] BTCUSDT.P 62,741.4 ▼ −2.16% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:09:29  [chrome.exe] BTCUSDT.P 62,745.6 ▼ −2.15% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:09:30  [chrome.exe] BTCUSDT.P 62,750.5 ▼ −2.14% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:09:30  [chrome.exe] BTCUSDT.P 62,744.8 ▼ −2.15% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:09:31  [chrome.exe] BTCUSDT.P 62,707.3 ▼ −2.21% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:09:31  [chrome.exe] BTCUSDT.P 62,707.2 ▼ −2.21% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/15 09:09:31  [chrome.exe] 新分頁 - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  clauf[Bk]de[ENTER]
+
+--- WINDOW  2026/11/15 09:09:39  [chrome.exe] google.com/search?q=CLAUDE&rlz=1C1QCDH_zh-TWTW1219TW1219&oq=CLAUDE&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQIxgnMg0IAhAAGIMBGLEDGIAEMgoIAxAAGLEDGIAEMg0IBBAAGIMBGLEDGIAEMgoIBRAAGLEDGIAEMgoIBhAAGLEDGIAEMgYIBxAFGEDSAQgyNDI5ajBqN6gCCLACAfEF1clTqNCAvRA&sourceid=chrome&source=chrome.ob&ie=UTF-8 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:09:40  [chrome.exe] CLAUDE - Google 搜尋 - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/15 09:09:42  [chrome.exe] claude.ai/login - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:09:43  [chrome.exe] 登入或建立帳戶 | Claude.ai - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:09:44  [chrome.exe] (untitled)
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/15 09:09:45  [chrome.exe] 登入或建立帳戶 | Claude.ai - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:09:45  [chrome.exe] 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:09:45  [chrome.exe] accounts.google.com/v3/signin/accountchooser?access_type=offline&client_id=1062961139910-l2m55cb9h51u5cuc9c56eb3fevouidh9.apps.googleusercontent.com&display=popup&enable_granular_consent=true&gis_params=GBMqK3NkUEhZRDZld3lJUHk0a0lmU2tqOEdOSjdTRDdzTU5WakhjK21xU3dFQXM4AUIKYXV0aDUzNTg2OGgB&gislp=1&gsiwebsdk=gis_attributes&include_granted_scopes=true&origin=https%3A%2F%2Fclaude.ai&prompt=consent&redirect_uri=gis_transform&response_mode=form_post&response_type=code&scope=openid+profile+email&upstream_experiment
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:09:46  [chrome.exe] 登入 - Google 帳戶 - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/15 09:09:48  [chrome.exe] 歡迎使用 - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/15 09:09:50  [chrome.exe] 登入或建立帳戶 | Claude.ai - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/15 09:09:53  [chrome.exe] (untitled)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:09:54  [chrome.exe] 登入或建立帳戶 | Claude.ai - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/15 09:09:54  [chrome.exe] 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:09:54  [chrome.exe] accounts.google.com/v3/signin/accountchooser?access_type=offline&client_id=1062961139910-l2m55cb9h51u5cuc9c56eb3fevouidh9.apps.googleusercontent.com&display=popup&enable_granular_consent=true&gis_params=GBMqK2NnZm91c1UwVkFIaGFQTUNZUnYyWjlmazF5ajlIWXhxWnlqTHJINFZVWTQ4AUIKYXV0aDUyMDg3NmgB&gislp=1&gsiwebsdk=gis_attributes&include_granted_scopes=true&origin=https%3A%2F%2Fclaude.ai&prompt=consent&redirect_uri=gis_transform&response_mode=form_post&response_type=code&scope=openid+profile+email&upstream_experiment
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:09:55  [chrome.exe] 登入 - Google 帳戶 - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/15 09:09:59  [chrome.exe] accounts.google.com/signin/oauth/v3/consent?as=S-285083600%3A1794704994548197&authuser=0&client_id=1062961139910-l2m55cb9h51u5cuc9c56eb3fevouidh9.apps.googleusercontent.com&flowName=GeneralOAuthFlow&part=AJi8hANb--F51nDnkD6lNC55G5ZvEChkGRMXQw88XE6x_Mluqfer7bE1Fh4l5nb5yw4GhwRlsH6TRfYez0acCbKdy9PNy6gd5LC5N0JmXdzlIKdsYQm9fFPY0TogYKmuLChfRvfSi9T9q7N2uuwSXnFWZZNtZHPL-l9YKlFHUIgZxzb6hi-mUsRn_6NOPmtEyYYuUiZ3rW7IyIODvV1BKzKks7OE3_9h_pfEad7ISgs0LPRuQSxgqFQEgi1a7kOrBrgyCKLfQTVsgjpXHJJh15tzYoBMpDTp6taSsmsGM47QPiit7gA
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:09:59  [chrome.exe] accounts.google.com/gsi/transform - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:09:59  [chrome.exe] Sign In - Google Accounts - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:09:59  [chrome.exe] 登入或建立帳戶 | Claude.ai - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/15 09:10:17  [chrome.exe] claude.ai - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:10:17  [chrome.exe] Claude - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:10:17  [chrome.exe] 新增對話 - Claude - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/15 09:10:29  [chrome.exe] BTCUSDT.P 62,666.1 ▼ −2.27% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:10:29  [chrome.exe] BTCUSDT.P 62,662.5 ▼ −2.28% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:10:29  [chrome.exe] BTCUSDT.P 62,656.7 ▼ −2.29% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:10:30  [chrome.exe] BTCUSDT.P 62,656.6 ▼ −2.29% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:10:30  [chrome.exe] BTCUSDT.P 62,633.0 ▼ −2.33% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:10:30  [chrome.exe] BTCUSDT.P 62,622.0 ▼ −2.34% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:10:31  [chrome.exe] BTCUSDT.P 62,630.0 ▼ −2.33% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:10:31  [chrome.exe] BTCUSDT.P 62,643.0 ▼ −2.31% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:10:31  [chrome.exe] BTCUSDT.P 62,635.8 ▼ −2.32% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:10:32  [chrome.exe] BTCUSDT.P 62,631.6 ▼ −2.33% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:10:32  [chrome.exe] BTCUSDT.P 62,620.1 ▼ −2.35% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/15 09:10:33  [chrome.exe] BTCUSDT.P 62,623.2 ▼ −2.34% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:10:33  [chrome.exe] BTCUSDT.P 62,623.1 ▼ −2.34% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:10:34  [chrome.exe] BTCUSDT.P 62,620.0 ▼ −2.35% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:10:34  [chrome.exe] BTCUSDT.P 62,629.1 ▼ −2.33% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:10:35  [chrome.exe] BTCUSDT.P 62,623.1 ▼ −2.34% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:10:35  [chrome.exe] BTCUSDT.P 62,620.1 ▼ −2.35% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:10:35  [chrome.exe] BTCUSDT.P 62,631.3 ▼ −2.33% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:10:36  [chrome.exe] BTCUSDT.P 62,624.4 ▼ −2.34% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:10:36  [chrome.exe] BTCUSDT.P 62,599.9 ▼ −2.38% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:10:37  [chrome.exe] BTCUSDT.P 62,606.1 ▼ −2.37% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+  [RMB]
+
+--- WINDOW  2026/11/15 09:10:37  [chrome.exe] BTCUSDT.P 62,601.5 ▼ −2.38% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:10:37  [chrome.exe] BTCUSDT.P 62,601.6 ▼ −2.38% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:10:38  [chrome.exe] BTCUSDT.P 62,583.6 ▼ −2.4% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:10:39  [chrome.exe] BTCUSDT.P 62,583.5 ▼ −2.4% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:10:39  [chrome.exe] BTCUSDT.P 62,583.6 ▼ −2.4% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:10:39  [chrome.exe] BTCUSDT.P 62,578.1 ▼ −2.41% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/15 09:10:40  [chrome.exe] BTCUSDT.P 62,573.2 ▼ −2.42% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:10:40  [chrome.exe] BTCUSDT.P 62,564.5 ▼ −2.43% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:10:40  [chrome.exe] BTCUSDT.P 62,561.0 ▼ −2.44% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/15 09:10:41  [chrome.exe] BTCUSDT.P 62,564.3 ▼ −2.43% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:10:41  [chrome.exe] BTCUSDT.P 62,561.3 ▼ −2.44% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:10:41  [chrome.exe] BTCUSDT.P 62,574.5 ▼ −2.42% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:10:42  [chrome.exe] BTCUSDT.P 62,569.9 ▼ −2.42% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+  [Ctrl]
+
+--- WINDOW  2026/11/15 09:10:42  [chrome.exe] BTCUSDT.P 62,573.6 ▼ −2.42% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+  a
+
+--- WINDOW  2026/11/15 09:10:42  [chrome.exe] BTCUSDT.P 62,564.4 ▼ −2.43% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:10:42  [chrome.exe] BTCUSDT.P 62,556.5 ▼ −2.45% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+  [Ctrl]
+  [Clipboard]
+  // This source code is subject to the terms of the Mozilla Public License 2.0 at https://mozilla.org/MPL/2.0/
+  // © wielkieef
+  // Converted to Pine Script v6
+  
+  //@version=6
+  
+  strategy("Bitcoin Maximalist [4h]", overlay = true, pyramiding = 10, initial_capital = 1000, default_qty_type = strategy.percent_of_equity, default_qty_value = 8, calc_on_order_fills = false, slippage = 0, commission_type = strategy.commission.percent, commission_value = 0.03)
+  
+  //SOURCE =============================================================================================================
+  
+  src = input.source(open, title = "Source")
+  
+  // Support and Resistance ─────────────────────────────────────────────────────
+  
+  left  = input.int(6, title = "  Left",  group = "Support and Resistance")
+  right = input.int(3, title = "  Right", group = "Support and Resistance")
+  
+  hih            = ta.pivothigh(high, left, right)
+  lol            = ta.pivotlow (low,  left, right)
+  hih_bool       = not na(hih)
+  lol_bool       = not na(lol)
+  top            = ta.valuewhen(hih_bool, high[right], 0)
+  bot            = ta.valuewhen(lol_bool, low [right], 0)
+  RS_Long_condt  = close > top
+  RS_Short_condt = close < bot
+  
+  L_cross = ta.crossover (close, top)
+  S_cross = ta.crossunder(close, bot)
+  
+  // ADX ─────────────────────────────────────────────────────────────────────────
+  
+  ADX_options = input.string("MASANAKAMURA", title = "  ADX Option", options = ["CLASSIC", "MASANAKAMURA"], group = "ADX")
+  ADX_len     = input.int(11,   title = "  ADX Lenght",   minval = 1,          group = "ADX")
+  th          = input.float(12, title = "  ADX Treshold", minval = 0, step = 0.5, group = "ADX")
+  
+  calcADX(_len) =>
+      _up       = ta.change(high)
+      _down     = -ta.change(low)
+      _plusDM   = na(_up)   ? na : (_up > _down and _up > 0     ? _up   : 0)
+      _minusDM  = na(_down) ? na : (_down > _up and _down > 0   ? _down : 0)
+      _tr       = ta.rma(ta.tr(true), _len)
+      _plus     = fixnan(100 * ta.rma(_plusDM,  _len) / _tr)
+      _minus    = fixnan(100 * ta.rma(_minusDM, _len) / _tr)
+      _sum      = _plus + _minus
+      _adx      = 100 * ta.rma(math.abs(_plus - _minus) / (_sum == 0 ? 1 : _sum), _len)
+      [_plus, _minus, _adx]
+  
+  calcADX_Masanakamura(_len) =>
+      var float SmoothedTrueRange               = 0.0
+      var float SmoothedDirectionalMovementPlus = 0.0
+      var float SmoothedDirectionalMovementMinus= 0.0
+      TrueRange                = math.max(math.max(high - low, math.abs(high - nz(close[1]))), math.abs(low - nz(close[1])))
+      DirectionalMovementPlus  = high - nz(high[1]) > nz(low[1]) - low ? math.max(high - nz(high[1]), 0) : 0
+      DirectionalMovementMinus = nz(low[1]) - low > high - nz(high[1]) ? math.max(nz(low[1]) - low, 0)   : 0
+      SmoothedTrueRange                := nz(SmoothedTrueRange[1])                - (nz(SmoothedTrueRange[1])                / _len) + TrueRange
+      SmoothedDirectionalMovementPlus  := nz(SmoothedDirectionalMovementPlus[1])  - (nz(SmoothedDirectionalMovementPlus[1])  / _len) + DirectionalMovementPlus
+      SmoothedDirectionalMovementMinus := nz(SmoothedDirectionalMovementMinus[1]) - (nz(SmoothedDirectionalMovementMinus[1]) / _len) + DirectionalMovementMinus
+      DIP  = SmoothedDirectionalMovementPlus  / SmoothedTrueRange * 100
+      DIM  = SmoothedDirectionalMovementMinus / SmoothedTrueRange * 100
+      DX   = math.abs(DIP - DIM) / (DIP + DIM) * 100
+      adx  = ta.sma(DX, _len)
+      [DIP, DIM, adx]
+  
+  [DIPlusC, DIMinusC, ADXC] = calcADX(ADX_len)
+  [DIPlusM, DIMinusM, ADXM] = calcADX_Masanakamura(ADX_len)
+  
+  DIPlus  = ADX_options == "CLASSIC" ? DIPlusC  : DIPlusM
+  DIMinus = ADX_options == "CLASSIC" ? DIMinusC : DIMinusM
+  ADX     = ADX_options == "CLASSIC" ? ADXC     : ADXM
+  
+  L_adx = DIPlus > DIMinus and ADX > th
+  S_adx = DIPlus < DIMinus and ADX > th
+  
+  // Volume ──────────────────────────────────────────────────────────────────────
+  
+  volume_f_B   = input.float(1.9, title = "  Volume mult. Breakouts",  minval = 0, step = 0.1, group = "Volume (BREAKOUTS)")
+  sma_length_B = input.int(40,    title = "  Volume lenght Breakouts", minval = 1,              group = "Volume (BREAKOUTS)")
+  
+  Volume_Breakouts_condt = volume > ta.sma(volume, sma_length_B) * volume_f_B
+  
+  // SAR ─────────────────────────────────────────────────────────────────────────
+  
+  Sst  = input.float(0.9, title = "  Sar Start", step = 0.01, minval = 0.01, group = "SAR")
+  Sinc = input.float(0.1, title = "  Sar Int",   step = 0.01, minval = 0.01, group = "SAR")
+  Smax = input.float(0.9, title = "  Sar Max",   step = 0.01, minval = 0.01, group = "SAR")
+  
+  SAR   = ta.sar(Sst, Sinc, Smax)
+  L_sar = SAR < close
+  S_sar = SAR > close
+  
+  // RSI-VWAP ────────────────────────────────────────────────────────────────────
+  
+  RSI_VWAP_length     = input.int(48, title = "Rsi vwap lenght", group = "RSI-VWAP")
+  RSI_VWAP            = ta.rsi(ta.vwap, RSI_VWAP_length)
+  RSI_VWAP_overSold   = 29
+  RSI_VWAP_overBought = 75
+  
+  L_VAP = ta.crossover (RSI_VWAP, RSI_VWAP_overSold)
+  S_VAP = ta.crossunder(RSI_VWAP, RSI_VWAP_overBought)
+  
+  // SMAs ────────────────────────────────────────────────────────────────────────
+  
+  Length1 = input.int(14, title = "  1-SMA Lenght", minval = 1, group = "SMA")
+  Length2 = input.int(28, title = "  2-SMA Lenght", minval = 1, group = "SMA")
+  Length3 = input.int(55, title = "  3-SMA Lenght", minval = 1, group = "SMA")
+  
+  SMA1 = ta.sma(close, Length1)
+  SMA2 = ta.sma(close, Length2)
+  SMA3 = ta.sma(close, Length3)
+  
+  Long_MA  = SMA1 < close and SMA2 < close and SMA3 < close
+  Short_MA = SMA1 > close and SMA2 > close and SMA3 > close
+  
+  // RMI ─────────────────────────────────────────────────────────────────────────
+  
+  RMI_len = input.int(30, title = "Rmi Lenght",   minval = 1, group = "Relative Momentum Index")
+  mom     = input.int(11, title = "Rmi Momentum", minval = 1, group = "Relative Momentum Index")
+  
+  RMI_os = 32
+  RMI_ob = 70
+  
+  calcRMI(len, m) =>
+      up  = ta.ema(math.max(close - close[m], 0), len)
+      dn  = ta.ema(math.max(close[m] - close, 0), len)
+      dn == 0 ? 0 : 100 - 100 / (1 + up / dn)
+  
+  L_rmi = ta.crossover (calcRMI(RMI_len, mom), RMI_os)
+  S_rmi = ta.crossunder(calcRMI(RMI_len, mom), RMI_ob)
+  
+  // POSITION ════════════════════════════════════════════════════════════════════
+  
+  Position = input.string("0", title = "1 / 2", options = ["0", "1", "2"], group = "???")
+  
+  is_Long  = Position != "1"
+  is_Short = Position != "2"
+  
+  // L/S variables ───────────────────────────────────────────────────────────────
+  
+  var bool longCond  = false
+  var bool shortCond = false
+  
+  var int CondIni_long  = 0
+  var int CondIni_short = 0
+  
+  var bool Final_longCondition    = false
+  var bool Final_shortCondition   = false
+  var bool BT_Final_longCondition = false
+  var bool BT_Final_shortCondition= false
+  
+  var float last_open_longCondition  = na
+  var float last_open_shortCondition = na
+  
+  var int last_longCondition  = na
+  var int last_shortCondition = na
+  
+  var int nLongs  = na
+  var int nShorts = na
+  
+  // STRATEGY ════════════════════════════════════════════════════════════════════
+  
+  L_1 = RS_Long_condt  and Volume_Breakouts_condt and L_adx and Long_MA
+  S_1 = RS_Short_condt and Volume_Breakouts_condt and S_adx and Short_MA
+  L_2 = L_VAP and L_sar
+  S_2 = S_VAP and S_sar
+  L_3 = L_rmi and L_sar and Long_MA
+  S_3 = S_rmi and S_sar and Short_MA
+  
+  Final_Long_Condt  = L_1 or L_2 or L_3
+  Final_Short_Condt = S_1 or S_2 or S_3
+  
+  longCond  := Final_Long_Condt
+  shortCond := Final_Short_Condt
+  
+  CondIni_long  := longCond[1] ? 1 : shortCond[1] ? -1 : nz(CondIni_long[1])
+  CondIni_short := longCond[1] ? 1 : shortCond[1] ? -1 : nz(CondIni_short[1])
+  
+  longCondition  = longCond[1]  and nz(CondIni_long[1])  == -1
+  shortCondition = shortCond[1] and nz(CondIni_short[1]) == 1
+  
+  // POSITION PRICE ──────────────────────────────────────────────────────────────
+  
+  var int last_long_sl  = na
+  var int last_short_sl = na
+  
+  last_open_longCondition  := longCondition  ? close[1] : nz(last_open_longCondition[1])
+  last_open_shortCondition := shortCondition ? close[1] : nz(last_open_shortCondition[1])
+  last_longCondition       := longCondition  ? time     : nz(last_longCondition[1])
+  last_shortCondition      := shortCondition ? time     : nz(last_shortCondition[1])
+  
+  in_longCondition  = last_longCondition  > last_shortCondition
+  in_shortCondition = last_shortCondition > last_longCondition
+  
+  Final_longCondition  := longCondition
+  Final_shortCondition := shortCondition
+  
+  if longCondition
+      nLongs  := nz(nLongs) + 1
+      nShorts := na
+  
+  if shortCondition
+      nLongs  := na
+      nShorts := nz(nShorts) + 1
+  
+  // TP_1 ────────────────────────────────────────────────────────────────────────
+  
+  tp = input.float(1.4, "TP-1 [%]", step = 0.1, group = "Backtesting")
+  
+  var bool long_tp        = false
+  var bool short_tp       = false
+  var int  last_long_tp   = na
+  var int  last_short_tp  = na
+  var bool Final_Long_tp  = false
+  var bool Final_Short_tp = false
+  
+  long_tp  := is_Long  and high > last_open_longCondition  * (1 + tp / 100) and in_longCondition
+  short_tp := is_Short and low  < last_open_shortCondition * (1 - tp / 100) and in_shortCondition
+  
+  last_long_tp  := long_tp  ? time : nz(last_long_tp[1])
+  last_short_tp := short_tp ? time : nz(last_short_tp[1])
+  
+  Final_Long_tp  := long_tp  and last_longCondition  > nz(last_long_tp[1])  and last_longCondition  > nz(last_long_sl[1])
+  Final_Short_tp := short_tp and last_shortCondition > nz(last_short_tp[1]) and last_shortCondition > nz(last_short_sl[1])
+  
+  l_1_h = Final_Long_tp  ? last_open_longCondition  * (1 + tp / 100) : na
+  s_1_h = Final_Short_tp ? last_open_shortCondition * (1 - tp / 100) : na
+  
+  // TP_2 ────────────────────────────────────────────────────────────────────────
+  
+  tp2 = input.float(2.1, "TP-2 [%]", step = 0.1)
+  
+  var bool long_tp2        = false
+  var bool short_tp2       = false
+  var int  last_long_tp2   = na
+  var int  last_short_tp2  = na
+  var bool Final_Long_tp2  = false
+  var bool Final_Short_tp2 = false
+  
+  long_tp2  := is_Long  and high > last_open_longCondition  * (1 + tp2 / 100) and in_longCondition
+  short_tp2 := is_Short and low  < last_open_shortCondition * (1 - tp2 / 100) and in_shortCondition
+  
+  last_long_tp2  := long_tp2  ? time : nz(last_long_tp2[1])
+  last_short_tp2 := short_tp2 ? time : nz(last_short_tp2[1])
+  
+  Final_Long_tp2  := long_tp2  and last_longCondition  > nz(last_long_tp2[1])  and last_longCondition  > nz(last_long_sl[1])
+  Final_Short_tp2 := short_tp2 and last_shortCondition > nz(last_short_tp2[1]) and last_shortCondition > nz(last_short_sl[1])
+  
+  l_2_h = Final_Long_tp2  ? last_open_longCondition  * (1 + tp2 / 100) : na
+  s_2_h = Final_Short_tp2 ? last_open_shortCondition * (1 - tp2 / 100) : na
+  
+  // TP_3 ────────────────────────────────────────────────────────────────────────
+  
+  tp3 = input.float(4.6, "TP-3 [%]", step = 0.1)
+  
+  var bool long_tp3        = false
+  var bool short_tp3       = false
+  var int  last_long_tp3   = na
+  var int  last_short_tp3  = na
+  var bool Final_Long_tp3  = false
+  var bool Final_Short_tp3 = false
+  
+  long_tp3  := is_Long  and high > last_open_longCondition  * (1 + tp3 / 100) and in_longCondition
+  short_tp3 := is_Short and low  < last_open_shortCondition * (1 - tp3 / 100) and in_shortCondition
+  
+  last_long_tp3  := long_tp3  ? time : nz(last_long_tp3[1])
+  last_short_tp3 := short_tp3 ? time : nz(last_short_tp3[1])
+  
+  Final_Long_tp3  := long_tp3  and last_longCondition  > nz(last_long_tp3[1])  and last_longCondition  > nz(last_long_sl[1])
+  Final_Short_tp3 := short_tp3 and last_shortCondition > nz(last_short_tp3[1]) and last_shortCondition > nz(last_short_sl[1])
+  
+  l_3_h = Final_Long_tp3  ? last_open_longCondition  * (1 + tp3 / 100) : na
+  s_3_h = Final_Short_tp3 ? last_open_shortCondition * (1 - tp3 / 100) : na
+  
+  // SL ──────────────────────────────────────────────────────────────────────────
+  
+  sl = input.float(7.1, "SL [%]", step = 0.1)
+  
+  var int  CondIni_long_sl  = 0
+  var int  CondIni_short_sl = 0
+  var bool Final_Long_sl0   = false
+  var bool Final_Short_sl0  = false
+  var bool Final_Long_sl    = false
+  var bool Final_Short_sl   = false
+  
+  long_sl  = is_Long  and low  <= (1 - sl / 100) * last_open_longCondition  and not (open < (1 - sl / 100) * last_open_longCondition)
+  short_sl = is_Short and high >= (1 + sl / 100) * last_open_shortCondition and not (open > (1 + sl / 100) * last_open_shortCondition)
+  
+  Final_Long_sl0  := Position == "0" ? long_sl  and nz(CondIni_long_sl[1])  == -1 and not Final_Long_tp  and not shortCondition : long_sl  and nz(CondIni_long_sl[1])  == -1 and not Final_Long_tp
+  Final_Short_sl0 := Position == "0" ? short_sl and nz(CondIni_short_sl[1]) == -1 and not Final_Short_tp and not longCondition  : short_sl and nz(CondIni_short_sl[1]) == -1 and not Final_Short_tp
+  
+  last_long_sl  := Final_Long_sl  ? time : nz(last_long_sl[1])
+  last_short_sl := Final_Short_sl ? time : nz(last_short_sl[1])
+  
+  Final_Long_sl  := Final_Long_sl0  and last_longCondition  > nz(last_long_tp[1]) and last_longCondition  > nz(last_long_sl[1])
+  Final_Short_sl := Final_Short_sl0 and last_shortCondition > nz(last_short_tp[1]) and last_shortCondition > nz(last_short_sl[1])
+  
+  CondIni_long_sl  := Final_Long_tp  or Final_Long_sl  or Final_shortCondition ? 1 : Final_longCondition  ? -1 : nz(CondIni_long_sl[1])
+  CondIni_short_sl := Final_Short_tp or Final_Short_sl or Final_longCondition  ? 1 : Final_shortCondition ? -1 : nz(CondIni_short_sl[1])
+  
+  // RE-ENTRY ON TP/SL HIT ───────────────────────────────────────────────────────
+  
+  var float sum_long       = 0.0
+  var float sum_short      = 0.0
+  var float Position_Price = 0.0
+  
+  if Final_Long_tp or Final_Long_sl
+      CondIni_long := -1
+      sum_long     := 0.0
+      nLongs       := na
+  
+  if Final_Short_tp or Final_Short_sl
+      CondIni_short := 1
+      sum_short     := 0.0
+      nShorts       := na
+  
+  // Renamed: long→longSignal, short→shortSignal to avoid reserved-word conflict
+  longSignal  = (longCond and not in_longCondition) or (longCond and Final_Long_tp)  or (longCond and Final_Long_sl)  or (longCond  and not longCondition  and (last_long_tp  > nz(last_longCondition)))  or (longCond  and not longCondition  and (last_long_sl  > nz(last_longCondition)))
+  shortSignal = (shortCond and not in_shortCondition) or (shortCond and Final_Short_tp) or (shortCond and Final_Short_sl) or (shortCond and not shortCondition and (last_short_tp > nz(last_shortCondition))) or (shortCond and not shortCondition and (last_short_sl > nz(last_shortCondition)))
+  
+  // Colors ──────────────────────────────────────────────────────────────────────
+  
+  color_teal    = color.new(#009688, 0)
+  color_red_sig = color.new(#f7525f, 0)
+  color_cyan    = color.new(#26c6da, 0)
+  color_darkred = color.new(#801922, 0)
+  
+  bar_color = L_cross ? color_cyan : in_longCondition ? color_teal : S_cross ? color_darkred : in_shortCondition ? color_red_sig : color.gray
+  SMA_color = Long_MA ? color_teal : Short_MA ? color.red : na
+  
+  barcolor(bar_color)
+  
+  // PLOTS ═══════════════════════════════════════════════════════════════════════
+  
+  plot(l_1_h, style = plot.style_circles, linewidth = 7, color = color.fuchsia, editable = false)
+  plot(s_1_h, style = plot.style_circles, linewidth = 7, color = color.fuchsia, editable = false)
+  plot(l_2_h, style = plot.style_circles, linewidth = 7, color = color.fuchsia, editable = false)
+  plot(s_2_h, style = plot.style_circles, linewidth = 7, color = color.fuchsia, editable = false)
+  plot(l_3_h, style = plot.style_circles, linewidth = 7, color = color.fuchsia, editable = false)
+  plot(s_3_h, style = plot.style_circles, linewidth = 7, color = color.fuchsia, editable = false)
+  
+  plot(SMA1, color = SMA_color, style = plot.style_stepline, title = "14",  linewidth = 1)
+  plot(SMA2, color = SMA_color, style = plot.style_stepline, title = "28",  linewidth = 2)
+  plot(SMA3, color = SMA_color, style = plot.style_stepline, title = "55",  linewidth = 3)
+  
+  // PLOTSHAPES ══════════════════════════════════════════════════════════════════
+  
+  plotshape(Final_Long_tp2  and  Final_Long_tp,      title = "Long TP HIT",  style = shape.flag,         location = location.abovebar, color = color.red,   size = size.tiny, textcolor = color.red)
+  plotshape(Final_Short_tp2 and  Final_Short_tp,     title = "Short TP HIT", style = shape.flag,         location = location.belowbar, color = color.green, size = size.tiny, textcolor = color.green)
+  plotshape(Final_Long_tp2  and not Final_Long_tp,   title = "Long TP HIT",  style = shape.triangledown, location = location.abovebar, color = color.red,   text = "TP", size = size.tiny, textcolor = color.red)
+  plotshape(Final_Short_tp2 and not Final_Short_tp,  title = "Short TP HIT", style = shape.triangleup,   location = location.belowbar, color = color.green, text = "TP", size = size.tiny, textcolor = color.green)
+  plotshape(Final_Long_tp   and not Final_Long_tp2,  title = "Long TP HIT",  style = shape.triangledown, location = location.abovebar, color = color.red,   text = "TP", size = size.tiny, textcolor = color.red)
+  plotshape(Final_Short_tp  and not Final_Short_tp2, title = "Short TP HIT", style = shape.triangleup,   location = location.belowbar, color = color.green, text = "TP", size = size.tiny, textcolor = color.green)
+  plotshape(Final_Long_tp3,                          title = "Long TP HIT",  style = shape.flag,         location = location.abovebar, color = color.red,   size = size.tiny, textcolor = color.red)
+  plotshape(Final_Short_tp3,                         title = "Short TP HIT", style = shape.flag,         location = location.belowbar, color = color.green, size = size.tiny, textcolor = color.green)
+  plotshape(longCondition,                           title = "L x1", style = shape.triangleup,   location = location.belowbar, color = color.blue, size = size.tiny, textcolor = color.blue)
+  plotshape(shortCondition,                          title = "S x1", style = shape.triangledown, location = location.abovebar, color = color.red,  size = size.tiny, textcolor = color.red)
+  
+  // BACKTESTING ═════════════════════════════════════════════════════════════════
+  
+  ACT_BT         = input.bool(true, title = "Backtest", group = "BACKTEST")
+  testStartYear  = input.int(1997, title = "start year",  minval = 1997, maxval = 3000, group = "BACKTEST")
+  testStartMonth = input.int(6,    title = "start month", minval = 1,    maxval = 12,   group = "BACKTEST")
+  testStartDay   = input.int(1,    title = "start day",   minval = 1,    maxval = 31,   group = "BACKTEST")
+  testPeriodStart= timestamp(testStartYear, testStartMonth, testStartDay, 0, 0)
+  
+  testStopYear   = input.int(3333, title = "stop year",  minval = 1980, maxval = 3333, group = "BACKTEST")
+  testStopMonth  = input.int(12,   title = "stop month", minval = 1,    maxval = 12,   group = "BACKTEST")
+  testStopDay    = input.int(31,   title = "stop day",   minval = 1,    maxval = 31,   group = "BACKTEST")
+  testPeriodStop = timestamp(testStopYear, testStopMonth, testStopDay, 0, 0)
+  
+  testPeriod = time >= testPeriodStart and time <= testPeriodStop
+  
+  if longSignal and ACT_BT and testPeriod
+      strategy.entry("L_1", strategy.long)
+      strategy.entry("L_2", strategy.long)
+      strategy.entry("L_3", strategy.long)
+  
+  if shortSignal and ACT_BT and testPeriod
+      strategy.entry("S_1", strategy.short)
+      strategy.entry("S_2", strategy.short)
+      strategy.entry("S_3", strategy.short)
+  
+  strategy.exit("TP-1_L", "L_1", profit = math.abs(last_open_longCondition  * (1 + tp  / 100) - last_open_longCondition)  / syminfo.mintick, loss = math.abs(last_open_longCondition  * (1 - sl / 100) - last_open_longCondition)  / syminfo.mintick)
+  strategy.exit("TP-2_L", "L_2", profit = math.abs(last_open_longCondition  * (1 + tp2 / 100) - last_open_longCondition)  / syminfo.mintick, loss = math.abs(last_open_longCondition  * (1 - sl / 100) - last_open_longCondition)  / syminfo.mintick)
+  strategy.exit("TP-3_L", "L_3", profit = math.abs(last_open_longCondition  * (1 + tp3 / 100) - last_open_longCondition)  / syminfo.mintick, loss = math.abs(last_open_longCondition  * (1 - sl / 100) - last_open_longCondition)  / syminfo.mintick)
+  strategy.exit("TP-1_S", "S_1", profit = math.abs(last_open_shortCondition * (1 - tp  / 100) - last_open_shortCondition) / syminfo.mintick, loss = math.abs(last_open_shortCondition * (1 + sl / 100) - last_open_shortCondition) / syminfo.mintick)
+  strategy.exit("TP-2_S", "S_2", profit = math.abs(last_open_shortCondition * (1 - tp2 / 100) - last_open_shortCondition) / syminfo.mintick, loss = math.abs(last_open_shortCondition * (1 + sl / 100) - last_open_shortCondition) / syminfo.mintick)
+  strategy.exit("TP-3_S", "S_3", profit = math.abs(last_open_shortCondition * (1 - tp3 / 100) - last_open_shortCondition) / syminfo.mintick, loss = math.abs(last_open_shortCondition * (1 + sl / 100) - last_open_shortCondition) / syminfo.mintick)
+  
+  // By wielkieef
+  
+  c
+
+--- WINDOW  2026/11/15 09:10:43  [chrome.exe] BTCUSDT.P 62,559.0 ▼ −2.44% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:10:43  [chrome.exe] BTCUSDT.P 62,573.5 ▼ −2.42% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:10:43  [chrome.exe] BTCUSDT.P 62,573.6 ▼ −2.42% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/15 09:10:43  [chrome.exe] 新增對話 - Claude - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  1; ji3ru; pinem3u06hk4xm,5[Bk][Bk][Bk]xm,45j03t/6mql5[ENTER]
+  m3u06[ENTER]
+  ;[<-][<-][v][v]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Ctrl]v[ENTER]
+
+--- WINDOW  2026/11/15 09:11:34  [chrome.exe] Claude - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:11:36  [chrome.exe] PINE 轉 MQL5 策略 - Claude - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:11:43  [chrome.exe] BTCUSDT.P 62,792.1 ▼ −2.08% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/15 09:11:43  [chrome.exe] BTCUSDT.P 62,787.5 ▼ −2.09% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:11:44  [chrome.exe] BTCUSDT.P 62,787.6 ▼ −2.09% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/15 09:11:45  [chrome.exe] BTCUSDT.P 62,792.1 ▼ −2.08% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:11:46  [chrome.exe] BTCUSDT.P 62,788.9 ▼ −2.08% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:11:46  [chrome.exe] BTCUSDT.P 62,778.9 ▼ −2.1% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:11:47  [chrome.exe] BTCUSDT.P 62,778.8 ▼ −2.1% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:11:47  [chrome.exe] BTCUSDT.P 62,788.2 ▼ −2.08% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/15 09:11:47  [chrome.exe] PINE 轉 MQL5 策略 - Claude - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:11:53  [chrome.exe] BTCUSDT.P 62,792.2 ▼ −2.08% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/15 09:11:54  [chrome.exe] BTCUSDT.P 62,792.1 ▼ −2.08% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:11:54  [chrome.exe] BTCUSDT.P 62,784.7 ▼ −2.09% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:11:54  [chrome.exe] BTCUSDT.P 62,778.9 ▼ −2.1% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:11:55  [chrome.exe] BTCUSDT.P 62,778.8 ▼ −2.1% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:11:55  [chrome.exe] BTCUSDT.P 62,790.8 ▼ −2.08% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:11:55  [chrome.exe] BTCUSDT.P 62,780.1 ▼ −2.1% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:11:56  [chrome.exe] BTCUSDT.P 62,760.1 ▼ −2.13% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:11:56  [chrome.exe] BTCUSDT.P 62,760.0 ▼ −2.13% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:11:57  [chrome.exe] BTCUSDT.P 62,754.7 ▼ −2.14% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:11:57  [chrome.exe] BTCUSDT.P 62,750.2 ▼ −2.14% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:11:58  [chrome.exe] BTCUSDT.P 62,759.8 ▼ −2.13% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:11:59  [chrome.exe] BTCUSDT.P 62,750.2 ▼ −2.14% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:11:59  [chrome.exe] BTCUSDT.P 62,750.3 ▼ −2.14% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:12:00  [chrome.exe] BTCUSDT.P 62,757.7 ▼ −2.13% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:12:00  [chrome.exe] BTCUSDT.P 62,757.6 ▼ −2.13% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:12:00  [chrome.exe] BTCUSDT.P 62,774.4 ▼ −2.11% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:12:01  [chrome.exe] BTCUSDT.P 62,791.9 ▼ −2.08% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:12:01  [chrome.exe] BTCUSDT.P 62,783.8 ▼ −2.09% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:12:01  [chrome.exe] BTCUSDT.P 62,783.7 ▼ −2.09% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:12:02  [chrome.exe] BTCUSDT.P 62,783.8 ▼ −2.09% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:12:02  [chrome.exe] BTCUSDT.P 62,789.3 ▼ −2.08% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:12:03  [chrome.exe] BTCUSDT.P 62,810.7 ▼ −2.05% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:12:03  [chrome.exe] BTCUSDT.P 62,828.5 ▼ −2.02% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/15 09:12:03  [chrome.exe] BTCUSDT.P 62,843.5 ▼ −2% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:12:04  [chrome.exe] BTCUSDT.P 62,844.5 ▼ −2% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:12:04  [chrome.exe] BTCUSDT.P 62,840.0 ▼ −2% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:12:04  [chrome.exe] BTCUSDT.P 62,847.4 ▼ −1.99% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:12:05  [chrome.exe] BTCUSDT.P 62,844.8 ▼ −2% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:12:05  [chrome.exe] BTCUSDT.P 62,844.7 ▼ −2% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:12:05  [chrome.exe] BTCUSDT.P 62,845.0 ▼ −2% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:12:06  [chrome.exe] BTCUSDT.P 62,844.9 ▼ −2% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:12:06  [chrome.exe] BTCUSDT.P 62,845.0 ▼ −2% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:12:06  [chrome.exe] BTCUSDT.P 62,844.9 ▼ −2% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:12:06  [chrome.exe] BTCUSDT.P 62,849.5 ▼ −1.99% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:12:07  [chrome.exe] BTCUSDT.P 62,849.6 ▼ −1.99% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:12:07  [chrome.exe] BTCUSDT.P 62,839.1 ▼ −2% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:12:08  [chrome.exe] BTCUSDT.P 62,839.3 ▼ −2% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:12:08  [chrome.exe] BTCUSDT.P 62,848.3 ▼ −1.99% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:12:09  [chrome.exe] BTCUSDT.P 62,848.2 ▼ −1.99% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:12:09  [chrome.exe] BTCUSDT.P 62,831.9 ▼ −2.02% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:12:09  [chrome.exe] BTCUSDT.P 62,838.0 ▼ −2.01% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:12:09  [chrome.exe] BTCUSDT.P 62,846.9 ▼ −1.99% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:12:10  [chrome.exe] BTCUSDT.P 62,855.5 ▼ −1.98% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:12:10  [chrome.exe] BTCUSDT.P 62,869.6 ▼ −1.96% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:12:10  [chrome.exe] BTCUSDT.P 62,866.7 ▼ −1.96% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:12:11  [chrome.exe] BTCUSDT.P 62,870.4 ▼ −1.96% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:12:11  [chrome.exe] BTCUSDT.P 62,872.6 ▼ −1.95% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:12:11  [chrome.exe] BTCUSDT.P 62,882.3 ▼ −1.94% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:12:12  [chrome.exe] BTCUSDT.P 62,882.4 ▼ −1.94% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:12:12  [chrome.exe] BTCUSDT.P 62,886.6 ▼ −1.93% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:12:12  [chrome.exe] BTCUSDT.P 62,892.0 ▼ −1.92% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:12:13  [chrome.exe] BTCUSDT.P 62,891.9 ▼ −1.92% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:12:13  [chrome.exe] BTCUSDT.P 62,865.0 ▼ −1.96% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:12:13  [chrome.exe] BTCUSDT.P 62,873.9 ▼ −1.95% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:12:14  [chrome.exe] BTCUSDT.P 62,882.5 ▼ −1.94% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:12:14  [chrome.exe] BTCUSDT.P 62,865.2 ▼ −1.96% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:12:14  [chrome.exe] BTCUSDT.P 62,857.9 ▼ −1.98% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:12:15  [chrome.exe] BTCUSDT.P 62,865.2 ▼ −1.96% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:12:15  [chrome.exe] BTCUSDT.P 62,865.1 ▼ −1.96% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:12:15  [chrome.exe] BTCUSDT.P 62,848.3 ▼ −1.99% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:12:16  [chrome.exe] BTCUSDT.P 62,848.4 ▼ −1.99% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:12:16  [chrome.exe] BTCUSDT.P 62,867.0 ▼ −1.96% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:12:16  [chrome.exe] BTCUSDT.P 62,861.7 ▼ −1.97% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:12:17  [chrome.exe] BTCUSDT.P 62,875.4 ▼ −1.95% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:12:17  [chrome.exe] BTCUSDT.P 62,872.6 ▼ −1.95% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:12:17  [chrome.exe] BTCUSDT.P 62,882.7 ▼ −1.94% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:12:18  [chrome.exe] BTCUSDT.P 62,882.8 ▼ −1.94% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/15 09:12:18  [chrome.exe] BTCUSDT.P 62,886.9 ▼ −1.93% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:12:19  [chrome.exe] BTCUSDT.P 62,863.2 ▼ −1.97% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:12:19  [chrome.exe] BTCUSDT.P 62,868.1 ▼ −1.96% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:12:19  [chrome.exe] BTCUSDT.P 62,871.2 ▼ −1.95% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/15 09:12:20  [chrome.exe] BTCUSDT.P 62,891.1 ▼ −1.92% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:12:20  [chrome.exe] BTCUSDT.P 62,887.1 ▼ −1.93% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/15 09:12:21  [chrome.exe] BTCUSDT.P 62,883.1 ▼ −1.94% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:12:21  [chrome.exe] BTCUSDT.P 62,873.8 ▼ −1.95% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/15 09:12:21  [chrome.exe] BTCUSDT.P 62,873.9 ▼ −1.95% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:12:21  [chrome.exe] BTCUSDT.P 62,877.8 ▼ −1.94% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/15 09:12:22  [chrome.exe] BTCUSDT.P 62,877.9 ▼ −1.94% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:12:22  [chrome.exe] BTCUSDT.P 62,890.5 ▼ −1.92% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:12:22  [chrome.exe] BTCUSDT.P 62,885.4 ▼ −1.93% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:12:23  [chrome.exe] BTCUSDT.P 62,886.4 ▼ −1.93% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:12:23  [chrome.exe] BTCUSDT.P 62,885.4 ▼ −1.93% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:12:24  [chrome.exe] BTCUSDT.P 62,870.6 ▼ −1.96% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:12:24  [chrome.exe] BTCUSDT.P 62,865.2 ▼ −1.96% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:12:24  [chrome.exe] BTCUSDT.P 62,864.9 ▼ −1.96% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:12:25  [chrome.exe] BTCUSDT.P 62,872.0 ▼ −1.95% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:12:25  [chrome.exe] BTCUSDT.P 62,882.3 ▼ −1.94% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:12:25  [chrome.exe] BTCUSDT.P 62,882.7 ▼ −1.94% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:12:26  [chrome.exe] BTCUSDT.P 62,882.6 ▼ −1.94% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:12:26  [chrome.exe] BTCUSDT.P 62,884.7 ▼ −1.93% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:12:26  [chrome.exe] BTCUSDT.P 62,877.6 ▼ −1.94% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:12:27  [chrome.exe] BTCUSDT.P 62,877.5 ▼ −1.95% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:12:28  [chrome.exe] BTCUSDT.P 62,877.6 ▼ −1.94% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:12:28  [chrome.exe] BTCUSDT.P 62,877.7 ▼ −1.94% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:12:29  [chrome.exe] BTCUSDT.P 62,877.6 ▼ −1.94% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:12:29  [chrome.exe] BTCUSDT.P 62,895.3 ▼ −1.92% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:12:29  [chrome.exe] BTCUSDT.P 62,917.8 ▼ −1.88% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:12:30  [chrome.exe] BTCUSDT.P 62,915.7 ▼ −1.89% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:12:30  [chrome.exe] BTCUSDT.P 62,917.5 ▼ −1.88% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:12:30  [chrome.exe] BTCUSDT.P 62,917.8 ▼ −1.88% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:12:30  [chrome.exe] BTCUSDT.P 62,921.0 ▼ −1.88% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:12:31  [chrome.exe] BTCUSDT.P 62,920.9 ▼ −1.88% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:12:31  [chrome.exe] BTCUSDT.P 62,921.0 ▼ −1.88% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/15 09:12:31  [chrome.exe] PINE 轉 MQL5 策略 - Claude - Google Chrome
+----------------------------------------------------------------------------
+  [Ctrl]a
+  [LMB]
+  [Ctrl]a[Ctrl]c
+  [Clipboard]
+  //+------------------------------------------------------------------+
+  //|                                        BitcoinMaximalist_4h.mq5  |
+  //|  MQL5 port of Pine Script v6 "Bitcoin Maximalist [4h]"           |
+  //|  Original strategy (c) wielkieef - Mozilla Public License 2.0    |
+  //|                                                                  |
+  //|  NOTE: requires a HEDGING account (3 legs per signal, each with  |
+  //|        its own TP).  Recommended: BTCUSD, H4.                    |
+  //+------------------------------------------------------------------+
+  #property copyright "Port of 'Bitcoin Maximalist [4h]' (c) wielkieef, MPL 2.0"
+  #property version   "1.00"
+  #property description "MQL5 port of the Pine Script strategy. Hedging account required."
+  
+  #include <Trade\Trade.mqh>
+  
+  enum ENUM_ADX_MODE { ADX_CLASSIC = 0, ADX_MASANAKAMURA = 1 };
+  enum ENUM_POS_MODE { POS_BOTH = 0, POS_SHORT_ONLY = 1, POS_LONG_ONLY = 2 };
+  
+  //--- inputs ---------------------------------------------------------
+  input group "Support and Resistance"
+  input int            InpLeft        = 6;
+  input int            InpRight       = 3;
+  
+  input group "ADX"
+  input ENUM_ADX_MODE  InpAdxMode     = ADX_MASANAKAMURA;
+  input int            InpAdxLen      = 11;
+  input double         InpAdxTh       = 12.0;
+  
+  input group "Volume (BREAKOUTS)"
+  input double         InpVolMult     = 1.9;
+  input int            InpVolLen      = 40;
+  
+  input group "SAR"
+  input double         InpSarStart    = 0.9;
+  input double         InpSarInc      = 0.1;
+  input double         InpSarMax      = 0.9;
+  
+  input group "RSI-VWAP"
+  input int            InpRsiVwapLen  = 48;
+  input double         InpRsiVwapOS   = 29;
+  input double         InpRsiVwapOB   = 75;
+  input int            InpServerUTCOffsetH = 0;   // broker server time offset vs UTC (hours), used for daily VWAP reset
+  input bool           InpUseRealVolume = false;  // false = tick volume
+  
+  input group "SMA"
+  input int            InpSma1        = 14;
+  input int            InpSma2        = 28;
+  input int            InpSma3        = 55;
+  
+  input group "Relative Momentum Index"
+  input int            InpRmiLen      = 30;
+  input int            InpRmiMom      = 11;
+  input double         InpRmiOS       = 32;
+  input double         InpRmiOB       = 70;
+  
+  input group "Position / TP / SL"
+  input ENUM_POS_MODE  InpPosition    = POS_BOTH; // 0 = both, 1 = short only, 2 = long only
+  input double         InpTP1         = 1.4;      // TP-1 [%]
+  input double         InpTP2         = 2.1;      // TP-2 [%]
+  input double         InpTP3         = 4.6;      // TP-3 [%]
+  input double         InpSL          = 7.1;      // SL [%]
+  
+  input group "Trading"
+  input double         InpEquityPct   = 8.0;      // % of equity per entry (notional)
+  input double         InpFixedLot    = 0.0;      // >0 : use fixed lot instead of % equity
+  input int            InpMaxEntries  = 10;       // pyramiding
+  input long           InpMagic       = 20260115;
+  input int            InpDeviation   = 50;
+  input int            InpWarmupBars  = 3000;     // history bars used to warm up indicators/state
+  input datetime       InpStartTime   = D'1997.06.01 00:00';
+  input datetime       InpStopTime    = D'2100.12.31 00:00';
+  
+  //--- helper smoothing structures ------------------------------------
+  struct CRma   // Pine ta.rma (SMA seed, then alpha = 1/len)
+  {
+     int    len, cnt;
+     double sum, val;
+     bool   ready;
+     void Init(const int l) { len = l; cnt = 0; sum = 0; val = 0; ready = false; }
+     void Add(const double x)
+     {
+        if(!ready) { sum += x; cnt++; if(cnt >= len) { val = sum / len; ready = true; } }
+        else        val = (val * (len - 1) + x) / len;
+     }
+  };
+  
+  struct CEma   // Pine ta.ema (seeded with first value)
+  {
+     double alpha, val;
+     bool   ready;
+     void Init(const int l) { alpha = 2.0 / (l + 1.0); val = 0; ready = false; }
+     void Add(const double x)
+     {
+        if(!ready) { val = x; ready = true; }
+        else        val = alpha * x + (1.0 - alpha) * val;
+     }
+  };
+  
+  //--- bar history ----------------------------------------------------
+  double   g_o[], g_h[], g_l[], g_c[], g_v[], g_dx[];
+  datetime g_t[];
+  int      g_n = 0;
+  
+  //--- pivots
+  double g_top = 0, g_bot = 0;
+  bool   g_hasTop = false, g_hasBot = false;
+  
+  //--- ADX
+  CRma   g_rTr, g_rP, g_rM, g_rAdx;
+  double g_sTR = 0, g_sDMp = 0, g_sDMm = 0;
+  double g_diP = 0, g_diM = 0, g_adx = 0;
+  bool   g_adxOk = false;
+  
+  //--- SAR
+  double g_sarRes = 0, g_sarMaxMin = 0, g_sarAcc = 0, g_sar = 0;
+  bool   g_sarBelow = false, g_sarOk = false;
+  
+  //--- RSI-VWAP
+  CRma   g_rvU, g_rvD;
+  long   g_vwapDay = -1;
+  double g_cumPV = 0, g_cumV = 0, g_vwapPrev = 0;
+  bool   g_vwapPrevOk = false;
+  double g_rsiV = 0, g_rsiVPrev = 0;
+  bool   g_rsiVOk = false, g_rsiVPrevOk = false;
+  
+  //--- RMI
+  CEma   g_eU, g_eD;
+  double g_rmi = 0, g_rmiPrev = 0;
+  bool   g_rmiOk = false, g_rmiPrevOk = false;
+  
+  //--- strategy state machine (mirrors the Pine 'var' variables)
+  bool     g_longCond = false, g_shortCond = false;
+  int      g_ciLong = 0, g_ciShort = 0;
+  double   g_lastOpenLong = 0, g_lastOpenShort = 0;
+  datetime g_lastLong = 0, g_lastShort = 0;
+  datetime g_lastLongTp = 0, g_lastShortTp = 0;
+  datetime g_lastLongSl = 0, g_lastShortSl = 0;
+  bool     g_finalLongSl = false, g_finalShortSl = false;
+  int      g_ciLongSl = 0, g_ciShortSl = 0;
+  
+  bool     g_sigLong = false, g_sigShort = false;
+  
+  CTrade   g_trade;
+  datetime g_lastProcessed = 0;
+  datetime g_lastBarTime   = 0;
+  
+  //+------------------------------------------------------------------+
+  //| Bar storage                                                      |
+  //+------------------------------------------------------------------+
+  void AppendBar(const MqlRates &r)
+  {
+     int n = g_n + 1;
+     ArrayResize(g_o, n, 8192);  ArrayResize(g_h, n, 8192);
+     ArrayResize(g_l, n, 8192);  ArrayResize(g_c, n, 8192);
+     ArrayResize(g_v, n, 8192);  ArrayResize(g_dx, n, 8192);
+     ArrayResize(g_t, n, 8192);
+     g_o[g_n] = r.open;  g_h[g_n] = r.high;
+     g_l[g_n] = r.low;   g_c[g_n] = r.close;
+     g_v[g_n] = InpUseRealVolume ? (double)r.real_volume : (double)r.tick_volume;
+     g_dx[g_n] = 0;
+     g_t[g_n] = r.time;
+     g_n = n;
+  }
+  
+  bool Sma(const int len, double &out)
+  {
+     int i = g_n - 1;
+     if(i < len - 1) return false;
+     double s = 0;
+     for(int k = i - len + 1; k <= i; k++) s += g_c[k];
+     out = s / len;
+     return true;
+  }
+  
+  //+------------------------------------------------------------------+
+  //| Indicators                                                       |
+  //+------------------------------------------------------------------+
+  void UpdatePivots(const int i)
+  {
+     if(i < InpLeft + InpRight) return;
+     int p = i - InpRight;
+     bool isH = true, isL = true;
+     for(int k = p - InpLeft; k <= i; k++)
+     {
+        if(k == p) continue;
+        if(g_h[k] > g_h[p]) isH = false;
+        if(g_l[k] < g_l[p]) isL = false;
+     }
+     if(isH) { g_top = g_h[p]; g_hasTop = true; }
+     if(isL) { g_bot = g_l[p]; g_hasBot = true; }
+  }
+  
+  void UpdateAdx(const int i)
+  {
+     if(i < 1) return;
+     double tr = MathMax(g_h[i] - g_l[i],
+                 MathMax(MathAbs(g_h[i] - g_c[i - 1]), MathAbs(g_l[i] - g_c[i - 1])));
+  
+     if(InpAdxMode == ADX_CLASSIC)
+     {
+        double up = g_h[i] - g_h[i - 1];
+        double dn = -(g_l[i] - g_l[i - 1]);
+        double pdm = (up > dn && up > 0) ? up : 0;
+        double mdm = (dn > up && dn > 0) ? dn : 0;
+        g_rTr.Add(tr); g_rP.Add(pdm); g_rM.Add(mdm);
+        if(g_rTr.ready && g_rTr.val > 0)
+        {
+           g_diP = 100.0 * g_rP.val / g_rTr.val;
+           g_diM = 100.0 * g_rM.val / g_rTr.val;
+           double sum = g_diP + g_diM;
+           g_rAdx.Add(MathAbs(g_diP - g_diM) / (sum == 0 ? 1 : sum));
+           if(g_rAdx.ready) { g_adx = 100.0 * g_rAdx.val; g_adxOk = true; }
+        }
+     }
+     else // Masanakamura
+     {
+        double dmp = (g_h[i] - g_h[i - 1] > g_l[i - 1] - g_l[i]) ? MathMax(g_h[i] - g_h[i - 1], 0) : 0;
+        double dmm = (g_l[i - 1] - g_l[i] > g_h[i] - g_h[i - 1]) ? MathMax(g_l[i - 1] - g_l[i], 0) : 0;
+        g_sTR  = g_sTR  - g_sTR  / InpAdxLen + tr;
+        g_sDMp = g_sDMp - g_sDMp / InpAdxLen + dmp;
+        g_sDMm = g_sDMm - g_sDMm / InpAdxLen + dmm;
+        if(g_sTR > 0)
+        {
+           g_diP = g_sDMp / g_sTR * 100.0;
+           g_diM = g_sDMm / g_sTR * 100.0;
+           double sum = g_diP + g_diM;
+           g_dx[i] = (sum == 0) ? 0 : MathAbs(g_diP - g_diM) / sum * 100.0;
+        }
+        if(i >= InpAdxLen)
+        {
+           double s = 0;
+           for(int k = i - InpAdxLen + 1; k <= i; k++) s += g_dx[k];
+           g_adx = s / InpAdxLen;
+           g_adxOk = true;
+        }
+     }
+  }
+  
+  // Port of Pine ta.sar (reference implementation from the Pine docs)
+  void UpdateSar(const int i)
+  {
+     if(i < 1) return;
+     bool firstTrendBar = false;
+     if(i == 1)
+     {
+        if(g_c[1] > g_c[0]) { g_sarBelow = true;  g_sarMaxMin = g_h[1]; g_sarRes = g_l[0]; }
+        else                { g_sarBelow = false; g_sarMaxMin = g_l[1]; g_sarRes = g_h[0]; }
+        firstTrendBar = true;
+        g_sarAcc = InpSarStart;
+     }
+     g_sarRes = g_sarRes + g_sarAcc * (g_sarMaxMin - g_sarRes);
+  
+     if(g_sarBelow)
+     {
+        if(g_sarRes > g_l[i])
+        {
+           firstTrendBar = true; g_sarBelow = false;
+           g_sarRes = MathMax(g_h[i], g_sarMaxMin);
+           g_sarMaxMin = g_l[i]; g_sarAcc = InpSarStart;
+        }
+     }
+     else
+     {
+        if(g_sarRes < g_h[i])
+        {
+           firstTrendBar = true; g_sarBelow = true;
+           g_sarRes = MathMin(g_l[i], g_sarMaxMin);
+           g_sarMaxMin = g_h[i]; g_sarAcc = InpSarStart;
+        }
+     }
+  
+     if(!firstTrendBar)
+     {
+        if(g_sarBelow)
+        {
+           if(g_h[i] > g_sarMaxMin) { g_sarMaxMin = g_h[i]; g_sarAcc = MathMin(g_sarAcc + InpSarInc, InpSarMax); }
+        }
+        else
+        {
+           if(g_l[i] < g_sarMaxMin) { g_sarMaxMin = g_l[i]; g_sarAcc = MathMin(g_sarAcc + InpSarInc, InpSarMax); }
+        }
+     }
+  
+     if(g_sarBelow)
+     {
+        g_sarRes = MathMin(g_sarRes, g_l[i - 1]);
+        if(i > 1) g_sarRes = MathMin(g_sarRes, g_l[i - 2]);
+     }
+     else
+     {
+        g_sarRes = MathMax(g_sarRes, g_h[i - 1]);
+        if(i > 1) g_sarRes = MathMax(g_sarRes, g_h[i - 2]);
+     }
+     g_sar = g_sarRes;
+     g_sarOk = true;
+  }
+  
+  // RSI( ta.vwap , len )  -  VWAP of hlc3 anchored to the day start
+  void UpdateRsiVwap(const int i)
+  {
+     g_rsiVPrev = g_rsiV; g_rsiVPrevOk = g_rsiVOk;
+  
+     long day = ((long)g_t[i] - (long)InpServerUTCOffsetH * 3600) / 86400;
+     if(day != g_vwapDay) { g_vwapDay = day; g_cumPV = 0; g_cumV = 0; }
+     double hlc3 = (g_h[i] + g_l[i] + g_c[i]) / 3.0;
+     g_cumPV += hlc3 * g_v[i];
+     g_cumV  += g_v[i];
+     double vwap = (g_cumV > 0) ? g_cumPV / g_cumV : hlc3;
+  
+     if(g_vwapPrevOk)
+     {
+        double chg = vwap - g_vwapPrev;
+        g_rvU.Add(MathMax(chg, 0));
+        g_rvD.Add(MathMax(-chg, 0));
+        if(g_rvU.ready)
+        {
+           if(g_rvD.val == 0)      g_rsiV = 100.0;
+           else if(g_rvU.val == 0) g_rsiV = 0.0;
+           else                    g_rsiV = 100.0 - 100.0 / (1.0 + g_rvU.val / g_rvD.val);
+           g_rsiVOk = true;
+        }
+     }
+     g_vwapPrev = vwap; g_vwapPrevOk = true;
+  }
+  
+  void UpdateRmi(const int i)
+  {
+     g_rmiPrev = g_rmi; g_rmiPrevOk = g_rmiOk;
+     if(i < InpRmiMom) return;
+     double up = MathMax(g_c[i] - g_c[i - InpRmiMom], 0);
+     double dn = MathMax(g_c[i - InpRmiMom] - g_c[i], 0);
+     g_eU.Add(up); g_eD.Add(dn);
+     g_rmi = (g_eD.val == 0) ? 0.0 : 100.0 - 100.0 / (1.0 + g_eU.val / g_eD.val);
+     g_rmiOk = true;
+  }
+  
+  //+------------------------------------------------------------------+
+  //| Process one CLOSED bar: indicators + Pine state machine          |
+  //+------------------------------------------------------------------+
+  void ProcessBar(const MqlRates &r)
+  {
+     AppendBar(r);
+     const int i = g_n - 1;
+     g_sigLong = false; g_sigShort = false;
+  
+     UpdatePivots(i);
+     UpdateRsiVwap(i);
+     UpdateRmi(i);
+     UpdateSar(i);
+     UpdateAdx(i);
+     if(i < 1) return;
+  
+     //--- raw conditions ------------------------------------------------
+     bool rsLong  = g_hasTop && g_c[i] > g_top;
+     bool rsShort = g_hasBot && g_c[i] < g_bot;
+  
+     bool volOk = false;
+     if(i >= InpVolLen - 1)
+     {
+        double s = 0;
+        for(int k = i - InpVolLen + 1; k <= i; k++) s += g_v[k];
+        volOk = g_v[i] > (s / InpVolLen) * InpVolMult;
+     }
+  
+     bool Ladx = g_adxOk && g_diP > g_diM && g_adx > InpAdxTh;
+     bool Sadx = g_adxOk && g_diP < g_diM && g_adx > InpAdxTh;
+  
+     double s1, s2, s3;
+     bool maOk = Sma(InpSma1, s1) && Sma(InpSma2, s2) && Sma(InpSma3, s3);
+     bool longMA  = maOk && s1 < g_c[i] && s2 < g_c[i] && s3 < g_c[i];
+     bool shortMA = maOk && s1 > g_c[i] && s2 > g_c[i] && s3 > g_c[i];
+  
+     bool Lsar = g_sarOk && g_sar < g_c[i];
+     bool Ssar = g_sarOk && g_sar > g_c[i];
+  
+     bool Lvap = g_rsiVOk && g_rsiVPrevOk && g_rsiVPrev <= InpRsiVwapOS && g_rsiV > InpRsiVwapOS;
+     bool Svap = g_rsiVOk && g_rsiVPrevOk && g_rsiVPrev >= InpRsiVwapOB && g_rsiV < InpRsiVwapOB;
+  
+     bool Lrmi = g_rmiOk && g_rmiPrevOk && g_rmiPrev <= InpRmiOS && g_rmi > InpRmiOS;
+     bool Srmi = g_rmiOk && g_rmiPrevOk && g_rmiPrev >= InpRmiOB && g_rmi < InpRmiOB;
+  
+     bool L1 = rsLong  && volOk && Ladx && longMA;
+     bool S1 = rsShort && volOk && Sadx && shortMA;
+     bool L2 = Lvap && Lsar;
+     bool S2 = Svap && Ssar;
+     bool L3 = Lrmi && Lsar && longMA;
+     bool S3 = Srmi && Ssar && shortMA;
+  
+     //--- snapshot of previous-bar values (Pine [1]) --------------------
+     const bool     pLongCond  = g_longCond,  pShortCond = g_shortCond;
+     const int      pCiLong    = g_ciLong,    pCiShort   = g_ciShort;
+     const datetime pLastLongTp = g_lastLongTp, pLastShortTp = g_lastShortTp;
+     const datetime pLastLongSl = g_lastLongSl, pLastShortSl = g_lastShortSl;
+     const int      pCiLongSl  = g_ciLongSl,  pCiShortSl = g_ciShortSl;
+  
+     g_longCond  = (L1 || L2 || L3);
+     g_shortCond = (S1 || S2 || S3);
+  
+     g_ciLong  = pLongCond ? 1 : (pShortCond ? -1 : pCiLong);
+     g_ciShort = pLongCond ? 1 : (pShortCond ? -1 : pCiShort);
+  
+     bool longCondition  = pLongCond  && pCiLong  == -1;
+     bool shortCondition = pShortCond && pCiShort ==  1;
+  
+     if(longCondition)  { g_lastOpenLong  = g_c[i - 1]; g_lastLong  = g_t[i]; }
+     if(shortCondition) { g_lastOpenShort = g_c[i - 1]; g_lastShort = g_t[i]; }
+  
+     bool inLong  = g_lastLong  > g_lastShort;
+     bool inShort = g_lastShort > g_lastLong;
+  
+     const bool isLong  = (InpPosition != POS_SHORT_ONLY);
+     const bool isShort = (InpPosition != POS_LONG_ONLY);
+  
+     //--- TP-1 -----------------------------------------------------------
+     bool longTp  = isLong  && g_lastOpenLong  > 0 && g_h[i] > g_lastOpenLong  * (1.0 + InpTP1 / 100.0) && inLong;
+     bool shortTp = isShort && g_lastOpenShort > 0 && g_l[i] < g_lastOpenShort * (1.0 - InpTP1 / 100.0) && inShort;
+     if(longTp)  g_lastLongTp  = g_t[i];
+     if(shortTp) g_lastShortTp = g_t[i];
+  
+     bool finalLongTp  = longTp  && g_lastLong  > pLastLongTp  && g_lastLong  > pLastLongSl;
+     bool finalShortTp = shortTp && g_lastShort > pLastShortTp && g_lastShort > pLastShortSl;
+  
+     //--- SL -------------------------------------------------------------
+     const double slf = InpSL / 100.0;
+     bool longSl  = isLong  && g_lastOpenLong  > 0 && g_l[i] <= (1.0 - slf) * g_lastOpenLong
+                    && !(g_o[i] < (1.0 - slf) * g_lastOpenLong);
+     bool shortSl = isShort && g_lastOpenShort > 0 && g_h[i] >= (1.0 + slf) * g_lastOpenShort
+                    && !(g_o[i] > (1.0 + slf) * g_lastOpenShort);
+  
+     bool sl0Long, sl0Short;
+     if(InpPosition == POS_BOTH)
+     {
+        sl0Long  = longSl  && pCiLongSl  == -1 && !finalLongTp  && !shortCondition;
+        sl0Short = shortSl && pCiShortSl == -1 && !finalShortTp && !longCondition;
+     }
+     else
+     {
+        sl0Long  = longSl  && pCiLongSl  == -1 && !finalLongTp;
+        sl0Short = shortSl && pCiShortSl == -1 && !finalShortTp;
+     }
+  
+     // last_xxx_sl uses the PREVIOUS bar's Final_xxx_sl (Pine var semantics)
+     if(g_finalLongSl)  g_lastLongSl  = g_t[i];
+     if(g_finalShortSl) g_lastShortSl = g_t[i];
+  
+     g_finalLongSl  = sl0Long  && g_lastLong  > pLastLongTp  && g_lastLong  > pLastLongSl;
+     g_finalShortSl = sl0Short && g_lastShort > pLastShortTp && g_lastShort > pLastShortSl;
+  
+     g_ciLongSl  = (finalLongTp  || g_finalLongSl  || shortCondition) ? 1 : (longCondition  ? -1 : pCiLongSl);
+     g_ciShortSl = (finalShortTp || g_finalShortSl || longCondition ) ? 1 : (shortCondition ? -1 : pCiShortSl);
+  
+     //--- re-entry after TP / SL ----------------------------------------
+     if(finalLongTp  || g_finalLongSl)  g_ciLong  = -1;
+     if(finalShortTp || g_finalShortSl) g_ciShort =  1;
+  
+     //--- signals --------------------------------------------------------
+     g_sigLong = (g_longCond && !inLong)
+              || (g_longCond && finalLongTp)
+              || (g_longCond && g_finalLongSl)
+              || (g_longCond && !longCondition && (g_lastLongTp > g_lastLong))
+              || (g_longCond && !longCondition && (g_lastLongSl > g_lastLong));
+  
+     g_sigShort = (g_shortCond && !inShort)
+               || (g_shortCond && finalShortTp)
+               || (g_shortCond && g_finalShortSl)
+               || (g_shortCond && !shortCondition && (g_lastShortTp > g_lastShort))
+               || (g_shortCond && !shortCondition && (g_lastShortSl > g_lastShort));
+  }
+  
+  //+------------------------------------------------------------------+
+  //| Trading helpers                                                  |
+  //+------------------------------------------------------------------+
+  int CountPos(const ENUM_POSITION_TYPE type)
+  {
+     int cnt = 0;
+     for(int k = PositionsTotal() - 1; k >= 0; k--)
+     {
+        ulong tk = PositionGetTicket(k);
+        if(tk == 0) continue;
+        if(PositionGetString(POSITION_SYMBOL) != _Symbol) continue;
+        if(PositionGetInteger(POSITION_MAGIC) != InpMagic) continue;
+        if((ENUM_POSITION_TYPE)PositionGetInteger(POSITION_TYPE) == type) cnt++;
+     }
+     return cnt;
+  }
+  
+  void CloseAll(const ENUM_POSITION_TYPE type)
+  {
+     for(int k = PositionsTotal() - 1; k >= 0; k--)
+     {
+        ulong tk = PositionGetTicket(k);
+        if(tk == 0) continue;
+        if(PositionGetString(POSITION_SYMBOL) != _Symbol) continue;
+        if(PositionGetInteger(POSITION_MAGIC) != InpMagic) continue;
+        if((ENUM_POSITION_TYPE)PositionGetInteger(POSITION_TYPE) != type) continue;
+        g_trade.PositionClose(tk);
+     }
+  }
+  
+  double CalcVolume(const double price)
+  {
+     double step = SymbolInfoDouble(_Symbol, SYMBOL_VOLUME_STEP);
+     double vmin = SymbolInfoDouble(_Symbol, SYMBOL_VOLUME_MIN);
+     double vmax = SymbolInfoDouble(_Symbol, SYMBOL_VOLUME_MAX);
+     double vol;
+     if(InpFixedLot > 0) vol = InpFixedLot;
+     else
+     {
+        double cs = SymbolInfoDouble(_Symbol, SYMBOL_TRADE_CONTRACT_SIZE);
+        if(cs <= 0 || price <= 0) return 0;
+        vol = AccountInfoDouble(ACCOUNT_EQUITY) * InpEquityPct / 100.0 / (price * cs);
+     }
+     vol = MathFloor(vol / step + 1e-9) * step;
+     if(vol < vmin) { Print("Calculated volume below minimum lot: ", vol); return 0; }
+     vol = MathMin(vol, vmax);
+     int dig = (int)MathMax(0, MathCeil(-MathLog10(step)));
+     return NormalizeDouble(vol, dig);
+  }
+  
+  void OpenLegs(const bool isBuy)
+  {
+     // opposite direction is closed first (Pine strategy.entry reversal)
+     CloseAll(isBuy ? POSITION_TYPE_SELL : POSITION_TYPE_BUY);
+  
+     const ENUM_POSITION_TYPE myType = isBuy ? POSITION_TYPE_BUY : POSITION_TYPE_SELL;
+     double tps[3]; tps[0] = InpTP1; tps[1] = InpTP2; tps[2] = InpTP3;
+  
+     for(int k = 0; k < 3; k++)
+     {
+        if(CountPos(myType) >= InpMaxEntries) break;   // pyramiding limit
+  
+        double price = isBuy ? SymbolInfoDouble(_Symbol, SYMBOL_ASK)
+                             : SymbolInfoDouble(_Symbol, SYMBOL_BID);
+        double vol = CalcVolume(price);
+        if(vol <= 0) break;
+  
+        double sl = isBuy ? price * (1.0 - InpSL / 100.0)    : price * (1.0 + InpSL / 100.0);
+        double tp = isBuy ? price * (1.0 + tps[k] / 100.0)   : price * (1.0 - tps[k] / 100.0);
+        sl = NormalizeDouble(sl, _Digits);
+        tp = NormalizeDouble(tp, _Digits);
+  
+        string cmt = (isBuy ? "L_" : "S_") + IntegerToString(k + 1);
+        bool ok = isBuy ? g_trade.Buy(vol, _Symbol, 0.0, sl, tp, cmt)
+                        : g_trade.Sell(vol, _Symbol, 0.0, sl, tp, cmt);
+        if(!ok)
+           PrintFormat("Order %s failed: %d (%s)", cmt, g_trade.ResultRetcode(), g_trade.ResultRetcodeDescription());
+     }
+  }
+  
+  void ExecuteSignals(const datetime barTime)
+  {
+     if(barTime < InpStartTime || barTime > InpStopTime) return;
+     const bool isLong  = (InpPosition != POS_SHORT_ONLY);
+     const bool isShort = (InpPosition != POS_LONG_ONLY);
+  
+     if(g_sigShort && isShort)      OpenLegs(false);   // if both fire, short wins (same as Pine's final state)
+     else if(g_sigLong && isLong)   OpenLegs(true);
+  }
+  
+  //+------------------------------------------------------------------+
+  //| Init / tick                                                      |
+  //+------------------------------------------------------------------+
+  int OnInit()
+  {
+     if(AccountInfoInteger(ACCOUNT_MARGIN_MODE) != ACCOUNT_MARGIN_MODE_RETAIL_HEDGING)
+     {
+        Print("This EA needs a HEDGING account (3 legs with different TPs).");
+        return INIT_FAILED;
+     }
+     if(_Period != PERIOD_H4)
+        Print("Warning: the strategy was designed for the 4h timeframe.");
+  
+     g_rTr.Init(InpAdxLen); g_rP.Init(InpAdxLen); g_rM.Init(InpAdxLen); g_rAdx.Init(InpAdxLen);
+     g_rvU.Init(InpRsiVwapLen); g_rvD.Init(InpRsiVwapLen);
+     g_eU.Init(InpRmiLen); g_eD.Init(InpRmiLen);
+  
+     g_trade.SetExpertMagicNumber(InpMagic);
+     g_trade.SetDeviationInPoints(InpDeviation);
+     g_trade.SetTypeFillingBySymbol(_Symbol);
+  
+     MqlRates rates[];
+     ArraySetAsSeries(rates, false);
+     int got = CopyRates(_Symbol, _Period, 1, InpWarmupBars, rates);
+     if(got <= 0)
+     {
+        Print("CopyRates failed, history not ready: ", GetLastError());
+        return INIT_FAILED;
+     }
+     for(int k = 0; k < got; k++) ProcessBar(rates[k]);
+     g_lastProcessed = rates[got - 1].time;
+     g_lastBarTime   = iTime(_Symbol, _Period, 0);
+     return INIT_SUCCEEDED;
+  }
+  
+  void OnTick()
+  {
+     datetime bt = iTime(_Symbol, _Period, 0);
+     if(bt == 0 || bt == g_lastBarTime) return;
+  
+     MqlRates rates[];
+     ArraySetAsSeries(rates, false);
+     int got = CopyRates(_Symbol, _Period, g_lastProcessed + 1, bt - 1, rates);
+     if(got <= 0) return;   // retry on next tick
+  
+     for(int k = 0; k < got; k++) ProcessBar(rates[k]);
+     g_lastProcessed = rates[got - 1].time;
+     g_lastBarTime   = bt;
+  
+     // signals of the last closed bar -> market orders at the open of the new bar
+     ExecuteSignals(rates[got - 1].time);
+  }
+  //+------------------------------------------------------------------+
+  
+
+--- WINDOW  2026/11/15 09:16:28  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:16:28  [explorer.exe] (untitled)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:16:28  [explorer.exe] 檔案總管
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/15 09:16:32  [explorer.exe] 桌面
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/15 09:16:36  [explorer.exe] 舊檔案
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/15 09:16:43  [chrome.exe] PINE 轉 MQL5 策略 - Claude - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:16:44  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:16:46  [chrome.exe] PINE 轉 MQL5 策略 - Claude - Google Chrome
+----------------------------------------------------------------------------
+  [Ctrl]c
+
+--- WINDOW  2026/11/15 09:17:06  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:17:06  [explorer.exe] 舊檔案
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/15 09:17:49  [terminal64.exe] MetaTrader 5
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:18:22  [terminal64.exe] 88261928 - XMGlobal-MT5 4 - Netting - XM Global Limited
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:18:22  [terminal64.exe] 88261928 - XMGlobal-MT5 4 - Netting - XM Global Limited - 市場
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:18:22  [terminal64.exe] 88261928 - XMGlobal-MT5 4 - Netting - XM Global Limited - 信號
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:18:22  [terminal64.exe] 88261928 - XMGlobal-MT5 4 - Netting - XM Global Limited - VPS
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:18:22  [terminal64.exe] 88261928 - XMGlobal-MT5 4 - Netting - XM Global Limited - BTCUSD,M1
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:18:22  [terminal64.exe] 88261928 - XMGlobal-MT5 4 - Netting - XM Global Limited - BTCUSD,H1
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:18:22  [terminal64.exe] 88261928 - XMGlobal-MT5 4 - Netting - XM Global Limited - BTCUSD,H4
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:18:22  [terminal64.exe] 88261928 - XMGlobal-MT5 4 - Netting - XM Global Limited - GOLD_,H4
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:18:22  [terminal64.exe] 88261928 - XMGlobal-MT5 4 - Netting - XM Global Limited - BTCUSD,H4
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:18:22  [terminal64.exe] 88261928 - XMGlobal-MT5 4 - Netting - XM Global Limited - [BTCUSD,H4]
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:18:22  [terminal64.exe] 88261928 - XMGlobal-MT5 4 - Netting - XM Global Limited - [GOLD_,H4]
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:18:22  [terminal64.exe] 88261928 - XMGlobal-MT5 4 - Netting - XM Global Limited - [BTCUSD,H4]
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:18:23  [terminal64.exe] 88261928 - XMGlobal-MT5 4 - Hedge - XM Global Limited - [BTCUSD,H4]
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/15 09:18:34  [metaeditor64.exe] MetaEditor
+----------------------------------------------------------------------------
+  [LMB]
+  av
+  [LMB]
+
+--- WINDOW  2026/11/15 09:18:43  [terminal64.exe] 88261928 - XMGlobal-MT5 4 - Hedge - XM Global Limited - [BTCUSD,H4]
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:18:44  [metatester64.exe] MetaTester
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:18:45  [metatester64.exe] Strategy Tester Visualization
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:18:45  [metatester64.exe] Strategy Tester Visualization : CLAUDE Bitcoin Maximalist [4h] on BTCUSD,H4 from 2024.08.01 to 2026.08.31
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/15 09:19:04  [terminal64.exe] 88261928 - XMGlobal-MT5 4 - Hedge - XM Global Limited - [BTCUSD,H4]
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  10000
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  1000
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  3000
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  5000
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  8000
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [<-][<-][Bk]1
+  [LMB]
+  [Bk][Bk][Bk]50
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  3000
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  10000
+  [LMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/15 09:25:56  [metaeditor64.exe] MetaEditor
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/15 09:25:59  [explorer.exe] 舊檔案
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:26:02  [chrome.exe] PINE 轉 MQL5 策略 - Claude - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:26:02  [chrome.exe] BTCUSDT.P 62,600.0 ▼ −2.38% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:26:02  [chrome.exe] BTCUSDT.P 62,599.9 ▼ −2.38% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:26:02  [chrome.exe] BTCUSDT.P 62,612.5 ▼ −2.36% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:26:03  [chrome.exe] BTCUSDT.P 62,601.8 ▼ −2.38% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:26:03  [chrome.exe] BTCUSDT.P 62,604.6 ▼ −2.37% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:26:03  [chrome.exe] BTCUSDT.P 62,604.9 ▼ −2.37% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:26:04  [chrome.exe] BTCUSDT.P 62,600.2 ▼ −2.38% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:26:04  [chrome.exe] BTCUSDT.P 62,600.1 ▼ −2.38% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:26:04  [chrome.exe] BTCUSDT.P 62,603.4 ▼ −2.37% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:26:05  [chrome.exe] BTCUSDT.P 62,619.4 ▼ −2.35% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:26:05  [chrome.exe] BTCUSDT.P 62,631.4 ▼ −2.33% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:26:05  [chrome.exe] BTCUSDT.P 62,623.3 ▼ −2.34% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:26:06  [chrome.exe] BTCUSDT.P 62,623.4 ▼ −2.34% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:26:06  [chrome.exe] BTCUSDT.P 62,611.8 ▼ −2.36% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:26:06  [chrome.exe] BTCUSDT.P 62,624.3 ▼ −2.34% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:26:07  [chrome.exe] BTCUSDT.P 62,612.8 ▼ −2.36% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:26:07  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:26:07  [brave.exe] YouTube - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/15 09:26:09  [brave.exe] $62,595.1 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:26:09  [brave.exe] $62,600.7 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:26:10  [brave.exe] $62,595.6 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:26:11  [brave.exe] $62,595.7 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:26:12  [brave.exe] $62,607.8 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:26:13  [brave.exe] $62,619.5 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:26:14  [brave.exe] $62,627.0 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:26:15  [brave.exe] $62,640.0 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:26:16  [brave.exe] $62,646.0 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:26:17  [brave.exe] $62,646.2 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:26:18  [brave.exe] $62,650.3 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:26:19  [brave.exe] $62,662.5 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/15 09:26:20  [brave.exe] $62,648.4 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/15 09:26:21  [brave.exe] $62,655.0 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:26:22  [brave.exe] $62,675.5 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:26:23  [brave.exe] $62,690.8 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:26:24  [brave.exe] $62,680.3 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:26:25  [brave.exe] $62,662.0 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:26:26  [brave.exe] $62,672.3 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:26:27  [brave.exe] $62,639.5 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:26:28  [brave.exe] $62,631.2 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:26:29  [brave.exe] $62,637.5 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:26:30  [brave.exe] $62,636.6 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:26:31  [brave.exe] $62,647.6 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:26:32  [brave.exe] $62,646.2 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:26:33  [brave.exe] $62,624.1 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:26:34  [brave.exe] $62,645.6 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:26:35  [brave.exe] $62,645.5 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:26:36  [brave.exe] $62,627.8 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:26:37  [brave.exe] $62,629.3 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:26:38  [brave.exe] $62,641.7 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:26:39  [brave.exe] $62,625.4 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/15 09:26:40  [brave.exe] $62,625.5 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/15 09:26:41  [brave.exe] $62,637.4 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:26:42  [brave.exe] $62,629.7 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:26:43  [brave.exe] $62,615.8 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/15 09:26:44  [brave.exe] $62,626.8 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/15 09:26:45  [brave.exe] $62,622.2 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:26:46  [brave.exe] $62,621.9 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:26:46  [ApplicationFrameHost.exe] 小算盤
+----------------------------------------------------------------------------
+  89+16*32[ENTER]
+  [LMB]
+
+--- WINDOW  2026/11/15 09:26:56  [brave.exe] $62,612.3 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:26:57  [brave.exe] $62,612.4 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:26:58  [brave.exe] $62,622.7 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/15 09:26:59  [brave.exe] YouTube - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/15 09:27:18  [brave.exe] Jennie爭氣自己拿下了大結果 #jennie #盆栽哥 #TheWeeknd #oneofthe - YouTube - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/15 09:27:34  [brave.exe] YouTube - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:27:37  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:27:38  [chrome.exe] BTCUSDT.P 62,566.3 ▼ −2.43% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:27:38  [chrome.exe] BTCUSDT.P 62,566.2 ▼ −2.43% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:27:38  [chrome.exe] BTCUSDT.P 62,566.3 ▼ −2.43% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:27:39  [chrome.exe] BTCUSDT.P 62,568.6 ▼ −2.43% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:27:39  [chrome.exe] BTCUSDT.P 62,566.4 ▼ −2.43% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:27:40  [chrome.exe] BTCUSDT.P 62,566.5 ▼ −2.43% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:27:40  [chrome.exe] BTCUSDT.P 62,562.6 ▼ −2.44% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 09:27:40  [chrome.exe] BTCUSDT.P 62,566.1 ▼ −2.43% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/15 09:27:40  [chrome.exe] 新分頁 - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
