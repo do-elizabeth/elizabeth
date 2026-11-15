@@ -1,0 +1,471 @@
+﻿
+--- WINDOW  2026/11/15 19:00:01  [chrome.exe] 64599.81 | BTCUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 19:00:14  [chrome.exe] 64592.59 | BTCUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 19:00:28  [chrome.exe] 64603.94 | BTCUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 19:00:54  [chrome.exe] 64636.56 | BTCUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 19:01:21  [chrome.exe] 64633.95 | BTCUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 19:01:24  [chrome.exe] 64634.58 | BTCUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 19:01:43  [chrome.exe] 64674.27 | BTCUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 19:01:49  [chrome.exe] 64723.40 | BTCUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 19:02:09  [chrome.exe] BTCUSDT 64,767.08 ▲ +0.94% Unnamed - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 19:02:14  [chrome.exe] 64723.40 | BTCUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 19:02:17  [chrome.exe] 64723.01 | BTCUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 19:02:47  [chrome.exe] 64727.52 | BTCUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 19:03:11  [chrome.exe] 64683.38 | BTCUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 19:03:38  [chrome.exe] 64668.88 | BTCUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 19:04:05  [chrome.exe] 64675.81 | BTCUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 19:04:33  [chrome.exe] 64720.78 | BTCUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 19:04:59  [chrome.exe] 64697.56 | BTCUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 19:05:26  [chrome.exe] 64704.77 | BTCUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 19:06:00  [chrome.exe] 64732.20 | BTCUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 19:06:28  [chrome.exe] 64749.70 | BTCUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 19:06:56  [chrome.exe] 64700.48 | BTCUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 19:07:23  [chrome.exe] 64620.59 | BTCUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 19:07:49  [chrome.exe] 64669.92 | BTCUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 19:08:17  [chrome.exe] 64686.31 | BTCUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 19:08:52  [chrome.exe] 64703.89 | BTCUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 19:09:21  [chrome.exe] 64707.98 | BTCUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 19:09:48  [chrome.exe] 64728.72 | BTCUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 19:10:17  [chrome.exe] 64734.54 | BTCUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 19:10:44  [chrome.exe] 64710.18 | BTCUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 19:11:10  [chrome.exe] 64719.04 | BTCUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 19:11:38  [chrome.exe] 64708.07 | BTCUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 19:12:05  [chrome.exe] 64703.35 | BTCUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 19:12:32  [chrome.exe] 64671.50 | BTCUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 19:13:00  [chrome.exe] 64620.91 | BTCUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 19:13:31  [chrome.exe] 64677.79 | BTCUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 19:13:57  [chrome.exe] 64650.44 | BTCUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 19:14:24  [chrome.exe] 64612.77 | BTCUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 19:14:52  [chrome.exe] 64667.35 | BTCUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 19:15:20  [chrome.exe] 64669.02 | BTCUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 19:15:48  [chrome.exe] 64633.87 | BTCUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 19:16:15  [chrome.exe] 64637.64 | BTCUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 19:16:43  [chrome.exe] 64658.51 | BTCUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 19:17:11  [chrome.exe] 64656.42 | BTCUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 19:17:40  [chrome.exe] 64652.04 | BTCUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 19:18:06  [chrome.exe] 64690.51 | BTCUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 19:18:33  [chrome.exe] 64671.68 | BTCUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 19:19:01  [chrome.exe] 64665.42 | BTCUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 19:19:20  [chrome.exe] 64713.81 | BTCUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 19:19:21  [chrome.exe] 64713.94 | BTCUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 19:19:21  [chrome.exe] 64739.64 | BTCUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 19:19:29  [chrome.exe] 64751.80 | BTCUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 19:19:57  [chrome.exe] 64735.31 | BTCUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 19:20:25  [chrome.exe] 64707.78 | BTCUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 19:20:28  [chrome.exe] 64707.69 | BTCUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 19:20:52  [chrome.exe] 64671.07 | BTCUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 19:21:19  [chrome.exe] 64679.90 | BTCUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 19:21:46  [chrome.exe] 64695.05 | BTCUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 19:22:14  [chrome.exe] 64706.66 | BTCUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 19:22:42  [chrome.exe] 64705.61 | BTCUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 19:23:10  [chrome.exe] 64679.49 | BTCUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 19:23:36  [chrome.exe] 64665.31 | BTCUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 19:24:04  [chrome.exe] 64665.91 | BTCUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 19:24:32  [chrome.exe] 64738.15 | BTCUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 19:25:00  [chrome.exe] 64748.78 | BTCUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 19:25:26  [chrome.exe] 64751.45 | BTCUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 19:25:37  [chrome.exe] 64752.05 | BTCUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 19:25:39  [chrome.exe] 64781.98 | BTCUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 19:25:54  [chrome.exe] 64766.58 | BTCUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 19:26:13  [chrome.exe] 64765.82 | BTCUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 19:26:19  [chrome.exe] 64707.12 | BTCUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 19:26:48  [chrome.exe] 64720.61 | BTCUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 19:27:15  [chrome.exe] 64712.40 | BTCUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 19:27:41  [chrome.exe] 64692.03 | BTCUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 19:28:07  [chrome.exe] 64702.23 | BTCUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 19:28:35  [chrome.exe] 64718.10 | BTCUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 19:29:03  [chrome.exe] 64722.41 | BTCUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 19:29:30  [chrome.exe] 64729.99 | BTCUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 19:29:57  [chrome.exe] 64716.57 | BTCUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 19:30:24  [chrome.exe] 64675.42 | BTCUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 19:31:01  [chrome.exe] 64690.64 | BTCUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 19:31:29  [chrome.exe] 64663.13 | BTCUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 19:31:57  [chrome.exe] 64663.62 | BTCUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 19:32:23  [chrome.exe] 64653.13 | BTCUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 19:32:50  [chrome.exe] 64629.87 | BTCUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 19:33:18  [chrome.exe] 64644.19 | BTCUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 19:33:36  [chrome.exe] 64628.00 | BTCUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 19:33:46  [chrome.exe] 64603.70 | BTCUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 19:34:03  [chrome.exe] 64628.23 | BTCUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 19:34:12  [chrome.exe] 64640.85 | BTCUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 19:34:23  [chrome.exe] 64633.63 | BTCUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 19:34:38  [chrome.exe] 64659.38 | BTCUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 19:35:05  [chrome.exe] 64633.65 | BTCUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 19:35:32  [chrome.exe] 64665.12 | BTCUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 19:36:01  [chrome.exe] 64694.99 | BTCUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 19:36:27  [chrome.exe] 64667.34 | BTCUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 19:36:54  [chrome.exe] 64651.14 | BTCUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 19:37:20  [chrome.exe] 64676.52 | BTCUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 19:37:48  [chrome.exe] 64696.73 | BTCUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 19:38:14  [chrome.exe] 64671.03 | BTCUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 19:38:41  [chrome.exe] 64699.63 | BTCUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 19:39:09  [chrome.exe] 64665.84 | BTCUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 19:39:36  [chrome.exe] 64695.82 | BTCUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 19:40:04  [chrome.exe] 64654.53 | BTCUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 19:40:31  [chrome.exe] 64628.91 | BTCUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 19:40:56  [chrome.exe] 64610.71 | BTCUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 19:41:25  [chrome.exe] 64651.61 | BTCUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 19:41:54  [chrome.exe] 64633.60 | BTCUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 19:42:20  [chrome.exe] 64641.83 | BTCUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 19:42:46  [chrome.exe] 64634.14 | BTCUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 19:43:13  [chrome.exe] 64647.58 | BTCUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 19:43:39  [chrome.exe] 64600.54 | BTCUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 19:43:40  [chrome.exe] 64564.62 | BTCUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 19:44:07  [chrome.exe] 64579.62 | BTCUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 19:44:35  [chrome.exe] 64619.93 | BTCUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 19:45:04  [chrome.exe] 64588.54 | BTCUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 19:45:31  [chrome.exe] 64614.62 | BTCUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 19:45:57  [chrome.exe] 64610.86 | BTCUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 19:46:26  [chrome.exe] 64566.27 | BTCUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 19:46:50  [chrome.exe] 64600.20 | BTCUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 19:47:18  [chrome.exe] 64574.03 | BTCUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 19:47:50  [chrome.exe] 64518.71 | BTCUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 19:48:12  [chrome.exe] 64493.04 | BTCUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 19:48:39  [chrome.exe] 64488.51 | BTCUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 19:49:06  [chrome.exe] 64480.67 | BTCUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 19:49:34  [chrome.exe] 64499.52 | BTCUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 19:50:02  [chrome.exe] 64504.87 | BTCUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 19:50:28  [chrome.exe] 64531.33 | BTCUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 19:50:56  [chrome.exe] 64472.62 | BTCUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 19:51:23  [chrome.exe] 64500.38 | BTCUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 19:51:50  [chrome.exe] 64520.44 | BTCUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 19:52:21  [chrome.exe] 64499.24 | BTCUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 19:52:46  [chrome.exe] 64476.10 | BTCUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 19:53:03  [chrome.exe] 64460.06 | BTCUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 19:53:05  [chrome.exe] 64381.51 | BTCUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 19:53:14  [chrome.exe] 64341.24 | BTCUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 19:53:42  [chrome.exe] 64283.13 | BTCUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 19:54:09  [chrome.exe] 64328.19 | BTCUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 19:54:19  [chrome.exe] 64400.26 | BTCUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 19:54:35  [chrome.exe] 64388.16 | BTCUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 19:55:02  [chrome.exe] 64403.07 | BTCUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 19:55:29  [chrome.exe] 64426.59 | BTCUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 19:55:57  [chrome.exe] 64365.17 | BTCUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 19:56:24  [chrome.exe] 64398.73 | BTCUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 19:56:52  [chrome.exe] 64398.57 | BTCUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 19:57:20  [chrome.exe] 64392.64 | BTCUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 19:57:35  [chrome.exe] 64381.71 | BTCUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 19:57:49  [chrome.exe] 64404.22 | BTCUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 19:58:13  [chrome.exe] 64421.56 | BTCUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 19:58:40  [chrome.exe] 64439.43 | BTCUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 19:59:08  [chrome.exe] 64461.67 | BTCUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 19:59:25  [chrome.exe] 64504.19 | BTCUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 19:59:35  [chrome.exe] 64585.06 | BTCUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 19:59:36  [chrome.exe] 64645.74 | BTCUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 19:59:37  [chrome.exe] 64649.93 | BTCUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 19:59:38  [chrome.exe] 64650.11 | BTCUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 19:59:38  [chrome.exe] 64708.26 | BTCUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 19:59:48  [chrome.exe] 64714.26 | BTCUSDTUSDT Perp | Poloniex - Google Chrome
+----------------------------------------------------------------------------
