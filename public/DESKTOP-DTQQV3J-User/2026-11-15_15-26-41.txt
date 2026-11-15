@@ -1,0 +1,4706 @@
+﻿
+--- WINDOW  2026/11/15 14:29:55  [powershell.exe] C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 14:32:02  [Lark.exe] Lark
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 14:32:02  [Overwolf.exe] Overwolf
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 14:32:03  [EADesktop.exe] EA
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 14:32:03  [Overwolf.exe] Overwolf
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 14:32:04  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 14:32:04  [explorer.exe] (untitled)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 14:32:04  [brave.exe] 全球要「捧錢投資台灣」不是沒原因！馬斯克譙南韓「漲記憶體像搶劫」將失去客戶！？【關鍵時刻】張炤和 - YouTube - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 14:32:07  [brave.exe] YouTube - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/15 14:32:07  [brave.exe] $64,471.9 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 14:32:07  [brave.exe] Vest Markets | Funded Trading Accounts up to $50K - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 14:32:08  [brave.exe] $64,077.5 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 14:32:10  [brave.exe] $64,466.3 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 14:32:11  [brave.exe] $64,469.5 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 14:32:16  [brave.exe] $64,460.0 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 14:32:17  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 14:32:17  [explorer.exe] (untitled)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 14:32:18  [ShellExperienceHost.exe] Lark 的捷徑清單
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/15 14:32:18  [brave.exe] 要翻譯這個網頁嗎？
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 14:32:19  [explorer.exe] (untitled)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 14:32:19  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 14:32:19  [SearchApp.exe] 搜尋
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 14:32:22  [brave.exe] $64,470.7 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 14:32:22  [Grass.exe] Grass
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/15 14:32:39  [Overwolf.exe] Overwolf
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 14:32:51  [explorer.exe] Program Manager
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/15 14:32:56  [Riot Client.exe] Riot Client
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/15 14:33:38  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 14:33:38  [brave.exe] $64,448.6 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 14:33:40  [brave.exe] YouTube - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/15 14:33:41  [brave.exe] (1) YouTube - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/15 14:33:59  [brave.exe] (1) 我挺双标！ 骑公路车前 VS 骑公路车后 打脸自己🫣#前后对比 #户外 #骑行 #女骑 #公路车骑行 - YouTube - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/15 14:34:09  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 14:34:09  [Riot Client.exe] Riot Client
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 14:34:10  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 14:34:10  [LeagueClientUx.exe] League of Legends
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 14:34:15  [brave.exe] (1) YouTube - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 14:34:18  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 14:34:18  [LeagueClientUx.exe] League of Legends
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/15 14:34:29  [brave.exe] (1) YouTube - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 14:34:35  [Mobalytics.exe] Mobalytics
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 14:34:37  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 14:34:37  [LeagueClientUx.exe] League of Legends
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/15 14:36:05  [Mobalytics.exe] 時不我與#tw2 [TW] - Champion Stats - League of Legends [S26]
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 14:36:07  [League of Legends.exe] League of Legends (TM) Client
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc]
+
+--- WINDOW  2026/11/15 14:37:23  [brave.exe] (1) YouTube - Brave
+----------------------------------------------------------------------------
+  [RMB]
+  [LMB]
+  [Esc]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/15 14:37:36  [brave.exe] (1) 【MAD】バーチャファイター【愛がたりないぜ】 - YouTube - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/15 14:37:36  [League of Legends.exe] League of Legends (TM) Client
+----------------------------------------------------------------------------
+  [LMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  d
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  q
+  [RMB]
+  [LMB]
+  [RMB]
+  eq
+  [RMB]
+  [RMB]
+  e
+  [RMB]
+  e
+  [RMB]
+  q
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  q
+  [RMB]
+  [LMB]
+  d
+  [RMB]
+  [LMB]
+  d
+  [RMB]
+  d
+  [RMB]
+  e
+  [RMB]
+  fff
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc]
+  [LMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [Tab]
+  [RMB]
+  [Tab][Tab]
+  [RMB]
+  [Tab]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  q
+  [LMB]
+  e
+  [RMB]
+  e
+  [RMB]
+  e
+  [LMB]
+  [RMB]
+  e
+  [RMB]
+  [RMB]
+  f
+  [LMB]
+  fd
+  [LMB]
+  d
+  [RMB]
+  dd
+  [LMB]
+  [RMB]
+  d
+  [RMB]
+  [RMB]
+  [RMB]
+  w
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  eq
+  [RMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  q
+  [RMB]
+  [LMB]
+  q
+  [LMB]
+  [RMB]
+  [LMB]
+  ee
+  [LMB]
+  [RMB]
+  e
+  [RMB]
+  [LMB]
+  [RMB]
+  eq
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  q
+  [RMB]
+  [RMB]
+  [RMB]
+  e
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  q
+  [LMB]
+  q
+  [LMB]
+  q
+  [RMB]
+  q
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  d
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  r
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  e
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  e
+  [RMB]
+  [LMB]
+  q
+  [LMB]
+  [RMB]
+  [RMB]
+  e
+  [RMB]
+  [RMB]
+  e
+  [RMB]
+  [RMB]
+  q
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  q
+  [RMB]
+  [RMB]
+  [RMB]
+  q
+  [RMB]
+  [RMB]
+  e
+  [RMB]
+  q
+  [RMB]
+  d
+  [LMB]
+  ddd
+  [LMB]
+  d
+  [RMB]
+  d
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  q
+  [LMB]
+  ee
+  [LMB]
+  [LMB]
+  q
+  [LMB]
+  [LMB]
+  [RMB]
+  e
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  [Esc]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  d
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  e
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  r
+  [RMB]
+  [RMB]
+  [RMB]
+  d
+  [RMB]
+  ff
+  [RMB]
+  e
+  [RMB]
+  ee
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  q
+  [RMB]
+  [RMB]
+  [LMB]
+  q
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc]
+  [LMB]
+  [LMB]
+  [Tab][Tab][Tab]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  qe
+  [RMB]
+  [RMB]
+  e
+  [RMB]
+  [RMB]
+  [RMB]
+  q
+  [LMB]
+  e
+  [RMB]
+  q
+  [LMB]
+  [RMB]
+  [LMB]
+  [Esc]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  r
+  [LMB]
+  [LMB]
+  q
+  [RMB]
+  [LMB]
+  [LMB]
+  ddd
+  [LMB]
+  d
+  [RMB]
+  [LMB]
+  [RMB]
+  q
+  [RMB]
+  q
+  [RMB]
+  [LMB]
+  q
+  [RMB]
+  [LMB]
+  q
+  [LMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  eq
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  e
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  q
+  [LMB]
+  [LMB]
+  [RMB]
+  eq
+  [RMB]
+  [RMB]
+  e
+  [LMB]
+  [RMB]
+  q
+  [RMB]
+  e
+  [LMB]
+  e
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  e
+  [LMB]
+  [RMB]
+  q
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  r
+  [RMB]
+  [LMB]
+  [LMB]
+  e
+  [LMB]
+  [LMB]
+  e
+  [LMB]
+  [RMB]
+  e
+  [RMB]
+  q
+  [LMB]
+  qe
+  [RMB]
+  e
+  [RMB]
+  [LMB]
+  e
+  [RMB]
+  ee
+  [RMB]
+  q
+  [LMB]
+  [LMB]
+  q
+  [LMB]
+  e
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc]
+  [LMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  d
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  q
+  [RMB]
+  q
+  [RMB]
+  [RMB]
+  r
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  e
+  [LMB]
+  [LMB]
+  e
+  [RMB]
+  [LMB]
+  q
+  [RMB]
+  [RMB]
+  f
+  [RMB]
+  fqe
+  [RMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  d
+  [LMB]
+  eq
+  [LMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  q
+  [LMB]
+  qq
+  [RMB]
+  [LMB]
+  [RMB]
+  e
+  [LMB]
+  [RMB]
+  qqq
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  dddd
+  [LMB]
+  ddddd
+  [RMB]
+  [RMB]
+  [RMB]
+  d
+  [LMB]
+  e
+  [LMB]
+  e
+  [LMB]
+  [LMB]
+  [LMB]
+  e
+  [RMB]
+  e
+  [RMB]
+  e
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  q
+  [RMB]
+  e
+  [RMB]
+  [RMB]
+  e
+  [RMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc]
+  [LMB]
+  [Esc]
+  [LMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  [Esc]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  r
+  [RMB]
+  [LMB]
+  q
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  dd
+  [LMB]
+  ddd
+  [LMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  qe
+  [LMB]
+  [RMB]
+  e
+  [RMB]
+  e
+  [RMB]
+  [RMB]
+  e
+  [LMB]
+  dd
+  [RMB]
+  dqd
+  [RMB]
+  qee
+  [RMB]
+  q
+  [RMB]
+  [RMB]
+  [RMB]
+  q
+  [LMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  e
+  [LMB]
+  q
+  [LMB]
+  e
+  [LMB]
+  ee
+  [LMB]
+  e
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  q
+  [LMB]
+  q
+  [RMB]
+  e
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  r
+  [LMB]
+  qe
+  [LMB]
+  [RMB]
+  q
+  [RMB]
+  e
+  [RMB]
+  e
+  [RMB]
+  e
+  [RMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  e
+  [RMB]
+  [RMB]
+  [RMB]
+  q
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc]
+  [LMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  q
+  [LMB]
+  [RMB]
+  q
+  [RMB]
+  [RMB]
+  e
+  [LMB]
+  [RMB]
+  rrqr
+  [LMB]
+  [RMB]
+  r
+  [RMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  e
+  [LMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  fqdq
+  [LMB]
+  eq
+  [LMB]
+  [LMB]
+  e
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc]
+  [LMB]
+  [Esc]
+  [LMB]
+  [Esc]
+  [LMB]
+  [LMB]
+  [Esc]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  e
+  [RMB]
+  [RMB]
+  e
+  [RMB]
+  qq
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  d
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [Tab]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  r
+  [RMB]
+  [RMB]
+  f
+  [LMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  q
+  [RMB]
+  q
+  [RMB]
+  qr
+  [RMB]
+  [RMB]
+  e
+  [LMB]
+  [RMB]
+  e
+  [LMB]
+  ed
+  [LMB]
+  dd
+  [LMB]
+  q
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc]
+  [LMB]
+  [Esc]
+  [LMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  r
+  [LMB]
+  [LMB]
+  q
+  [RMB]
+  e
+  [LMB]
+  [RMB]
+  qe
+  [RMB]
+  [LMB]
+  [RMB]
+  q
+  [LMB]
+  e
+  [RMB]
+  [LMB]
+  e
+  [RMB]
+  [LMB]
+  q
+  [LMB]
+  [RMB]
+  e
+  [LMB]
+  [RMB]
+  e
+  [RMB]
+  [LMB]
+  dd
+  [LMB]
+  [RMB]
+  dd
+  [LMB]
+  [RMB]
+  dqq
+  [RMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  e
+  [RMB]
+  e
+  [LMB]
+  [LMB]
+  e
+  [RMB]
+  [LMB]
+  [RMB]
+  q
+  [LMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  eq
+  [RMB]
+  [LMB]
+  e
+  [LMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  eee
+  [LMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  e
+  [LMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  e
+  [RMB]
+  r
+  [LMB]
+  [RMB]
+  re
+  [LMB]
+  [LMB]
+  e
+  [LMB]
+  [LMB]
+  qe
+  [LMB]
+  e
+  [RMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  e
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  e
+  [LMB]
+  q
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  r
+  [RMB]
+  e
+  [LMB]
+  qe
+  [LMB]
+  [RMB]
+  e
+  [RMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  e
+  [LMB]
+  e
+  [LMB]
+  q
+  [LMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc][Esc][Esc]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  ee
+  [LMB]
+  e
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  r
+  [LMB]
+  [RMB]
+  rrr
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  d
+  [LMB]
+  [RMB]
+  d
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  d
+  [LMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  qqe
+  [RMB]
+  q
+  [RMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  q
+  [LMB]
+  e
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  r
+  [LMB]
+  rq
+  [LMB]
+  qq
+  [LMB]
+  [RMB]
+  [LMB]
+  q
+  [LMB]
+  e
+  [RMB]
+  q
+  [LMB]
+  [RMB]
+  q
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  ddd
+  [LMB]
+  dddddd
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  re
+  [LMB]
+  qq
+  [LMB]
+  [RMB]
+  e
+  [RMB]
+  e
+  [LMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  ee
+  [LMB]
+  [RMB]
+  qq
+  [LMB]
+  [RMB]
+  e
+  [LMB]
+  q
+  [RMB]
+  ee
+  [LMB]
+  [LMB]
+  [RMB]
+  e
+  [LMB]
+  qr
+  [LMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  qe
+  [LMB]
+  rr
+  [LMB]
+  e
+  [LMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  ff
+  [LMB]
+  e
+  [RMB]
+  [LMB]
+  e
+  [RMB]
+  eq
+  [RMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  qq
+  [RMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  r
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  e
+  [RMB]
+  q
+  [LMB]
+  [RMB]
+  q
+  [RMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  r
+  [LMB]
+  [LMB]
+  qqe
+  [LMB]
+  qe
+  [LMB]
+  q
+  [RMB]
+  e
+  [LMB]
+  [RMB]
+  [LMB]
+  qe
+  [LMB]
+  e
+  [RMB]
+  [LMB]
+  r
+  [LMB]
+  r
+  [LMB]
+  q
+  [LMB]
+  e
+  [RMB]
+  [LMB]
+  r
+  [RMB]
+  r
+  [LMB]
+  re
+  [LMB]
+  [RMB]
+  r
+  [LMB]
+  [RMB]
+  qrr
+  [LMB]
+  [RMB]
+  ee
+  [LMB]
+  [RMB]
+  q
+  [LMB]
+  [RMB]
+  q
+  [LMB]
+  q
+  [LMB]
+  [LMB]
+  qrqr
+  [LMB]
+  e
+  [LMB]
+  [X1]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  d
+  [RMB]
+  [RMB]
+  d
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  r
+  [LMB]
+  qe
+  [LMB]
+  [RMB]
+  [LMB]
+  q
+  [RMB]
+  ee
+  [RMB]
+  [LMB]
+  e
+  [LMB]
+  [RMB]
+  [LMB]
+  q
+  [LMB]
+  e
+  [RMB]
+  [LMB]
+  [Esc][Esc][Esc]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc][Esc]
+  [LMB]
+
+--- WINDOW  2026/11/15 14:57:59  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 14:58:01  [Mobalytics.exe] 時不我與#tw2 [TW] - Champion Stats - League of Legends [S26]
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 14:58:01  [explorer.exe] (untitled)
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/15 14:58:03  [LeagueClientUx.exe] League of Legends
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/15 14:58:06  [Mobalytics.exe] 時不我與#tw2 [TW] - Champion Stats - League of Legends [S26]
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/15 14:58:07  [LeagueClientUx.exe] League of Legends
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/15 14:58:31  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 14:58:32  [brave.exe] (1) 鋼殻のレギオスED　　ヤサシイウソ　フェリver - YouTube - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/15 14:58:35  [brave.exe] $64,433.2 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 14:58:38  [brave.exe] $64,433.3 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 14:58:39  [brave.exe] $64,440.7 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 14:58:45  [brave.exe] $64,441.4 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 14:58:47  [brave.exe] $64,441.5 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 14:58:48  [brave.exe] $64,445.6 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 14:58:57  [brave.exe] $64,450.4 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 14:59:00  [brave.exe] $64,450.5 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 14:59:02  [brave.exe] $64,451.2 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 14:59:03  [brave.exe] $64,451.0 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 14:59:05  [brave.exe] $64,451.1 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 14:59:06  [brave.exe] $64,451.4 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 14:59:07  [brave.exe] $64,451.5 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 14:59:08  [brave.exe] $64,451.6 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 14:59:09  [brave.exe] $64,454.5 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 14:59:10  [brave.exe] $64,454.6 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 14:59:23  [brave.exe] $64,458.8 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 14:59:26  [brave.exe] $64,463.7 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 14:59:27  [brave.exe] $64,464.4 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 14:59:29  [brave.exe] $64,464.3 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 14:59:34  [brave.exe] $64,470.3 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 14:59:35  [brave.exe] $64,470.5 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 14:59:36  [brave.exe] $64,472.5 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 14:59:38  [brave.exe] $64,473.5 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 14:59:39  [brave.exe] $64,473.4 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 14:59:40  [brave.exe] $64,473.3 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 14:59:41  [brave.exe] $64,464.4 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 14:59:42  [brave.exe] $64,452.9 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 14:59:43  [brave.exe] $64,452.8 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 14:59:44  [brave.exe] $64,449.5 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 14:59:45  [brave.exe] $64,449.4 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 14:59:46  [brave.exe] $64,438.5 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 14:59:47  [brave.exe] $64,436.1 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 14:59:48  [brave.exe] $64,441.3 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 14:59:49  [brave.exe] $64,441.4 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 14:59:50  [brave.exe] $64,441.3 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 14:59:51  [brave.exe] $64,441.4 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 14:59:52  [brave.exe] $64,441.3 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 14:59:53  [brave.exe] $64,441.2 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 14:59:54  [brave.exe] $64,430.8 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 14:59:55  [brave.exe] $64,415.2 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 14:59:56  [brave.exe] $64,412.0 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 14:59:57  [brave.exe] $64,412.1 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 14:59:58  [brave.exe] $64,412.0 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 14:59:59  [brave.exe] $64,417.5 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:00:00  [brave.exe] $64,418.7 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:00:01  [brave.exe] $64,420.7 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:00:02  [brave.exe] $64,420.6 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:00:05  [brave.exe] $64,424.6 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:00:06  [brave.exe] $64,418.6 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:00:07  [brave.exe] $64,416.6 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:00:10  [brave.exe] $64,416.5 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:00:11  [brave.exe] $64,415.0 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:00:12  [brave.exe] $64,415.1 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:00:13  [brave.exe] $64,412.7 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:00:14  [brave.exe] $64,409.3 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:00:15  [brave.exe] $64,392.5 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:00:16  [brave.exe] $64,379.0 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:00:17  [brave.exe] $64,369.7 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:00:18  [brave.exe] $64,368.0 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:00:19  [brave.exe] $64,365.7 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:00:20  [brave.exe] $64,378.1 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:00:21  [brave.exe] $64,362.6 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:00:22  [brave.exe] $64,359.3 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:00:23  [brave.exe] $64,359.2 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:00:26  [brave.exe] $64,359.3 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:00:27  [brave.exe] $64,357.5 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:00:28  [brave.exe] $64,348.5 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:00:29  [brave.exe] $64,349.9 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:00:30  [brave.exe] $64,337.6 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:00:32  [brave.exe] $64,337.7 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:00:33  [brave.exe] $64,337.8 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:00:34  [brave.exe] $64,337.7 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:00:36  [brave.exe] $64,328.1 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:00:37  [brave.exe] $64,316.6 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:00:38  [brave.exe] $64,307.7 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:00:39  [brave.exe] $64,315.4 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:00:40  [brave.exe] $64,313.9 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:00:41  [brave.exe] $64,327.9 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:00:42  [brave.exe] $64,328.2 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:00:43  [brave.exe] $64,328.4 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:00:44  [brave.exe] $64,328.3 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:00:45  [brave.exe] $64,315.7 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:00:49  [brave.exe] $64,308.0 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:00:50  [brave.exe] $64,301.5 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:00:51  [brave.exe] $64,311.3 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:00:52  [brave.exe] $64,314.1 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:00:53  [brave.exe] $64,314.2 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:00:54  [brave.exe] $64,314.1 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:00:55  [brave.exe] $64,307.5 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:00:56  [brave.exe] $64,301.4 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:00:57  [brave.exe] $64,294.7 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:00:58  [brave.exe] $64,288.0 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:00:59  [brave.exe] $64,300.8 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:01:00  [brave.exe] $64,310.4 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:01:01  [brave.exe] $64,302.2 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:01:02  [brave.exe] $64,283.6 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:01:03  [brave.exe] $64,307.3 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:01:04  [brave.exe] $64,310.3 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:01:05  [brave.exe] $64,313.8 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:01:06  [brave.exe] $64,313.7 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:01:07  [brave.exe] $64,322.4 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:01:08  [brave.exe] $64,328.9 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:01:09  [brave.exe] $64,343.1 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:01:10  [brave.exe] $64,343.8 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:01:11  [brave.exe] $64,350.2 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:01:13  [brave.exe] $64,334.9 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:01:14  [brave.exe] $64,331.8 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:01:15  [brave.exe] $64,342.3 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:01:16  [brave.exe] $64,358.2 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:01:18  [brave.exe] $64,359.2 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:01:19  [brave.exe] $64,354.1 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:01:20  [brave.exe] $64,352.2 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:01:21  [brave.exe] $64,350.2 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:01:22  [brave.exe] $64,344.2 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:01:23  [brave.exe] $64,343.8 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:01:24  [brave.exe] $64,327.0 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:01:26  [brave.exe] $64,330.1 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:01:27  [brave.exe] $64,334.6 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:01:28  [brave.exe] $64,334.5 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:01:29  [brave.exe] $64,328.7 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:01:30  [brave.exe] $64,324.5 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:01:31  [brave.exe] $64,320.7 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:01:32  [brave.exe] $64,321.0 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:01:33  [brave.exe] $64,318.8 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:01:34  [brave.exe] $64,313.7 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:01:35  [brave.exe] $64,310.2 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:01:36  [brave.exe] $64,306.1 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:01:37  [brave.exe] $64,306.2 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:01:38  [brave.exe] $64,304.6 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:01:39  [brave.exe] $64,298.7 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:01:40  [brave.exe] $64,298.9 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:01:41  [brave.exe] $64,297.6 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:01:42  [brave.exe] $64,287.6 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:01:43  [brave.exe] $64,284.8 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:01:44  [brave.exe] $64,283.9 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:01:45  [brave.exe] $64,279.2 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:01:46  [brave.exe] $64,270.6 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:01:47  [brave.exe] $64,268.9 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:01:48  [brave.exe] $64,269.0 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:01:49  [brave.exe] $64,265.9 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:01:51  [brave.exe] $64,258.3 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:01:52  [brave.exe] $64,252.1 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:01:53  [brave.exe] $64,250.9 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:01:54  [brave.exe] $64,256.2 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:01:55  [brave.exe] $64,259.3 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:01:56  [brave.exe] $64,245.4 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:01:57  [brave.exe] $64,235.6 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:01:58  [brave.exe] $64,234.7 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:01:59  [brave.exe] $64,231.4 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:02:00  [brave.exe] $64,215.5 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:02:01  [brave.exe] $64,205.6 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:02:02  [brave.exe] $64,198.2 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:02:03  [brave.exe] $64,189.5 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:02:04  [brave.exe] $64,186.3 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:02:05  [brave.exe] $64,185.2 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:02:06  [brave.exe] $64,178.3 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:02:07  [brave.exe] $64,188.4 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:02:08  [brave.exe] $64,199.0 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:02:09  [brave.exe] $64,200.3 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:02:10  [brave.exe] $64,205.4 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:02:11  [brave.exe] $64,213.7 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:02:12  [brave.exe] $64,220.7 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:02:13  [brave.exe] $64,226.5 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:02:14  [brave.exe] $64,226.3 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:02:15  [brave.exe] $64,226.5 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:02:16  [brave.exe] $64,239.4 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:02:17  [brave.exe] $64,247.4 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:02:19  [brave.exe] $64,248.1 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:02:20  [brave.exe] $64,250.6 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:02:21  [brave.exe] $64,258.2 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:02:22  [brave.exe] $64,264.2 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:02:23  [brave.exe] $64,268.0 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:02:24  [brave.exe] $64,264.2 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:02:25  [brave.exe] $64,262.2 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:02:26  [brave.exe] $64,262.3 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:02:27  [brave.exe] $64,262.2 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:02:28  [brave.exe] $64,276.7 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:02:29  [brave.exe] $64,280.7 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:02:30  [brave.exe] $64,271.1 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:02:31  [brave.exe] $64,262.2 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:02:32  [brave.exe] $64,266.7 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:02:33  [brave.exe] $64,274.4 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:02:36  [brave.exe] $64,266.4 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:02:37  [brave.exe] $64,261.8 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:02:38  [brave.exe] $64,269.4 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:02:39  [brave.exe] $64,272.3 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:02:40  [brave.exe] $64,269.7 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:02:41  [brave.exe] $64,276.2 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:02:42  [brave.exe] $64,276.1 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:02:43  [brave.exe] $64,269.2 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:02:44  [brave.exe] $64,272.2 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:02:45  [brave.exe] $64,269.3 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:02:46  [brave.exe] $64,271.1 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:02:47  [brave.exe] $64,271.0 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:02:48  [brave.exe] $64,289.8 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:02:49  [brave.exe] $64,289.7 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:02:52  [brave.exe] $64,289.8 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:02:52  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:02:52  [LeagueClientUx.exe] League of Legends
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/15 15:02:55  [brave.exe] 收件匣 (25,045) - south830325@gmail.com - Gmail - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/15 15:02:56  [brave.exe] (1) 鋼殻のレギオスED　　ヤサシイウソ　フェリver - YouTube - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:02:59  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:02:59  [LeagueClientUx.exe] League of Legends
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/15 15:03:01  [Mobalytics.exe] 時不我與#tw2 [TW] - Champion Stats - League of Legends [S26]
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:03:02  [brave.exe] (1) 鋼殻のレギオスED　　ヤサシイウソ　フェリver - YouTube - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:03:02  [brave.exe] 返傭站 — Fee Otter - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:03:03  [brave.exe] (1) 鋼殻のレギオスED　　ヤサシイウソ　フェリver - YouTube - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/15 15:03:06  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:03:06  [LeagueClientUx.exe] League of Legends
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/15 15:04:14  [Mobalytics.exe] 時不我與#tw2 [TW] - Champion Stats - League of Legends [S26]
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:04:16  [League of Legends.exe] League of Legends (TM) Client
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  [Esc]
+  [RMB]
+  [RMB]
+
+--- WINDOW  2026/11/15 15:05:23  [brave.exe] (2) 鋼殻のレギオスED　　ヤサシイウソ　フェリver - YouTube - Brave
+----------------------------------------------------------------------------
+  [RMB]
+  [LMB]
+
+--- WINDOW  2026/11/15 15:05:25  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:05:25  [League of Legends.exe] League of Legends (TM) Client
+----------------------------------------------------------------------------
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  d
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  d
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  f
+  [LMB]
+  f
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  e
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  d
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  q
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  r
+  [LMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  d
+  [RMB]
+  ddd
+  [RMB]
+  dd
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  w
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  d
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  d
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  e
+  [LMB]
+  e
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  rr
+  [LMB]
+  rr
+  [LMB]
+  [RMB]
+  [RMB]
+  f
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  d
+  [LMB]
+  q
+  [LMB]
+  qqw
+  [LMB]
+  [LMB]
+  w
+  [LMB]
+  q
+  [LMB]
+  q
+  [LMB]
+  [Esc]
+  [RMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  d
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  ff
+  [LMB]
+  f
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  d
+  [LMB]
+  f
+  [LMB]
+  [LMB]
+  e
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  q
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  q
+  [LMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [Tab]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  r
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  w
+  [LMB]
+  w
+  [LMB]
+  qw
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  d
+  [RMB]
+  ddd
+  [RMB]
+  dd
+  [RMB]
+  d
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  w
+  [LMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  d
+  [LMB]
+  [RMB]
+  [RMB]
+  d
+  [RMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  q
+  [LMB]
+  e
+  [LMB]
+  [RMB]
+  e
+  [LMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  d
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  w
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  www
+  [RMB]
+  w
+  [LMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [Esc][Tab][Tab][Tab][Tab][Tab]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  r
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  eddw
+  [LMB]
+  dwd
+  [RMB]
+  dq
+  [LMB]
+  d
+  [RMB]
+  d
+  [LMB]
+  d
+  [RMB]
+  [LMB]
+  [RMB]
+  e
+  [LMB]
+  w
+  [LMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  dd
+  [LMB]
+  d
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  f
+  [RMB]
+  [RMB]
+  e
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  w
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [Tab]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  wq
+  [RMB]
+  qe
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  ew
+  [LMB]
+  dd
+  [LMB]
+  d
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  qq
+  [LMB]
+  [RMB]
+  w
+  [RMB]
+  w
+  [RMB]
+  qe
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  r
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  q
+  [LMB]
+  [RMB]
+  q
+  [RMB]
+  w
+  [RMB]
+  [RMB]
+  [RMB]
+  d
+  [LMB]
+  dd
+  [RMB]
+  dd
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  we
+  [RMB]
+  eq
+  [RMB]
+  ee
+  [RMB]
+  e
+  [RMB]
+  e
+  [RMB]
+  [RMB]
+  e
+  [RMB]
+  [RMB]
+  e
+  [RMB]
+  [LMB]
+  w
+  [LMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  e
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  d
+  [LMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  q
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  r
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  d
+  [LMB]
+  [RMB]
+  dd
+  [RMB]
+  d
+  [LMB]
+  [RMB]
+  d
+  [LMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  q
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  ee
+  [RMB]
+  e
+  [RMB]
+  [RMB]
+  q
+  [RMB]
+  [RMB]
+  e
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  e
+  [LMB]
+  [RMB]
+  q
+  [LMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  e
+  [LMB]
+  [RMB]
+  [LMB]
+  q
+  [RMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  q
+  [RMB]
+  [LMB]
+  r
+  [RMB]
+  rw
+  [LMB]
+  e
+  [LMB]
+  [RMB]
+  w
+  [LMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  e
+  [LMB]
+  [RMB]
+  q
+  [LMB]
+  q
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  w
+  [LMB]
+  [RMB]
+  q
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  d
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  e
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  e
+  [RMB]
+  [LMB]
+  [RMB]
+  f
+  [RMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  r
+  [LMB]
+  [LMB]
+  w
+  [LMB]
+  f
+  [LMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc]
+  [LMB]
+  [Tab]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  r
+  [LMB]
+  [RMB]
+  [LMB]
+  e
+  [LMB]
+  e
+  [RMB]
+  [LMB]
+  [LMB]
+  f
+  [LMB]
+  ddd
+  [LMB]
+  d
+  [RMB]
+  d
+  [LMB]
+  qwd
+  [RMB]
+  d
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  w
+  [LMB]
+  q
+  [LMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  d
+  [LMB]
+  d
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  q
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  e
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  r
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  q
+  [LMB]
+  [RMB]
+  e
+  [LMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  eq
+  [LMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  q
+  [LMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  r
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  w
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  w
+  [LMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  f
+  [LMB]
+  q
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  d
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+
+--- WINDOW  2026/11/15 15:24:22  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:24:23  [brave.exe] (2) WHAT'S UP GUYS? - YouTube - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:24:23  [brave.exe] $64,397.9 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:24:24  [brave.exe] $64,398.1 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/15 15:24:24  [brave.exe] (2) WHAT'S UP GUYS? - YouTube - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:24:26  [explorer.exe] (untitled)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:24:26  [LeagueClientUx.exe] League of Legends
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/15 15:24:30  [Mobalytics.exe] 時不我與#tw2 [TW] - Champion Stats - League of Legends [S26]
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:24:30  [LeagueClientUx.exe] League of Legends
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/15 15:24:48  [Mobalytics.exe] 時不我與#tw2 [TW] - Champion Stats - League of Legends [S26]
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:24:51  [brave.exe] (2) WHAT'S UP GUYS? - YouTube - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/15 15:24:51  [brave.exe] $64,393.4 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:24:54  [brave.exe] $64,393.6 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/15 15:24:58  [brave.exe] $64,393.5 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:24:59  [brave.exe] $64,393.6 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/15 15:25:00  [brave.exe] 收件匣 (25,045) - south830325@gmail.com - Gmail - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/15 15:25:10  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:25:10  [LeagueClientUx.exe] League of Legends
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/15 15:25:16  [brave.exe] 收件匣 (25,045) - south830325@gmail.com - Gmail - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:25:16  [brave.exe] $64,393.8 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:25:16  [brave.exe] $64,408.6 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:25:17  [brave.exe] (2) WHAT'S UP GUYS? - YouTube - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/15 15:25:18  [brave.exe] 收件匣 (25,045) - south830325@gmail.com - Gmail - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:25:20  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:25:20  [LeagueClientUx.exe] League of Legends
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/15 15:26:20  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:26:20  [Mobalytics.exe] 時不我與#tw2 [TW] - Champion Stats - League of Legends [S26]
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/15 15:26:22  [League of Legends.exe] League of Legends (TM) Client
+----------------------------------------------------------------------------
