@@ -1,0 +1,507 @@
+﻿  saaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaawwwwwwwwwwwwwwwwwwwwwwwwwwwwwddddddddsaaadddddddddddddddwwwwwwwwwwwwwwwwwwdwssssssdsaaaaaaaaaasssswwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwddddddddddsaddddddsssssaaaaaaaaaaaawdwadb
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  dwwwwwwwwwwwwwwwwaaaaaaasssssssssssaaaaaaaaaaaaaaaaadwaaaasssssssssssssasasdddddddddddddwwdwaaaaaaaaaaaaaaaaaaaaaawwwwwwwsssssssssssssssssssssssssssssdsddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddwdaaaaaaawssssssssssssddddddddddddddddddddddddddddddsssdswwddddddddddddaaaaaaaaaaaaaaassssssssssssssssssdawb
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  waaaaaaaaaawsdawdddsassdddddddddddddddddddddddddddddddddddddddddddddddddddwwwwwwwwwwwwwwwwwwwdaawssssssssssssssssssssssssssssssdsdddddddddddddddddddddddddddddwdwdsawdassssssssawwwwwwwwwwsdwwwdddddddddddddddddddddddddddddaaaaaaaaassssssssssdsdddddddddwadsaaaaaaaaaaawddsawsdwwwwwwwwwwwwwwwwwwwwwwwwwwwwdwdasb
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  sddddddddddddddddddsaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaasssssssssdwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwssssawdaaaaaaaaaaassssssssssdswwwwwdaaaaassssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssdddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddwwwwwwwwddddddddddddddddddddddddddddddddddddddaaawwwwwssssssssssssssssssssssssssssdsddddddddddddddddddddssssssssssssssssssssadwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwaaaawwwwwwwssssssssawsdddswsssswwwwwwwwwddddddddddddwwaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaawwwwwwwwwwwwwwwwwwwwwwwssssssssssssssssssssssssssssssssssssssssssssssssssssssddddddddddddddddddddddddddddddddddddddb
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  a
+  [LMB]
+  awssssssswwaaaaaaaaaaaaaadddddwwwwwwwwwwwwwwwwwwssssssddddddaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaassswwwwwwwwwwwwwwwwwwwwwwwwwwadaaaaassssssssssssssssssssssssssssssssssdadddddddddddddddddddddddddddddddddddddddswwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwadaaaaaassssssssssssssssssssssssssssssssssddddddddddddddddddsssswwwwwwwwwwwwwwwwwawaaaaaaaaaaaaaaaaaaaaaawwwwwwwwssssssssssssssssssssdsddswwwwwwwwwdwddddaaaaaaaaaaaab
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  aawsssssssssssssssssssssssaddwadasssdddwwwwwwwwwwwwwwwwwwwawaasddddddddssssssssssdsdddddddaaaaaaaaaasssssssdswaaaaaaaaaaaaaaaaaaaaaaaaaaaaawddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddwwwwwssssssssssasaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaawwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwddddddddddddddddddddddddddssssssssssssddddddddddddsssssssssdsddddddddddddddddddddddddddddawwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwb
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/17 17:59:55  [powershell.exe] C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/17 17:59:59  [chrome.exe] RO Survivors⁠‌‌‌‌​‌‌‌‌‌‌‌‌‌​​​‌‌​‌​‌‌​​​‌​​‌‌⁠ · Free Ragnarok Online–inspired survivors game in your browser - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  awwwwwwwwwwwwwwwwwawdddddddddddddddddddddsssssssasaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaswwwwwwwwwdddddddddddd
+
+--- WINDOW  2026/11/17 18:00:17  [powershell.exe] C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+----------------------------------------------------------------------------
+  dwwa
+
+--- WINDOW  2026/11/17 18:00:19  [chrome.exe] RO Survivors⁠‌‌‌‌​‌‌‌‌‌‌‌‌‌​​​‌‌​‌​‌‌​​​‌​​‌‌⁠ · Free Ragnarok Online–inspired survivors game in your browser - Google Chrome
+----------------------------------------------------------------------------
+  waddddddddddddd
+  [LMB]
+  ddwwwwwwssssssssssssssssdswssssssaaaaaaaaaaaddadwwwwwwwwwwwwwwwwwdaddddddddsssswdddddddddddsadwwwwwwbw
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  awaddddddddddddddddddddddddddddddddddddddddddddddddddssdssssssssssssssssssssssssssssssssssssssssssssssasaaadwwwwwwwwwwwwwdddddddddddddddddddddddddddddddddddddddddddddddddddddwwwwwwwwwwwwwwwwwwwwwwaaaaaaaaaaaaaaaaawwwwwwwwwwwwwwwwwwwwwwwwwwwwwwssswddddddddddddddddddddddddwwwwwwadsssssssssdddddddddddsadsawddddddddd
+  [LMB]
+  wd
+  [LMB]
+  wawdddddddddddddddddda
+  [LMB]
+  sdddddddwwwwwwwwwwwwwwwwww 
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc]saaaaaaaaaaaaaaawaaaaaaaaaaaa a
+  [LMB]
+  [Esc]sd
+
+--- WINDOW  2026/11/17 18:02:24  [chrome.exe] 2330 2,170 ▼ −2.03% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  ddd
+  [LMB]
+  [Esc][Esc]
+
+--- WINDOW  2026/11/17 18:02:27  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/17 18:02:28  [brave.exe] $64,336.2 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/17 18:02:29  [brave.exe] $64,336.3 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/17 18:02:30  [brave.exe] $64,336.2 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/17 18:02:30  [brave.exe] Facebook - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/17 18:02:31  [brave.exe] Stop-Loss Executed - south830325@gmail.com - Gmail - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/17 18:02:32  [brave.exe] YouTube - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/17 18:02:33  [brave.exe] (10) YouTube - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/17 18:02:37  [brave.exe] (10) 大淘金-第17季2（格雷格篇）：刚入行的格雷格运气真好买下的土地挖出了石墨，其中含金量高的惊人 - YouTube - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/17 18:02:43  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/17 18:02:43  [chrome.exe] 2330 2,170 ▼ −2.03% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/17 18:02:45  [chrome.exe] RO Survivors⁠‌‌‌‌​‌‌‌‌‌‌‌‌‌​​​‌‌​‌​‌‌​​​‌​​‌‌⁠ · Free Ragnarok Online–inspired survivors game in your browser - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/17 18:02:47  [chrome.exe] 新分頁 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/17 18:02:48  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/17 18:02:48  [brave.exe] (10) 大淘金-第17季2（格雷格篇）：刚入行的格雷格运气真好买下的土地挖出了石墨，其中含金量高的惊人 - YouTube - Brave
+----------------------------------------------------------------------------
+  [->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->]
+  [LMB]
+
+--- WINDOW  2026/11/17 18:07:10  [brave.exe] (10) YouTube - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/17 18:07:14  [brave.exe] (10) 大淘金-第17季2（格雷格篇）：刚入行的格雷格运气真好买下的土地挖出了石墨，其中含金量高的惊人 - YouTube - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/17 18:07:16  [brave.exe] (10) 奶奶想吃螃蟹了，阿烽去滩涂连抓几十只猛货，还给奶奶抓鲜鱼吃 - YouTube - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/17 18:07:17  [brave.exe] $64,364.6 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/17 18:07:18  [brave.exe] $64,357.9 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/17 18:07:18  [brave.exe] (10) 奶奶想吃螃蟹了，阿烽去滩涂连抓几十只猛货，还给奶奶抓鲜鱼吃 - YouTube - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/17 18:07:19  [brave.exe] Stop-Loss Executed - south830325@gmail.com - Gmail - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/17 18:07:19  [brave.exe] $64,352.4 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/17 18:07:20  [brave.exe] $64,330.8 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/17 18:07:21  [brave.exe] $64,329.7 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/17 18:07:22  [brave.exe] $64,315.0 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/17 18:07:23  [brave.exe] $64,314.9 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/17 18:07:23  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/17 18:07:23  [chrome.exe] 新分頁 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/17 18:07:24  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/17 18:07:24  [brave.exe] $64,314.8 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/17 18:07:25  [brave.exe] $64,327.5 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/17 18:07:26  [brave.exe] $64,339.7 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/17 18:07:27  [brave.exe] $64,339.6 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/17 18:07:28  [brave.exe] $64,339.7 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/17 18:07:29  [brave.exe] accounts.google.com/v3/signin/accountchooser?client_id=246220789690-lbkcub24iet2naike4qr2itu7nv1fsq7.apps.googleusercontent.com&code_challenge=8gqgyzKFib0xmwfWjNRbGpYjpKW_HOhUsgPoUwR9z7I&code_challenge_method=S256&prompt=select_account&redirect_uri=https%3A%2F%2Fauth.privy.io%2Fapi%2Fv1%2Foauth%2Fcallback&response_type=code&scope=openid+email+profile&state=jMxC_6C_qCBQDf8Ve4xcKODF0WNvNT0-aaSK7CW1oUXNTAw8&dsh=S-804689506%3A1794910048621387&o2v=2&service=lso&flowName=GeneralOAuthFlow&opparams=%253F&continue=
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/17 18:07:30  [brave.exe] 登入 - Google 帳戶 - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/17 18:07:31  [brave.exe] (10) 奶奶想吃螃蟹了，阿烽去滩涂连抓几十只猛货，还给奶奶抓鲜鱼吃 - YouTube - Brave
+----------------------------------------------------------------------------
+  [->]
+  [LMB]
+
+--- WINDOW  2026/11/17 18:07:48  [brave.exe] $64,315.3 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/17 18:07:48  [brave.exe] $64,317.7 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/17 18:07:49  [brave.exe] $64,322.3 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/17 18:07:50  [brave.exe] (10) 奶奶想吃螃蟹了，阿烽去滩涂连抓几十只猛货，还给奶奶抓鲜鱼吃 - YouTube - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/17 18:08:51  [brave.exe] $64,340.0 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/17 18:08:52  [brave.exe] $64,335.2 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/17 18:08:53  [brave.exe] $64,329.3 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/17 18:08:54  [brave.exe] $64,329.4 | BTC | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/17 18:08:54  [brave.exe] $92.82 | BZ | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/17 18:08:55  [brave.exe] $92.80 | BZ | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/17 18:08:56  [brave.exe] $92.81 | BZ | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/17 18:08:58  [brave.exe] $92.82 | BZ | Vest Markets - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/17 18:09:02  [brave.exe] $92.81 | BZ | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/17 18:09:03  [brave.exe] $92.82 | BZ | Vest Markets - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/17 18:09:05  [brave.exe] (10) 奶奶想吃螃蟹了，阿烽去滩涂连抓几十只猛货，还给奶奶抓鲜鱼吃 - YouTube - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/17 18:09:07  [brave.exe] $92.82 | BZ | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/17 18:09:10  [brave.exe] $92.83 | BZ | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/17 18:09:12  [brave.exe] $92.84 | BZ | Vest Markets - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/17 18:09:13  [brave.exe] $92.83 | BZ | Vest Markets - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/17 18:09:15  [brave.exe] $136.40 | SPCX | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/17 18:09:16  [brave.exe] $136.41 | SPCX | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/17 18:09:17  [brave.exe] $136.40 | SPCX | Vest Markets - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/17 18:09:19  [brave.exe] (10) 奶奶想吃螃蟹了，阿烽去滩涂连抓几十只猛货，还给奶奶抓鲜鱼吃 - YouTube - Brave
+----------------------------------------------------------------------------
+  [->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->]
+  [LMB]
+
+--- WINDOW  2026/11/17 18:13:16  [brave.exe] $136.26 | SPCX | Vest Markets - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/17 18:13:18  [brave.exe] Stop-Loss Executed - south830325@gmail.com - Gmail - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/17 18:13:19  [brave.exe] (10) YouTube - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/17 18:13:25  [brave.exe] (10) 奶奶想吃螃蟹了，阿烽去滩涂连抓几十只猛货，还给奶奶抓鲜鱼吃 - YouTube - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/17 18:13:26  [brave.exe] Facebook - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/17 18:13:36  [brave.exe] (10) 炸了三枚火箭卻沒有開除任何人？馬斯克最極端的管理法則 - YouTube - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/17 18:15:12  [brave.exe] (10) YouTube - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/17 18:15:19  [brave.exe] (10) 炸了三枚火箭卻沒有開除任何人？馬斯克最極端的管理法則 - YouTube - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/17 18:15:21  [brave.exe] (10) 一件幾毛錢，還能年賺過億？實探拼多多源頭工廠！| 杰克小兔 - YouTube - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/17 18:15:22  [brave.exe] Stop-Loss Executed - south830325@gmail.com - Gmail - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/17 18:15:22  [brave.exe] (10) 一件幾毛錢，還能年賺過億？實探拼多多源頭工廠！| 杰克小兔 - YouTube - Brave
+----------------------------------------------------------------------------
+  [->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->]
+  [LMB]
+
+--- WINDOW  2026/11/17 18:17:55  [brave.exe] (10) YouTube - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/17 18:18:01  [brave.exe] (10) 一件幾毛錢，還能年賺過億？實探拼多多源頭工廠！| 杰克小兔 - YouTube - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/17 18:18:03  [brave.exe] (10) 他偷了《戰慄時空 2》的原始碼，還向 Valve 投了履歷 - YouTube - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/17 18:18:08  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/17 18:18:08  [EADesktop.exe] EA
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/17 18:18:09  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/17 18:18:09  [brave.exe] (10) 他偷了《戰慄時空 2》的原始碼，還向 Valve 投了履歷 - YouTube - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/17 18:18:12  [brave.exe] 他偷了《戰慄時空 2》的原始碼，還向 Valve 投了履歷 - YouTube - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [->][->][->][->][->][->][->][->][<-][->][->][->][->][->][<-][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][<-][->][->][->][->][->][->]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/17 18:30:24  [brave.exe] YouTube - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/17 18:30:43  [brave.exe] 他偷了《戰慄時空 2》的原始碼，還向 Valve 投了履歷 - YouTube - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/17 18:30:44  [brave.exe] 馬斯克酸「這種董事會領導輝達」？ 矽谷天才員工們怒起底「董事們賣可樂.捲餅！」下一步上街抗議？！-【關鍵時刻】每日懶人包 20261116 - YouTube - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/17 18:38:45  [brave.exe] YouTube - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/17 18:44:55  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/17 18:44:55  [chrome.exe] 新分頁 - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/17 18:45:04  [chrome.exe] RO Survivors⁠‌‌‌‌​‌‌‌‌‌‌‌‌‌​​​‌‌​‌​‌‌​​​‌​​‌‌⁠ · Free Ragnarok Online–inspired survivors game in your browser - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  sdds
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  dddddddddddddddddddddddddddwwwwwwww 
+  [LMB]
+  [LMB]
+  ssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssddaaaaaawwwwwwwwwwwwwwwwawsddddddddddwdddddddddddddddddddddddddddddddddddddddddddddddddddddddwaaaaaaaaaaaaaaaaaaaaaaaaaaaaaasdddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddwaaaaaaaaaawwwwwwwwwwwwwwaaaaaaaaaaaaaaaaaaaaaassssssdddadddddddddddddddddddddwwwwwwwwwwwwwwwwwwwwwwwawaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaawwwwwwwsdddddddb
+  [LMB]
+  ddds
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  dswsaaaaaaaaaaaaaaaaaaaaaaaaaaadwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwaaaaaaaaaaaaaaaaaaaaaaaaassssssssssssssswwwwwwwwsddddddddddddddddddddddwssssssssssssssdsddddddddddddddddddssb
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  dsaaaaaaaaaaaaaaaaaaaawswwwwwawaaaaaadddddddddddddddddddddsssssssssssssssssswaswwwwwwwwwwwwwwssssssssssssssssssssadwwwwdddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddssaaasdaaaaaaaaaaaaaaaaaaaaaaaaawb
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  aaaaaaaaaaaawwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwdadddddddddddddddddddddddddddddddddddddwsssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssasaaaaaaaaaaaaaaaaaaaaaaaaawwwwwwwaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaassssssssssssssssssssssssssssddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddwwwwwwwwwwwwwwwwwwwwwwwwwwdaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaasssssssssssssssssssssssssssssssssab
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  w
+  [LMB]
+  w
+  [LMB]
+  [LMB]
+  aaaaaaaassssssssssdddddddddddddddddddddddwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaassssssssssssssssssssssssssssaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaasssssssssssssssssddddddddddddddddddddddddddddwwwwwwwwwwwwwwwwwwwwwwwwwwwwwddddddddddddddddddddddddddddddddddddsasaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaawdwsaaaaaaaaaaadsaaaaaaaaawwwwwwdddddddddddddddddddddddddddddddddddddaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaassssssssssssssssssssssssssssssssssssswwwwwwwwwsdddddddddddddaaaaaaaaaaaaaaaaaaawwwwwwwwdsdddddddbd
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  ddddddddddddddddddddw
+  [LMB]
+  dddddddddddddddddd
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  dddddddddddssssssssssswwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwaaaaaaassssssssssssssssssssssssdddddddddddddddssssssssaaaaaaaaaaaaawwwwwwwaaaaaaaaaaaab
+  [LMB]
+  [LMB]
+  [LMB]
+  dddddddddddddddddssssssssssssssssssssssdddddddddddddddddddddddddddddddddddddddddddwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwawaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaawsdadddddddddddddddddddwwwwwwwwwwwwwwwsssssssssssssssssssssssssssssssssssaadwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwawaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaawwwwwwwwwwwwwwwwwwwssssssssssssssssssssssssssssssadddddddddddddwwwwwwwwwwwwwwwwwwwwwwwwwwwsaaaaddaaaddddddddddddwwwwwwwwwwwwwwwwwawaaaaaaaddddddddddddddddddddddddddssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssaaaaaaaawwdsaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaadddddddddddddddddddddddddddddddddwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwaaaaaaaaaaaaaaaaaaaaaaaaaaaab
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  a
+  [LMB]
+  [LMB]
+  [LMB]
