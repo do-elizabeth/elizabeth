@@ -1,0 +1,1379 @@
+﻿
+--- WINDOW  2026/11/17 14:55:56  [OFT.PlatformX.exe] ATAS X
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/17 14:56:00  [explorer.exe] (untitled)
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/17 14:56:01  [chrome.exe] Facebook - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/17 14:56:02  [chrome.exe] Exercices de traduction - Leçons 1 à 5 - FR 1117 - FREN-1117-001 - Intermediate French I - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/17 14:56:03  [chrome.exe] MNQ1! 27,117.00 ▼ −0.61% New Era - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/17 14:56:03  [chrome.exe] MNQ1! 27,117.25 ▼ −0.61% New Era - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/17 14:56:04  [chrome.exe] MNQ1! 27,116.25 ▼ −0.62% New Era - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/17 14:56:05  [chrome.exe] MNQ1! 27,117.00 ▼ −0.61% New Era - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/17 14:56:06  [chrome.exe] MNQ1! 27,117.50 ▼ −0.61% New Era - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/17 14:56:07  [chrome.exe] MNQ1! 27,117.25 ▼ −0.61% New Era - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/17 14:56:07  [chrome.exe] MNQ1! 27,119.25 ▼ −0.6% New Era - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/17 14:56:09  [chrome.exe] MNQ1! 27,117.50 ▼ −0.61% New Era - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/17 14:56:09  [chrome.exe] MNQ1! 27,118.75 ▼ −0.61% New Era - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/17 14:56:09  [chrome.exe] MNQ1! 27,114.50 ▼ −0.62% New Era - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/17 14:56:10  [chrome.exe] MNQ1! 27,114.75 ▼ −0.62% New Era - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/17 14:56:11  [chrome.exe] MNQ1! 27,114.50 ▼ −0.62% New Era - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/17 14:56:11  [chrome.exe] MNQ1! 27,113.50 ▼ −0.63% New Era - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/17 14:56:12  [chrome.exe] MNQ1! 27,115.00 ▼ −0.62% New Era - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/17 14:56:13  [chrome.exe] MNQ1! 27,118.00 ▼ −0.61% New Era - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/17 14:56:14  [chrome.exe] MNQ1! 27,111.00 ▼ −0.63% New Era - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/17 14:56:15  [chrome.exe] MNQ1! 27,112.00 ▼ −0.63% New Era - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/17 14:56:15  [chrome.exe] MNQ1! 27,112.25 ▼ −0.63% New Era - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/17 14:56:16  [chrome.exe] MNQ1! 27,113.75 ▼ −0.62% New Era - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/17 14:56:16  [chrome.exe] MNQ1! 27,114.25 ▼ −0.62% New Era - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/17 14:56:17  [chrome.exe] MNQ1! 27,113.00 ▼ −0.63% New Era - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/17 14:56:18  [chrome.exe] MNQ1! 27,114.75 ▼ −0.62% New Era - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/17 14:56:19  [chrome.exe] MNQ1! 27,115.00 ▼ −0.62% New Era - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/17 14:56:19  [chrome.exe] MNQ1! 27,113.75 ▼ −0.62% New Era - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/17 14:56:20  [chrome.exe] MNQ1! 27,106.75 ▼ −0.65% New Era - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/17 14:56:21  [chrome.exe] MNQ1! 27,105.75 ▼ −0.65% New Era - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/17 14:56:22  [chrome.exe] MNQ1! 27,109.25 ▼ −0.64% New Era - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/17 14:56:23  [chrome.exe] MNQ1! 27,105.00 ▼ −0.66% New Era - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/17 14:56:23  [chrome.exe] MNQ1! 27,107.75 ▼ −0.65% New Era - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/17 14:56:25  [chrome.exe] MNQ1! 27,109.00 ▼ −0.64% New Era - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/17 14:56:25  [chrome.exe] MNQ1! 27,105.25 ▼ −0.66% New Era - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/17 14:56:26  [chrome.exe] MNQ1! 27,106.25 ▼ −0.65% New Era - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/17 14:56:27  [chrome.exe] MNQ1! 27,104.00 ▼ −0.66% New Era - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/17 14:56:27  [chrome.exe] MNQ1! 27,099.75 ▼ −0.68% New Era - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/17 14:56:28  [chrome.exe] MNQ1! 27,098.75 ▼ −0.68% New Era - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/17 14:56:29  [chrome.exe] MNQ1! 27,095.50 ▼ −0.69% New Era - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/17 14:56:30  [chrome.exe] MNQ1! 27,097.75 ▼ −0.68% New Era - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/17 14:56:30  [chrome.exe] MNQ1! 27,098.25 ▼ −0.68% New Era - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/17 14:56:31  [chrome.exe] MNQ1! 27,098.75 ▼ −0.68% New Era - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/17 14:56:32  [chrome.exe] MNQ1! 27,093.00 ▼ −0.7% New Era - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/17 14:56:32  [chrome.exe] MNQ1! 27,092.00 ▼ −0.7% New Era - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/17 14:56:33  [chrome.exe] MNQ1! 27,094.25 ▼ −0.7% New Era - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/17 14:56:33  [chrome.exe] MNQ1! 27,102.25 ▼ −0.67% New Era - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/17 14:56:34  [chrome.exe] MNQ1! 27,103.00 ▼ −0.66% New Era - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/17 14:56:35  [chrome.exe] MNQ1! 27,104.00 ▼ −0.66% New Era - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/17 14:56:36  [chrome.exe] MNQ1! 27,104.25 ▼ −0.66% New Era - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/17 14:56:37  [chrome.exe] MNQ1! 27,097.75 ▼ −0.68% New Era - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/17 14:56:37  [chrome.exe] MNQ1! 27,098.00 ▼ −0.68% New Era - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/17 14:56:38  [chrome.exe] MNQ1! 27,097.25 ▼ −0.69% New Era - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/17 14:56:39  [chrome.exe] MNQ1! 27,097.50 ▼ −0.68% New Era - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/17 14:56:39  [chrome.exe] MNQ1! 27,099.25 ▼ −0.68% New Era - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/17 14:56:40  [chrome.exe] MNQ1! 27,098.50 ▼ −0.68% New Era - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/17 14:56:40  [chrome.exe] MNQ1! 27,098.00 ▼ −0.68% New Era - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/17 14:56:41  [chrome.exe] MNQ1! 27,102.75 ▼ −0.67% New Era - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/17 14:56:42  [chrome.exe] MNQ1! 27,103.75 ▼ −0.66% New Era - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/17 14:56:42  [chrome.exe] MNQ1! 27,105.00 ▼ −0.66% New Era - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/17 14:56:43  [chrome.exe] MNQ1! 27,108.75 ▼ −0.64% New Era - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/17 14:56:44  [chrome.exe] MNQ1! 27,109.75 ▼ −0.64% New Era - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/17 14:56:44  [chrome.exe] MNQ1! 27,110.50 ▼ −0.64% New Era - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/17 14:56:45  [chrome.exe] MNQ1! 27,110.75 ▼ −0.64% New Era - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/17 14:56:45  [OFT.PlatformX.exe] ATAS X
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/17 14:57:09  [chrome.exe] MNQ1! 27,107.25 ▼ −0.65% New Era - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/17 14:57:09  [chrome.exe] Exercices de traduction - Leçons 1 à 5 - FR 1117 - FREN-1117-001 - Intermediate French I - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/17 14:57:09  [chrome.exe] Huu Duyen - Google Drive - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/17 14:57:10  [chrome.exe] roblox - Google Search - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/17 14:57:11  [chrome.exe] google.com/search?q=roblox&rlz=1C1VDKB_enCA1181CA1181&oq=Roblox&gs_lcrp=EgZjaHJvbWUqEAgAEAAYgwEY4wIYsQMYgAQyEAgAEAAYgwEY4wIYsQMYgAQyDQgBEC4YgwEYsQMYgAQyDQgCEAAYgwEYsQMYgAQyDQgDEAAYgwEYsQMYgAQyEAgEEAAYgwEYsQMYgAQYigUyCggFEAAYsQMYgAQyCggGEAAYsQMYgAQyBggHEAUYQNIBCDExMDhqMGo3qAIIsAIB8QXanCKTL8HlIw&sourceid=chrome&source=chrome.ob&ie=UTF-8 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/17 14:57:11  [chrome.exe] Home - Netflix - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/17 14:57:11  [chrome.exe] Netflix - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/17 14:57:11  [chrome.exe] wasabii1ii - Roblox - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/17 14:57:14  [chrome.exe] Facebook - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  roi[ENTER]
+  [LMB]
+
+--- WINDOW  2026/11/17 14:57:25  [explorer.exe] (untitled)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/17 14:57:25  [RobloxPlayerBeta.exe] Roblox
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  she[ENTER]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  moon[ENTER]
+  d
+  [LMB]
+  sa
+  [RMB]
+  dwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwd
+  [RMB]
+  dd
+  [RMB]
+  dd
+  [LMB]
+  helmet[ENTER]
+  wwww swwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+  [RMB]
+  wwwwwwwwwwwwwwwwwwwwww
+  [RMB]
+  dw
+  [RMB]
+  www  d d  ad asdw aw a aass
+  [RMB]
+  [RMB]
+  w
+  [RMB]
+  w
+  [LMB]
+  rukler[Bk][Bk][Bk][Bk]ler[ENTER]
+  [RMB]
+  wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwd
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  [Esc][Esc]
+  [LMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  gil[ENTER]
+  [ENTER]
+  [LMB]
+  [RMB]
+  [LMB]
+  [Esc]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  w
+  [RMB]
+  wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+  [RMB]
+  waww
+  [RMB]
+  dwws
+  [RMB]
+  w
+  [RMB]
+  wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwadad
+  [RMB]
+  w
+  [RMB]
+  wwwwwwwwwwwwwwwwwwwwwwwwwadsadw
+  [RMB]
+  wwwwwwwwwwwwwwwwwww
+  [RMB]
+  wwwwwwwwwwwwwddasdwadw
+  [RMB]
+  wwwwwwwwwwwwwwww
+  [RMB]
+  wwwwwwwwwwwwwwwawwaaaaaaads
+  [RMB]
+  wwwwwwww
+  [RMB]
+  wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwdw
+  [RMB]
+  wwwwwwwww
+  [RMB]
+  wwwwwwwwwwwwwwwwwwwwwwwwwwwwwaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+  [RMB]
+  w
+  [RMB]
+  wwwwwwwwwwwwwwwwwwwwwwwwwwww dddddddddddddddddddddwwwwwwaa
+  [RMB]
+  wwwwwwwwwwwwwwwwwwdw
+  [RMB]
+  w
+  [RMB]
+  aawaaaa
+  [RMB]
+  w
+  [RMB]
+  wwwwwwwwww
+  [RMB]
+  wwwwwwwwwwwwwwwwdsaw
+  [RMB]
+  a
+  [RMB]
+  wwwwww
+  [RMB]
+  wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwdsdaw
+  [RMB]
+  w
+  [RMB]
+  wwwwwwwwwwwwwwwwww
+  [RMB]
+  wwwwwwwwwwwdwwwwwwwwwwwwwwwddddddddddddddddddddddddddddddddddddd
+  [RMB]
+  w
+  [RMB]
+  wwwwwwwwwwwwwwwwwwww
+  [RMB]
+  wsawaaad
+  [RMB]
+  wwwww
+  [RMB]
+  wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwdwwdaadswwwwwwwwwwwwwwwwww
+  [RMB]
+  wwwwwwwwwwwwwwwwwwwwwww
+  [RMB]
+  wwadwddddw
+  [RMB]
+  wwwwww
+  [RMB]
+  wwwwwwwwwwwwwwwwwwwwwwwwwwwwawaadaww
+  [RMB]
+  www
+  [RMB]
+  wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwaaawwdw
+  [RMB]
+  wwwwwwwwwwwwwwwwww
+  [RMB]
+  wwwwwwwwwwwwwwwwwwwwwwwaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaawaaaaaaaaasdww
+  [RMB]
+  wwwwwwwww
+  [RMB]
+  wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwsdwawddwdw
+  [RMB]
+  wwww
+  [RMB]
+  wwwwwwwwwwwwwwwwwwwwwwwww wdwadwddaaaaadaadw
+  [RMB]
+  wwwww
+  [RMB]
+  wwwwwwwwwwwwwwwwwwwwwwwwwwwww dadddddddddddddddddddddwddaaaaaw
+  [RMB]
+  wwwwwwwwww
+  [RMB]
+  wwwwwwwwwwwwwwwwwwwwwwww wsdwwawasdddddddd
+  [RMB]
+  wwwwwwww
+  [RMB]
+  wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww wddddwawdawaaw
+  [RMB]
+  wwwwwwwww
+  [RMB]
+  wwwwwwwwwwwwwwwwwwwwwwwwwdddddddwddwwddaw
+  [RMB]
+  wwwwwwwwwwwwwwwwwwwwwwww
+  [RMB]
+  wwwwwwwwwwwwwwwwwwwwwasdwddaaaaaaaaaaadwwwwwwwwwwwwwww
+  [LMB]
+  wwwwwwww
+  [RMB]
+  wwwwwwwwwwwwwwwwwwwwwasd
+  [RMB]
+  ddddddddddsawdwaaaaaswwws dw
+  [RMB]
+  wwwwwwwww
+  [RMB]
+  wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwadsdasssawwwwdwddaaaaaaw
+  [RMB]
+  wwwwwwwwwwwww
+  [RMB]
+  wwwwwwwwwwwww
+  [RMB]
+  wwwwwwwwdwwwwwwwwwwwwww
+  [RMB]
+  wwwwwwwwwwwwwwwwwwwdw das wddaaaasssssssssssddddddddddddddddddddddddddsdsdwaww
+  [RMB]
+  wwwwwwwwwwwwww
+  [RMB]
+  wwwwwwwwwwwwwwwwwwwwwwwwwawdsaaaaaaaaaaaasassdddwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+  [RMB]
+  wwwwwwwwwww
+  [RMB]
+  wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwawwwwwwwwwwwda
+  [RMB]
+  aww dwwaaadsadwsadsssssssssssswwawaawdwdwasw
+  [RMB]
+  wwwwww
+  [RMB]
+  wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwasdasswwwwwwddwwwwadwdwdasda
+  [RMB]
+  saawadw
+  [RMB]
+  wwwwwwwww
+  [RMB]
+  wwwwwwwwwwwwwwwwwwwwwwwwwwwawwwwwww
+  [RMB]
+  wwwwwwwwwwwwwwwwwwwww
+  [RMB]
+  wwwwwwwwwwwwawwwwwwwwddddddddaw
+  [RMB]
+  wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww ww
+  [RMB]
+  wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww dadsw
+  [RMB]
+  wwwwwwwwwwwwwwwwwwwwwwwwwwwa dawdsdwwwdssddwddwdaaaaaaaaaadw
+  [RMB]
+  wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwaaaaadddasasawdwaawawwasdww
+  [RMB]
+  wwwwwwwwwwawdwwaaaaaaaaaasddwdsdwsadsaw
+  [RMB]
+  wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwaaaaaswsdwddwdwdsaaaaddwsdw
+  [RMB]
+  [LMB]
+  w
+  [RMB]
+  wwwwwwwwaaddddswasdw
+  [RMB]
+  waaasdwdsdwsadwaaaaaaaaswds
+  [RMB]
+  wwwwaaswdssdddddawaawaasdwwwdsddw
+  [RMB]
+  wwwwwwwwwwwwwwwwwaadsdwawwawsdwdwddssssssssssssss
+  [RMB]
+  wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwddwa
+  [RMB]
+  wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwdwwwwawa
+  [RMB]
+  w
+  [RMB]
+  wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww ddw
+  [RMB]
+  dddadwdsdddddddddddddddddw
+  [RMB]
+  wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwddww
+  [RMB]
+  wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww dwsssssssssdssddssssssssaawdwdaw
+  [RMB]
+  wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwdddwwdsddasawdswdaaw
+  [RMB]
+  wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwdsaaaaaaaaaaaaaaawdddddddddddddddddddddwasdaaaaaaaaaaaaaaaaaadwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwdsdaaaaaaaaaaaaaaaaaadwddwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwdsdaaaaaaaaaaaaaaaaaaaaadwddddddddddsssssssssssssssssssssssssssaswsawdwdwdwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwdsdaaaaaaaaaaaaaaaawddddddddddddssssssssssssssssssssssssssssssssssssaaaaaaaaaaawddddwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwdsdaaaaaaaaaaaadwdddddddddddddddddsssssssssssssssssssaaaaaaaadwwwdddddddddwaw
+
+--- WINDOW  2026/11/17 15:07:16  [explorer.exe] (untitled)
+----------------------------------------------------------------------------
+  www
+
+--- WINDOW  2026/11/17 15:07:17  [RobloxPlayerBeta.exe] Roblox
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [RMB]
+  wwwwwwwwwwwwwwwwawaawsdswwwwwww
+  [RMB]
+  wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwdssswasddwwaasd
+  [RMB]
+  wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwdsssssss
+  [RMB]
+  wwwwwwwwww
+  [RMB]
+  wwwwwwwwwwwwwwwww wddsssssssssss[Esc]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  wwwwwwwwdwda
+  [RMB]
+  [Esc][Esc]
+  [RMB]
+  wwwwwdddw
+  [LMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  bye[ENTER]
+  [LMB]
+  [LMB]
+  n[Bk]ice[ENTER]
+  mu[Bk]yth[Bk][Bk][Bk][Bk][Bk][Bk][Bk]th[ENTER]
+  i[Bk]anty[Bk][ENTER]
+  [Bk][Bk][Bk][Bk]h
+  [LMB]
+  [Bk]usty[ENTER]
+  araoke[ENTER]
+  nigga[ENTER]
+  [Esc]1[Esc][Esc]
+  [LMB]
+  [Esc]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  cheat[ENTER]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  1
+  [LMB]
+  rr222222222
+  [LMB]
+  22221
+  [LMB]
+  222222222222222
+  [LMB]
+  [LMB]
+  [LMB]
+  222222222222222
+  [RMB]
+  [RMB]
+  21 222222222222221
+  [LMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  11111111111111111111111111111111111111
+  [LMB]
+  rrrrrrrrrrrrrrrrrrrr
+  [LMB]
+  rrrrrrrrrrrr
+  [LMB]
+  [Esc]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+   
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  2222222222222222222222222222222
+  [RMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  122222[v]22222
+  [MMB]
+  [RMB]
+  1
+  [RMB]
+  [LMB]
+  [RMB]
+  2222212111111112qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq121111111111112qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqe
+
+--- WINDOW  2026/11/17 15:14:57  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/17 15:14:57  [Discord.exe] Giải trí 🎮 | ICT Trader - Discord
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/17 15:15:00  [RobloxPlayerBeta.exe] Roblox
+----------------------------------------------------------------------------
+  [LMB]
+  w
+  [LMB]
+  da
+  [LMB]
+  wda
+  [LMB]
+  dw
+  [LMB]
+  [LMB]
+  [LMB]
+  11wd
+  [LMB]
+  [LMB]
+  [LMB]
+  12qqqqqqqqqqqqq12qq
+  [LMB]
+  q1
+  [LMB]
+  [RMB]
+  1 daw22222222qqqq1
+  [LMB]
+  21 edwadw1swr
+  [LMB]
+  wdd2q1
+  [LMB]
+  [LMB]
+   [Esc]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  11
+  [LMB]
+  dwrr
+  [LMB]
+  [LMB]
+  [LMB]
+  2q11
+  [LMB]
+  [LMB]
+  dawd12qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+  [LMB]
+  qe
+  [LMB]
+  [LMB]
+  [Esc][Esc]rq11
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  waaaaaaaaaaaaae
+  [LMB]
+  ds
+  [LMB]
+  wwwwwwwwwwwwwwwwwwwwwwwwwwdd
+  [LMB]
+  saw
+  [LMB]
+  dawe
+  [LMB]
+  dddddddddddw
+  [RMB]
+  wwwwwdwwwwwwwwwww wd
+  [RMB]
+  addwa
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [Esc]
+  [LMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [RMB]
+  [LMB]
+  5[ENTER]
+  [RMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  1[ENTER]
+  [RMB]
+  12[ENTER]
+  2
+  [LMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  [RMB]
+  wdwadwawddd  a      sdw
+  [RMB]
+  1wd
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  w
+  [LMB]
+  w
+  [RMB]
+  w
+  [LMB]
+  wwww
+  [LMB]
+  aaaaaa
+  [RMB]
+  w
+  [RMB]
+  wwwwwwwwwwwwwww
+  [LMB]
+  aw
+  [RMB]
+  wwwwws
+  [RMB]
+  dwddaw
+  [RMB]
+  6[ENTER]
+  [RMB]
+  [RMB]
+  [RMB]
+  wd
+  [RMB]
+  d[Esc]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  wwwwwwwwaaea adqqqqqqqqqqqqqqqqqqqqqqqqqqqaxaaaaa       a a
+  [RMB]
+  aaaaa
+  [LMB]
+  waaa qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq
+  [RMB]
+  qqqqqqqqqqq
+  [LMB]
+  aweqxxxa d
+  [RMB]
+  [LMB]
+  aw
+  [LMB]
+  wa
+  [RMB]
+  d
+  [LMB]
+  w
+  [LMB]
+  w
+  [RMB]
+  ad dw
+  [RMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  dw we dwqdsaxwa
+  [RMB]
+  [LMB]
+  dwaaaaaaaawwwwwwwwwwwwwwwwwwwwwwwwwwa
+  [RMB]
+  [LMB]
+  dwaa
+  [RMB]
+  a
+  [LMB]
+  adw
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  waqa eaxa
+  [RMB]
+  [LMB]
+  dwww
+  [RMB]
+  d
+  [LMB]
+  wa
+  [RMB]
+  [LMB]
+  w[Ctrl]d
+  [RMB]
+  [LMB]
+  awwdwwwwwa
+  [RMB]
+  [LMB]
+  wdddddddd
+  [RMB]
+  a
+  [LMB]
+  awd
+  [LMB]
+  asaswaeeeeeea  a ddddddddddddddqqqqqqqqqqqqqqqqqqqqqqqqqqqq
+  [LMB]
+  [RMB]
+  wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww wd
+  [RMB]
+  [LMB]
+  dw dd xdddddd dd a
+  [RMB]
+  [LMB]
+  dwa
+  [RMB]
+  aaaaaaaaaaa
+  [LMB]
+  ddwaadda wdd
+  [RMB]
+  d
+  [LMB]
+  [RMB]
+  wd
+  [RMB]
+  [LMB]
+  dsdwwwwwwwwwwwwwwwwwwwwwwwwwawasa
+  [RMB]
+  d
+  [LMB]
+  wdaaaaaaaq
+  [RMB]
+  [LMB]
+  wdadw
+  [LMB]
+  waqqqq eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee   
+  [RMB]
+  [LMB]
+  da
+  [RMB]
+  wa
+  [LMB]
+  wwwwwwwwwwwwwwwwradddddddddddddaq ed
+  [RMB]
+  [LMB]
+  wda
+  [RMB]
+  [LMB]
+  wd add
+  [RMB]
+  dd
+  [LMB]
+  wddeaaaaaaaaaaaaddddddwwda da a
+  [RMB]
+  [LMB]
+  dsasdwwxwawddawafwawdwadwwwwwwwwwwwwwwwgwdsawwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwqed ad a d da dddddddd
+  [RMB]
+  dddddd
+  [LMB]
+  dwaw
+  [RMB]
+  a
+  [LMB]
+  wadadddddddddddddddddddeqxda d
+  [RMB]
+  [LMB]
+  sdwrddwasdwa
+  [RMB]
+  [LMB]
+  asdw
+  [RMB]
+  [LMB]
+  w
+  [RMB]
+  w
+  [LMB]
+  awwwwwwwwwwwwwwwwea
+  [RMB]
+  [LMB]
+  w
+  [RMB]
+  [LMB]
+  awraeqagwda
+  [RMB]
+  [LMB]
+  ssssssssssda
+  [RMB]
+  dwa
+  [RMB]
+  aaaaaaaawdswwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwgaasdwdaw
+  [RMB]
+  d
+  [LMB]
+  dweqd
+  [RMB]
+  [LMB]
+  dwwwww
+  [RMB]
+  [LMB]
+  dw
+  [RMB]
+  [LMB]
+  war aqae d
+  [RMB]
+  ddddddw
+  [LMB]
+  wa a d aaaaaaad
+  [RMB]
+  [LMB]
+  daw
+  [RMB]
+  [LMB]
+  dww d da qea
+  [RMB]
+  aw
+  [LMB]
+  ww wr d dw wwwwwwwwwwww saw
+  [RMB]
+  [LMB]
+  dwr dd
+  [RMB]
+  [LMB]
+  wwwwwwwrwda
+  [RMB]
+  aaaawaqeaww
+  [RMB]
+  wwwwwwwwwwwww
+  [LMB]
+  wa
+  [RMB]
+  [LMB]
+  wddaedddddddds
+  [RMB]
+  [LMB]
+  dssssss
+  [RMB]
+  ss
+  [LMB]
+  awex
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  wwwwwwwwwwwwwwds
+  [RMB]
+  [LMB]
+  wa
+  [RMB]
+  wddawdeq
+  [RMB]
+  dad d
+  [RMB]
+  [LMB]
+  wwwwwwwwwwdwwwwwwwwwwwwwwwwwwwwwwwwwwwwww ddwwww qe a x aa d
+  [RMB]
+  [LMB]
+  wa
+  [RMB]
+  [LMB]
+  wwwwwwwwwwwwwwwf awwwwwaaga
+  [RMB]
+  aaaaaaaaaaaaaaaaaaaaaaa
+  [LMB]
+  wd
+  [RMB]
+  a
+  [LMB]
+  wdadwdddddddrdqeaxd a d daa
+  [RMB]
+  [LMB]
+  warddddda
+  [RMB]
+  aa
+  [LMB]
+  awaeaqaxdw
+  [RMB]
+  [LMB]
+  daw a  qed aaaaaaddsawd
+  [RMB]
+  [LMB]
+  dwexa eqae
+  [RMB]
+  [LMB]
+  asdddddddddddddd
+  [RMB]
+  [LMB]
+  wda
+  [RMB]
+  [LMB]
+  rwwwwwwd dsawwwwwwwwwwwwwwwwwwwwwwwwwwwweqxdeedaasdaaaaaaa
+  [RMB]
+  aaaaaaaaaaaaa
+  [LMB]
+  sarwaaaaaawwwwwwwwwwaaaaa
+  [RMB]
+  [LMB]
+  waardaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+  [RMB]
+  a
+  [LMB]
+  awd
+  [RMB]
+  [LMB]
+  sd
+  [RMB]
+  a
+  [LMB]
+  awde a a d
+  [RMB]
+  [LMB]
+  dsawdddawawdwddwawwwwaawa
+  [RMB]
+  [LMB]
+  dwwwwwwdd
+  [RMB]
+  [LMB]
+  wd
+  [RMB]
+  [LMB]
+  dwasdaa
+  [RMB]
+  [LMB]
+  dwwewqx a aaqa
+  [RMB]
+  [LMB]
+  waaaaaaaaaaaa 
+  [RMB]
+  [LMB]
+  wwwwwwwwex da aa  aaaaaaaaaa
+  [RMB]
+  [LMB]
+  wdaaaaaaaaaaaaaaaaaaaaaaaaaaa a  aaaaaa
+  [RMB]
+  dwwwwwwds
+  [RMB]
+  [LMB]
+  wdaaaaaaa 
+  [RMB]
+  wawwd
+  [RMB]
+  [LMB]
+  waaaaaaaaaaaaaaaaaaaaraa a aa d  a  daaaaaaaa
+  [RMB]
+  aaaawaaaaaaa
+  [RMB]
+  [LMB]
+  aw
+  [RMB]
+  [LMB]
+  [LMB]
+  awrddaaaaaaaaaad
+  [RMB]
+  [LMB]
+  aw
+  [RMB]
+  [LMB]
+  ddddw
+  [RMB]
+  [LMB]
+  wradada
+  [RMB]
+  [LMB]
+  da
+  [RMB]
+  [LMB]
+  dwra daxaaaaaaaaaaaaadddddaa d d aaaaaa dxeqax
+  [RMB]
+  [LMB]
+  wa
+  [RMB]
+  [LMB]
+  wwwwwawdrddexqdxadd d
+  [RMB]
+  dddddddddd
+  [LMB]
+  a
+  [RMB]
+  [LMB]
+  as
+  [LMB]
+  sadsrdw d saw ax exxddaqd dd daaaaaaaaaaadaaa 
+  [RMB]
+  [LMB]
+  waaaaaaaaaaaa
+  [RMB]
+  [LMB]
+  wrasddddddddddddda
+  [RMB]
+  [LMB]
+  dwaw
+  [RMB]
+  [LMB]
+  ddd
+  [RMB]
+  dd
+  [LMB]
+  wrddddddddd
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  wdqaxe da d
+  [RMB]
+  [LMB]
+  d
+  [RMB]
+  [LMB]
+  a
+  [RMB]
+  [LMB]
+  dddddwrssddddddddsawa
+  [RMB]
+  [LMB]
+  wwwwwwwwwwwwwwwwwwwwd
+  [RMB]
+  [LMB]
+  wdgsdwa
+  [RMB]
+  [LMB]
+  aaw
+  [RMB]
+  [LMB]
+  awraad daaxa
+  [RMB]
+  [LMB]
+  waaaada
+  [RMB]
+  [LMB]
+  awwgdddddwa
+  [LMB]
+  awdweqd
+  [LMB]
+  wwwdwddddddddddddddddddddsssadwaww
+  [LMB]
+  dwrdadadxdwdwawaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+  [LMB]
+  wrdq ddddeaaaa
+  [LMB]
+  dwd
+  [LMB]
+  wdxddaddddddddddddddddddddddddddddddd
+  [RMB]
+  a
+  [LMB]
+  dswwaa
+  [LMB]
+  waaa
+  [LMB]
+  w ad ddd
+  [LMB]
+  w 
+  [LMB]
+  waaa
+  [LMB]
+  aaaaaaaaawwwwwwwwwwwwwwwwwwwwwwwdaaw
+  [LMB]
+  wdwa
+  [LMB]
+  waaaaaaawaxdq eadwaw
+  [LMB]
+  dwd
+  [LMB]
+  dssasdwa
+  [LMB]
+  wdd d
+  [LMB]
+  srawaxagadwaa a
+  [RMB]
+  [LMB]
+  da
+  [RMB]
+  [LMB]
+  dw
+  [LMB]
+  [LMB]
+  [LMB]
+  wwwwddaeqxdaadddddddddddddddddaqeadddddddddd
+  [LMB]
+  wdd
+  [LMB]
+  dddd
+  [LMB]
+  dwwdwwa
+  [LMB]
+  a
+  [LMB]
+  arwaaaaaaaaaaaaaaaaaaaaaaaxaaaw
+  [LMB]
+  dwadw
+  [LMB]
+  dwa
+  [LMB]
+  wradwqwe daaaw[Ctrl]ddda
+  [LMB]
+  wddawsgwdd
+  [LMB]
+  aaaaaaaaaaaaaaaa
+  [LMB]
+  awraaaa dqxdd d da
+  [LMB]
+  dwa
+  [LMB]
+  aawradddqe adddadaaaaaaadad
+  [LMB]
+  wd
+  [LMB]
+  wwdexdadawa
+  [LMB]
+  ddwrdddxddddd d
+  [LMB]
+  dawaraadwww
+  [LMB]
+  waaaaaaaaaaaaaaaa
+  [LMB]
+  dwwraaaaaaaaaaaaaaad
+  [LMB]
+  wwwwwwxdddd
+  [LMB]
+  dawd
+  [LMB]
+  aw 
+  [LMB]
+  wwwwwdwa
+  [LMB]
+  wd wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwa
+  [LMB]
+  wara daxeq  d
+  [LMB]
+  w
+  [LMB]
+  wraaaaaaaaa ae aaaaaa
+  [RMB]
+  awada
+  [RMB]
+  adddd
+  [LMB]
+  wa
+  [RMB]
+  [LMB]
+  da
+  [RMB]
+  [LMB]
+  ddddddsaw
+  [RMB]
+  [LMB]
+  wd
+  [RMB]
+  [LMB]
