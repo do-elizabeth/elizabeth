@@ -1,0 +1,1586 @@
+﻿
+--- WINDOW  2026/11/16 05:10:14  [wixstdba.exe] Microsoft Windows Desktop Runtime 10.0.15 (x64) Installer
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/16 05:10:18  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/16 05:10:27  [ATAS X.tmp.exe] Setup - ATAS X
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/16 05:10:28  [ATAS X.tmp.exe] (untitled)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/16 05:10:29  [chrome.exe] AtasX - True Atas - YouTube - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/16 05:10:31  [OFT.PlatformX.exe] Window
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/16 05:10:35  [chrome.exe] AtasX - True Atas - YouTube - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/16 05:10:39  [explorer.exe] (untitled)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/16 05:10:39  [OFT.PlatformX.exe] Window
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/16 05:10:41  [chrome.exe] Untitled - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/16 05:10:42  [chrome.exe] atas-official.webinargeek.com/atas-can-now-do-anything-just-ask-your-ai - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/16 05:10:42  [chrome.exe] ATAS Can Now Do Anything. Just Ask Your AI - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/16 05:10:43  [chrome.exe] AtasX - True Atas - YouTube - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/16 05:10:44  [explorer.exe] (untitled)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/16 05:10:44  [OFT.PlatformX.exe] Window
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/16 05:11:01  [Discord.exe] @Chika - Discord
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/16 05:11:02  [chrome.exe] AtasX - True Atas - YouTube - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/16 05:11:02  [chrome.exe] Untitled - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/16 05:11:02  [chrome.exe] iranvolumes.yourwebsitespace.com - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/16 05:11:03  [chrome.exe] IRAN VOLUMES FREE DATA - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/16 05:11:03  [chrome.exe] MNQ1! 27,673.00 ▼ −1.29% New Era - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/16 05:11:03  [chrome.exe] MNQ1! 27,670.75 ▼ −1.3% New Era - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/16 05:11:04  [chrome.exe] IRAN VOLUMES FREE DATA - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/16 05:11:08  [chrome.exe] Download ATAS Software for Professional Traders - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/16 05:11:08  [chrome.exe] AtasX - True Atas - YouTube - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/16 05:11:15  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/16 05:11:15  [explorer.exe] (untitled)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/16 05:11:15  [chrome.exe] AtasX - True Atas - YouTube - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/16 05:11:17  [explorer.exe] Wasab1 - File Explorer
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/16 05:11:18  [TrueAtas.exe] True Atas
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/16 05:11:20  [explorer.exe] Wasab1 - File Explorer
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/16 05:11:20  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/16 05:11:20  [TrueAtas.exe] True Atas
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/16 05:11:22  [chrome.exe] AtasX - True Atas - YouTube - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/16 05:11:30  [explorer.exe] (untitled)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/16 05:11:30  [TrueAtas.exe] True Atas
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/16 05:11:59  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/16 05:11:59  [chrome.exe] AtasX - True Atas - YouTube - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/16 05:12:17  [explorer.exe] (untitled)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/16 05:12:17  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/16 05:12:17  [TrueAtas.exe] True Atas
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/16 05:12:21  [chrome.exe] AtasX - True Atas - YouTube - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/16 05:12:28  [TrueAtas.exe] True Atas
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/16 05:12:30  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/16 05:12:30  [explorer.exe] Program Manager
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/16 05:12:32  [OFT.PlatformX.exe] Window
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/16 05:12:33  [chrome.exe] AtasX - True Atas - YouTube - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/16 05:12:34  [explorer.exe] (untitled)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/16 05:12:34  [OFT.PlatformX.exe] Window
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/16 05:12:47  [chrome.exe] AtasX - True Atas - YouTube - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/16 05:12:52  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/16 05:12:52  [explorer.exe] (untitled)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/16 05:12:52  [OFT.PlatformX.exe] Window
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/16 05:12:55  [chrome.exe] Untitled - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/16 05:12:55  [chrome.exe] atas.net/?utm_source=loginatas&utm_content=en&utm_medium=regular&utm_campaign=loginatas&utm_term=en-220526#openRegForm - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/16 05:12:56  [chrome.exe] ATAS - Order Flow & Volume Analysis Software for Professional Traders - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/16 05:12:58  [chrome.exe] id.atas.net/Account/Login?returnUrl=%2Fconnect%2Fauthorize%3Fclient_id%3Dclient%26redirect_uri%3Dhttps%253A%252F%252Fatas.net%252Fauth%252Fsso%26response_type%3Dcode%26scope%3Dopenid%2520profile%2520email%2520offline_access%2520atas_production%26state%3Df_BDjZrww1WF7yhy2aQ56QcqfJ2nrgJAtbwIFi2AGYc%26ui_locales%3Den-US%26screen_hint%3Dsignup - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/16 05:12:58  [chrome.exe] Sign up — ATAS - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/16 05:13:03  [chrome.exe] accounts.google.com/v3/signin/accountchooser?client_id=778555239739-eld3ecuh26n81slc45e2evutcbu19t5b.apps.googleusercontent.com&code_challenge=envlDyzs4REwSrr8rhzb1P3LVTsI2Yy-6QCFL9SvklE&code_challenge_method=S256&redirect_uri=https%3A%2F%2Fid.atas.net%2Fsignin-google&response_type=code&scope=openid+profile+email&state=CfDJ8HjgRvTc2SlMlnIWaJ64DGuY-kQ-9xsGlmCl46NfmVyRrY_ig_CpW3lnt-aqhNOqJO8XCp2pl9QyR2p3pS-S2aLeNdVdDzVfNwmIasWmTzNTKxWTyPIyRSSetljClqeF04ZuNimMpOa5k890WTFP1GLiO10SbwJHwzHto91T5dJafJfeM0wINtZhaK
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/16 05:13:03  [chrome.exe] Sign in - Google Accounts - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/16 05:13:09  [chrome.exe] id.atas.net/Account/Login?returnUrl=%2Fconnect%2Fauthorize%3Fclient_id%3Dclient%26redirect_uri%3Dhttps%253A%252F%252Fatas.net%252Fauth%252Fsso%26response_type%3Dcode%26scope%3Dopenid%2520profile%2520email%2520offline_access%2520atas_production%26state%3Df_BDjZrww1WF7yhy2aQ56QcqfJ2nrgJAtbwIFi2AGYc%26ui_locales%3Den-US%26screen_hint%3Dsignup%26id_action%3Dsignup&screen_hint=registered&lang=en - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/16 05:13:09  [chrome.exe] Check your inbox — ATAS - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/16 05:13:12  [chrome.exe] atas.net/auth/sso?screen_hint=signup&code=shYgzbFgoX1rsSiYzrJuM2aW0rqw8gG0sXWOM-zGvAA&state=f_BDjZrww1WF7yhy2aQ56QcqfJ2nrgJAtbwIFi2AGYc&iss=https%3A%2F%2Fid.atas.net%2F - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/16 05:13:13  [chrome.exe] SSO - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/16 05:13:13  [chrome.exe] Untitled - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/16 05:13:14  [chrome.exe] SSO - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/16 05:13:14  [chrome.exe] Gmail - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/16 05:13:16  [chrome.exe] my.atas.net/download?lang=en-US#wizard - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/16 05:13:17  [chrome.exe] Download ATAS for Windows - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/16 05:13:43  [chrome.exe] Inbox (2) - maithenamcuong@gmail.com - Gmail - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/16 05:13:44  [chrome.exe] You shared some Google Account data with atas.net - maithenamcuong@gmail.com - Gmail - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/16 05:13:46  [chrome.exe] Inbox (1) - maithenamcuong@gmail.com - Gmail - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/16 05:13:46  [chrome.exe] Your Access to the Atas Platform - maithenamcuong@gmail.com - Gmail - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/16 05:13:51  [chrome.exe] Untitled - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/16 05:13:52  [chrome.exe] Your Access to the Atas Platform - maithenamcuong@gmail.com - Gmail - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [Ctrl][Ctrl]c
+  [Clipboard]
+  	77RI4RmarWt4
+
+--- WINDOW  2026/11/16 05:13:56  [explorer.exe] (untitled)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/16 05:13:56  [OFT.PlatformX.exe] Window
+----------------------------------------------------------------------------
+  [LMB]
+  [Ctrl]v
+  [LMB]
+
+--- WINDOW  2026/11/16 05:13:59  [chrome.exe] Your Access to the Atas Platform - maithenamcuong@gmail.com - Gmail - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [Ctrl]c
+  [Clipboard]
+  	maithenamcuong@gmail.com
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/16 05:14:06  [chrome.exe] Download ATAS for Windows - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/16 05:14:07  [explorer.exe] (untitled)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/16 05:14:07  [OFT.PlatformX.exe] Window
+----------------------------------------------------------------------------
+  [Ctrl]v
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/16 05:14:14  [chrome.exe] Download ATAS for Windows - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/16 05:14:14  [chrome.exe] Your Access to the Atas Platform - maithenamcuong@gmail.com - Gmail - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/16 05:14:16  [chrome.exe] Inbox - maithenamcuong@gmail.com - Gmail - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/16 05:14:17  [chrome.exe] MNQ1! 27,655.75 ▼ −1.35% New Era - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/16 05:14:18  [chrome.exe] MNQ1! 27,654.25 ▼ −1.36% New Era - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/16 05:14:18  [chrome.exe] MNQ1! 27,654.75 ▼ −1.36% New Era - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/16 05:14:19  [chrome.exe] MNQ1! 27,655.00 ▼ −1.35% New Era - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/16 05:14:19  [explorer.exe] (untitled)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/16 05:14:19  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/16 05:14:19  [OFT.PlatformX.exe] Window
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/16 05:14:21  [PickerHost.exe] Windows Security
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/16 05:14:26  [chrome.exe] MNQ1! 27,659.25 ▼ −1.34% New Era - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/16 05:14:27  [chrome.exe] MNQ1! 27,658.50 ▼ −1.34% New Era - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/16 05:14:27  [explorer.exe] (untitled)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/16 05:14:27  [OFT.PlatformX.exe] ATAS X
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/16 05:14:32  [OFT.PlatformX.exe] Connections
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/16 05:14:45  [OFT.PlatformX.exe] Please select data provider
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/16 05:14:58  [OFT.PlatformX.exe] Add connection
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/16 05:14:59  [OFT.PlatformX.exe] Please select data provider
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/16 05:15:02  [OFT.PlatformX.exe] Connections
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/16 05:15:04  [OFT.PlatformX.exe] ATAS X
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/16 05:15:06  [OFT.PlatformX.exe] Manage instruments
+----------------------------------------------------------------------------
+  mnq
+  [LMB]
+
+--- WINDOW  2026/11/16 05:15:12  [OFT.PlatformX.exe] ATAS X
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/16 05:15:17  [OFT.PlatformX.exe] Manage instruments
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/16 05:15:19  [OFT.PlatformX.exe] ATAS X
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/16 05:15:20  [OFT.PlatformX.exe] Connections
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/16 05:15:25  [explorer.exe] (untitled)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/16 05:15:25  [chrome.exe] MNQ1! 27,674.25 ▼ −1.29% New Era - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/16 05:15:25  [chrome.exe] MNQ1! 27,673.50 ▼ −1.29% New Era - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/16 05:15:26  [chrome.exe] MNQ1! 27,671.75 ▼ −1.29% New Era - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/16 05:15:27  [explorer.exe] (untitled)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/16 05:15:27  [Discord.exe] @Chika - Discord
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/16 05:15:28  [chrome.exe] MNQ1! 27,672.00 ▼ −1.29% New Era - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/16 05:15:28  [chrome.exe] AtasX - True Atas - YouTube - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/16 05:15:50  [explorer.exe] (untitled)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/16 05:15:50  [OFT.PlatformX.exe] Connections
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/16 05:15:53  [OFT.PlatformX.exe] ATAS X
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/16 05:16:01  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/16 05:16:01  [chrome.exe] AtasX - True Atas - YouTube - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/16 05:16:11  [explorer.exe] (untitled)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/16 05:16:11  [OFT.PlatformX.exe] ATAS X
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/16 05:16:13  [OFT.PlatformX.exe] Manage instruments
+----------------------------------------------------------------------------
+  nq
+  [LMB]
+
+--- WINDOW  2026/11/16 05:16:16  [OFT.PlatformX.exe] ATAS X
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/16 05:16:30  [OFT.PlatformX.exe] Close Tab
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/16 05:16:32  [OFT.PlatformX.exe] ATAS X
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/16 05:16:35  [chrome.exe] AtasX - True Atas - YouTube - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/16 05:16:52  [OFT.PlatformX.exe] ATAS X
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/16 05:17:19  [OFT.PlatformX.exe] Connections
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/16 05:17:23  [chrome.exe] Untitled - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/16 05:17:24  [chrome.exe] start.atas.net/step-4-get-access-to-market-data - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/16 05:17:24  [chrome.exe] Step 4: Get Access to Market Data | ATAS Quiсk Start - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/16 05:17:33  [chrome.exe] Rithmic | ATAS Quiсk Start - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/16 05:17:49  [chrome.exe] rithmic.com - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/16 05:17:50  [chrome.exe] Rithmic | Trading Infrastructure for Futures - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/16 05:17:52  [chrome.exe] Untitled - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/16 05:17:53  [chrome.exe] signup.rithmic.com/demo.html#sign-up - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/16 05:17:53  [chrome.exe] Sign up - Rithmic - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  63734
+  [LMB]
+  [LMB]
+  [LMB]
+  pain20031
+  [LMB]
+  [Bk]
+  [LMB]
+  pain2003111
+  [LMB]
+  pain2003111
+  [LMB]
+
+--- WINDOW  2026/11/16 05:18:29  [chrome.exe] Sign in - Rithmic - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/16 05:18:33  [chrome.exe] Untitled - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/16 05:18:33  [chrome.exe] rithmic.com - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/16 05:18:34  [chrome.exe] Rithmic | Trading Infrastructure for Futures - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/16 05:18:42  [chrome.exe] Download ATAS for Windows - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/16 05:18:43  [chrome.exe] Inbox - maithenamcuong@gmail.com - Gmail - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/16 05:18:44  [explorer.exe] (untitled)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/16 05:18:45  [OFT.PlatformX.exe] Connections
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/16 05:19:02  [OFT.PlatformX.exe] ATAS Sim (15-min delayed)
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/16 05:19:05  [OFT.PlatformX.exe] Connections
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/16 05:19:12  [OFT.PlatformX.exe] ATAS X
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/16 05:19:23  [chrome.exe] MNQ1! 27,654.75 ▼ −1.36% New Era - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/16 05:19:23  [chrome.exe] MNQ1! 27,656.75 ▼ −1.35% New Era - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/16 05:19:24  [chrome.exe] MNQ1! 27,657.00 ▼ −1.35% New Era - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/16 05:19:24  [chrome.exe] MNQ1! 27,658.25 ▼ −1.34% New Era - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/16 05:19:25  [explorer.exe] (untitled)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/16 05:19:25  [OFT.PlatformX.exe] ATAS X
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  1
+  [LMB]
+  [LMB]
+  [ENTER]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/16 05:19:54  [OFT.PlatformX.exe] Indicators
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/16 05:20:04  [OFT.PlatformX.exe] ATAS X
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/16 05:20:15  [OFT.PlatformX.exe] Indicators
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/16 05:20:32  [OFT.PlatformX.exe] ATAS X
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/16 05:20:50  [OFT.PlatformX.exe] Indicators
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/16 05:21:01  [WindowsTerminal.exe] Windows Terminal
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/16 05:21:01  [WindowsTerminal.exe] Terminal
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/16 05:21:01  [WindowsTerminal.exe] C:\WINDOWS\System32\WindowsPowerShell\v1.0\powershell.exe
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/16 05:21:02  [OFT.PlatformX.exe] Indicators
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/16 05:21:08  [OFT.PlatformX.exe] ATAS X
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/16 05:21:50  [chrome.exe] MNQ1! 27,631.25 ▼ −1.44% New Era - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/16 05:21:51  [chrome.exe] MNQ1! 27,631.00 ▼ −1.44% New Era - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/16 05:21:51  [chrome.exe] MNQ1! 27,630.50 ▼ −1.44% New Era - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/16 05:21:52  [chrome.exe] MNQ1! 27,628.25 ▼ −1.45% New Era - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/16 05:21:52  [chrome.exe] MNQ1! 27,625.50 ▼ −1.46% New Era - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/16 05:21:53  [chrome.exe] MNQ1! 27,626.75 ▼ −1.46% New Era - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/16 05:21:53  [chrome.exe] MNQ1! 27,626.50 ▼ −1.46% New Era - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/16 05:21:54  [chrome.exe] MNQ1! 27,626.25 ▼ −1.46% New Era - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/16 05:21:55  [explorer.exe] (untitled)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/16 05:21:55  [OFT.PlatformX.exe] ATAS X
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/16 05:21:59  [OFT.PlatformX.exe] Connections
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/16 05:22:01  [OFT.PlatformX.exe] Please select data provider
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/16 05:22:04  [OFT.PlatformX.exe] (untitled)
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/16 05:22:07  [OFT.PlatformX.exe] Please select data provider
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/16 05:22:07  [OFT.PlatformX.exe] Add connection
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/16 05:22:09  [OFT.PlatformX.exe] Please select data provider
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/16 05:22:19  [OFT.PlatformX.exe] Add connection
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/16 05:22:20  [OFT.PlatformX.exe] Please select data provider
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/16 05:22:22  [OFT.PlatformX.exe] Add connection
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/16 05:22:25  [OFT.PlatformX.exe] Please select data provider
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/16 05:22:27  [OFT.PlatformX.exe] Add connection
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/16 05:22:28  [OFT.PlatformX.exe] Please select data provider
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/16 05:22:32  [OFT.PlatformX.exe] Connections
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/16 05:22:38  [OFT.PlatformX.exe] Please select data provider
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/16 05:22:46  [OFT.PlatformX.exe] Connections
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/16 05:22:51  [OFT.PlatformX.exe] Crypto Sim
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/16 05:22:53  [OFT.PlatformX.exe] Connections
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/16 05:22:57  [OFT.PlatformX.exe] ATAS X
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/16 05:23:11  [OFT.PlatformX.exe] Indicators
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/16 05:23:16  [OFT.PlatformX.exe] ATAS X
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/16 05:23:27  [OFT.PlatformX.exe] Indicators
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/16 05:23:35  [OFT.PlatformX.exe] ATAS X
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/16 05:23:46  [OFT.PlatformX.exe] Indicators
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/16 05:24:05  [OFT.PlatformX.exe] ATAS X
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/16 05:24:38  [OFT.PlatformX.exe] Manage instruments
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/16 05:24:39  [OFT.PlatformX.exe] ATAS X
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/16 05:24:59  [Discord.exe] @Chika - Discord
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/16 05:25:03  [OFT.PlatformX.exe] ATAS X
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/16 05:25:03  [OFT.PlatformX.exe] Connections
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/16 05:25:05  [OFT.PlatformX.exe] Please select data provider
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/16 05:25:20  [OFT.PlatformX.exe] (untitled)
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/16 05:25:21  [OFT.PlatformX.exe] Please select data provider
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/16 05:25:21  [OFT.PlatformX.exe] Add connection
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/16 05:25:36  [OFT.PlatformX.exe] Please select data provider
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/16 05:25:39  [OFT.PlatformX.exe] Connections
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/16 05:25:41  [chrome.exe] Untitled - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/16 05:25:42  [chrome.exe] start.atas.net/step-4-get-access-to-market-data - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/16 05:25:42  [chrome.exe] Step 4: Get Access to Market Data | ATAS Quiсk Start - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/16 05:25:43  [chrome.exe] Inbox (1) - maithenamcuong@gmail.com - Gmail - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/16 05:25:44  [chrome.exe] Nvidia Tuesday. Fed minutes Wednesday. - maithenamcuong@gmail.com - Gmail - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/16 05:25:45  [chrome.exe] Inbox - maithenamcuong@gmail.com - Gmail - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/16 05:25:46  [chrome.exe] Step 4: Get Access to Market Data | ATAS Quiсk Start - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/16 05:25:57  [chrome.exe] AMP | ATAS Quiсk Start - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/16 05:26:25  [chrome.exe] Interactive Brokers | ATAS Quiсk Start - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/16 05:26:27  [chrome.exe] dxFeed | ATAS Quiсk Start - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/16 05:26:47  [chrome.exe] Rithmic | Trading Infrastructure for Futures - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/16 05:26:48  [chrome.exe] Sign in - Rithmic - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/16 05:26:49  [chrome.exe] Rithmic | Trading Infrastructure for Futures - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/16 05:26:50  [chrome.exe] Inbox - maithenamcuong@gmail.com - Gmail - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/16 05:26:51  [chrome.exe] MNQ1! 27,618.50 ▼ −1.48% New Era - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/16 05:26:51  [chrome.exe] MNQ1! 27,619.75 ▼ −1.48% New Era - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/16 05:26:52  [chrome.exe] MNQ1! 27,621.50 ▼ −1.47% New Era - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/16 05:26:52  [chrome.exe] MNQ1! 27,622.75 ▼ −1.47% New Era - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/16 05:26:53  [chrome.exe] MNQ1! 27,622.50 ▼ −1.47% New Era - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/16 05:26:53  [chrome.exe] MNQ1! 27,622.25 ▼ −1.47% New Era - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/16 05:26:54  [chrome.exe] MNQ1! 27,622.00 ▼ −1.47% New Era - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/16 05:26:55  [chrome.exe] MNQ1! 27,623.00 ▼ −1.47% New Era - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/16 05:26:55  [chrome.exe] MNQ1! 27,622.00 ▼ −1.47% New Era - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/16 05:26:56  [chrome.exe] MNQ1! 27,621.00 ▼ −1.48% New Era - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/16 05:26:57  [explorer.exe] (untitled)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/16 05:26:57  [OFT.PlatformX.exe] Connections
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/16 05:26:59  [OFT.PlatformX.exe] ATAS X
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/16 05:27:18  [OFT.PlatformX.exe] Connections
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/16 05:27:20  [OFT.PlatformX.exe] ATAS X
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/16 05:27:20  [OFT.PlatformX.exe] Connections
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/16 05:27:24  [OFT.PlatformX.exe] ATAS X
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/16 05:27:26  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/16 05:27:26  [SearchHost.exe] Search
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/16 05:27:27  [StartMenuExperienceHost.exe] Start
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/16 05:27:29  (no active window)
+----------------------------------------------------------------------------
+
+================================================================================
+ SESSION START  2026/11/16 19:25:28
+================================================================================
+
+
+--- WINDOW  2026/11/16 19:25:28  [explorer.exe] (untitled)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/16 19:25:56  [Discord.exe] Discord
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/16 19:25:59  [Discord.exe] - Discord
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/16 19:26:01  [Discord.exe] discord.com/app?_=1794882356098 - Discord
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/16 19:26:03  [Discord.exe] Quests - Discord
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/16 19:26:06  [OverwolfLauncher.exe] BK
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/16 19:26:06  [OverwolfLauncher.exe] Zombie
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/16 19:26:07  [Discord.exe] Quests - Discord
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/16 19:26:10  [Discord.exe] #chat | Insight Trader - Discord
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/16 19:26:12  [Discord.exe] #fantasy-journal-and-yappin | Insight Trader - Discord
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/16 19:26:28  [Discord.exe] Quests - Discord
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/16 19:26:30  [Discord.exe] Friends - Discord
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/16 19:26:33  [explorer.exe] (untitled)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/16 19:26:42  [EADesktop.exe] (untitled)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/16 19:26:42  [EADesktop.exe] EADesktop
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/16 19:26:42  [EADesktop.exe] EA
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/16 19:26:56  [explorer.exe] (untitled)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/16 19:26:58  [chrome.exe] New Tab - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/16 19:27:00  [chrome.exe] youtube.com - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/16 19:27:01  [chrome.exe] YouTube - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/16 19:27:03  [chrome.exe] Untitled - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/16 19:27:05  [chrome.exe] mail.google.com/mail/u/0/ - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/16 19:27:06  [chrome.exe] Gmail - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/16 19:27:10  [chrome.exe] Inbox (2) - maithenamcuong@gmail.com - Gmail - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/16 19:27:12  [chrome.exe] Appointment booked: ICT Class (Le Dinh An) @ Sat Nov 21, 2026 9:30am - 11am (PST) (Cường Mai) - maithenamcuong@gmail.com - Gmail - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/16 19:27:15  [chrome.exe] Inbox (2) - maithenamcuong@gmail.com - Gmail - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/16 19:27:16  [chrome.exe] Inbox (1) - maithenamcuong@gmail.com - Gmail - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/16 19:27:16  [chrome.exe] You know what I want - maithenamcuong@gmail.com - Gmail - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/16 19:27:17  [chrome.exe] Inbox - maithenamcuong@gmail.com - Gmail - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/16 19:27:18  [chrome.exe] YouTube - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/16 19:27:24  [chrome.exe] New Tab - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  o[ENTER]
+
+--- WINDOW  2026/11/16 19:27:27  [chrome.exe] outlook.office.com/mail/0/inbox/id/AAQkADlkMjljMGFhLTBhYTYtNDJlOS1iZTU3LWZmMzNhZGQwNTdiNgAQAE2dEwWGdhpHuESTdu5Wd%2BI%3D/sxs/AAkALgAAAAAAHYQDEapmEc2byACqAC%2FEWg0AeYvL2A2dsUyH5j6u1BZm%2FQAB6HlhowAAARIAEAAPhZIPke0KRavANMLnqaS%2F - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/16 19:27:28  [chrome.exe] Outlook - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/16 19:27:32  [chrome.exe] Mail - The Nam Cuong Mai - Outlook - Google Chrome
+----------------------------------------------------------------------------
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/16 19:28:11  [chrome.exe] New Tab - Google Chrome
+----------------------------------------------------------------------------
+  angara commi
+  [LMB]
+
+--- WINDOW  2026/11/16 19:28:19  [chrome.exe] google.com/search?q=langara+commitment+fee&rlz=1C1VDKB_enCA1181CA1181&oq=langara+commi&gs_lcrp=EgZjaHJvbWUqBwgBEAAYgAQyBggAEEUYOTIHCAEQABiABDIICAIQABgWGB4yCAgDEAAYFhgeMggIBBAAGBYYHjIHCAUQABjvBTIHCAYQABjvBTIHCAcQABjvBdIBCDY0NTJqMGo3qAIAsAIA&sourceid=chrome&source=chrome.ob&ie=UTF-8 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/16 19:28:20  [chrome.exe] langara commitment fee - Google Search - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/16 19:28:26  [chrome.exe] langara.ca/student-services/enrolment-services/registration/before-you-register/registration-international - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/16 19:28:27  [chrome.exe] Registration Information - International Students | Langara - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/16 19:28:29  [chrome.exe] Untitled - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/16 19:28:29  [chrome.exe] langara.ca/student-services/enrolment-services/tuition-fees/international-student-tuition-fees - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/16 19:28:29  [chrome.exe] International Fees | Langara - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/16 19:28:40  [chrome.exe] swing.langara.bc.ca/prod/twbkwbis.P_WWWLogin - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/16 19:28:41  [chrome.exe] User Login - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  100426598
+  [LMB]
+  pain2003111[ENTER]
+
+--- WINDOW  2026/11/16 19:28:48  [chrome.exe] swing.langara.bc.ca/prod/twbkwbis.P_ValLogin - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/16 19:28:49  [chrome.exe] Main Menu - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/16 19:28:51  [chrome.exe] swing.langara.bc.ca/prod/twbkwbis.P_GenMenu?name=bmenu.P_StuMainMnu - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/16 19:28:51  [chrome.exe] Students - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/16 19:28:55  [chrome.exe] Registration - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/16 19:28:56  [chrome.exe] swing.langara.bc.ca/prod/bwskoacc.P_ViewAcctTerm - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/16 19:28:56  [chrome.exe] Select Semester - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/16 19:28:59  [chrome.exe] Account Balance & Payments - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/16 19:29:04  [chrome.exe] swing.langara.bc.ca/prod/bzckcpmt.P_RSCCPayment - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/16 19:29:04  [chrome.exe] Credit Card Payment for Regular Studies - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  1500
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/16 19:29:10  [chrome.exe] swing.langara.bc.ca/prod/bzckcpmt.P_CCPaymentVerification - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/16 19:29:11  [chrome.exe] Credit Card Payment for Regular Studies - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/16 19:29:12  [chrome.exe] swing.langara.bc.ca/prod/bzckcpmt.P_CCPaymentSubmitted - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/16 19:29:12  [chrome.exe] Credit Card Payment for Regular Studies - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/16 19:29:16  [chrome.exe] Untitled - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/16 19:29:16  [chrome.exe] about:blank - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/16 19:29:17  [chrome.exe] Moneris Checkout CC Payment - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/16 19:29:24  [chrome.exe] Students - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/16 19:29:25  [chrome.exe] Registration Information - International Students | Langara - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/16 19:29:26  [chrome.exe] Mail - The Nam Cuong Mai - Outlook - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  1,500\[ENTER]
+  [Bk][ENTER]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/16 19:29:43  [chrome.exe] Inbox - The Nam Cuong Mai - Outlook - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/16 19:29:46  [chrome.exe] Untitled - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/16 19:29:47  [chrome.exe] swing.langara.bc.ca/prod/twbkwbis.P_WWWLogin - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/16 19:29:47  [chrome.exe] User Login - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/16 19:29:48  [chrome.exe] Registration Information - International Students | Langara - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/16 19:29:49  [chrome.exe] Students - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/16 19:29:51  [chrome.exe] swing.langara.bc.ca/prod/twbkwbis.P_GenMenu?name=bmenu.P_RegMnu - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/16 19:29:51  [chrome.exe] User Login - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  100426598
+  [LMB]
+  pain2003111[ENTER]
+
+--- WINDOW  2026/11/16 19:29:58  [chrome.exe] swing.langara.bc.ca/prod/twbkwbis.P_ValLogin - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/16 19:29:58  [chrome.exe] Main Menu - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/16 19:30:02  [chrome.exe] swing.langara.bc.ca/prod/twbkwbis.P_GenMenu?name=bmenu.P_StuMainMnu - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/16 19:30:02  [chrome.exe] Students - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/16 19:30:03  [chrome.exe] swing.langara.bc.ca/prod/twbkwbis.P_GenMenu?name=bmenu.P_RegMnu - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/16 19:30:03  [chrome.exe] Registration - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/16 19:30:06  [chrome.exe] swing.langara.bc.ca/prod/bwskrsta.P_RegsStatusDisp - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/16 19:30:06  [chrome.exe] Select Semester - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/16 19:30:07  [chrome.exe] swing.langara.bc.ca/prod/bwskrsta.P_RegsStatusDisp - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/16 19:30:08  [chrome.exe] Activate Your Registration Time - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/16 19:30:10  [chrome.exe] swing.langara.bc.ca/prod/bwskrsta.P_RegsStatusDisp - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/16 19:30:11  [chrome.exe] Activate Your Registration Time - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/16 19:30:20  [chrome.exe] Untitled - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/16 19:30:21  [chrome.exe] langara.ca/student-services/register - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/16 19:30:21  [chrome.exe] Register | Langara - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/16 19:30:25  [chrome.exe] Before You Register | Langara - Google Chrome
+----------------------------------------------------------------------------
