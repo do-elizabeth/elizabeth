@@ -1,0 +1,643 @@
+﻿  [LMB]
+
+--- WINDOW  2026/11/19 19:20:45  [brave.exe] 未命名 - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/19 19:20:46  [brave.exe] worldofwarcraft.blizzard.com/en-us - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/19 19:20:47  [brave.exe] World of Warcraft - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/19 19:20:49  [brave.exe] 【心得】還在觀望？給自己一個全新的體驗！魔獸美服2026入坑指南 @WOW 魔獸世界 哈啦板 - 巴哈姆特 - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/19 19:21:04  [brave.exe] World of Warcraft - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/19 19:21:10  [brave.exe] kr.account.battle.net/login/zh/?ref=https://oauth.battle.net/authorize?response_type%3Dcode%26redirect_uri%3Dhttps%253A%252F%252Fworldofwarcraft.blizzard.com%252Fauth%252Fbnet%252Fcallback%26scope%3Demail%2520logout%2520account.standard%2520account.standard%253Amodify%2520account.full%2520social.friends%26state%3DzHSx2WVD5EAA0PE10CmOCRxB%26client_id%3De674efa0abaa423cb7805d3c41838416&app=oauth&hostingApp=oauth - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/19 19:21:11  [brave.exe] Battle.net 帳號登入 - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/19 19:21:15  [brave.exe] accounts.google.com/v3/signin/accountchooser?captchaRequired=false&client_id=196154489538-9rpkrg8u9qimu15c2p1gcas16qnocqrj.apps.googleusercontent.com&deviceProof=a84489428f96b146195e28734ba6ff4f94bedf23715c8a1837073698f3614bea&flowTrackingId=25e31870-346e-4a74-854a-d6287c64df1f&fromApp=oauth&isMASDK=false&player-tracking-id=25e31870-346e-4a74-854a-d6287c64df1f&redirect_uri=https%3A%2F%2Fkr.account.battle.net%2Flogin%2Fsignin%2Fgoogle&response_type=code&scope=openid+profile+email&state=22b963de439a8e88accfb
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/19 19:21:16  [brave.exe] 登入 - Google 帳戶 - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/19 19:21:19  [brave.exe] accounts.google.com/signin/oauth/id?authuser=0&part=AJi8hANDz41KgX1N-0f2U_DQArbVbSQ-3LjREL55XMb7MKqpMKRchFheLnCtZGTB6WJf4_zyEydR0VF7COv64ga6zl6llg58mtv1GNl3FS3wYm-7n0FEGJpnWPK0uxgOnqRybiy-12hMilW7tuJLAD8ZIhfL636KOCuS8lYEjkcdo8s75q8Y35UwrBoVN7wHu_l6aMGgfudkWplrVY72sch45oG5XbNYy91ZWoB3I89KZnzNnytypTjAs_78XcSCU3Dsf_i_qO_eluyfzv9qx9zOo-h2jw8fTQguhBkxMhvEoBhRujtFh1pEDdlpfp3bd09xj7c5hNqJyZdo_qZY1k2OEU1C7CEtrmB1ZxbSPd92IeD6ws2C-0LdHbo8zNakF0vhYlkLEkWWBE7jpl3LGZ8qq1EYnv-KSajgtUoAa3xiJ684ZzmZPA178RgfsZvPQ9i2d2n3fWI
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/19 19:21:19  [brave.exe] 登入 - Google 帳戶 - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/19 19:21:22  [brave.exe] account.battle.net/creation/flow/creation-full - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/19 19:21:23  [brave.exe] 建立 Battle.net 帳號 - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/19 19:21:25  [brave.exe] kr.account.battle.net/login/zh/?theme=blizzard&flowTrackingId=25e31870-346e-4a74-854a-d6287c64df1f&client-environment=STANDALONE_BROWSER&app=account-creation&hostingApp=oauth&authenticationState=STANDALONE_LOGIN&continuation-type=RETURN_TO_REFERRER&ref=https%3A%2F%2Faccount.battle.net%2Fcreation%2Fflow%3Factor%3DPLAYER%26app%3Doauth%26callback-url%3Dhttps%253A%252F%252Foauth.battle.net%252Fauthorize%253Fresponse_type%253Dcode%2526redirect_uri%253Dhttps%25253A%25252F%25252Fworldofwarcraft.blizzard.com%25252
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/19 19:21:26  [brave.exe] Battle.net 帳號登入 - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/19 19:21:31  [brave.exe] kr.account.battle.net/login/zh/?theme=blizzard&flowTrackingId=25e31870-346e-4a74-854a-d6287c64df1f&client-environment=STANDALONE_BROWSER&app=account-creation&hostingApp=oauth&authenticationState=STANDALONE_LOGIN&continuation-type=RETURN_TO_REFERRER&ref=https%3A%2F%2Faccount.battle.net%2Fcreation%2Fflow%3Factor%3DPLAYER%26app%3Doauth%26callback-url%3Dhttps%253A%252F%252Foauth.battle.net%252Fauthorize%253Fresponse_type%253Dcode%2526redirect_uri%253Dhttps%25253A%25252F%25252Fworldofwarcraft.blizzard.com%25252
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/19 19:21:32  [brave.exe] Battle.net 帳號登入 - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  0980108887
+  [LMB]
+
+--- WINDOW  2026/11/19 19:21:39  [brave.exe] kr.account.battle.net/login/zh/email-otp?ref=https://account.battle.net/creation/flow?actor%3DPLAYER%26app%3Doauth%26callback-url%3Dhttps%253A%252F%252Foauth.battle.net%252Fauthorize%253Fresponse_type%253Dcode%2526redirect_uri%253Dhttps%25253A%25252F%25252Fworldofwarcraft.blizzard.com%25252Fauth%25252Fbnet%25252Fcallback%2526scope%253Demail%252520logout%252520account.standard%252520account.standard%25253Amodify%252520account.full%252520social.friends%2526state%253DzHSx2WVD5EAA0PE10CmOCRxB%2526client_id%253
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/19 19:21:39  [brave.exe] Battle.net 帳號登入 - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/19 19:21:44  [brave.exe] 收件匣 (25,065) - south830325@gmail.com - Gmail - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/19 19:21:45  [brave.exe] 您與「Blizzard Entertainment」分享了部分 Google 帳戶資料 - south830325@gmail.com - Gmail - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/19 19:21:52  [brave.exe] 未命名 - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/19 19:21:54  [brave.exe] myaccount.google.com/linkedapps/overview/AUKa-R5knV4Wm8ZZDRU7DIEYthn9Zu9maDteHDfdDEVVBf7oK0rW6dGxgkU8bw6qkRgMzEugCB2jPil8h5ectqsD6sQ?utm_source=e_notification&utm_medium=email_notification&pli=1 - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/19 19:21:55  [brave.exe] 您的連結應用程式 - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/19 19:21:58  [brave.exe] Google 如何協助您登入「Blizzard Entertainment」 - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/19 19:22:00  [brave.exe] 您與「Blizzard Entertainment」分享了部分 Google 帳戶資料 - south830325@gmail.com - Gmail - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/19 19:22:07  [brave.exe] 收件匣 (25,065) - south830325@gmail.com - Gmail - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/19 19:22:08  [brave.exe] Battle.net 帳號驗證 - south830325@gmail.com - Gmail - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  [Clipboard]
+  ZPG8R9
+  [LMB]
+
+--- WINDOW  2026/11/19 19:22:13  [brave.exe] Battle.net 帳號登入 - Brave
+----------------------------------------------------------------------------
+  [RMB]
+  [LMB]
+  [Ctrl]v
+
+--- WINDOW  2026/11/19 19:22:17  [brave.exe] kr.account.battle.net/login/zh/challenge/f383a271-b609-4603-8076-f454a0688dce/choose?ref=/login/zh/account-unlock&app=account-creation - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/19 19:22:17  [brave.exe] Battle.net 帳號登入 - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/19 19:22:20  [brave.exe] kr.account.battle.net/login/zh/challenge/f383a271-b609-4603-8076-f454a0688dce?ref=/login/zh/account-unlock&app=account-creation&sendCode=true - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/19 19:22:20  [brave.exe] Battle.net 帳號登入 - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/19 19:22:25  [brave.exe] Battle.net 帳號驗證 - south830325@gmail.com - Gmail - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/19 19:22:27  [brave.exe] 收件匣 (25,065) - south830325@gmail.com - Gmail - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/19 19:22:28  [brave.exe] 協助我們透過安全檢查來維護你的 Battle.net 帳號安全 - south830325@gmail.com - Gmail - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/19 19:22:31  [brave.exe] 收件匣 (25,065) - south830325@gmail.com - Gmail - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/19 19:22:33  [brave.exe] Battle.net 帳號驗證 - south830325@gmail.com - Gmail - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [Ctrl]
+  [Clipboard]
+  XTQCV5
+  c
+  [LMB]
+
+--- WINDOW  2026/11/19 19:22:36  [brave.exe] Battle.net 帳號登入 - Brave
+----------------------------------------------------------------------------
+  [Ctrl]v
+
+--- WINDOW  2026/11/19 19:22:37  [brave.exe] kr.account.battle.net/login/zh/legal?ref=https://account.battle.net/creation/flow?actor%3DPLAYER%26app%3Doauth%26callback-url%3Dhttps%253A%252F%252Foauth.battle.net%252Fauthorize%253Fresponse_type%253Dcode%2526redirect_uri%253Dhttps%25253A%25252F%25252Fworldofwarcraft.blizzard.com%25252Fauth%25252Fbnet%25252Fcallback%2526scope%253Demail%252520logout%252520account.standard%252520account.standard%25253Amodify%252520account.full%252520social.friends%2526state%253DzHSx2WVD5EAA0PE10CmOCRxB%2526client_id%253De67
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/19 19:22:38  [brave.exe] Battle.net 帳號登入 - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/19 19:22:43  [brave.exe] account.battle.net/creation/flow/linking - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/19 19:22:43  [brave.exe] 建立 Battle.net 帳號 - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/19 19:22:48  [brave.exe] worldofwarcraft.blizzard.com/en-us - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/19 19:22:49  [brave.exe] World of Warcraft - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/19 19:22:52  [brave.exe] (1) Facebook - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/19 19:22:55  [brave.exe] (4) YouTube - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/19 19:22:57  [brave.exe] (1) Facebook - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/19 19:22:58  [brave.exe] Facebook - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/19 19:23:07  [brave.exe] World of Warcraft - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/19 19:23:08  [Discord.exe] 任務 - Discord
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/19 19:23:15  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/19 19:23:15  [brave.exe] World of Warcraft - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/19 19:23:17  [brave.exe] 新分頁 - Brave
+----------------------------------------------------------------------------
+  googleu/42u,6[ENTER]
+  [ENTER]
+
+--- WINDOW  2026/11/19 19:23:21  [brave.exe] google.com/search?q=GOOGLE硬碟&oq=GOOGLE硬碟&sourceid=chrome&ie=UTF-8 - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/19 19:23:22  [brave.exe] GOOGLE硬碟 - Google 搜尋 - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/19 19:23:24  [brave.exe] drive.google.com/drive/my-drive?hl=zh-tw - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/19 19:23:25  [brave.exe] Google 雲端硬碟 - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/19 19:23:25  [brave.exe] 我的雲端硬碟 - Google 雲端硬碟 - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/19 19:23:28  [brave.exe] 未命名 - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/19 19:23:30  [brave.exe] one.google.com/dynamic-plans?i=m&utm_source=drive&utm_medium=web&utm_campaign=g1_widget_normal#upgrade - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/19 19:23:31  [brave.exe] Google One 方案 - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/19 19:24:12  [brave.exe] $146.87 | SPCX | Vest Markets - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/19 19:24:13  [brave.exe] Battle.net 帳號驗證 - south830325@gmail.com - Gmail - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/19 19:24:14  [brave.exe] $146.87 | SPCX | Vest Markets - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/19 19:24:15  [brave.exe] 新分頁 - Brave
+----------------------------------------------------------------------------
+  u/2[Bk][Bk][Bk][Bk]u/42u,6[ENTER]
+  [ENTER]
+
+--- WINDOW  2026/11/19 19:24:20  [brave.exe] google.com/search?q=硬碟&oq=硬碟&sourceid=chrome&ie=UTF-8 - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/19 19:24:21  [brave.exe] 硬碟 - Google 搜尋 - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/19 19:24:27  [brave.exe] coolpc.com.tw/tw/product-category/hdd/ - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/19 19:24:28  [brave.exe] 硬碟HDD – 原價屋Coolpc - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/19 19:24:30  [brave.exe] 未命名 - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/19 19:24:30  [brave.exe] coolpc.com.tw/evaluate.php - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/19 19:24:31  [brave.exe] 原價屋線上估價-含稅 - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/19 19:26:11  [brave.exe] World of Warcraft - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/19 19:26:11  [brave.exe] 【心得】還在觀望？給自己一個全新的體驗！魔獸美服2026入坑指南 @WOW 魔獸世界 哈啦板 - 巴哈姆特 - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/19 19:26:12  [brave.exe] Facebook - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/19 19:26:15  [brave.exe] (4) YouTube - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/19 19:26:25  [brave.exe] (4) 黃仁勳願回鍋遭董事會打槍 12/1接受眾院拷問拚翻身｜十點不一樣20261118 - YouTube - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/19 19:26:27  [brave.exe] (4) 特斯拉SpaceX執行長馬斯克：從選舉失利到烏克蘭戰爭再到超級合併，沒有人比他更能影響未來 - YouTube - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/19 19:27:41  [brave.exe] (4) All-In Podcast 矽谷知名投資人們：有人違法洩密扳倒黃仁勳，洩密本身才是唯一確認的犯罪 - YouTube - Brave
+----------------------------------------------------------------------------
+  [->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->]
+
+--- WINDOW  2026/11/19 19:29:55  [powershell.exe] C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+----------------------------------------------------------------------------
+  [->][->][->][->]
+
+--- WINDOW  2026/11/19 19:30:02  [brave.exe] (4) All-In Podcast 矽谷知名投資人們：有人違法洩密扳倒黃仁勳，洩密本身才是唯一確認的犯罪 - YouTube - Brave
+----------------------------------------------------------------------------
+  [->]
+
+--- WINDOW  2026/11/19 19:30:18  [powershell.exe] C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+----------------------------------------------------------------------------
+  [->][->]
+
+--- WINDOW  2026/11/19 19:30:40  [brave.exe] (4) All-In Podcast 矽谷知名投資人們：有人違法洩密扳倒黃仁勳，洩密本身才是唯一確認的犯罪 - YouTube - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [->][->][->]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/19 19:32:40  [brave.exe] All-In Podcast 矽谷知名投資人們：有人違法洩密扳倒黃仁勳，洩密本身才是唯一確認的犯罪 - YouTube - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/19 19:32:43  [brave.exe] Battle.net 帳號驗證 - south830325@gmail.com - Gmail - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/19 19:32:44  [brave.exe] 收件匣 (25,064) - south830325@gmail.com - Gmail - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/19 19:32:44  [brave.exe] All-In Podcast 矽谷知名投資人們：有人違法洩密扳倒黃仁勳，洩密本身才是唯一確認的犯罪 - YouTube - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/19 19:32:44  [brave.exe] YouTube - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/19 19:32:54  [brave.exe] All-In Podcast 矽谷知名投資人們：有人違法洩密扳倒黃仁勳，洩密本身才是唯一確認的犯罪 - YouTube - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/19 19:32:56  [brave.exe] 別惹女人特別是懂財經的女人，木頭姐出重招！ - YouTube - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->]
+  [X1]
+
+--- WINDOW  2026/11/19 19:38:15  [brave.exe] YouTube - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/19 19:38:17  [brave.exe] 收件匣 (25,064) - south830325@gmail.com - Gmail - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/19 19:38:18  [brave.exe] YouTube - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/19 19:39:35  [brave.exe] 別惹女人特別是懂財經的女人，木頭姐出重招！ - YouTube - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/19 19:39:37  [brave.exe] 今年救另一台望遠鏡失敗了，NASA 為什麼還要找私人公司救哈伯？ - YouTube - Brave
+----------------------------------------------------------------------------
+  [X1]
+
+--- WINDOW  2026/11/19 19:39:38  [brave.exe] YouTube - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/19 19:39:40  [brave.exe] 今年救另一台望遠鏡失敗了，NASA 為什麼還要找私人公司救哈伯？ - YouTube - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/19 19:39:40  [brave.exe] 收件匣 (25,064) - south830325@gmail.com - Gmail - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/19 19:39:48  [brave.exe] 今年救另一台望遠鏡失敗了，NASA 為什麼還要找私人公司救哈伯？ - YouTube - Brave
+----------------------------------------------------------------------------
+  [->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->]
+  [LMB]
+
+--- WINDOW  2026/11/19 19:46:09  [brave.exe] YouTube - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/19 19:46:16  [brave.exe] 今年救另一台望遠鏡失敗了，NASA 為什麼還要找私人公司救哈伯？ - YouTube - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/19 19:46:18  [brave.exe] 首表態挺「表舅」黃仁勳 蘇姿丰轉身搶下李飛飛攻輝達江山－民視新聞 - YouTube - Brave
+----------------------------------------------------------------------------
+  [->][->][->][->][->][->][->][->]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/19 19:47:39  [brave.exe] 收件匣 (25,064) - south830325@gmail.com - Gmail - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/19 19:47:44  [brave.exe] YouTube - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/19 19:47:49  [brave.exe] 首表態挺「表舅」黃仁勳 蘇姿丰轉身搶下李飛飛攻輝達江山－民視新聞 - YouTube - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/19 19:47:51  [brave.exe] 輝達回絕黃仁勳回鍋CEO! 華爾街巨頭艾克曼比擬"賈伯斯回蘋果"獻策股臨會逼宮 貝佐斯籲勿從外部找接班人｜非凡財經新聞｜20261118 - YouTube - Brave
+----------------------------------------------------------------------------
+  [->][->][->]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [->][->][->]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/19 19:49:06  [brave.exe] YouTube - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/19 20:03:41  [brave.exe] $147.01 | SPCX | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/19 20:03:49  [brave.exe] $146.96 | SPCX | Vest Markets - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/19 20:03:50  [brave.exe] 收件匣 (25,064) - south830325@gmail.com - Gmail - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/19 20:03:54  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/19 20:03:54  [explorer.exe] (untitled)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/19 20:03:55  [chrome.exe] 新分頁 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/19 20:03:58  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/19 20:03:58  [brave.exe] 收件匣 (25,064) - south830325@gmail.com - Gmail - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/19 20:04:00  [brave.exe] 【心得】還在觀望？給自己一個全新的體驗！魔獸美服2026入坑指南 @WOW 魔獸世界 哈啦板 - 巴哈姆特 - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/19 20:04:02  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/19 20:04:02  [chrome.exe] 新分頁 - Google Chrome
+----------------------------------------------------------------------------
+  ro
+  [LMB]
+
+--- WINDOW  2026/11/19 20:04:06  [chrome.exe] ro-survivors.com - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/19 20:04:07  [chrome.exe] RO Survivors⁠‌‌‌​‌​​‌‌​​‌​‌​​​​​‌​‌​​​‌​​‌​‌‌⁠ · Free Ragnarok Online–inspired survivors game in your browser - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/19 20:04:10  [chrome.exe] RO Survivors⁠‌​‌​‌‌​‌‌​​‌​​​‌‌​‌​‌​‌​‌​‌​‌‌‌​⁠ · Free Ragnarok Online–inspired survivors game in your browser - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  sdddddddwwwwwwwwww 
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  ssasaaaaaaadddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaassssddssssssaaaaaawwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwdddddddddddddddddddssssssssssssssssssssssssssssssssssssssaaaaaaaaaaaaaaaaaaaaaaaaasssssssswwwwwwwwwwwwwwwwwwwwwwwwwdddddddddddddddddddddddddddddddddddddddddddddddddddddsssssssssssssssaaaaaaaaaaaaaaaaaaaawwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwdddddddddddddddddddddddddddddddddddddddddddddddddsaaaaaaaaaaaaaaaaaaaaaaaaawwwwwwwsddddddddddddwwwwwwwwwwwwwwwwwwwdwdab
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  ssssss
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  dsssssssssssdawwwwwwwwwwwwwwwwwwwawdssssssssssssssssssssssssssssssddaaaaaaaaaaaaaaaaaaaaaaaaaaaadawwwwwwwwwwwwwwwwaddddddddddddddddddddddddddddddddddddddddddssssssssssssssssssssssssssssssssdddddddawddddddddddddddwsaaaaaaaaaaaaaaaaaaaaaaaaaaawwwwwwb
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  a
+  [LMB]
+  [LMB]
+  aassssssswwwwwwwdddddddddddddddddddddddddddddddddddddddddddddwwwwwwwwwwwwwaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaasssssssssssssssssssssssssssssssssssssssssssssssdddddddddddddwsssssssssssswsaaawwwwwwwwdddaaaaaaaaaaaaaaaaaaawwwwwwwwwwwwwwwsddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddwwwwwwwwwwwwwwwwwaaaaaaawsssssssssssdddddddddddwdddddddddddddddddddddddddddddddddddddssssssssssssssssasawwwwwwwwwwwwwwwwdwab
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  aaaassssssssssssssssssssdddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddswwwwwwwwwwddddddddddddddddddddddaaaaaaaaaaaaaaaaaawwwwwwwwwsssssssssssswssssssssssssssssssssssdsddddddddddddddddddddddddddddddddddddddddddddddddddssaaaaaaaawaaaaaaaaaaaaaaadasdaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaawwwwwwdddddddssssssssssssswwwwwwwwwwwwwdb
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  ddddddd
+  [LMB]
+  [LMB]
+  [LMB]
+  wddddddddddddddd
+  [LMB]
+  dddddddddddddddddddddddddd
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  wddddddddddddddddddddddddddddddddddddddddddddddddddsssssswwwwwwwwwwwwwwwwwwwwwwwwwwwaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaasddddaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaawwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwdwswwwwwwwwwwwwwwdwaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaasdaaaaaaaaaaaaaaaaaaaaaaaaaaaaddddddddddddddddddddddddddddddddddwssssssssssdddddwwwwwwwwwssssssswwwwwwwwwwwwwwwaaaaaaaaaaaaaaaaaaaaaaaaaaaaassssssssssssssssssssssssssssssssawwwwwwwwwwwwwwwdwdddddddddddddddddddddddddddsssssssssssssssssssssssssssssssssssssb
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  ssssssssddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddwwwwddddddddddddddddddddddddwwwwwwwwwwwwwwwwwwwwwwwwwaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaadsaaaaaaaaaddwwsssssssssssssssasaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaawwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwaaaaaaaaaaaaaaaaaaaaaaaaaaadssssssssssssssssssssssssssssssssssssssssssssddddddddddddddddddddddddddddddddaaaaaaaaaaaaadddddddddddddddwasddddddwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwb
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  sdwwwwwwwwwwwwwwwaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaawwwwwsssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssdddddddddddddddddddddddddddddddddddddddddsssssssssssssswwwwwwwwwwwwwwwwwwwwwwwwwsaaaaaaaaaaaaaaaadaswwwwwwwwwwwwwwwwwwwddddddddddddddddddddaaaaaaaaaaaaaaaaaaaassssswsssssssssssssssssssssssssssssssssssssssssswdddddddddddddddddddddddddddddddddddddddddddddddddddddddddddssssssssssawwwwwwwwwwwwwwwwwwwdasdddddddddddddddadwdddssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssdsaaaaaaaaaaaaaaaaaaaaaadddddddddddddddddddddddddddwwwwwwwwwwwwwwwwwwwwwwwwwwwwwdddddddddddddddddddddddddddddddddddddddddddddddddddddddwaaaaaaaaaaaaaaaaaaaaaaaassssssssssssssssssssssssb
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  waaaaaaaaaswasssssssswwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwawdddddddddaddddddddddddddddddssaaddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddwwwwwwwwwwwwwwwwssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssasaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaawddaaaaaaaaaaaaaaaaaaaaaaaaddddddddddddddddsaaaaaaaaaaaaawwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwssssssssssssssssssssssssssssssssssssssssssssssssssswwwwwwwwwwwwwwwwwwwwwwwwwwwwawaaaaaaaaaaaaaaaaadsssssssssssssssssssssssssssssssssssaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaawwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwaddddddddddddddddddddddddddddddddddddddddddddddddddddssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssasaaaaaaaaaaaaaaaaaaasdwdddddddddddddddddddddddddddddddddddddddddddaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaawwwwwwwaasssdddb
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  sddddddddddddddddddwssssssssssasaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaawwwwwwwwwwwwwwwwwwwwwwwdddddddddddddddddddddddddddaaaaaawwdwdddddddddddddddddsssssssdddddddddddddddddddddddddddddddddssaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaawwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwsddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddssssssssssssssssswwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwdsawwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwssddddddddddddb
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  dswswwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaadddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddsssssssssssssssssssssssssssdsdddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaawwwdswaaadddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddsaaaaaaaaadwwwwwwaaaaaaaaaaawwwwwwwssssssssssssssssssssssssssssssssssssssssssasdadddddddddddddddddddddddddddddddddddddddsswwwwwwdddddddwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwaaaaaaaaaab
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  assssssssaaaaaaaaadwssssssssssssssssssssssdddddawwwwwwwwwwwwwwwwwwwwwwwwwwwwwaddsssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssdddddddddddddaaaawwdaaaaaaaaaaaaaaaaaaaaaaaaaaaaab
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  wdddddddddddddddddddddddddddddddwwaaaaaaaaawwwwwwwwwwwwwwwwwwwwdssssssaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaswwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwdddddddddddddddddddddddddddddddddddddddddddddddddddsssssssdddddddddddddddawdsssssssssdssaaaaswwdddssssssssssssssssssssswwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwaaaaaaaaaaaaaaaaaaaaaaaaaaaawwwwwwssssssssssssssssssssssssssssssssssdadwwwwwwwwwwwwwwwwaaaaaaaaaaaaaaaaaaaaaaaaaaaaawwwwwwwwwwwwwwdddddddddddddddddddddddddddddddddddddddddssssssssssssssssssssssssssssssssssssssssssssssssaddddddddddddddddddab
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
