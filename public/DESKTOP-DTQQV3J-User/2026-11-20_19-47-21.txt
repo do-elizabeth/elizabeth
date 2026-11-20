@@ -1,0 +1,706 @@
+﻿  dddddddddddwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwssssssssssssaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaawwdddddddddddddddddddddddddddddddddddddddddddddddddddddddaaaadaaaaaasssssssb
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  wdddd
+  [LMB]
+  [LMB]
+  [LMB]
+  wddssssssssssssssssssssddddddddddddaaaaaaaaaaaaaaaaaaaaaaaaaaawwwwwwwwwwwwwwwwwwwwwawaaaaaadadssawddddddddddddddddaaaaaaaaaaaaaaaaaaaaaaawssssssssssssssssssssssssssssssssssssssssssssssssssssdssssssssssssssssssssssssssssssssssssssssssssssssssssssdawdddddddddddwaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaswsdwwwwwdwdddddddsssssssssssssssssssssssssssdddddddddddddsssssssssssssssssssssssdddddddddddddddddddddddddddddddddwb
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  dwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwdddddddddssssssssssssssasaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaasssssssssssswwwwwwwwwwwwwwwwwssssssssssssssssswwwwwwwwwwwwwwwwwwwwwwdwddddddddddddddddddddddddddddddddddddwwwwwsssssssssssssssssssssssssssssssssssssssssaaaaaaaaaaaaaaaaasssssssssssssssssssssssssssssssssssswdasssssssssssssssssssssssdswdsaaaawwwwwwwwwwwwwwwwwwwddddddddddddddddddddddab
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  dwwwwwwwwwwwwwwssssssssasaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaawwwwwwwwwwwwwwwwwwwwwwwddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddaaaaaaaaaaaaaawwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwdsaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaddddddddddddddddddddddddddddddddddddddddddddwwwwwwwwwwwwwwwwwwwwwwwwwddddddddddddddddddddddddaaadddab
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  dsawwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwddddssssssssssssssssaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaadddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddwwaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaawwwwwwwwawsdwwwwwwwsb
+  [LMB]
+  [LMB]
+  [LMB]
+  d
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  dddddddssssssssssssssssssssssssssssssaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaawwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwddddddddsaaawddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddssssssssssssssssssssssssssssssssssssssssssssssssssssssssasaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaddddddddwwwwwwwwwwwwwwwwwwsaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaawwwaaadsadwsawdsadddddsssssssssawsssssswwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwdddddddddddddddddddddddwsb
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  asssssssssssssssssssssssssssssssssssssssssssssssssssswwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwdasssddddwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwsssssssssssssssssssssssssssssssssaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaswwwwwwwwwwwwadwwwwwwwwwwwwwwwwwwwwwwwwwwwwwb
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  dwddddddddddddddwwwsssssssssssssssssssssssssssssssssssssssssssasddddddddddddddddddddddddddddddddddddddddddddddddddddddddwdadsssssssssssasaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaawwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwdddddddddddddddddddddddddddddddddddddadddddddddddddddddddsaaaaaaaaaaaaswwwwwwwwwwwwwwwdwddddddssssssssasddddddddddddddddddddddddddddddddddddddddddddddddddddwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwawdsaassssssssssssssssssssssssssssssssssssssssssssssasaaaaaaaaaaaaaaaaaaaaddddddsssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssasaaaaswb
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  sdddddddwwwwwwwwwwwwwwwwwwwwwasssssssssssssssssssssssssssssssssssssssssssssssssssswwwwwdwsaaaaaaaaaaaaaaawwwwwwwwwwwwwwwwwwwwwwwwwwwwdddddddddddddddddddddddsssssssssssssssssssssssssasaaaaaaaaaaasdddddddddddddddddddddddddddddddddwaaaaaaaaaaaaaaaaaaaawb
+  [LMB]
+  dw
+  [LMB]
+  dwsadaaaaaaaaaaaaaaaaaaaaaawwwwaddddddddddddddddddddddddddddddddsaaaaaaaaaaaaaaaawdwwwwwwwwwaassssssssssssssddddddddddddddddddddddddddddddddddddddddddddddddddddddwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwawaaaaaaaaaaaaaaaaaaaaaawssssssssssssssssssdsddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddwaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaassssssssssssssaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaawwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwdb
+  [LMB]
+  wwwwwwww
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  dwdddddddddddddddsssssssssssssssswwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwawaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaasssssssssssssssssssssssssssssssssssssssssssssdddddddddddddddddddddddddddssssssssssssssssssssssssssswwwwwwwwwwwwwwwwwdaaaaaaaaaaaaaaaaaaaaaaawb
+  [LMB]
+  [LMB]
+  wwwwwwwwwwww
+  [LMB]
+  wdasssssssssssssssssssssssssssssssdsddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwawaaaaawsdddddddddddddddddddddddddddddddddddddddddddddsb
+  [LMB]
+  [LMB]
+  asssasaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaawwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwdwdddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddssssssssssssssssssssssssssssssssaaaaaaaaaaab
+  [LMB]
+  [LMB]
+  sssssssssssssssssssaaaaaaaaaaaaaaaaaaaaaaaaawwwwwwaaaddddddddddddddddddddddddddddwssssssssswwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwb
+  [LMB]
+  [LMB]
+  w
+  [LMB]
+  wwwddddddsssssssssssssssssssssssssssssssssssssaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaawwwwwwwwwwwwwwwwwwwwwsb
+  [LMB]
+  daasdawwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwdaddddddddddddddddddddddddsdb
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/20 18:59:02  [chrome.exe] SOLUSDT.P 72.40 ▼ −0.97% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/20 18:59:04  [chrome.exe] SOLUSDT.P 72.41 ▼ −0.96% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/20 18:59:05  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/20 18:59:05  [brave.exe] YouTube - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/20 18:59:06  [brave.exe] $72.398 | SOL | Vest Markets - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/20 18:59:08  [brave.exe] $72.387 | SOL | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/20 18:59:09  [brave.exe] $72.388 | SOL | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/20 18:59:10  [brave.exe] $72.379 | SOL | Vest Markets - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/20 18:59:11  [brave.exe] $72.368 | SOL | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/20 18:59:11  [chrome.exe] SOLUSDT.P 72.39 ▼ −0.98% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/20 18:59:12  [chrome.exe] SOLUSDT.P 72.38 ▼ −1% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/20 18:59:13  [chrome.exe] SOLUSDT.P 72.39 ▼ −0.98% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/20 18:59:13  [chrome.exe] RO Survivors⁠‌​‌​‌‌​‌‌​​‌​​​‌‌​‌​‌​‌​‌​‌​‌‌‌​⁠ · Free Ragnarok Online–inspired survivors game in your browser - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  sds
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc]sdddddddddddddddddddwwwwwwwwwww 
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/20 19:01:05  [chrome.exe] RO - Google 搜尋 - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/20 19:01:06  [chrome.exe] SOLUSDT.P 72.44 ▼ −0.92% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/20 19:01:08  [chrome.exe] 新分頁 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/20 19:01:09  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/20 19:01:09  [brave.exe] $72.429 | SOL | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/20 19:01:10  [brave.exe] $72.435 | SOL | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/20 19:01:11  [brave.exe] $72.433 | SOL | Vest Markets - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/20 19:01:11  [brave.exe] YouTube - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/20 19:01:24  [brave.exe] #shorts - YouTube - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/20 19:01:36  [brave.exe] YouTube - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/20 19:01:47  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/20 19:01:47  [Battle.net.exe] Battle.net
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/20 19:01:50  [brave.exe] YouTube - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/20 19:01:50  [brave.exe] 收件匣 (25,068) - south830325@gmail.com - Gmail - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/20 19:01:56  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/20 19:01:56  [Battle.net.exe] Battle.net
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/20 19:01:57  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/20 19:01:57  [brave.exe] 收件匣 (25,068) - south830325@gmail.com - Gmail - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/20 19:01:58  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/20 19:02:00  [explorer.exe] (untitled)
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/20 19:02:00  [Wow.exe] 魔獸世界
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  south[Tab]overoad
+  [LMB]
+  [LMB]
+  [ENTER]
+  [ENTER]
+  [LMB]
+  [ENTER]
+  [LMB]
+  [ENTER]
+  [LMB]
+  [LMB]
+  [ENTER]
+  [ENTER]
+  [LMB]
+  [ENTER]
+  [LMB]
+  [ENTER]
+  [LMB]
+  [ENTER]
+  [ENTER]
+  [LMB]
+  [ENTER]
+  [ENTER]
+  [ENTER]
+  [LMB]
+  [ENTER]
+  [LMB]
+  [ENTER]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [ENTER]
+  [ENTER]
+  [LMB]
+  [ENTER]
+  [LMB]
+  [ENTER]
+  [LMB]
+  [ENTER]
+  [LMB]
+  [ENTER]
+  [LMB]
+  [ENTER]
+  [LMB]
+  [Esc][Esc]
+  [LMB]
+
+--- WINDOW  2026/11/20 19:03:32  [brave.exe] 收件匣 (25,068) - south830325@gmail.com - Gmail - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/20 19:03:33  [brave.exe] $72.305 | SOL | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/20 19:03:33  [brave.exe] $72.303 | SOL | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/20 19:03:34  [brave.exe] $72.302 | SOL | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/20 19:03:35  [brave.exe] $72.305 | SOL | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/20 19:03:36  [brave.exe] $72.303 | SOL | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/20 19:03:37  [brave.exe] $72.302 | SOL | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/20 19:03:38  [brave.exe] $72.300 | SOL | Vest Markets - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/20 19:03:42  [brave.exe] $72.297 | SOL | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/20 19:03:43  [Overwolf.exe] WoW Forever Map
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/20 19:03:43  [brave.exe] $72.297 | SOL | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/20 19:03:43  [brave.exe] $72.292 | SOL | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/20 19:03:45  [brave.exe] $72.291 | SOL | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/20 19:03:46  [brave.exe] $72.290 | SOL | Vest Markets - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/20 19:03:46  [brave.exe] (1) Facebook - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/20 19:04:43  [brave.exe] 收件匣 (25,068) - south830325@gmail.com - Gmail - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/20 19:04:44  [brave.exe] YouTube - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/20 19:05:04  [brave.exe] Cleaning Dirt from Around a Chicken’s Eye | Amazing Bird Care - YouTube - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/20 19:05:48  [brave.exe] YouTube - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/20 19:06:29  [brave.exe] 《寶可夢紅綠》大木博士其實可以打！藏了28年的對戰觸發密技 - YouTube - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/20 19:06:32  [brave.exe] 這可能是台北最捨得給肉的牛肉麵，一般人真吃不了！ - YouTube - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/20 19:17:38  [brave.exe] $71.985 | SOL | Vest Markets - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/20 19:17:38  [brave.exe] $71.979 | SOL | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/20 19:17:39  [brave.exe] $71.982 | SOL | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/20 19:17:41  [brave.exe] $71.983 | SOL | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/20 19:17:42  [brave.exe] $71.981 | SOL | Vest Markets - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/20 19:17:43  [brave.exe] $71.979 | SOL | Vest Markets - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/20 19:17:45  [brave.exe] $71.980 | SOL | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/20 19:17:46  [brave.exe] $71.982 | SOL | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/20 19:17:47  [brave.exe] $71.967 | SOL | Vest Markets - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/20 19:17:48  [brave.exe] $71.957 | SOL | Vest Markets - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/20 19:17:49  [brave.exe] (1) Facebook - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/20 19:17:52  [brave.exe] 這可能是台北最捨得給肉的牛肉麵，一般人真吃不了！ - YouTube - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/20 19:32:03  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/20 19:32:03  [Battle.net.exe] Battle.net
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/20 19:32:05  [brave.exe] (1) Facebook - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/20 19:32:20  [brave.exe] 這可能是台北最捨得給肉的牛肉麵，一般人真吃不了！ - YouTube - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/20 19:33:19  (no active window)
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/20 19:33:21  [brave.exe] 這可能是台北最捨得給肉的牛肉麵，一般人真吃不了！ - YouTube - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/20 19:33:22  [Wow.exe] 魔獸世界
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  south[Tab]overoad
+  [LMB]
+  [ENTER]
+  [LMB]
+  [ENTER]
+  [LMB]
+  [ENTER]
+  [LMB]
+  [ENTER]
+  [LMB]
+  [ENTER]
+  [LMB]
+  [ENTER]
+  [LMB]
+  [ENTER]
+  [LMB]
+  [ENTER]
+  [LMB]
+  [LMB]
+  [ENTER]
+  [LMB]
+  [ENTER]
+  [LMB]
+  [LMB]
+  [ENTER]
+  [LMB]
+  [ENTER]
+  [LMB]
+  [LMB]
+  [ENTER]
+  [LMB]
+  [LMB]
+  [ENTER]
+  [LMB]
+  [ENTER]
+  [ENTER]
+  [LMB]
+  [ENTER]
+  [LMB]
+  [ENTER]
+  [ENTER]
+  [ENTER]
+  [LMB]
+  [ENTER]
+  [LMB]
+  [ENTER]
+  [LMB]
+  [ENTER]
+  [LMB]
+  [ENTER]
+  [LMB]
+  [ENTER]
+  [ENTER]
+  [LMB]
+  [ENTER]
+  [LMB]
+  [ENTER]
+  [LMB]
+  [ENTER]
+  [LMB]
+  [ENTER]
+  [LMB]
+  [LMB]
+  [ENTER]
+  [LMB]
+  [ENTER]
+  [LMB]
+  [ENTER]
+  [LMB]
+  [ENTER]
+  [LMB]
+  [ENTER]
+  [LMB]
+  [ENTER]
+  [LMB]
+  [ENTER]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [ENTER]
+  [LMB]
+  [LMB]
+  [ENTER]
+  [LMB]
+  [LMB]
+  [ENTER]
+  [LMB]
+  [ENTER]
+  [LMB]
+  [LMB]
+  [ENTER]
+  [LMB]
+  [ENTER]
+  [LMB]
+  [LMB]
+  [ENTER]
+  [LMB]
+  [ENTER]
+  [LMB]
+  [ENTER]
+  [ENTER]
+  [LMB]
+  [ENTER]
+  [LMB]
+  [LMB]
+  [ENTER]
+  [LMB]
+  [LMB]
+  [ENTER]
+  [LMB]
+  [ENTER]
+  [LMB]
+  [LMB]
+  [Esc][Esc]
+  [LMB]
+
+--- WINDOW  2026/11/20 19:35:25  [Battle.net.exe] Battle.net
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/20 19:35:26  [chrome.exe] 新分頁 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/20 19:35:27  [chrome.exe] SOLUSDT.P 72.02 ▼ −1.49% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/20 19:35:28  [chrome.exe] SOLUSDT.P 72.01 ▼ −1.5% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/20 19:35:30  [chrome.exe] BTCUSDT.P - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/20 19:35:31  [chrome.exe] BTCUSDT.P 61,762.9 ▼ −0.3% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/20 19:35:32  [chrome.exe] ETHUSDT.P - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/20 19:35:32  [chrome.exe] ETHUSDT.P 1,750.41 ▼ −0.37% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/20 19:35:33  [chrome.exe] ETHUSDT.P 1,750.42 ▼ −0.37% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/20 19:35:35  [chrome.exe] ETHUSDT.P 1,750.41 ▼ −0.37% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/20 19:35:36  [chrome.exe] ETHUSDT.P 1,750.24 ▼ −0.38% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/20 19:35:36  [chrome.exe] ETHUSDT.P 1,750.29 ▼ −0.37% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/20 19:35:37  [chrome.exe] ETHUSDT.P 1,750.56 ▼ −0.36% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/20 19:35:37  [chrome.exe] ETHUSDT.P 1,750.62 ▼ −0.36% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/20 19:35:37  [Overwolf.exe] WoW Forever Map
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/20 19:35:37  [chrome.exe] ETHUSDT.P 1,750.62 ▼ −0.36% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/20 19:35:37  [chrome.exe] ETHUSDT.P 1,750.61 ▼ −0.36% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/20 19:35:38  [chrome.exe] ETHUSDT.P 1,750.62 ▼ −0.36% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/20 19:35:38  [chrome.exe] 新分頁 - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/20 19:35:39  [chrome.exe] ETHUSDT.P 1,750.62 ▼ −0.36% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/20 19:35:39  [chrome.exe] ETHUSDT.P 1,750.61 ▼ −0.36% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/20 19:35:40  [chrome.exe] ETHUSDT.P 1,750.62 ▼ −0.36% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/20 19:35:41  [chrome.exe] ETHUSDT.P 1,750.73 ▼ −0.35% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/20 19:35:41  [chrome.exe] ETHUSDT.P 1,750.83 ▼ −0.34% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/20 19:35:41  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/20 19:35:41  [brave.exe] 這可能是台北最捨得給肉的牛肉麵，一般人真吃不了！ - YouTube - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->]
+  [LMB]
+
+--- WINDOW  2026/11/20 19:36:27  [brave.exe] YouTube - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/20 19:36:39  [brave.exe] (1) Facebook - Brave
+----------------------------------------------------------------------------
+  [LMB]
