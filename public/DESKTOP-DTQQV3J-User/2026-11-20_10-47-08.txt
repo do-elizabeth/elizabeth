@@ -1,0 +1,84 @@
+﻿  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  s
+
+--- WINDOW  2026/11/20 09:47:59  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/20 09:47:59  [ScreenClippingHost.exe] 螢幕剪取
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/20 09:48:00  [brave.exe] Facebook - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/20 09:48:02  [ShellExperienceHost.exe] 新通知
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/20 09:48:02  [ApplicationFrameHost.exe] 剪取與繪圖
+----------------------------------------------------------------------------
+  [Ctrl]c
+  [LMB]
+
+--- WINDOW  2026/11/20 09:48:03  [brave.exe] Facebook - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/20 09:48:05  [brave.exe] WOW 美版 設定 - Google 搜尋 - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/20 09:48:07  [brave.exe] google.com/search?sca_esv=0cd8034b3ee4f073&sxsrf=AKL5yDi99F-iRvB1TOECx-4EsRDslSVTpA:1795137740765&udm=2&fbs=ACAhTvyLl1FT72rIIRCGeP12ubyAG27ulvZo18nCw2HCHA6gzYyLR4ffp0QUqg73V8xltyg9ASsIUYX_UnQa1uhQbpjFMZdQQ11rxvOoDjfQ0twDDXI3Qfs37nr5KjRu4kTn6VxWrkWWxspdIaN-or-elkee_A1Z9UdjFpIWPfSiFe0WBp3ZAI8JQjDMauQB3rgqSmEKFXuN&q=WOW+美版+設定&sa=X&ved=2ahUKEwijq_GasZWYAxXBla8BHeofNxQQtKgLegQIKRAB&biw=2560&bih=1323&dpr=1 - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/20 09:48:08  [brave.exe] WOW 美版 設定 - Google 搜尋 - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Ctrl]v
+
+--- WINDOW  2026/11/20 09:48:19  [brave.exe] google.com/search?vsrid=CNWWgZGP-aPkpAEQAhgBIiQwMDVlNDgyZC0zOWM3LTRmYzAtOTUzMC1mNWQxYmZkN2RkYzUyggEiAnRwKHdCdAoubGZlLWR1bW15OmEzN2RiNWJmLTc0NmYtNGIwYy05MTg4LWU4MmYyMTEzM2QxZBJCCkAvYm5zL3RwL2JvcmcvdHAvYm5zL2xlbnMtZnJvbnRlbmQtYXBpL3Byb2QubGVucy1mcm9udGVuZC1hcGkvMjc1WgQKAnRwOMjFgYK3lZgD&vsint=CAIqDAoCCAcSAggKGAEgATojChYNAAAAPxUAAAA_HQAAgD8lAACAPzABENwCGNsBJQAAgD8&udm=26&lns_mode=un&source=lns.web.gsbubb&vsdim=348,219&gsessionid=s9c3si5rQzsUxQldIKGX_lhONE9KXnTtBdbpK2Viqiuge-BOUvnvsA&lsessionid=r4KCEFXL3ykTa78d
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/20 09:48:19  [brave.exe] Google 搜尋 - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/20 09:48:35  [brave.exe] $92.85 | ANT | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/20 09:48:36  [brave.exe] $92.84 | ANT | Vest Markets - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/20 09:48:43  [brave.exe] Facebook - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/20 09:48:44  [brave.exe] 下載 Battle.net | Battle.net - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/20 09:48:45  [brave.exe] Google One 方案 - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/20 09:48:46  [brave.exe] Battle.net 帳號 - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/20 09:48:53  [brave.exe] 【心得】還在觀望？給自己一個全新的體驗！魔獸美服2026入坑指南 @WOW 魔獸世界 哈啦板 - 巴哈姆特 - Brave
+----------------------------------------------------------------------------
+  [LMB]
