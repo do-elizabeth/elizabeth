@@ -1,0 +1,608 @@
+﻿  awwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwdasdadddddddddddddddddddddddddddddddddddddddddwwwwwwwwwwwwwwwwwwwwwdddddddddddddddddddddddddaaaaaaaaaaaaaaaaaaaaaaaaaaaaassssssssssssssssssssssssssssddddddddddddddddddddddddddddddwwwwwwwwwwaaaaaaaaaaaaaaaaaaadddddddssssssssssssssdsdddddddssssssssssssssssssssssssssssssssssssssssssssssssssaaaaaaaaaaaaaaaaaaaaawwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwdddddddddddddddddddddddddwwwwwwwwwwwwwwwwwwawsdddddddddddddddddddaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaawwwwwwwwwwwwwwwwwwwwwwwb
+  [LMB]
+  [LMB]
+  aaaaaaaaaaaaaaaaaaaaaaaaaaaawaaadsaawwwwwwwwwwwwwwwsssssssssssssssssssssssssddddddssssssssssssssssssssssssssssssdwddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddssssssssssssssssssdddddddddddddddddddddwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwawaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaassssssssssssssswwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwsssssssssssssssssssssssssssssssssssssssssssssssssssssssddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddwb
+  [LMB]
+  [LMB]
+  dwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwawaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaasssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssddddddddddddddddddddddddddddddddddddddddddddwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwasawdsaddwaaaaaassssdswwaaaaaaaaaaassssdddwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwawb
+  [LMB]
+  [LMB]
+  aaaaaaaaaaaaaaaassssssssssssssssssssssssssssssssssssssssdsdddddddddddwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwawaaaaaaaaaaaaaaaaaaawwwwssssssssssssssssssssssssssssssssddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaasssssssssssssssssssssssssssssssssssssssssssdddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwawaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaasssssssssssssssswwwdddssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssaaaaaaaaaaaaaaaaab
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  aaaaaaaaaaaaaaaaaaaawwwwwwwwwwwwwwaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaawwwwwwwwwwwwwwwwwwwwwwwwwadddddddddddddssssssssssssssssssssssssdsdddddddddddddddddddddddddddddddddddddddddddddddddddwwwwwwwwwwwwwwwwwwwdddddddddddddddddddddddddddsssssssssssssssssssssssssssssssssaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaawwwwwwwwwwwwwwwwwwwdddddddwwwwwwwwwwwwwwwwwwwwwwwwwawdddddddddddddddddddddddddddddddssssssssssasaawddddddddddddddddsaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaassssssssssssssaaaaaawwwwwwwwwwwwwwwwwwwwwwwwdddddddddddb
+  [LMB]
+  [LMB]
+  dddddddddddddddddddddddddddddddddddddddddddddddssssssssssssssssssssssssssssssssssssssasaaaaaaaaaaaaaaaaaawwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwdaddddddddddddddddddddddddddddddddwssssssssssssssssssssssssssssssssssssssasaadddddddddddadaaaaaaaaaaaaaaaaaaawwwwwwwwwwwwwssssssssssssssssssssssssssssssssssssssssssssssssdawwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwdwadssssssssssssssssssssssssssssssdswwwwwwwwwwwwwwwwwwwwwwdwb
+  [LMB]
+  [LMB]
+  [LMB]
+  aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaawsssssssssssssssssssssssssssssssssssssddddddddddddddddddddddddddddwwdwdddddddddddddddddddddddddddddaaaaaaaaaaaaaaaaaaasssssssssssssdddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwawaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaassssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssddddddddddddddddddddddddddwddddaaaaaaawwdwswaaaaaaaaaaaaaaaaaaaaaaaaasssssssssssssssssssssssssssdsdddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddsswsadwwwasssssssdwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwawaaaaaaaaaaaaaaaaab
+  [LMB]
+  [LMB]
+  aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaassssssssssssssssssssssssssssssssssdsdddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddwaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaawwwwwdwddddddddddddddddddddsssssssssssssssssssssssssssssssssssssssssss
+  [LMB]
+
+--- WINDOW  2026/11/20 15:53:14  [chrome.exe] ETHUSDT.P 1,753.67 ▼ −0.18% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/20 15:53:14  [chrome.exe] ETHUSDT.P 1,753.66 ▼ −0.18% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/20 15:53:14  [chrome.exe] ETHUSDT.P 1,753.67 ▼ −0.18% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/20 15:53:15  [chrome.exe] ETHUSDT.P 1,753.45 ▼ −0.19% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/20 15:53:15  [chrome.exe] ETHUSDT.P 1,753.39 ▼ −0.2% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/20 15:53:15  [chrome.exe] ETHUSDT.P 1,753.38 ▼ −0.2% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/20 15:53:16  [chrome.exe] SOLUSDT.P - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/20 15:53:16  [chrome.exe] SOLUSDT.P 72.73 ▼ −0.52% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/20 15:53:17  [chrome.exe] RO Survivors⁠‌​‌​‌‌​‌‌​​‌​​​‌‌​‌​‌​‌​‌​‌​‌‌‌​⁠ · Free Ragnarok Online–inspired survivors game in your browser - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  sdddddddddddddddddddwwwwwwwwwwwwwwwwwwwwwwwdddddddddddddddddssssssssssswaaaawwwwwwwwssssssssssssssssssssssssssssssdddddddddddddddddddddwwwwwwwwwwwwwwwwwwwwwwwwwwwwssssssswwwwwwwwwwwwwwwwwwwwawsssssssssssssssdswwwwwwwwwwwawaaaaaaaaaaaaadassdawwwwwwwsssssssssdddddb
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  asssssssssssssssssssssssssssssssssssssdsdddddddddddddddddddddddddddddddddddddddddddddddddddddswwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwaaaaaaaasdwwwawaab
+  [LMB]
+  ww
+  [LMB]
+  awwwwwwwwwww
+  [LMB]
+  awsddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddwwwwwwwwwwwwwwwwawaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaassssdddddddddddddddddwwwwwwwwwwwwwwwwwwwadsadwaaasssssssssssssssssssssssssssssssssssssssssssdsdddddddddddddddddddddddddwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwaaaaaaaaaaaaaaaaaaaaaaaassssssssssssssssssssssssssssssssssssssssssssssssssssssssdsdddddddddddddddddddddddddddddddddwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwdwaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaawssssssssdddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddsssssswwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwawaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaasssssssssssssssssssssssssssssssssssssssssssssssssdddddddddddwwwwwwwwwwwwwwwwwwwwwwwasssssssssssssssssssssb
+  [LMB]
+  [LMB]
+  ddddddwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwawsdddddddddddddddddddddddddddddddddddddwwwwwwwwwwwwwwwwwwwwwwwwaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaassssssssssssdwwwaaaaaaaaaaaaaaaaaaaaaaaaaaassssssssssssssssssssssssssssssssdddddddddddddddddddddddddddddddddddddddddddddddwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwawsssssssssssssssssssssssssssssssssaddddddddddddddddddddddddddddddddddddddddddddddddddddwwwwwwwwwwwwwaaaaaaaaaaawwwb
+  [LMB]
+  awwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwssssssssssssssssssssssssssssssdsdddddddddddddddddddddddddddddddddddddwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwaaaaaaaaaaaaaaaaaaassssssssssssssssssssssssdsdddddddddddadddddddddddddddddddddddddwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwawssssssssssswwwwwdwddddassssssssssssssssssssssssssssssssssssssssddddddddddddddddddddddddddddddddddwwwwwwwwwwwwwwwwwwawaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaawwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwdwsaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaadddddwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwaaaaaassssddddddddddddddddddddddddddddddddddddddddddddwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwawssssssssssssssssssssssssssssssssssssssssssssssssssswwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddssssssssssssssssssssssdsddddddddddddddddddddddddddddddddddddddddddwadddddddddddssssssssssssssssssasaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaawwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwdwddddddddddddddddddddddddddddddssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssasaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaawdaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaasssssssssssssssssssssssssssssssssssssssssssssb
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  dwaaaaaaaaawwwwwwddddddddddddddddddddddddddddddddddddddddddddssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssasaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaawwwwwwwwwwwwwwwwwwddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddssssssssssssssssssssssssssssssssssssssssssssssssssssssssssaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaawwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwddddddddddddddddddddddddddddddddddddddddssssssssssssssssssssssssssssssssssaaaaaaaaaaaaaaaaaaaaaaaaaawwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwdwdddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddsssssssssssssssssssssssssssssssssssssssssssasaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaawwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwaaab
+  [LMB]
+  wddddddddddddddddddsssssssssssssssssssssssssasaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddwwwwwwwwwb
+  [LMB]
+  [LMB]
+  wwwwwdwaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaassssssssssssssssssssssssssdsdddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwddddddddddddddssssssssssssssssssssssssssssssssssssssssssssssasaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaawwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwawaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaassssssssssssssssssssssssssssssssssssssssssssssssdsddddddddddddddddddddddddddddddddddddwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwdddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddsssssssssssssssssssssssssssssssssssssssssssssssssasaaaaaaddddddddddswwwwwwwwwwwwaddddddsssssssssssssssaaaaaaaaaaaaaaaaaaaaaawwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwaaaaaaaaaaaaaaaaaaaaaaaaaab
+  [LMB]
+  [LMB]
+  [LMB]
+  dddddddddddddwwwwwwwwwwwwwwwwwwww [Esc]saaaaaaaaaaassssss s
+  [LMB]
+  [LMB]
+  d
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/20 16:01:10  [chrome.exe] SOLUSDT.P 72.61 ▼ −0.68% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/20 16:01:10  [chrome.exe] SOLUSDT.P 72.60 ▼ −0.7% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/20 16:01:11  [chrome.exe] RO Survivors⁠‌​‌​‌‌​‌‌​​‌​​​‌‌​‌​‌​‌​‌​‌​‌‌‌​⁠ · Free Ragnarok Online–inspired survivors game in your browser - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  saaaa
+  [LMB]
+  dddddddaaaaaaaaaaaaswwwwwwwdddddwwwwsswwwwwawsssssssssssssssssssasaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaawsdddddddddddddddddddddddddddddddddddddddddddwwwwwwwwwwwwwwwwwdwssssssssssssssasaaaaaaaaaaaaaaaaaaaaaaaaaaawwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwsdddddddddddddddddddddddsssssswaaaaasssssssssssddddddddddddddddddddddddddddddddddddddddddddddsaaaaaaaaaaaaaawwwwwwwwwwwwwdwsssssswb
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  d
+  [LMB]
+  wd
+  [LMB]
+  wdassssssssssssssssdswwwwwwwwwwdaawwwwwwwwwwwwwsssssssssssssssssssaaaaaadwsssssssssssssssssssdddwwwwsssssssssssssssssssssswwwwwwwwwwwwwawaaaaaaaaaaaaaaaassssssssssswdddddddddb
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  wwwwwwww
+  [LMB]
+  wd
+  [LMB]
+  [LMB]
+  wddddddddssssssssssaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaawwwwwwwwaab
+  [LMB]
+  awwwwwwwww
+  [LMB]
+  aaaaaaaaaaaaaaaaaaaaaaa
+  [LMB]
+  aaaaaaaaaaaaaaaawwwwwwwwwwwwwwwwwwwwwwwddddddddddddddddwsaddddddddwwwwwwwwwwwwwwwwwwwwwwaaaaaaassssssssssssswwwwwwwwwwwwwwwwwwwwwwwwwsssssssssddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddsssswwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwb
+  [LMB]
+  [LMB]
+  [LMB]
+  awwwwwwwwwwwwwww
+  [LMB]
+  wwwwwwwwwwwwwww
+  [LMB]
+  wdaaaaaaaaaaaaaaaaaaaaaaaaaaaaaassssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssddwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwaaaaaaaaaaaaaadddddddddddddddaaaaaaaddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddsssssssssssssssssdddaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaawwwwwwwwwwwwwwwwwwwwwwwwwwwwdsaasssssssssssssssssssssssssssssdsddddddddddddddddddddddddssssssssssssswwwwwwwwwwwwdwdddddddddddwaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaassssssssb
+  [LMB]
+  waa
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  w
+  [LMB]
+  [LMB]
+  [LMB]
+  wwwwwwwwwdwdddddddddddddddddddddddddddddddddddddddddddddddssssssssssssssssssssssssssssssssssssssssdsdaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaasssssb
+  [LMB]
+  [LMB]
+  [LMB]
+  aaaaaaaaaaaa
+  [LMB]
+  [LMB]
+  [LMB]
+  asssssdswsaaaaaddddddddddddddddddwwwwwwwwwdaaaaaawwwwwwwwwwwwwwwwab
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  w
+  [LMB]
+  waaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaassssssssssssssssssssssssssssssssssssssssdddddddddddddddddddddddddddddddddddddddddwwwwwwwwwwwwwwwwwwwwwwwwwwwwddddddddddddddddssssssssssssssssssssssssssssssssssssssssasaaaaaaaawwwwwwwwwwwwwwwwwwwwwwwwwwwwwb
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  wwaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaddddddddddddwwssssssssssssssssssaaaaaaaaaaaaaaaaaasssdddddddddddddddddddddddddddwwwaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaadsddddddddddddddddddddwwwwwwwwwwwwwwbw
+  [LMB]
+  [LMB]
+  wd
+  [LMB]
+  dwwwwwwwwwwwwwwwwwwwwdddddddddaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaassssssssssssssssssssssssssssssssssssssssssssssssssdssssssssssswwwwwwawaaaaawsssssssssssssawwwwwwwwwwwwwwwwwwwwwwwwaaaaaaaaaaaaaaaaaaaaasssssssddaaaaaaaaaaaaaaaaaaaddddddddddddddddswadssssssssssssssssssssssssssssssssab
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  awwwwwwwwwwwwwwwwwwwwwwadddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssadaaaaaaaaaaawwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwdddddddddddddddddddddddddddddddddddddddddddddwsssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssdsdasddddddwwwwwwwwwwwwwwwwwwwwwwwwawwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwsddaaaaawwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwawddddddddddddddddddddwwwwwwwwwwwwwwwwwwwwwwwwwwwb
+  [LMB]
+  wdd
+  [LMB]
+  dw
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  ddsssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssasaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaasssssssssssssssssssssssasaaaaawdddddddddddddddddddddddddddddddddddddaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaadwasdb
+  [LMB]
+  wddddddd
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  dwadwwwwwsaaaaaaaaaaaaaaaaaaaaawdddddssssawwwwadsssssssssssb
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  sdaaaaaaaaaaaaaaaaaaaaaaaaaaaawwwwwwwwwwwwwwwdwadddddddddddddssssssssssssasaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaawwwwwwwwwddddddddddddddddddddddddddddddddddddddwwwaaaaassssssssssssssdsdddddddddddddddwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwawaaaaaaab
+  [LMB]
+  [LMB]
+  aaaaaaaaaaaaaaaa
+  [LMB]
+  awwwwwwwwwwwwwwwwwwww
+  [LMB]
+  awwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+  [LMB]
+  wwwwwwwwwasssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssddddddddddddwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwdasssssssssssssssssssssssdsddddddddddddddddddddddddddddddddddddddddddddddwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwawaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaassssssssssssssssssssdsdddddddddddwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwab
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  waasssssssssdsddddddddddddddddddddddddddddddddddaaaaaaaaaaawwwwwwwwwwwwwwwwwdwddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddssssssssssssssssssssssssssssssasaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaawwwwwwwwwwwwwwwddddddddddddddddddddddddssssssssssssssssssssaaaaaaaaaaaaaaaaaaaaawwwsssssssssssssssssssssssssddddddddddddddddddddddddddddddwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwaaawsdb
+  [LMB]
+  [LMB]
+  [LMB]
+  dwaaaaaaaaaaaaaaaaaaasssssssssssssdswsssssssssswaaaaaaaaaaaasb
+  [LMB]
+  [LMB]
+  [LMB]
+  asddddddddddddddddddddddddddddddddddddddddddddwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwaaaaaaaaaaaaaaaaaaaaaaaaaaaaassssssssssssssssssssssssssssssssssssssssssssssssssssdsdddddddddddddddddddddddddddddddddddddddddddddwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwawaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaasssssssssssssssssssssssssssssddddddddddddddddddddddddddddddddddwwwwwwwwwwwwwab
+  [LMB]
+  [LMB]
+  aww
+  [LMB]
+  wwwwwwwwwwwwwwawdassssssssssssssssssssssssssssssssssssssssssdddddddddddddddddddddddddddddddddddddddddddddwwwwwwwaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaasssssssssssssssssssssssssssssssssssssssssssssssdsdddwwwwwwwwwwwwwwwwdab
+  [LMB]
+  wdddddddddddddddddd
+  [LMB]
+  wdddddddddddddddddd
+  [LMB]
+  dddddddddddwwwwwwwwwwwwaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaadasdddddwb
+  [LMB]
+  [LMB]
+  [LMB]
+  ssasaaaaaaasssssssssssssssssssssssssssssssssssssssaaawwwwwwwwwwwwdddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddssssssssssssssssssssssssssssssssssaaaaaaaaaaaaaaaaaaaaaaawwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwasssssssssssssbs
+  [LMB]
+  ssssssdsddddddddddddddddddddddddddddddddddddddddddddddddwwwwwwwwwwwwwaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaassssssssssssssssssssssssssssssssssssssssssssssssssssssssssddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddwwwwwwwwddb
+  [LMB]
+  wwwwwwwwwwwwaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaassssssssssssssssssssssssssdsdddddddddddddddddwwwwwwwwwwwwwb
+  [LMB]
+  ddd
+  [LMB]
+  dddddddddddddddddddddddddwwwwwwwwwwwwwwwwwwwwwwdwaaab
+  [LMB]
+  aaaaaaaaaawwwwwwwwwwww
+  [LMB]
+  waaaaaaaaaaaaaaaaaasssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssdsssssssssssssssssssssssssssssssssssssswwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwdddddddddddddasssssssssssssssssdsb
+  [LMB]
+  ddddddddddddddddddddddddddwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwawaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaassssssssssssssssssssssssswwwwwwwwasb
+  [LMB]
+  ssssssssss
+  [LMB]
+  sssssssssssssddddddddddddddddddddddddddddddddddwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwawaaaaaaaaaaaaaaaaaaaaaaaaawsssssssssssssssssssssssssssssssssssssssasaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaadddddddddddddddddddddddddddddddddddddddwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaasb
+  [LMB]
+  ass
+  [LMB]
+  [LMB]
+  [LMB]
+  asssdddddddddddddddddddddddddddddddddddddwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwaawwsb
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  wwwwwwwwwwwwwawaaaaaaaaaaaaaaaaaassssssssssssssssssssddddddddddddddddddddddddddddddssssswwwwwwwwwwwsaaaaaaaaaawwadddddssasaaaaaaaaaaaaaaaaab
+  [LMB]
+  [LMB]
+  s
+  [LMB]
+  ssssssssssssssssssssssssssdsddddddddddddddwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaasssssssssssssssssssssssssssssssssssssssssddddddwwwwwwwwwddddddddddddddddaassssssssssssssbs
+  [LMB]
+  ssss
+  [LMB]
+  sssssssss
+  [LMB]
+  sssssssssssssssddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaassssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssddddddddddddddddddwwwwwwwwwwwwwwwwwwwwddddddddddddaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaassssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssdsdddddddddddddddddddddddddddddddddddddddddwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaasssssssssssssssssssssssdsdddddddddddddddddddddddddddddddddddddddddddddddddwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwasdddwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwawaaaaaaaaaaaasab
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  sdwwwwwwwwwwwwwwwwwwwwwwawaaaaaaaaaaaaaaaaaaaassssssssssssssssssssssssssssssssssssssssssssssssssssssssdsddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddwswwwwwwwwwwwwwwwwwwwwwwwwwwwwaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaasddddddddddddddddaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaadwwwwwwwwwwwwwwaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaadddddddddddddddddddddddddssssssssssssssssssssssssssssssssssssssssssssaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaawwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaawwwwwwwwwwdab
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  dwsssssssssssssssssaaaaawwwwaaaaaaaadddddddddddddddddddssssssssssssssssssssssssssssssssssssaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaawwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwddddddddddddddddddddddddsssssssssaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaawddddddddddddddddddddddddwb
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  dssssssssssssssssssssasaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaawwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwddsdaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaawwwwwwwwwwwwwwwwwwwwwwwwwwwwwwddddddddddddddddddddddddddddddddddddddddddddddddddssssssssaaaaaaaaaaaab
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  sasaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaawwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwdwdddddddddddddswwwwwwwwwwwwwawddddddddddddddddddddssssssssssssssssssssssssssssaaaaaaaaaaaaaaaaaaaaaaaawwwwwwwwwb
+  [LMB]
+  wwwwwwwwwwwwwwwwwwwwwwwaddddddddddddddddddddddddddddssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssasaaaaaaaaaaaaaaaaaaaaaaaaaaaaawwwwwwwwwwwwwwb
+  [LMB]
+  wwwwawaaaaaaaaaaaadssssssssssssssssawb
+  [LMB]
+  wwwwwwaaaaaaaaaaadddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddsssssssssssssssssssssssssssdsdddaaaawwwwwwwwwwwwwwwwwwwwsswdddddddddddddddddddddddddddddddddddddddddsssssb
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  wawsssssssssssssssssssssssssssddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwdwssssssssssssssssssssssaaaaaaaaaaaaaaaaaaaaaaaaadwssssssasaaaasssswwwwwdwddddddddddddddddddddddddddddddddddddddddddddddwwwwwwwwwwwwwaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaswdb
+  [LMB]
+  [LMB]
+  [LMB]
+  dsaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaawsssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd[Esc]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc]
+  [LMB]
+  [Esc][Esc]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  sdwaaaaaaawwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwdsadwssssssssssssssssssssssssssssssssssssssssawdsawdsadwasdwasdwadswasdwasdawdswaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaadsb
+  [LMB]
+  [LMB]
+  [LMB]
+  sddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddwwww
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [Esc][Esc][Esc]
+  [LMB]
+  [Esc][Esc][Esc]
+  [LMB]
+  [Esc][Esc][Esc]
+  [LMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/20 16:25:56  [chrome.exe] 新分頁 - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/20 16:25:57  [chrome.exe] SOLUSDT.P 72.60 ▼ −0.7% 未命名 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/20 16:26:00  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/20 16:26:01  [brave.exe] (2) Facebook - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/20 16:26:02  [brave.exe] (1) Facebook - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/20 16:26:31  [brave.exe] $135.53 | SPCX | Vest Markets - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/20 16:26:32  [brave.exe] $135.51 | SPCX | Vest Markets - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/20 16:26:35  [brave.exe] $72.577 | SOL | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/20 16:26:36  [brave.exe] $72.568 | SOL | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/20 16:26:37  [brave.exe] $72.569 | SOL | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/20 16:26:38  [brave.exe] $72.572 | SOL | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/20 16:26:39  [brave.exe] $72.574 | SOL | Vest Markets - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/20 16:26:40  [brave.exe] $72.569 | SOL | Vest Markets - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/20 16:26:41  [brave.exe] $72.570 | SOL | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/20 16:26:42  [brave.exe] $72.567 | SOL | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/20 16:26:43  [brave.exe] $72.574 | SOL | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/20 16:26:45  [brave.exe] $72.575 | SOL | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/20 16:26:46  [brave.exe] $72.592 | SOL | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/20 16:26:48  [brave.exe] $72.595 | SOL | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/20 16:26:49  [brave.exe] $72.603 | SOL | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/20 16:26:50  [brave.exe] $72.602 | SOL | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/20 16:26:52  [brave.exe] $72.613 | SOL | Vest Markets - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/20 16:26:53  [brave.exe] $72.616 | SOL | Vest Markets - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/20 16:26:54  [brave.exe] $72.624 | SOL | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/20 16:26:55  [brave.exe] $72.625 | SOL | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/20 16:26:56  [brave.exe] $72.632 | SOL | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/20 16:26:57  [brave.exe] $72.634 | SOL | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/20 16:26:58  [brave.exe] $72.635 | SOL | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/20 16:26:59  [brave.exe] $72.629 | SOL | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/20 16:27:00  [brave.exe] $72.608 | SOL | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/20 16:27:01  [brave.exe] $72.599 | SOL | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/20 16:27:02  [brave.exe] $72.588 | SOL | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/20 16:27:03  [brave.exe] $72.587 | SOL | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/20 16:27:04  [brave.exe] $72.579 | SOL | Vest Markets - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/20 16:27:05  [brave.exe] $72.591 | SOL | Vest Markets - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/20 16:27:06  [brave.exe] $72.589 | SOL | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/20 16:27:07  [brave.exe] $72.591 | SOL | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/20 16:27:08  [brave.exe] $72.611 | SOL | Vest Markets - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/20 16:27:09  [brave.exe] $72.607 | SOL | Vest Markets - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/20 16:27:10  [brave.exe] [Completed] 拆股/合股 for SNDK is complete - south830325@gmail.com - Gmail - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/20 16:27:11  [brave.exe] 收件匣 (25,070) - south830325@gmail.com - Gmail - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/20 16:27:16  [brave.exe] Stop-Loss Executed - south830325@gmail.com - Gmail - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/20 16:27:18  [brave.exe] 收件匣 (25,068) - south830325@gmail.com - Gmail - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/20 16:27:18  [brave.exe] 您的 Battle.net 遊戲時間 - 1 個月訂購方案 - south830325@gmail.com - Gmail - Brave
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/20 16:27:29  [brave.exe] YouTube - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [RMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/20 16:27:48  [brave.exe] 废品站 125 淘到 A4000！网传吊打 3090？到底血赚还是翻车？ - YouTube - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/20 16:27:50  [brave.exe] (2) 废品站 125 淘到 A4000！网传吊打 3090？到底血赚还是翻车？ - YouTube - Brave
+----------------------------------------------------------------------------
+  [->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->]
+  [LMB]
+  [LMB]
+  [LMB]
+  [->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/20 16:33:56  [brave.exe] (2) xAI 一開始就蓋歪了：馬斯克承認整套 AI 軟體重寫，說每月新增 0.5 GW 算力 - YouTube - Brave
+----------------------------------------------------------------------------
+  [->][->][->][->][->]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/20 16:36:04  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/20 16:36:04  [Discord.exe] 任務 - Discord
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/20 16:36:05  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/20 16:36:05  [brave.exe] (2) xAI 一開始就蓋歪了：馬斯克承認整套 AI 軟體重寫，說每月新增 0.5 GW 算力 - YouTube - Brave
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/20 16:36:06  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/20 16:36:06  [Discord.exe] 任務 - Discord
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/20 16:36:07  [Discord.exe] #🤝丨表哥dog每日交易分享 | 交易表哥Trading Brother Prop Frim - Discord
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/20 16:36:08  [Discord.exe] #💰．支付方式 | JK羅賓漢 / CS2造型市集 - Discord
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/20 16:36:09  [Discord.exe] #課程表📔 | 笨錢社群 - Discord
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/20 16:36:10  [Discord.exe] #💰．支付方式 | JK羅賓漢 / CS2造型市集 - Discord
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/20 16:36:12  [brave.exe] (2) xAI 一開始就蓋歪了：馬斯克承認整套 AI 軟體重寫，說每月新增 0.5 GW 算力 - YouTube - Brave
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [->][->][->][<-][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->][->]
+  [LMB]
+  [->]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
