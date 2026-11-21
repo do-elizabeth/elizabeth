@@ -1,0 +1,323 @@
+﻿
+--- WINDOW  2026/11/20 22:13:35  [StartMenuExperienceHost.exe] Start
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/20 22:13:47  (no active window)
+----------------------------------------------------------------------------
+
+================================================================================
+ SESSION START  2026/11/21 02:56:10
+================================================================================
+
+
+--- WINDOW  2026/11/21 02:56:10  [explorer.exe] (untitled)
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [RMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/21 02:57:00  [powershell.exe] C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/21 02:57:02  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/21 02:57:02  [explorer.exe] (untitled)
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/21 02:57:22  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/21 02:57:22  [explorer.exe] (untitled)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/21 02:57:57  [explorer.exe] Program Manager
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/21 02:58:03  [chrome.exe] Telegram - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/21 02:58:33  [chrome.exe] (untitled)
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/21 02:58:45  [chrome.exe] (2951) Discord | #💬︱chat | THE ₿IRB NEST® - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/21 02:58:46  [chrome.exe] Telegram Web - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/21 02:59:22  [chrome.exe] Discord - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/21 03:00:03  [chrome.exe] Telegram Web - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/21 03:01:06  [ShellExperienceHost.exe] New notification
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/21 03:01:06  [chrome.exe] Telegram Web - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/21 03:02:33  [explorer.exe] (untitled)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/21 03:02:33  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/21 03:02:33  [ShellExperienceHost.exe] Network Connections
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/21 03:02:34  [explorer.exe] (untitled)
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/21 03:02:35  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/21 03:02:35  [ShellExperienceHost.exe] Network Connections
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/21 03:02:55  [chrome.exe] Telegram Web - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/21 03:05:32  [chrome.exe] (untitled)
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/21 03:05:39  [chrome.exe] Restore pages?
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/21 03:05:41  [chrome.exe] New Tab - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/21 03:05:41  [chrome.exe] (untitled)
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/21 03:05:43  [chrome.exe] New Tab - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/21 03:06:12  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/21 03:06:12  [explorer.exe] (untitled)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/21 03:06:12  [chrome.exe] Telegram Web - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/21 03:06:20  [chrome.exe] New Tab - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  tleplu
+  [LMB]
+
+--- WINDOW  2026/11/21 03:06:35  [chrome.exe] teleplus pro - Google Search - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/21 03:07:12  [chrome.exe] chromewebstore.google.com/detail/teleplus-multi-accounts-s/ihopneheidomphlibjllfheciogojmbk?pli=1 - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/21 03:07:13  [chrome.exe] TelePlus - Multi-Accounts Sender - Chrome Web Store - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/21 03:09:21  [chrome.exe] (untitled)
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/21 03:09:24  [chrome.exe] TelePlus - Multi-Accounts Sender - Chrome Web Store - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/21 03:11:09  [explorer.exe] (untitled)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/21 03:11:09  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/21 03:11:09  [ShellExperienceHost.exe] Network Connections
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/21 03:11:20  [chrome.exe] TelePlus - Multi-Accounts Sender - Chrome Web Store - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/21 03:11:29  [explorer.exe] (untitled)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/21 03:11:29  (no active window)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/21 03:11:29  [ShellExperienceHost.exe] Network Connections
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/21 03:11:32  [chrome.exe] TelePlus - Multi-Accounts Sender - Chrome Web Store - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/21 03:11:55  [chrome.exe] (untitled)
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/21 03:11:59  [chrome.exe] TelePlus - Multi-Accounts Sender - Chrome Web Store - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/21 03:12:22  [chrome.exe] TelePlus - Multi-Accounts Sender has been added to Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/21 03:12:23  [chrome.exe] Untitled - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/21 03:12:23  [chrome.exe] tg-multi-sender - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/21 03:12:50  [chrome.exe] Extensions
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/21 03:12:53  [chrome.exe] tg-multi-sender - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/21 03:12:55  [chrome.exe] (untitled)
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/21 03:12:57  [chrome.exe] Telegram Web - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/21 03:13:03  [chrome.exe] (untitled)
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  ]07614150755555[Bk][Bk][Bk][Bk][Bk]
+  [LMB]
+   
+  [LMB]
+  [LMB]
+  [Bk][Bk]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/21 03:15:22  [chrome.exe] 1 notification - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/21 03:15:22  [chrome.exe] (untitled)
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/21 03:15:28  [chrome.exe] Telegram Web - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/21 03:16:10  [chrome.exe] Restore pages?
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/21 03:16:10  [chrome.exe] Telegram Web - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  99[Bk]031286089
+  [LMB]
+
+--- WINDOW  2026/11/21 03:24:08  [explorer.exe] (untitled)
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/21 03:24:09  [ShellExperienceHost.exe] Network Connections
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/21 03:24:51  [chrome.exe] Telegram Web - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [RMB]
+
+--- WINDOW  2026/11/21 03:25:37  [chrome.exe] web.telegram.org - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/21 03:25:47  [powershell.exe] C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/21 03:26:14  [chrome.exe] web.telegram.org - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/21 03:26:35  [chrome.exe] New Tab - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+
+--- WINDOW  2026/11/21 03:26:38  [chrome.exe] web.telegram.org - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/21 03:26:46  [chrome.exe] New Tab - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  te
+  [LMB]
+
+--- WINDOW  2026/11/21 03:27:01  [chrome.exe] www.google.com - Google Chrome
+----------------------------------------------------------------------------
+  [LMB]
+  '=='='[Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl]';
+  [LMB]
+
+--- WINDOW  2026/11/21 03:55:47  [powershell.exe] C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/21 03:56:21  [chrome.exe] www.google.com - Google Chrome
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/21 03:59:11  [chrome.exe] telegram web - Google Search - Google Chrome
+----------------------------------------------------------------------------
