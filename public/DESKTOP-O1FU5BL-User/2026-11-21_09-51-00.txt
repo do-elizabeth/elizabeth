@@ -1,0 +1,48 @@
+﻿
+--- WINDOW  2026/11/21 08:51:01  [WindowsTerminal.exe] Terminal
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/21 08:51:01  [WindowsTerminal.exe] C:\WINDOWS\System32\WindowsPowerShell\v1.0\powershell.exe
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/21 08:51:01  [Discord.exe] Phòng dạy học | ICT Trader - Discord
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/21 08:59:08  [WindowsTerminal.exe] Windows Terminal
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/21 08:59:08  [WindowsTerminal.exe] Terminal
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/21 08:59:08  [WindowsTerminal.exe] C:\WINDOWS\System32\WindowsPowerShell\v1.0\powershell.exe
+----------------------------------------------------------------------------
+
+--- WINDOW  2026/11/21 08:59:09  [Discord.exe] Phòng dạy học | ICT Trader - Discord
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/21 09:07:02  [explorer.exe] (untitled)
+----------------------------------------------------------------------------
+  [LMB]
+
+--- WINDOW  2026/11/21 09:07:05  [Discord.exe] Phòng dạy học | ICT Trader - Discord
+----------------------------------------------------------------------------
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
+  [LMB]
